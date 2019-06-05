@@ -1803,7 +1803,7 @@ http://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Seal_of_Collier_County%2C_Florida.png" tvg-name="PATV FL Collier County (US) (Tiz)"  group-title="Local",PATV FL Collier County (US) (Tiz)
 http://granicusliveus4-a.akamaihd.net/collier/G0056_003/chunklist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://myescambia.com/favicon.png" tvg-name="PATV FL Escambia County TV (US) (Tiz)"  group-title="USA",PATV FL Escambia County TV (US) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://myescambia.com/favicon.png" tvg-name="PATV FL Escambia County TV (US) (Tiz)"  group-title="Local",PATV FL Escambia County TV (US) (Tiz)
 http://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/chunklist_w1496843195.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PATV FL Key TV Opt-2 (US) (Tiz)"  group-title="Local",PATV FL Key TV Opt-2 (US) (Tiz)
@@ -1821,7 +1821,7 @@ http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PATV FL Seminole Government TV (US) (Tiz)"  group-title="Local",PATV FL Seminole Government TV (US) (Tiz)
 http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/6eqbl0.jpg" tvg-name="PATV GA Atlanta Channel (US) (Tiz)"  group-title="Mixed",PATV GA Atlanta Channel (US) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/6eqbl0.jpg" tvg-name="PATV GA Atlanta Channel (US) (Tiz)"  group-title="Local",PATV GA Atlanta Channel (US) (Tiz)
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PATV GA Atlanta Channel Opt-1 (US) (Tiz)"  group-title="Local",PATV GA Atlanta Channel Opt-1 (US) (Tiz)
@@ -1845,10 +1845,10 @@ http://granicusliveus12-a.akamaihd.net/olelo/G0125_009/chunklist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PATV HI Olelo 53 (US) (Tiz)"  group-title="Local",PATV HI Olelo 53 (US) (Tiz)
 http://granicusliveus12-a.akamaihd.net/olelo/G0125_011/chunklist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2i7tqb5.jpg" tvg-name="PATV HI Olelo 54 (US) (Tiz)"  group-title="USA",PATV HI Olelo 54 (US) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2i7tqb5.jpg" tvg-name="PATV HI Olelo 54 (US) (Tiz)"  group-title="Local",PATV HI Olelo 54 (US) (Tiz)
 http://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2i7tqb5.jpg" tvg-name="PATV HI Olelo 55 (US) (Tiz)"  group-title="USA",PATV HI Olelo 55 (US) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2i7tqb5.jpg" tvg-name="PATV HI Olelo 55 (US) (Tiz)"  group-title="Local",PATV HI Olelo 55 (US) (Tiz)
 http://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PATV IL Champaign Gov TV (US) (Tiz)"  group-title="Local",PATV IL Champaign Gov TV (US) (Tiz)
