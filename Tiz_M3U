@@ -2017,25 +2017,25 @@ http://qvclvp2.mmdlive.lldns.net/qvclvp2/4bc0e8c660c94c00afcdae21479e2b95/manife
 http://203.213.16.202:9981/stream/channelid/118481239?ticket=474A27182DBEC18FCA15337E0F215FFAC94FBE09&profile=matroska
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/2eajlee.jpg" tvg-name="Radio 092.9 KBEZ Tulsa OK (Tiz)"  group-title="Radio",Radio 092.9 KBEZ Tulsa OK (Tiz)
-https://prod-54-82-27-224.wostreaming.net/griffin-kbezfmaac-ibc1
+http://prod-54-82-27-224.wostreaming.net/griffin-kbezfmaac-ibc1
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/2vbn9dl.jpg" tvg-name="Radio 093.7 KISR Fort Smith AR (Tiz)"  group-title="Radio",Radio 093.7 KISR Fort Smith AR (Tiz)
 http://ice41.securenetsystems.net/KISR
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/10o1czm.png" tvg-name="Radio 094.1 K231BS Fort Smith AR (Tiz)"  group-title="Radio",Radio 094.1 K231BS Fort Smith AR (Tiz)
-https://ice42.securenetsystems.net/KISRHD2
+http://ice42.securenetsystems.net/KISRHD2
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/246kvp3.jpg" tvg-name="Radio 094.5 KFPW Fort Smith AR (Tiz)"  group-title="Radio",Radio 094.5 KFPW Fort Smith AR (Tiz)
-https://ice41.securenetsystems.net/KFPW
+http://ice41.securenetsystems.net/KFPW
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/2nbr6t2.jpg" tvg-name="Radio 095.9 KKBD Fort Smith AR (Tiz)"  group-title="Radio",Radio 095.9 KKBD Fort Smith AR (Tiz)
-https://c10.prod.playlists.ihrhls.com/113/playlist.m3u8
+http://c10.prod.playlists.ihrhls.com/113/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/dqq004.jpg" tvg-name="Radio 097.1 KIBB Wichita KS (Tiz)"  group-title="Radio",Radio 097.1 KIBB Wichita KS (Tiz)
 http://162.244.80.222:9730/;
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/2jdj7lt.png" tvg-name="Radio 097.5 KMOD Tulsa OK (Tiz)"  group-title="Radio",Radio 097.5 KMOD Tulsa OK (Tiz)
-https://c4.prod.playlists.ihrhls.com/1929/playlist.m3u8
+http://c4.prod.playlists.ihrhls.com/1929/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/x4nrd4.jpg" tvg-name="Radio 097.9 KZBB Fort Smith AR (Tiz)"  group-title="Radio",Radio 097.9 KZBB Fort Smith AR (Tiz)
 http://c5icyelb.prod.playlists.ihrhls.com/117_icy
@@ -2044,25 +2044,25 @@ http://c5icyelb.prod.playlists.ihrhls.com/117_icy
 http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/9r7v9u.png" tvg-name="Radio 100.5 KATT OKC OK (Tiz)"  group-title="Radio",Radio 100.5 KATT OKC OK (Tiz)
-https://15363.live.streamtheworld.com/KATTFMAAC_SC
+http://15363.live.streamtheworld.com/KATTFMAAC_SC
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/1or5lc.jpg" tvg-name="Radio 102.7 KBBQ Fort Smith AR (Tiz)"  group-title="Radio",Radio 102.7 KBBQ Fort Smith AR (Tiz)
-https://14943.live.streamtheworld.com/KBBQFMAAC_SC
+http://14943.live.streamtheworld.com/KBBQFMAAC_SC
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/28u3cow.jpg" tvg-name="Radio 104.5 KMYZ Tulsa OK (Tiz)"  group-title="Radio",Radio 104.5 KMYZ Tulsa OK (Tiz)
-https://ice8.securenetsystems.net/KMYZ
+http://ice8.securenetsystems.net/KMYZ
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/rur18l.jpg" tvg-name="Radio 106.7 WLTW NY NY (Tiz)"  group-title="Radio",Radio 106.7 WLTW NY NY (Tiz)
 http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/9a7b5k.jpg" tvg-name="Radio 106.9 KHTT Tulsa OK (Tiz)"  group-title="Radio",Radio 106.9 KHTT Tulsa OK (Tiz)
-https://prod-54-82-27-224.wostreaming.net/griffin-khttfmaac-ibc1
+http://prod-54-82-27-224.wostreaming.net/griffin-khttfmaac-ibc1
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/r7vc06.png" tvg-name="Radio 107.1 K296GB Sacramento CA (US) (Tiz)"  group-title="Radio",Radio 107.1 K296GB Sacramento CA (US) (Tiz)
 http://c9.prod.playlists.ihrhls.com/4242/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/fp155.png" tvg-name="Radio 107.9 KBPI Fort Collins CO (Tiz)"  group-title="Radio",Radio 107.9 KBPI Fort Collins CO (Tiz)
-https://c10.prod.playlists.ihrhls.com/373/playlist.m3u8
+http://c10.prod.playlists.ihrhls.com/373/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/25u4net.png" tvg-name="Radio ABC Canberra (AU) (Tiz)"  group-title="Radio",Radio ABC Canberra (AU) (Tiz)
 http://abcradiolivehls-lh.akamaihd.net/i/localcanberra_1@327263/master.m3u8
@@ -2092,7 +2092,7 @@ http://liveradiocanada.cbc.ca/i/CBCR2_TOR@382863/master.m3u8
 http://s10.voscast.com:8502/;stream.mp3
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/34zj4eq.jpg" tvg-name="Radio Fox News (US) (Tiz)"  group-title="Radio",Radio Fox News (US) (Tiz)
-https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/2cr0x13.png" tvg-name="Radio HHRN Horror and Halloween (Tiz)"  group-title="Radio",Radio HHRN Horror and Halloween (Tiz)
 http://s2.voscast.com:11034/;stream.mp3
