@@ -1842,7 +1842,7 @@ https://akaku.vod.castus.tv/live/ch3.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2i7tqb5.jpg" tvg-name="PATV HI Olelo 49 (US) (Tiz)"  group-title="Local",PATV HI Olelo 49 (US) (Tiz)
 http://granicusliveus12-a.akamaihd.net/olelo/G0125_009/chunklist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PATV HI Olelo 53 (US) (Tiz)"  group-title="Local",PATV HI Olelo 53 (US) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2i7tqb5.jpg" tvg-name="PATV HI Olelo 53 (US) (Tiz)"  group-title="Local",PATV HI Olelo 53 (US) (Tiz)
 http://granicusliveus12-a.akamaihd.net/olelo/G0125_011/chunklist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2i7tqb5.jpg" tvg-name="PATV HI Olelo 54 (US) (Tiz)"  group-title="Local",PATV HI Olelo 54 (US) (Tiz)
