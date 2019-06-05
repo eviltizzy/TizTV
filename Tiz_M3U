@@ -478,16 +478,16 @@ http://video3.earthcam.com:1935/fecnetwork/4465.flv/playlist.m3u8
 http://video3.earthcam.com:1935/fecnetwork/7945.flv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA Missouri St Louis Arch (Tiz)"  group-title="Cams",Cam USA Missouri St Louis Arch (Tiz)
-http://video3.earthcam.com:1935/fecnetwork/meprd_garch.flv/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA Missouri St Louis Arch (Tiz)"  group-title="Cams",Cam USA Missouri St Louis Arch (Tiz)
 https://videos3.earthcam.com/fecnetwork/meprd_garch.flv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cam USA Nevada Las Vegas (Tiz)"  group-title="Cams",Cam USA Nevada Las Vegas (Tiz)
-http://video3.earthcam.com/fecnetwork/eclasvegas.flv/HasBahCa.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA Missouri St Louis Arch (Tiz)"  group-title="Cams",Cam USA Missouri St Louis Arch (Tiz)
+http://video3.earthcam.com:1935/fecnetwork/meprd_garch.flv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA Nevada Las Vegas (Tiz)"  group-title="Cams",Cam USA Nevada Las Vegas (Tiz)
 http://video3.earthcam.com/fecnetwork/eclasvegas.flv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cam USA Nevada Las Vegas (Tiz)"  group-title="Cams",Cam USA Nevada Las Vegas (Tiz)
+http://video3.earthcam.com/fecnetwork/eclasvegas.flv/HasBahCa.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA New Jersey Seaside Heights 1 (Tiz)"  group-title="Cams",Cam USA New Jersey Seaside Heights 1 (Tiz)
 http://video3.earthcam.com:1935/fecnetwork/6975.flv/playlist.m3u8
@@ -501,11 +501,11 @@ http://video3.earthcam.com:1935/fecnetwork/5465.flv/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA New York Brooklyn Bridge (Tiz)"  group-title="Cams",Cam USA New York Brooklyn Bridge (Tiz)
 http://video3.earthcam.com:1935/fecnetwork/3983.flv/chunklist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA New York Columbus Circle (Tiz)"  group-title="Cams",Cam USA New York Columbus Circle (Tiz)
-http://video3.earthcam.com/fecnetwork/6427.flv/playlist.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cam USA New York Columbus Circle (Tiz)"  group-title="Cams",Cam USA New York Columbus Circle (Tiz)
 http://video3.earthcam.com/fecnetwork/6427.flv/HasBahCa.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA New York Columbus Circle (Tiz)"  group-title="Cams",Cam USA New York Columbus Circle (Tiz)
+http://video3.earthcam.com/fecnetwork/6427.flv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA New York High Line Park (Tiz)"  group-title="Cams",Cam USA New York High Line Park (Tiz)
 http://video3.earthcam.com:1935/fecnetwork/7384.flv/playlist.m3u8
@@ -532,10 +532,10 @@ http://video3.earthcam.com/fecnetwork/9974.flv/.m3u8
 http://video3.earthcam.com:1935/fecnetwork/hdtimes11.flv/chunklist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA New York Time Square 2 (47th & Broadway) (Tiz)"  group-title="Cams",Cam USA New York Time Square 2 (47th & Broadway) (Tiz)
-http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8
+http://video3.earthcam.com/fecnetwork/hdtimes10.flv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA New York Time Square 2 (47th & Broadway) (Tiz)"  group-title="Cams",Cam USA New York Time Square 2 (47th & Broadway) (Tiz)
-http://video3.earthcam.com/fecnetwork/hdtimes10.flv/playlist.m3u8
+http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA New York Time Square 3 (South View) (Tiz)"  group-title="Cams",Cam USA New York Time Square 3 (South View) (Tiz)
 http://video3.earthcam.com:1935/fecnetwork/4017timessquare.flv/chunklist.m3u8
@@ -2058,53 +2058,53 @@ http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/9a7b5k.jpg" tvg-name="Radio 106.9 KHTT Tulsa OK (Tiz)"  group-title="Radio",Radio 106.9 KHTT Tulsa OK (Tiz)
 https://prod-54-82-27-224.wostreaming.net/griffin-khttfmaac-ibc1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Radio 107.1 K296GB Sacramento CA (US) (Tiz)"  group-title="Radio",Radio 107.1 K296GB Sacramento CA (US) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/r7vc06.png" tvg-name="Radio 107.1 K296GB Sacramento CA (US) (Tiz)"  group-title="Radio",Radio 107.1 K296GB Sacramento CA (US) (Tiz)
 http://c9.prod.playlists.ihrhls.com/4242/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/fp155.png" tvg-name="Radio 107.9 KBPI Fort Collins CO (Tiz)"  group-title="Radio",Radio 107.9 KBPI Fort Collins CO (Tiz)
 https://c10.prod.playlists.ihrhls.com/373/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Radio ABC Canberra (AU) (Tiz)"  group-title="Radio",Radio ABC Canberra (AU) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/25u4net.png" tvg-name="Radio ABC Canberra (AU) (Tiz)"  group-title="Radio",Radio ABC Canberra (AU) (Tiz)
 http://abcradiolivehls-lh.akamaihd.net/i/localcanberra_1@327263/master.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/zm1imf.jpg" tvg-name="Radio BBC1 (UK) (Tiz)"  group-title="Radio",Radio BBC1 (UK) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/6y2mmx.jpg" tvg-name="Radio BBC1 (UK) (Tiz)"  group-title="Radio",Radio BBC1 (UK) (Tiz)
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/eg5o8z.jpg" tvg-name="Radio BBC2 (UK) (Tiz)"  group-title="Radio",Radio BBC2 (UK) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/zmczex.png" tvg-name="Radio BBC2 (UK) (Tiz)"  group-title="Radio",Radio BBC2 (UK) (Tiz)
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_two.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="New Logo" tvg-name="Radio BBC3 (UK) (Tiz)"  group-title="Radio",Radio BBC3 (UK) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/1yoaar.jpg" tvg-name="Radio BBC3 (UK) (Tiz)"  group-title="Radio",Radio BBC3 (UK) (Tiz)
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_three.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Radio BBC4 (UK) (Tiz)"  group-title="Radio",Radio BBC4 (UK) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/102tf1z.jpg" tvg-name="Radio BBC4 (UK) (Tiz)"  group-title="Radio",Radio BBC4 (UK) (Tiz)
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_fourfm.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Radio Beats 1 (Tiz)"  group-title="Radio",Radio Beats 1 (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/2mg8ex1.jpg" tvg-name="Radio Beats 1 (Tiz)"  group-title="Radio",Radio Beats 1 (Tiz)
 http://radio.heropiggy95.xyz/beats1/play_hls.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Radio CBC 1 (CA) (Tiz)"  group-title="Radio",Radio CBC 1 (CA) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/wlqd0p.jpg" tvg-name="Radio CBC 1 (CA) (Tiz)"  group-title="Radio",Radio CBC 1 (CA) (Tiz)
 http://liveradio.cbc.ca/i/CBCR1_OTT@348188/master.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Radio CBC 2 (CA) (Tiz)"  group-title="Radio",Radio CBC 2 (CA) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2j5f1p3.jpg" tvg-name="Radio CBC 2 (CA) (Tiz)"  group-title="Radio",Radio CBC 2 (CA) (Tiz)
 http://liveradiocanada.cbc.ca/i/CBCR2_TOR@382863/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/102p1l3.jpg" tvg-name="Radio Cult Radio Go Go (Tiz)"  group-title="Radio",Radio Cult Radio Go Go (Tiz)
 http://s10.voscast.com:8502/;stream.mp3
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/34zj4eq.jpg" tvg-name="Radio Fox News (US) (Tiz)"  group-title="Radio",Radio Fox News (US) (Tiz)
-http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fox-news-269x151.jpg" tvg-name="Radio Fox News Opt-2 (US) (Tiz)"  group-title="Radio",Radio Fox News Opt-2 (US) (Tiz)
 https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Radio Fox News Opt-3 (US) (Tiz)"  group-title="Radio",Radio Fox News Opt-3 (US) (Tiz)
-http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/index_2500_av-b.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/2cr0x13.png" tvg-name="Radio HHRN Horror and Halloween (Tiz)"  group-title="Radio",Radio HHRN Horror and Halloween (Tiz)
 http://s2.voscast.com:11034/;stream.mp3
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Radio IHeart 80'S (Tiz)"  group-title="Radio",Radio IHeart 80'S (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/35hh7if.jpg" tvg-name="Radio IHeart 1980'S (Tiz)"  group-title="Radio",Radio IHeart 1980'S (Tiz)
 http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://i63.tinypic.com/nw0k1u.jpg" tvg-name="Radio iHeart 1990's (Tiz)"  group-title="Radio",Radio iHeart 1990's (Tiz)
+https://c1.prod.playlists.ihrhls.com/6834/playlist.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://i67.tinypic.com/v43pu8.jpg" tvg-name="Radio iHeart 2000's (Tiz)"  group-title="Radio",Radio iHeart 2000's (Tiz)
+https://c1.prod.playlists.ihrhls.com/6850/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/14w7o8x.jpg" tvg-name="Radio Nick Radio"  group-title="Radio",Radio Nick Radio
 http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
@@ -2112,7 +2112,7 @@ http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/2yoz4lu.jpg" tvg-name="Raleigh Television Network (US) (Tiz)"  group-title="Local",Raleigh Television Network (US) (Tiz)
 http://granicusliveus2-a.akamaihd.net/raleigh/G0224_002/chunklist_w716725136.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Red Bull TV Opt-1 (US) (Tiz)"  group-title="Sports",Red Bull TV Opt-1 (US) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/126bs09.png" tvg-name="Red Bull TV Opt-1 (US) (Tiz)"  group-title="Sports",Red Bull TV Opt-1 (US) (Tiz)
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.ts
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/126bs09.png" tvg-name="Red Bull TV Opt-2 (US) (Tiz)"  group-title="Sports",Red Bull TV Opt-2 (US) (Tiz)
@@ -2163,7 +2163,7 @@ https://rt-news.secure.footprint.net/1103-inadv-qidx-1k_v3.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/157z0i9.png" tvg-name="RT News Opt-2 (US) (Tiz)"  group-title="News",RT News Opt-2 (US) (Tiz)
 http://ott-cdn.ucom.am/s96/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RT News Opt-3 (US) (Tiz)"  group-title="News",RT News Opt-3 (US) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/157z0i9.png" tvg-name="RT News Opt-3 (US) (Tiz)"  group-title="News",RT News Opt-3 (US) (Tiz)
 http://rt-news.secure.footprint.net:80/1103.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/24f9r0p.png" tvg-name="RTE News Now (IE) (Tiz)"  group-title="News",RTE News Now (IE) (Tiz)
