@@ -3,7 +3,7 @@
 #EXTINF:-1, tvg-id="00 TizTV 00" tvg-logo="http://i64.tinypic.com/14mt1qu.png" tvg-name="00 TizTV 00"  group-title="00 TizTV 00",00 TizTV 00
 https://www.dropbox.com/s/2d6j7fgjjg4tt5y/videoplayback.mp4?raw=1
 
-#EXTINF:-1, tvg-id="00 TizTV 00" tvg-logo="http://i65.tinypic.com/zxpl6r.jpg" tvg-name="00 TizTV Color Bar Test 00"  group-title="00 TizTV 00",00 TizTV Color Bar Test 00
+#EXTINF:-1, tvg-id="00 TizTV 00" tvg-logo="http://i65.tinypic.com/zxpl6r.jpg" tvg-name="00 TizTV Test 00"  group-title="00 TizTV 00",00 TizTV Test 00
 https://www.dropbox.com/s/jholkqbka5z8p5l/Tiz%20Color%20Bars%20%26%20Tones%20Test.mp4?raw=1
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/w1dwud.jpg" tvg-name="24-7 Retro TV Opt-2 (US) (Tiz)"  group-title="Mixed",24-7 Retro TV Opt-2 (US) (Tiz)
@@ -2101,10 +2101,10 @@ http://s2.voscast.com:11034/;stream.mp3
 http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="http://i63.tinypic.com/nw0k1u.jpg" tvg-name="Radio iHeart 1990's (Tiz)"  group-title="Radio",Radio iHeart 1990's (Tiz)
-https://c1.prod.playlists.ihrhls.com/6834/playlist.m3u8
+http://c1.prod.playlists.ihrhls.com/6834/playlist.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="http://i67.tinypic.com/v43pu8.jpg" tvg-name="Radio iHeart 2000's (Tiz)"  group-title="Radio",Radio iHeart 2000's (Tiz)
-https://c1.prod.playlists.ihrhls.com/6850/playlist.m3u8
+http://c1.prod.playlists.ihrhls.com/6850/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/14w7o8x.jpg" tvg-name="Radio Nick Radio"  group-title="Radio",Radio Nick Radio
 http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
