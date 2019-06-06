@@ -547,10 +547,10 @@ http://video3.earthcam.com/fecnetwork/9974.flv/.m3u8
 http://video3.earthcam.com:1935/fecnetwork/hdtimes11.flv/chunklist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA New York Time Square 2 (47th & Broadway) (Tiz)"  group-title="Cams",Cam USA New York Time Square 2 (47th & Broadway) (Tiz)
-http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8
+http://video3.earthcam.com/fecnetwork/hdtimes10.flv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA New York Time Square 2 (47th & Broadway) (Tiz)"  group-title="Cams",Cam USA New York Time Square 2 (47th & Broadway) (Tiz)
-http://video3.earthcam.com/fecnetwork/hdtimes10.flv/playlist.m3u8
+http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA New York Time Square 3 (South View) (Tiz)"  group-title="Cams",Cam USA New York Time Square 3 (South View) (Tiz)
 http://video3.earthcam.com/fecnetwork/4017timessquare.flv/playlist.m3u8
@@ -1011,16 +1011,16 @@ http://161.0.157.38/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2n86md.jpg" tvg-name="ESPN (Tiz)"  group-title="Sports",ESPN (Tiz)
 http://espn.tmedia.me/cache/espn1_540.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/2aiixj7.png" tvg-name="ESPN News (Tiz)"  group-title="Sports",ESPN News (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/3327wwh.jpg" tvg-name="ESPN News (Tiz)"  group-title="Sports",ESPN News (Tiz)
 http://espn.tmedia.me/cache/espnews.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN News (US) (Tiz)"  group-title="Sports",ESPN News (US) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/2aiixj7.png" tvg-name="ESPN News (US) (Tiz)"  group-title="Sports",ESPN News (US) (Tiz)
 http://espn.clinicalkey.icu/cache/espnews.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2n86md.jpg" tvg-name="ESPN Opt-1 (US) (Tiz)"  group-title="Sports",ESPN Opt-1 (US) (Tiz)
 http://80.80.160.168/live/6/live.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN Opt-2 (US) (Tiz)"  group-title="Sports",ESPN Opt-2 (US) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2n86md.jpg" tvg-name="ESPN Opt-2 (US) (Tiz)"  group-title="Sports",ESPN Opt-2 (US) (Tiz)
 http://espn.clinicalkey.icu/cache/espn1.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2wd5apj.png" tvg-name="ESPN2 Opt-1 (US) (Tiz)"  group-title="Sports",ESPN2 Opt-1 (US) (Tiz)
@@ -1032,7 +1032,7 @@ http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2wd5apj.png" tvg-name="ESPN2 Opt-3 (US) (Tiz)"  group-title="Sports",ESPN2 Opt-3 (US) (Tiz)
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN2 Opt-4 (US) (Tiz)"  group-title="Sports",ESPN2 Opt-4 (US) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2n86md.jpg" tvg-name="ESPN2 Opt-4 (US) (Tiz)"  group-title="Sports",ESPN2 Opt-4 (US) (Tiz)
 http://161.0.157.38/PLTV/88888888/224/3221226881/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2wd5apj.png" tvg-name="ESPN2+ (Tiz)"  group-title="Sports",ESPN2+ (Tiz)
@@ -1041,7 +1041,7 @@ http://espn.tmedia.me/cache/espn2_540.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/2dqkids.jpg" tvg-name="ESPNU (Tiz)"  group-title="Sports",ESPNU (Tiz)
 http://espn.tmedia.me/cache/espnu.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPNU (US) (Tiz)"  group-title="Sports",ESPNU (US) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/2dqkids.jpg" tvg-name="ESPNU (US) (Tiz)"  group-title="Sports",ESPNU (US) (Tiz)
 http://espn.clinicalkey.icu/cache/espnu.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/29eg282.jpg" tvg-name="ET Live (US) (Tiz)"  group-title="Mixed",ET Live (US) (Tiz)
@@ -1116,11 +1116,11 @@ http://api.new.livestream.com/accounts/4241684/events/2152811/live.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2ih72ub.png" tvg-name="Fox 05 WTTG Washington DC (US) (Tiz)"  group-title="Local",Fox 05 WTTG Washington DC (US) (Tiz)
 http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox 07 WSVN Miami FL (US) (Tiz)"  group-title="Local",Fox 07 WSVN Miami FL (US) (Tiz)
-http://161.0.157.38/PLTV/88888888/224/3221227013/index.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/oszmmw.png" tvg-name="Fox 07 WSVN Miami FL (US) (Tiz)"  group-title="Local",Fox 07 WSVN Miami FL (US) (Tiz)
 http://161.0.157.51/PLTV/88888888/224/3221227013/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox 07 WSVN Miami FL (US) (Tiz)"  group-title="Local",Fox 07 WSVN Miami FL (US) (Tiz)
+http://161.0.157.38/PLTV/88888888/224/3221227013/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox 09 WWOR Secaucus NJ (US) (Tiz)"  group-title="Local",Fox 09 WWOR Secaucus NJ (US) (Tiz)
 http://161.0.157.9/PLTV/88888888/224/3221226727/03.m3u8
@@ -1599,10 +1599,10 @@ http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/33zbcif.png" tvg-name="NBC 11 WPXI Pittsburgh PA (US) (Tiz)"  group-title="Local",NBC 11 WPXI Pittsburgh PA (US) (Tiz)
 http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/2iqcwao.jpg" tvg-name="NBC 12 WWBT Richmond VA (US) (Tiz)"  group-title="Local",NBC 12 WWBT Richmond VA (US) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC 12 WWBT Richmond VA (US) (Tiz)"  group-title="Local",NBC 12 WWBT Richmond VA (US) (Tiz)
 http://api.new.livestream.com/accounts/11203782/events/3629264/live.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC 12 WWBT Richmond VA (US) (Tiz)"  group-title="Local",NBC 12 WWBT Richmond VA (US) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/2iqcwao.jpg" tvg-name="NBC 12 WWBT Richmond VA (US) (Tiz)"  group-title="Local",NBC 12 WWBT Richmond VA (US) (Tiz)
 http://api.new.livestream.com/accounts/11203782/events/3629264/live.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC 13 WHO-TV Des Moines IA (US) (Tiz)"  group-title="Local",NBC 13 WHO-TV Des Moines IA (US) (Tiz)
