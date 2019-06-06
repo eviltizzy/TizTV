@@ -534,9 +534,6 @@ http://videos3.earthcam.com/fecnetwork/7382.flv/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA New York Niagara Falls Cam (Tiz)"  group-title="Cams",Cam USA New York Niagara Falls Cam (Tiz)
 http://videos3.earthcam.com/fecnetwork/4559.flv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA New York Niagra Falls Cam (Tiz)"  group-title="Cams",Cam USA New York Niagra Falls Cam (Tiz)
-http://videos3.earthcam.com/fecnetwork/4559.flv/playlist.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA New York Statue of Liberty (Tiz)"  group-title="Cams",Cam USA New York Statue of Liberty (Tiz)
 http://video3.earthcam.com:1935/fecnetwork/statueoflibertyHD.flv/chunklist.m3u8
 
@@ -1008,9 +1005,6 @@ http://ott-cdn.ucom.am/s37/index.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/szaqut.png" tvg-name="Entertainment Studios (US) (Tiz)"  group-title="Mixed",Entertainment Studios (US) (Tiz)
 http://161.0.157.38/PLTV/88888888/224/3221225713/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2n86md.jpg" tvg-name="ESPN (Tiz)"  group-title="Sports",ESPN (Tiz)
-http://espn.tmedia.me/cache/espn1_540.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/3327wwh.jpg" tvg-name="ESPN News (Tiz)"  group-title="Sports",ESPN News (Tiz)
 http://espn.tmedia.me/cache/espnews.m3u8
 
@@ -1023,6 +1017,9 @@ http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2n86md.jpg" tvg-name="ESPN Opt-2 (US) (Tiz)"  group-title="Sports",ESPN Opt-2 (US) (Tiz)
 http://espn.clinicalkey.icu/cache/espn1.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2n86md.jpg" tvg-name="ESPN Opt-3 (US) (Tiz)"  group-title="Sports",ESPN Opt-3 (US) (Tiz)
+http://espn.tmedia.me/cache/espn1_540.m3u8
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2wd5apj.png" tvg-name="ESPN2 Opt-1 (US) (Tiz)"  group-title="Sports",ESPN2 Opt-1 (US) (Tiz)
 http://161.0.157.5/PLTV/88888888/224/3221226881/index.m3u8
 
@@ -1032,7 +1029,7 @@ http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2wd5apj.png" tvg-name="ESPN2 Opt-3 (US) (Tiz)"  group-title="Sports",ESPN2 Opt-3 (US) (Tiz)
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2n86md.jpg" tvg-name="ESPN2 Opt-4 (US) (Tiz)"  group-title="Sports",ESPN2 Opt-4 (US) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2wd5apj.png" tvg-name="ESPN2 Opt-4 (US) (Tiz)"  group-title="Sports",ESPN2 Opt-4 (US) (Tiz)
 http://161.0.157.38/PLTV/88888888/224/3221226881/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2wd5apj.png" tvg-name="ESPN2+ (Tiz)"  group-title="Sports",ESPN2+ (Tiz)
@@ -1602,9 +1599,6 @@ http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC 12 WWBT Richmond VA (US) (Tiz)"  group-title="Local",NBC 12 WWBT Richmond VA (US) (Tiz)
 http://api.new.livestream.com/accounts/11203782/events/3629264/live.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/2iqcwao.jpg" tvg-name="NBC 12 WWBT Richmond VA (US) (Tiz)"  group-title="Local",NBC 12 WWBT Richmond VA (US) (Tiz)
-http://api.new.livestream.com/accounts/11203782/events/3629264/live.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC 13 WHO-TV Des Moines IA (US) (Tiz)"  group-title="Local",NBC 13 WHO-TV Des Moines IA (US) (Tiz)
 http://api.new.livestream.com/accounts/9976600/events/3382760/live.m3u8
 
@@ -1688,9 +1682,6 @@ http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/ou8gmb.jpg" tvg-name="NewsMax Opt-3 (US) (Tiz)"  group-title="News",NewsMax Opt-3 (US) (Tiz)
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/ou8gmb.jpg" tvg-name="NewsMax Opt-4 (US) (Tiz)"  group-title="News",NewsMax Opt-4 (US) (Tiz)
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2rztp2r.jpg" tvg-name="NewsNet (US) (Tiz)"  group-title="News",NewsNet (US) (Tiz)
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
@@ -2356,9 +2347,6 @@ http://stitcher.pluto.tv/stitch/hls/channel/5616fc1cf39f506e04b61dfc/master.m3u8
 http://stitcher.pluto.tv/stitch/hls/channel/5bb1ad55268cae539bcedb08/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/2vif2hj.jpg" tvg-name="The Shopping Channel (CA) (Tiz)"  group-title="Shopping",The Shopping Channel (CA) (Tiz)
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/2dj4di9.png" tvg-name="The Shopping Channel (US) (Tiz)"  group-title="Shopping",The Shopping Channel (US) (Tiz)
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="The Surf Channel (PlutoTV)"  group-title="PlutoTV",The Surf Channel (PlutoTV)
