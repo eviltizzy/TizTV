@@ -468,7 +468,7 @@ http://video3.earthcam.com:1935/fecnetwork/miamivishd5.flv/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA Georgia Atlanta (Tiz)"  group-title="Cams",Cam USA Georgia Atlanta (Tiz)
 http://wms-prod-1.wetmet.net/live/73-02-01/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/ipwbvo.jpg" tvg-name="Cam USA Hawaii Waikoloa Cam (SN)"  group-title="Cams",Cam USA Hawaii Waikoloa Cam (SN)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA Hawaii Waikoloa Cam (SN)"  group-title="Cams",Cam USA Hawaii Waikoloa Cam (SN)
 http://video3.earthcam.com:1935/fecnetwork/5758.flv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA Idaho Yellowstone Old Faithful (Tiz)"  group-title="Cams",Cam USA Idaho Yellowstone Old Faithful (Tiz)
