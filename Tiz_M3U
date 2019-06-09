@@ -444,10 +444,10 @@ http://video3.earthcam.com/fecnetwork/6603.flv/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA California Santa Monica (Tiz)"  group-title="Cams",Cam USA California Santa Monica (Tiz)
 http://video3.earthcam.com/fecnetwork/6253.flv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cam USA Florida Everglades (Tiz)"  group-title="Cams",Cam USA Florida Everglades (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA Florida Everglades (Tiz)"  group-title="Cams",Cam USA Florida Everglades (Tiz)
 http://video3.earthcam.com/fecnetwork/14162.flv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cam USA Florida Ft. Lauderdale Marina (US) (Tiz)"  group-title="Cams",Cam USA Florida Ft. Lauderdale Marina (US) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA Florida Ft. Lauderdale Marina (US) (Tiz)"  group-title="Cams",Cam USA Florida Ft. Lauderdale Marina (US) (Tiz)
 http://video3.earthcam.com:1935/fecnetwork/8891.flv/chunklist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA Florida Hillsboro Lighthouse (Tiz)"  group-title="Cams",Cam USA Florida Hillsboro Lighthouse (Tiz)
@@ -474,13 +474,13 @@ http://video3.earthcam.com:1935/fecnetwork/5758.flv/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA Idaho Yellowstone Old Faithful (Tiz)"  group-title="Cams",Cam USA Idaho Yellowstone Old Faithful (Tiz)
 http://56cf3370d8dd3.streamlock.net:1935/nps/faithful.stream/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cam USA Illinois Wrigley Field Chicago (Tiz)"  group-title="Cams",Cam USA Illinois Wrigley Field Chicago (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA Illinois Wrigley Field Chicago (Tiz)"  group-title="Cams",Cam USA Illinois Wrigley Field Chicago (Tiz)
 http://video3.earthcam.com/fecnetwork/13661.flv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA Louisiana New Orleans Bourbon St 1 (Tiz)"  group-title="Cams",Cam USA Louisiana New Orleans Bourbon St 1 (Tiz)
 http://videos3.earthcam.com/fecnetwork/4282.flv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cam USA Louisiana New Orleans Bourbon St 2 (Tiz)"  group-title="Cams",Cam USA Louisiana New Orleans Bourbon St 2 (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA Louisiana New Orleans Bourbon St 2 (Tiz)"  group-title="Cams",Cam USA Louisiana New Orleans Bourbon St 2 (Tiz)
 http://video3.earthcam.com/fecnetwork/4280.flv/HasBahCa.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA Louisiana New Orleans Bourbon St 2 (Tiz)"  group-title="Cams",Cam USA Louisiana New Orleans Bourbon St 2 (Tiz)
@@ -498,11 +498,11 @@ http://videos3.earthcam.com/fecnetwork/meprd_garch.flv/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA Missouri St Louis Arch (Tiz)"  group-title="Cams",Cam USA Missouri St Louis Arch (Tiz)
 http://video3.earthcam.com:1935/fecnetwork/meprd_garch.flv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cam USA Nevada Las Vegas (Tiz)"  group-title="Cams",Cam USA Nevada Las Vegas (Tiz)
-http://video3.earthcam.com/fecnetwork/eclasvegas.flv/HasBahCa.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA Nevada Las Vegas (Tiz)"  group-title="Cams",Cam USA Nevada Las Vegas (Tiz)
 http://video3.earthcam.com/fecnetwork/eclasvegas.flv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA Nevada Las Vegas (Tiz)"  group-title="Cams",Cam USA Nevada Las Vegas (Tiz)
+http://video3.earthcam.com/fecnetwork/eclasvegas.flv/HasBahCa.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA New Jersey Seaside Heights 1 (Tiz)"  group-title="Cams",Cam USA New Jersey Seaside Heights 1 (Tiz)
 http://video3.earthcam.com:1935/fecnetwork/6975.flv/playlist.m3u8
@@ -516,7 +516,7 @@ http://video3.earthcam.com:1935/fecnetwork/5465.flv/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA New York Brooklyn Bridge (Tiz)"  group-title="Cams",Cam USA New York Brooklyn Bridge (Tiz)
 http://video3.earthcam.com:1935/fecnetwork/3983.flv/chunklist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cam USA New York Columbus Circle (Tiz)"  group-title="Cams",Cam USA New York Columbus Circle (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA New York Columbus Circle (Tiz)"  group-title="Cams",Cam USA New York Columbus Circle (Tiz)
 http://video3.earthcam.com/fecnetwork/6427.flv/HasBahCa.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA New York Columbus Circle (Tiz)"  group-title="Cams",Cam USA New York Columbus Circle (Tiz)
@@ -537,29 +537,17 @@ http://videos3.earthcam.com/fecnetwork/4559.flv/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA New York Statue of Liberty (Tiz)"  group-title="Cams",Cam USA New York Statue of Liberty (Tiz)
 http://video3.earthcam.com:1935/fecnetwork/statueoflibertyHD.flv/chunklist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cam USA New York Time Square 1 (Street Cam) (Tiz)"  group-title="Cams",Cam USA New York Time Square 1 (Street Cam) (Tiz)
-http://video3.earthcam.com/fecnetwork/9974.flv/.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA New York Time Square 1 (Tiz)"  group-title="Cams",Cam USA New York Time Square 1 (Tiz)
-http://video3.earthcam.com:1935/fecnetwork/hdtimes11.flv/chunklist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA New York Time Square 1 (Street Cam) (Tiz)"  group-title="Cams",Cam USA New York Time Square 1 (Street Cam) (Tiz)
+http://video3.earthcam.com:1935/fecnetwork/9974.flv/chunklist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA New York Time Square 2 (47th & Broadway) (Tiz)"  group-title="Cams",Cam USA New York Time Square 2 (47th & Broadway) (Tiz)
 http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA New York Time Square 2 (47th & Broadway) (Tiz)"  group-title="Cams",Cam USA New York Time Square 2 (47th & Broadway) (Tiz)
-http://video3.earthcam.com/fecnetwork/hdtimes10.flv/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA New York Time Square 3 (South View) (Tiz)"  group-title="Cams",Cam USA New York Time Square 3 (South View) (Tiz)
-http://video3.earthcam.com/fecnetwork/4017timessquare.flv/playlist.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA New York Time Square 3 (South View) (Tiz)"  group-title="Cams",Cam USA New York Time Square 3 (South View) (Tiz)
 http://video3.earthcam.com:1935/fecnetwork/4017timessquare.flv/chunklist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cam USA New York Time Square 3 (South View) (Tiz)"  group-title="Cams",Cam USA New York Time Square 3 (South View) (Tiz)
-http://video3.earthcam.com/fecnetwork/4017timessquare.flv/.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA New York Time Square 4 (Street Cam) (Tiz)"  group-title="Cams",Cam USA New York Time Square 4 (Street Cam) (Tiz)
-http://video3.earthcam.com:1935/fecnetwork/9974.flv/chunklist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA New York Time Square 4 (Tiz)"  group-title="Cams",Cam USA New York Time Square 4 (Tiz)
+http://video3.earthcam.com:1935/fecnetwork/hdtimes11.flv/chunklist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA New York Wall Street (Tiz)"  group-title="Cams",Cam USA New York Wall Street (Tiz)
 http://video3.earthcam.com/fecnetwork/chargingbull.flv/playlist.m3u8
@@ -597,7 +585,7 @@ http://video3.earthcam.com:1935/fecnetwork/6320.flv/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA South Carolina Myrtle Beach (Tiz)"  group-title="Cams",Cam USA South Carolina Myrtle Beach (Tiz)
 http://video3.earthcam.com/fecnetwork/3635.flv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cam USA Texas Dallas Reunion Tower (Tiz)"  group-title="Cams",Cam USA Texas Dallas Reunion Tower (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA Texas Dallas Reunion Tower (Tiz)"  group-title="Cams",Cam USA Texas Dallas Reunion Tower (Tiz)
 http://video3.earthcam.com/fecnetwork/7524.flv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA Texas Dealey Plaza (Tiz)"  group-title="Cams",Cam USA Texas Dealey Plaza (Tiz)
@@ -1700,9 +1688,6 @@ http://stitcher.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/nxm2du.jpg" tvg-name="Nick Music (UK) (Tiz)"  group-title="Music",Nick Music (UK) (Tiz)
 http://83.81.112.133:9981/stream/channelid/445868669
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/2nvth5x.jpg" tvg-name="Nickelodeon (DE) (Tiz)"  group-title="KidsTV",Nickelodeon (DE) (Tiz)
-http://176.10.117.21:8081/aypitv/Nickeledon/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="Nickelodeon (PlutoTV)"  group-title="PlutoTV",Nickelodeon (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=bcuqage0urlhccbp8kbecjc830
