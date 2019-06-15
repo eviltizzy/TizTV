@@ -6,7 +6,7 @@ http://www.dropbox.com/s/2d6j7fgjjg4tt5y/videoplayback.mp4?raw=1
 #EXTINF:-1, tvg-id="00 TizTV 00" tvg-logo="http://i65.tinypic.com/zxpl6r.jpg" tvg-name="00 TizTV Test 00"  group-title="00 TizTV 00",00 TizTV Test 00
 http://www.dropbox.com/s/jholkqbka5z8p5l/Tiz%20Color%20Bars%20%26%20Tones%20Test.mp4?raw=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/w1dwud.jpg" tvg-name="24-7 Retro TV Opt-2 (US) (Tiz)"  group-title="Mixed",24-7 Retro TV Opt-2 (US) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/w1dwud.jpg" tvg-name="24-7 Retro TV (US) (Tiz)"  group-title="Mixed",24-7 Retro TV (US) (Tiz)
 http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/2nlsd1h.jpg" tvg-name="2UE Sydney (AU) (Tiz)"  group-title="Local",2UE Sydney (AU) (Tiz)
@@ -30,7 +30,7 @@ http://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/243ndyb.jpg" tvg-name="3AW Melbourne (AU) (Tiz)"  group-title="Local",3AW Melbourne (AU) (Tiz)
 http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/14473ux.png" tvg-name="4BC Brisbane Opt-1 (AU) (Tiz)"  group-title="Local",4BC Brisbane Opt-1 (AU) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/14473ux.png" tvg-name="4BC Brisbane (AU) (Tiz)"  group-title="Local",4BC Brisbane (AU) (Tiz)
 http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="4K TV (PlutoTV)"  group-title="PlutoTV",4K TV (PlutoTV)
@@ -327,7 +327,7 @@ http://161.0.157.38/PLTV/88888888/224/3221226804/index.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/10n6nmp.jpg" tvg-name="Bravo Opt-2 (US) (Tiz)"  group-title="USA",Bravo Opt-2 (US) (Tiz)
 http://161.0.157.5/PLTV/88888888/224/3221226804/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/1zpqfzp.png" tvg-name="British Muslim TV"  group-title="Religion",British Muslim TV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/1zpqfzp.png" tvg-name="British Muslim TV (Tiz)"  group-title="Religion",British Muslim TV (Tiz)
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/british_muslim_tv-video=150000-audio_AACL_eng_65600_120=65600.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/mn2kwl.png" tvg-name="BT Sport 2 (UK) (Tiz)"  group-title="Sports",BT Sport 2 (UK) (Tiz)
@@ -468,7 +468,7 @@ http://video3.earthcam.com:1935/fecnetwork/miamivishd5.flv/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA Georgia Atlanta (Tiz)"  group-title="Cams",Cam USA Georgia Atlanta (Tiz)
 http://wms-prod-1.wetmet.net/live/73-02-01/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA Hawaii Waikoloa Cam (SN)"  group-title="Cams",Cam USA Hawaii Waikoloa Cam (SN)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA Hawaii Waikoloa Cam (Tiz)"  group-title="Cams",Cam USA Hawaii Waikoloa Cam (Tiz)
 http://video3.earthcam.com:1935/fecnetwork/5758.flv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA Idaho Yellowstone Old Faithful (Tiz)"  group-title="Cams",Cam USA Idaho Yellowstone Old Faithful (Tiz)
@@ -1155,17 +1155,17 @@ http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Premium Cinema Opt-2 (US) (Tiz)"  group-title="Premium",Fox Premium Cinema Opt-2 (US) (Tiz)
 http://161.0.157.38/PLTV/88888888/224/3221226793/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/2ep0tpt.png" tvg-name="Fox Premium Comedy (US) (Tiz)"  group-title="Premium",Fox Premium Comedy (US) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/2ep0tpt.png" tvg-name="Fox Premium Comedy Opt-1 (US) (Tiz)"  group-title="Premium",Fox Premium Comedy Opt-1 (US) (Tiz)
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Premium Comedy Opt-2 (US) (Tiz)"  group-title="Premium",Fox Premium Comedy Opt-2 (US) (Tiz)
 http://161.0.157.38/PLTV/88888888/224/3221226800/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/vym5gi.jpg" tvg-name="Fox Premium Movies (US) (Tiz)"  group-title="Premium",Fox Premium Movies (US) (Tiz)
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Premium Movies Opt-1 (US) (Tiz)"  group-title="Premium",Fox Premium Movies Opt-1 (US) (Tiz)
 http://161.0.157.38/PLTV/88888888/224/3221226321/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/vym5gi.jpg" tvg-name="Fox Premium Movies Opt-2 (US) (Tiz)"  group-title="Premium",Fox Premium Movies Opt-2 (US) (Tiz)
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/2nlxwz8.jpg" tvg-name="Fox Sport Racing (CA) (Tiz)"  group-title="Sports",Fox Sport Racing (CA) (Tiz)
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
@@ -1329,11 +1329,11 @@ http://stitcher.pluto.tv/stitch/hls/channel/56b27a7badb45b1f50b91b0b/master.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/152p9ax.jpg" tvg-name="Investment Pitch (US) (Tiz)"  group-title="Mixed",Investment Pitch (US) (Tiz)
 http://www.30a-tv.com/InvPit.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2nvw3ma.jpg" tvg-name="ITV (UK) (Tiz)"  group-title="UK",ITV (UK) (Tiz)
-http://185.53.163.214:5678/ipvt_001
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/fvxxqh.jpg" tvg-name="ITV Be (UK) (Tiz)"  group-title="UK",ITV Be (UK) (Tiz)
 http://185.53.163.214:5678/ipvt_005
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2nvw3ma.jpg" tvg-name="ITV1 (UK) (Tiz)"  group-title="UK",ITV1 (UK) (Tiz)
+http://185.53.163.214:5678/ipvt_001
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/mr9wtv.jpg" tvg-name="ITV2 (UK) (Tiz)"  group-title="UK",ITV2 (UK) (Tiz)
 http://185.53.163.214:5678/ipvt_002
@@ -2079,7 +2079,7 @@ http://c1.prod.playlists.ihrhls.com/6834/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/v43pu8.jpg" tvg-name="Radio iHeart 2000's (Tiz)"  group-title="Radio",Radio iHeart 2000's (Tiz)
 http://c1.prod.playlists.ihrhls.com/6850/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/14w7o8x.jpg" tvg-name="Radio Nick Radio"  group-title="Radio",Radio Nick Radio
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/14w7o8x.jpg" tvg-name="Radio Nick Radio (Tiz)"  group-title="Radio",Radio Nick Radio (Tiz)
 http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/2yoz4lu.jpg" tvg-name="Raleigh Television Network (US) (Tiz)"  group-title="Local",Raleigh Television Network (US) (Tiz)
@@ -2433,7 +2433,7 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="Westerns (PlutoTV)"  group-title="PlutoTV",Westerns (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=pb3stkgum0jt2soq367mu97333
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/2eevlw0.png" tvg-name="WGN 9 News Chicago Opt-1 (US) (Tiz)"  group-title="Local",WGN 9 News Chicago Opt-1 (US) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/2eevlw0.png" tvg-name="WGN 9 News Chicago (US) (Tiz)"  group-title="Local",WGN 9 News Chicago (US) (Tiz)
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="What?! (PlutoTV)"  group-title="PlutoTV",What?! (PlutoTV)
