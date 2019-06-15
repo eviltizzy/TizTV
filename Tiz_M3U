@@ -2082,10 +2082,22 @@ http://c1.prod.playlists.ihrhls.com/6850/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/14w7o8x.jpg" tvg-name="Radio Nick Radio (Tiz)"  group-title="Radio",Radio Nick Radio (Tiz)
 http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-logo="http://i67.tinypic.com/2lxjgv4.png" tvg-name="Radio Tune In Classic Hits"  group-title="Radio",Radio Tune In Classic Hits
+#EXTINF:-1, tvg-id="" tvg-logo="http://i64.tinypic.com/9tldav.jpg" tvg-name="Radio Tune In Classic Alternative Hits"  group-title="Radio",Radio Tune In Classic Alternative Hits
+http://tunein4.streamguys1.com/claltfree1
+
+#EXTINF:-1, tvg-id="" tvg-logo="http://i64.tinypic.com/125s5th.png" tvg-name="Radio Tune In Classic Hip Hop"  group-title="Radio",Radio Tune In Classic Hip Hop
+http://tunein4.streamguys1.com/clshhfree1
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/2lxjgv4.png" tvg-name="Radio Tune In Classic Hits"  group-title="Radio",Radio Tune In Classic Hits
 http://tunein4.streamguys1.com/oldiefree1
 
-#EXTINF:-1, tvg-id="" tvg-logo="http://i67.tinypic.com/oau2ar.png" tvg-name="Radio Tune In Today's Hits"  group-title="Radio",Radio Tune In Today's Hits
+#EXTINF:-1, tvg-id="" tvg-logo="http://i63.tinypic.com/2qvfmmu.png" tvg-name="Radio Tune In Classic Rock Hits"  group-title="Radio",Radio Tune In Classic Rock Hits
+http://rfcmedia.streamguys1.com/classicrock.mp3
+
+#EXTINF:-1, tvg-id="" tvg-logo="http://i66.tinypic.com/242eflh.jpg" tvg-name="Radio Tune In Mix Lite"  group-title="Radio",Radio Tune In Mix Lite
+http://rfcmedia.streamguys1.com/mixlite.mp3
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/oau2ar.png" tvg-name="Radio Tune In Today's Hits"  group-title="Radio",Radio Tune In Today's Hits
 http://rfcmedia.streamguys1.com/MusicPulse.mp3
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/2yoz4lu.jpg" tvg-name="Raleigh Television Network (US) (Tiz)"  group-title="Local",Raleigh Television Network (US) (Tiz)
