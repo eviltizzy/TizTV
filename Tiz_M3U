@@ -291,9 +291,6 @@ http://videos3.earthcam.com/fecnetwork/15662.flv/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/2u96g5x.jpg" tvg-name="Cam Dubai Atlantis The Palm (Tiz)"  group-title="Cams",Cam Dubai Atlantis The Palm (Tiz)
 http://videos3.earthcam.com/fecnetwork/5868.flv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/2a78w76.jpg" tvg-name="Cam France Notre Dame (Tiz)"  group-title="Cams",Cam France Notre Dame (Tiz)
-http://video3.earthcam.com:1935/fecnetwork/7962.flv/playlist.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/2a78w76.jpg" tvg-name="Cam France Paris Eiffel Tower 1 (Tiz)"  group-title="Cams",Cam France Paris Eiffel Tower 1 (Tiz)
 http://live.webcam-hd.fr/64connections/Pariscam3.stream/playlist.m3u8
 
@@ -398,6 +395,9 @@ https://56cf3370d8dd3.streamlock.net:1935/nps/faithful.stream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA Illinois Wrigley Field Chicago (Tiz)"  group-title="Cams",Cam USA Illinois Wrigley Field Chicago (Tiz)
 http://video3.earthcam.com/fecnetwork/13661.flv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA Indiana University of Notre Dame (Tiz)"  group-title="Cams",Cam USA Indiana University of Notre Dame (Tiz)
+http://video3.earthcam.com:1935/fecnetwork/7962.flv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA Louisiana New Orleans Bourbon St 1 (Tiz)"  group-title="Cams",Cam USA Louisiana New Orleans Bourbon St 1 (Tiz)
 http://videos3.earthcam.com/fecnetwork/4282.flv/playlist.m3u8
@@ -891,11 +891,11 @@ http://api.new.livestream.com/accounts/4241684/events/2152811/live.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2ih72ub.png" tvg-name="Fox 05 WTTG Washington DC (US) (Tiz)"  group-title="Local",Fox 05 WTTG Washington DC (US) (Tiz)
 http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/adnshx.jpg" tvg-name="Fox 07 WSVN Miami FL (US) (Tiz)"  group-title="Local",Fox 07 WSVN Miami FL (US) (Tiz)
-http://161.0.157.38/PLTV/88888888/224/3221227013/index.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/oszmmw.png" tvg-name="Fox 07 WSVN Miami FL (US) (Tiz)"  group-title="Local",Fox 07 WSVN Miami FL (US) (Tiz)
 http://161.0.157.51/PLTV/88888888/224/3221227013/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/adnshx.jpg" tvg-name="Fox 07 WSVN Miami FL (US) (Tiz)"  group-title="Local",Fox 07 WSVN Miami FL (US) (Tiz)
+http://161.0.157.38/PLTV/88888888/224/3221227013/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox 09 WWOR Secaucus NJ (US) (Tiz)"  group-title="Local",Fox 09 WWOR Secaucus NJ (US) (Tiz)
 http://161.0.157.9/PLTV/88888888/224/3221226727/03.m3u8
@@ -1615,10 +1615,10 @@ http://video.pluto.tv/dash_radio/station3/chunklist.m3u8
 http://live.qvcuk.simplestreamcdn.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/dfhojb.png" tvg-name="QVC +1 (UK) (Tiz)"  group-title="Shopping",QVC +1 (UK) (Tiz)
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/dfhojb.png" tvg-name="QVC +1 (UK) (Tiz)"  group-title="Shopping",QVC +1 (UK) (Tiz)
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/25zjkoi.png" tvg-name="QVC Beauty (UK) (Tiz)"  group-title="Shopping",QVC Beauty (UK) (Tiz)
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
