@@ -18,14 +18,11 @@ http://30a-tv.com/music.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/k1tf2u.png" tvg-name="30A TV (US) (Tiz)"  group-title="Mixed",30A TV (US) (Tiz)
 http://30a-tv.com/my999.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/33m94wj.png" tvg-name="360 North (US) (Tiz)"  group-title="Test",360 North (US) (Tiz)
-https://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/2l24qg.jpg" tvg-name="3ABN (US) (Tiz)"  group-title="Religion",3ABN (US) (Tiz)
-https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/index.m3u8
+http://moiptvhls-i.akamaihd.net/hls/live/652042/secure/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/arotw.jpg" tvg-name="3ABN Kids TV IL (US) (Tiz)"  group-title="Religion",3ABN Kids TV IL (US) (Tiz)
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+http://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/243ndyb.jpg" tvg-name="3AW Melbourne (AU) (Tiz)"  group-title="Local",3AW Melbourne (AU) (Tiz)
 http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
@@ -35,12 +32,6 @@ http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="4K TV (PlutoTV)"  group-title="PlutoTV",4K TV (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/553838c8c0b860c11a631f3a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/20l1h8z.jpg" tvg-name="4U B4U Movies (US) (Tiz)"  group-title="Test",4U B4U Movies (US) (Tiz)
-https://161.0.157.38/PLTV/88888888/224/3221226255/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/16ke5ox.jpg" tvg-name="4U B4U Music (US) (Tiz)"  group-title="Test",4U B4U Music (US) (Tiz)
-https://161.0.157.38/PLTV/88888888/224/3221226332/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/i6jpsl.jpg" tvg-name="4U Cartoons 4U (US) (Tiz)"  group-title="KidsTV",4U Cartoons 4U (US) (Tiz)
 https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8
@@ -59,9 +50,6 @@ https://edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/9ktul1.jpg" tvg-name="4U Westerns 4U KLNM TV (US) (Tiz)"  group-title="Mixed",4U Westerns 4U KLNM TV (US) (Tiz)
 https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/9ktul1.jpg" tvg-name="4U Westerns 4U KLNM TV Opt-2 (US) (Tiz)"  group-title="Test",4U Westerns 4U KLNM TV Opt-2 (US) (Tiz)
-https://edge1.dashmedia.tv/onestudio/Decoder800/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/fjqqnb.jpg" tvg-name="7 (AU) (Tiz)"  group-title="Mixed",7 (AU) (Tiz)
 http://203.213.16.202:9981/stream/channelid/512133478?ticket=44BEE1ACE2E3CA705DC3C9A7BC4C7414CA6C5360&profile=matroska
@@ -112,7 +100,7 @@ http://203.213.16.202:9981/stream/channelid/1641046925?ticket=C4B915395BFFB6F94E
 http://203.213.16.202:9981/stream/channelid/2020222705?ticket=5D5A6BB7F56892A3A51EB6AA37E24DFDFC4BFE2F&profile=matroska
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/314qe13.jpg" tvg-name="ABC News 24 (AU) (Tiz)"  group-title="News",ABC News 24 (AU) (Tiz)
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
+http://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2qszalt.jpg" tvg-name="ABC News Opt-01 (US) (Tiz)"  group-title="News",ABC News Opt-01 (US) (Tiz)
 http://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
@@ -189,9 +177,6 @@ http://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/2eb8lmf.png" tvg-name="Al Jazeera Opt-3 (UK) (Tiz)"  group-title="News",Al Jazeera Opt-3 (UK) (Tiz)
 http://ott-cdn.ucom.am/s23/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/2eb8lmf.png" tvg-name="Al Jazeera Opt-4 (UK) (Tiz)"  group-title="Test",Al Jazeera Opt-4 (UK) (Tiz)
-http://83.81.112.133:9981/stream/channelid/1824096601
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2ijnrth.jpg" tvg-name="AMC (US) (Tiz)"  group-title="USA",AMC (US) (Tiz)
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
@@ -200,9 +185,6 @@ http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/14xngas.png" tvg-name="Animal Planet (US) (Tiz)"  group-title="USA",Animal Planet (US) (Tiz)
 http://80.80.160.168/live/1/live.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/14xngas.png" tvg-name="Animal Planet ES/EN (US) (Tiz)"  group-title="Test",Animal Planet ES/EN (US) (Tiz)
-http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="Animals (PlutoTV)"  group-title="PlutoTV",Animals (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=sb3stkgum0jt2soq367mu97333
@@ -222,18 +204,6 @@ http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="Awesomeness TV (PlutoTV)"  group-title="PlutoTV",Awesomeness TV (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/5595e43c66ace1652e63c6a2/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2db7y2u.png" tvg-name="AXS TV Opt-1 (US) (Tiz)"  group-title="Test",AXS TV Opt-1 (US) (Tiz)
-https://161.0.157.6/PLTV/88888888/224/3221226568/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2db7y2u.png" tvg-name="AXS TV Opt-2 (US) (Tiz)"  group-title="Test",AXS TV Opt-2 (US) (Tiz)
-https://161.0.157.38/PLTV/88888888/224/3221226568/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/11hur0h.jpg" tvg-name="BBC Alba (UK) (Tiz)"  group-title="Test",BBC Alba (UK) (Tiz)
-https://185.53.163.214:5678/ipvt_008
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/2m7aq9v.jpg" tvg-name="BBC News (UK) (Tiz)"  group-title="Test",BBC News (UK) (Tiz)
-https://185.53.163.214:5678/ipvt_010
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/2vtnp1w.jpg" tvg-name="BBC One (UK) (Tiz)"  group-title="UK",BBC One (UK) (Tiz)
 http://83.81.112.133:9981/stream/channelid/1113986960
 
@@ -252,35 +222,23 @@ http://1636691764.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="BET (PlutoTV)"  group-title="PlutoTV",BET (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=gcuqage0urlhccbp8kbecjc830
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/a9s91.jpg" tvg-name="BET (US) (Tiz)"  group-title="Test",BET (US) (Tiz)
-http://espn.tmedia.me/cache/bet.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/28lb5ma.jpg" tvg-name="Better Life Broadcasting Network (US) (Tiz)"  group-title="Religion",Better Life Broadcasting Network (US) (Tiz)
 http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/28lb5ma.jpg" tvg-name="Better Life Nature Network (US) (Tiz)"  group-title="Religion",Better Life Nature Network (US) (Tiz)
 http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Better Life TV Three Angels Broadcasting Network (US) (Tiz)"  group-title="Religion",Better Life TV Three Angels Broadcasting Network (US) (Tiz)
+http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="Big Sky Conference (PlutoTV)"  group-title="PlutoTV",Big Sky Conference (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/59641d9173ac1fec2fc01f17/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/nova0y.jpg" tvg-name="Big Ten Network Opt-1 (US) (Tiz)"  group-title="Test",Big Ten Network Opt-1 (US) (Tiz)
-https://161.0.157.8/PLTV/88888888/224/3221226177/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/nova0y.jpg" tvg-name="Big Ten Network Opt-2 (US) (Tiz)"  group-title="Test",Big Ten Network Opt-2 (US) (Tiz)
-https://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/nova0y.jpg" tvg-name="Big Ten Network Opt-3 (US) (Tiz)"  group-title="Test",Big Ten Network Opt-3 (US) (Tiz)
-https://161.0.157.5/PLTV/88888888/224/3221226177/index.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="Black Cinema (PlutoTV)"  group-title="PlutoTV",Black Cinema (PlutoTV)
-https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+http://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/2rr3ud0.jpg" tvg-name="Bloomberg Asia (Tiz)"  group-title="News",Bloomberg Asia (Tiz)
-http://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/2rr3ud0.jpg" tvg-name="Bloomberg Asia Opt-2 (Tiz)"  group-title="Test",Bloomberg Asia Opt-2 (Tiz)
-https://bblive-liveprodapnortheast.hs.llnwd.net/btv/desktop/ap_live.m3u8
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2vskrj7.jpg" tvg-name="Bloomberg Australia Opt-1 (AU) (Tiz)"  group-title="News",Bloomberg Australia Opt-1 (AU) (Tiz)
 http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
@@ -291,9 +249,6 @@ http://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/10ynmfr.jpg" tvg-name="Bloomberg Europe (UK) (Tiz)"  group-title="News",Bloomberg Europe (UK) (Tiz)
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/10ynmfr.jpg" tvg-name="Bloomberg Europe Opt-2 (UK) (Tiz)"  group-title="Test",Bloomberg Europe Opt-2 (UK) (Tiz)
-https://bblive-liveprodeuwest.hs.llnwd.net/btv/desktop/eu_live.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/24pl0tw.jpg" tvg-name="Bloomberg India (IN) (Tiz)"  group-title="News",Bloomberg India (IN) (Tiz)
 http://bloomtv.live-s.cdn.bitgravity.com/cdn-live-b5/_definst_/bloomtv/live/feed01/playlist.m3u8
 
@@ -303,35 +258,17 @@ http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2rz6fbo.jpg" tvg-name="Bloomberg Opt-2 (US) (Tiz)"  group-title="News",Bloomberg Opt-2 (US) (Tiz)
 http://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2rz6fbo.jpg" tvg-name="Bloomberg Opt-3 (US) (Tiz)"  group-title="Test",Bloomberg Opt-3 (US) (Tiz)
-https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/206irdu.jpg" tvg-name="Bloomberg US Opt-1 (US) (Tiz)"  group-title="News",Bloomberg US Opt-1 (US) (Tiz)
 http://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/206irdu.jpg" tvg-name="Bloomberg US Opt-2 (US) (Tiz)"  group-title="News",Bloomberg US Opt-2 (US) (Tiz)
 http://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/206irdu.jpg" tvg-name="Bloomberg US Opt-3 (US) (Tiz)"  group-title="Test",Bloomberg US Opt-3 (US) (Tiz)
-https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-700-1_live.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/206irdu.jpg" tvg-name="Bloomberg US Opt-4 (US) (Tiz)"  group-title="Test",Bloomberg US Opt-4 (US) (Tiz)
-https://bblive-liveproduseast.hs.llnwd.net/btv/desktop/us_live.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/14wamw8.jpg" tvg-name="Box Hits (UK) (Tiz)"  group-title="Music",Box Hits (UK) (Tiz)
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/10n6nmp.jpg" tvg-name="Bravo Opt-1 (US) (Tiz)"  group-title="Test",Bravo Opt-1 (US) (Tiz)
-https://161.0.157.38/PLTV/88888888/224/3221226804/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/10n6nmp.jpg" tvg-name="Bravo Opt-2 (US) (Tiz)"  group-title="Test",Bravo Opt-2 (US) (Tiz)
-https://161.0.157.5/PLTV/88888888/224/3221226804/index.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/1zpqfzp.png" tvg-name="British Muslim TV (Tiz)"  group-title="Religion",British Muslim TV (Tiz)
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/british_muslim_tv-video=150000-audio_AACL_eng_65600_120=65600.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/mn2kwl.png" tvg-name="BT Sport 2 (UK) (Tiz)"  group-title="Test",BT Sport 2 (UK) (Tiz)
-https://185-8-178-139.livesports24.online/btsportsport2.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/415ja.png" tvg-name="Buzzr Opt-1 (Tiz)"  group-title="Mixed",Buzzr Opt-1 (Tiz)
 http://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8
@@ -347,6 +284,9 @@ http://video3.earthcam.com:1935/fecnetwork/9299.flv/chunklist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/ehnite.jpg" tvg-name="Cam Canada Toronto Ontario CN Tower 2 (Tiz)"  group-title="Cams",Cam Canada Toronto Ontario CN Tower 2 (Tiz)
 http://video3.earthcam.com:1935/fecnetwork/9298.flv/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2nbx5dk.jpg" tvg-name="Cam Costa Rica Villa Cam (Tiz)"  group-title="Cams",Cam Costa Rica Villa Cam (Tiz)
+http://videos3.earthcam.com/fecnetwork/15662.flv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/2u96g5x.jpg" tvg-name="Cam Dubai Atlantis The Palm (Tiz)"  group-title="Cams",Cam Dubai Atlantis The Palm (Tiz)
 http://videos3.earthcam.com/fecnetwork/5868.flv/playlist.m3u8
@@ -582,56 +522,23 @@ http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="Cars (PlutoTV)"  group-title="PlutoTV",Cars (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/2yuzmex.png" tvg-name="Cartoon Network Opt-1 ES/EN (Tiz)"  group-title="Test",Cartoon Network Opt-1 ES/EN (Tiz)
-https://161.0.157.5/PLTV/88888888/224/3221226843/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/2yuzmex.png" tvg-name="Cartoon Network Opt-2 ES/EN (Tiz)"  group-title="Test",Cartoon Network Opt-2 ES/EN (Tiz)
-https://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="Cash Cab? (PlutoTV)"  group-title="Test",Cash Cab? (PlutoTV)
-https://stitcher.pluto.tv/stitch/hls/channel/5c37dec3de714a458f5c0f41/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=cde3cigj2626i43pra7jrnrbs4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Catch (US) (Tiz)"  group-title="Test",Catch (US) (Tiz)
-http://161.0.157.38/PLTV/88888888/224/3221226865/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Catch 2 (US) (Tiz)"  group-title="Test",Catch 2 (US) (Tiz)
-http://161.0.157.8/PLTV/88888888/224/3221226874/03.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Catholic Faith Network Trinity TV (US) (Tiz)"  group-title="Test",Catholic Faith Network Trinity TV (US) (Tiz)
-http://161.0.157.38/PLTV/88888888/224/3221226638/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Catholic TV Opt-1 (US) (Tiz)"  group-title="Religion",Catholic TV Opt-1 (US) (Tiz)
-http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/2i96suq.jpg" tvg-name="Catholic TV Opt-2 (US) (Tiz)"  group-title="Religion",Catholic TV Opt-2 (US) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/2i96suq.jpg" tvg-name="Catholic TV (US) (Tiz)"  group-title="Religion",Catholic TV (US) (Tiz)
 http://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="Cats 24/7 (PlutoTV)"  group-title="PlutoTV",Cats 24/7 (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/1565lwi.jpg" tvg-name="CBBC (UK) (Tiz)"  group-title="Test",CBBC (UK) (Tiz)
-http://185.53.163.214:5678/ipvt_009
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/2zi0wwh.gif" tvg-name="CBC (CA) (Tiz)"  group-title="Test",CBC (CA) (Tiz)
-http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/5b75fk.jpg" tvg-name="CBC 08 Caribbean Broadcasting Corporation (BB) (Tiz)"  group-title="Test",CBC 08 Caribbean Broadcasting Corporation (BB) (Tiz)
-http://161.0.157.38/PLTV/88888888/224/3221226831/index.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/zv6edl.jpg" tvg-name="CBN News Opt-1 (US) (Tiz)"  group-title="Religion",CBN News Opt-1 (US) (Tiz)
 http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/zv6edl.jpg" tvg-name="CBN News Opt-2 (US) (Tiz)"  group-title="Religion",CBN News Opt-2 (US) (Tiz)
-http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/zv6edl.jpg" tvg-name="CBN News Opt-3 (US) (Tiz)"  group-title="Religion",CBN News Opt-3 (US) (Tiz)
-http://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
+https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/24fzeat.jpg" tvg-name="CBN Opt-1 (US) (Tiz)"  group-title="Religion",CBN Opt-1 (US) (Tiz)
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/24fzeat.jpg" tvg-name="CBN Opt-2 (US) (Tiz)"  group-title="Religion",CBN Opt-2 (US) (Tiz)
-http://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/2ptrukn.png" tvg-name="CBS 04 WFOR Miami FL Opt-1 (US) (Tiz)"  group-title="Local",CBS 04 WFOR Miami FL Opt-1 (US) (Tiz)
 http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
@@ -690,9 +597,6 @@ http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/2ykfar6.png" tvg-name="CGTN US (US) (Tiz)"  group-title="News",CGTN US (US) (Tiz)
 http://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/2ykfar6.png" tvg-name="CGTN US Opt-2 (US) (Tiz)"  group-title="Test",CGTN US Opt-2 (US) (Tiz)
-http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/wilg7q.png" tvg-name="Channel 7 (US) (Tiz)"  group-title="Mixed",Channel 7 (US) (Tiz)
 http://radio.7chan.org:8000/CH7
 
@@ -701,9 +605,6 @@ http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/14d0bps.png" tvg-name="Channel NewsAsia Opt-2 (UK) (Tiz)"  group-title="Mixed",Channel NewsAsia Opt-2 (UK) (Tiz)
 http://210.210.155.35/uq2663/h/h29/01.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/29ktnyv.jpg" tvg-name="Channel V6 (US) (Tiz)"  group-title="Mixed",Channel V6 (US) (Tiz)
-http://media2.stratanet.com:1935/live/mylivestream/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/2m27rx5.png" tvg-name="Charge (US) (Tiz)"  group-title="Mixed",Charge (US) (Tiz)
 http://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
@@ -738,31 +639,13 @@ http://stitcher.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="Classic TV (PlutoTV)"  group-title="PlutoTV",Classic TV (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/55383613c0b860c11a631e36/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="Clevver (PlutoTV)"  group-title="Test",Clevver (PlutoTV)
-https://stitcher.pluto.tv/stitch/hls/channel/587599db0decb235457c956d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CMC California Music Channel Opt-1 (US) (Tiz)"  group-title="Music",CMC California Music Channel Opt-1 (US) (Tiz)
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CMC California Music Channel Opt-2 (US) (Tiz)"  group-title="Music",CMC California Music Channel Opt-2 (US) (Tiz)
-http://cmctv.ios.internapcdn.net:80/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream0.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/2lmujrd.jpg" tvg-name="CMC-TV (Tiz)"  group-title="Music",CMC-TV (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/2lmujrd.jpg" tvg-name="CMC-TV California Music Channel (US) (Tiz)"  group-title="Music",CMC-TV California Music Channel (US) (Tiz)
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/23k42eq.jpg" tvg-name="CMC-USA (Tiz)"  group-title="Test",CMC-USA (Tiz)
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/im57ph.jpg" tvg-name="CMT (US) (Tiz)"  group-title="Test",CMT (US) (Tiz)
-https://espn.tmedia.me/cache/cmt.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="CNBC (PlutoTV)"  group-title="Test",CNBC (PlutoTV)
-https://stitcher.pluto.tv/stitch/hls/channel/57ebfd64f70792b24b5bd9a6/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/sq5ovc.png" tvg-name="CNBC Europe (UK) (Tiz)"  group-title="News",CNBC Europe (UK) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/sq5ovc.png" tvg-name="CNBC Europe Opt-1 (UK) (Tiz)"  group-title="News",CNBC Europe Opt-1 (UK) (Tiz)
 http://ott-cdn.ucom.am/s65/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/sq5ovc.jpg" tvg-name="CNBC Europe Opt-2 (UK) (Tiz)"  group-title="Test",CNBC Europe Opt-2 (UK) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/sq5ovc.jpg" tvg-name="CNBC Europe Opt-2 (UK) (Tiz)"  group-title="News",CNBC Europe Opt-2 (UK) (Tiz)
 http://83.81.112.133:9981/stream/channelid/1638842438
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/wqwpht.jpg" tvg-name="CNBC Opt-1 (US) (Tiz)"  group-title="News",CNBC Opt-1 (US) (Tiz)
@@ -776,12 +659,6 @@ http://b_cnbcprimehd_dv-lh.akamaihd.net/i/b_cnbcprimehd_dvr_1@100511/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/s3j4nk.jpg" tvg-name="CNBC World (UK) (Tiz)"  group-title="News",CNBC World (UK) (Tiz)
 http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/24w6c93.jpg" tvg-name="CNC3 News Opt-1 (TTO) (Tiz)"  group-title="Test",CNC3 News Opt-1 (TTO) (Tiz)
-http://161.0.157.38/PLTV/88888888/224/3221226845/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/24w6c93.jpg" tvg-name="CNC3 News Opt-2 (TTO) (Tiz)"  group-title="Test",CNC3 News Opt-2 (TTO) (Tiz)
-http://161.0.157.9/PLTV/88888888/224/3221226845/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="CNET (PlutoTV)"  group-title="PlutoTV",CNET (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/56283c8769ba54637dea0464/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
@@ -798,9 +675,6 @@ http://92.43.140.249/s27/04.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/2j3kxa1.png" tvg-name="CNN Opt-2 (US) (Tiz)"  group-title="News",CNN Opt-2 (US) (Tiz)
 http://1259541102.rsc.cdn77.org/LS-ATL-54548-9/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/2j3kxa1.png" tvg-name="CNN Opt-3 (US) (Tiz)"  group-title="Test",CNN Opt-3 (US) (Tiz)
-http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/8ycayp.jpg" tvg-name="CNN Philippines (PH) (Tiz)"  group-title="News",CNN Philippines (PH) (Tiz)
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 
@@ -812,9 +686,6 @@ http://stitcher.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="Comedy Central (PlutoTV)"  group-title="PlutoTV",Comedy Central (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=ecuqage0urlhccbp8kbecjc830
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/23r7p0z.png" tvg-name="Comedy Central (US) (Tiz)"  group-title="Test",Comedy Central (US) (Tiz)
-https://espn.tmedia.me/cache/cc.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="Comedy Central Standup (PlutoTV)"  group-title="PlutoTV",Comedy Central Standup (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/5ca675d6593a5d78f0e85c2e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=kcuqage0urlhccbp8kbecjc830
@@ -830,12 +701,6 @@ http://stitcher.pluto.tv/stitch/hls/channel/5bb1bb65268cae539bcedb0c/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/23m3lnp.jpg" tvg-name="CONtv (US) (Tiz)"  group-title="Mixed",CONtv (US) (Tiz)
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/23m0aac.png" tvg-name="Cooking Channel Opt-1 (US) (Tiz)"  group-title="Test",Cooking Channel Opt-1 (US) (Tiz)
-http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/23m0aac.png" tvg-name="Cooking Channel Opt-2 (US) (Tiz)"  group-title="Test",Cooking Channel Opt-2 (US) (Tiz)
-http://161.0.157.38/PLTV/88888888/224/3221226201/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/2ur9h50.jpg" tvg-name="CornerStone TV (US) (Tiz)"  group-title="Religion",CornerStone TV (US) (Tiz)
 http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/chunklist_w1852678767_b2328000_sleng.m3u8
@@ -933,13 +798,13 @@ http://www.djing.com/tv/underground.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="Documentaries (PlutoTV)"  group-title="PlutoTV",Documentaries (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/2w4zq76.jpg" tvg-name="Docurama (US) (Tiz)"  group-title="Test",Docurama (US) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/2w4zq76.jpg" tvg-name="Docurama (US) (Tiz)"  group-title="Mixed",Docurama (US) (Tiz)
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="DocuTV (PlutoTV)"  group-title="Test",DocuTV (PlutoTV)
-https://stitcher.pluto.tv/stitch/hls/channel/5695441df3ed8937070b1ac6/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="DocuTV (PlutoTV)"  group-title="PlutoTV",DocuTV (PlutoTV)
+http://stitcher.pluto.tv/stitch/hls/channel/5695441df3ed8937070b1ac6/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="Dog the Bounty Hunter (PlutoTV)"  group-title="Test",Dog the Bounty Hunter (PlutoTV)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="Dog the Bounty Hunter (PlutoTV)"  group-title="PlutoTV",Dog the Bounty Hunter (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=x24jbjrh2o33lln3jns6j2tmn0
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/14aa8vr.jpg" tvg-name="D-PAN Deaf Performing Artists Network (US) (Tiz)"  group-title="Mixed",D-PAN Deaf Performing Artists Network (US) (Tiz)
@@ -951,62 +816,20 @@ http://wescottcchls-lh.akamaihd.net/i/wcc_wowlivehls@24607/master.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="Drama (PlutoTV)"  group-title="PlutoTV",Drama (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="DramaFever (PlutoTV)"  group-title="Test",DramaFever (PlutoTV)
-http://stitcher.pluto.tv/stitch/hls/channel/5a667765a5c02e717a25dc0f/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=6&deviceId=&deviceVersion=&appVersion=&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2l1jqf.png" tvg-name="DSport (UK) (Tiz)"  group-title="Sports",DSport (UK) (Tiz)
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/166i0it.jpg" tvg-name="English Club TV (UK) (Tiz)"  group-title="Mixed",English Club TV (UK) (Tiz)
 http://ott-cdn.ucom.am/s37/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/szaqut.png" tvg-name="Entertainment Studios (US) (Tiz)"  group-title="Test",Entertainment Studios (US) (Tiz)
-http://161.0.157.38/PLTV/88888888/224/3221225713/index.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2n86md.jpg" tvg-name="ESPN (US) (Tiz)"  group-title="Sports",ESPN (US) (Tiz)
 http://80.80.160.168/live/6/live.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/3327wwh.jpg" tvg-name="ESPN News (Tiz)"  group-title="Test",ESPN News (Tiz)
-https://espn.tmedia.me/cache/espnews.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/2aiixj7.png" tvg-name="ESPN News (US) (Tiz)"  group-title="Test",ESPN News (US) (Tiz)
-https://espn.clinicalkey.icu/cache/espnews.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2n86md.jpg" tvg-name="ESPN Opt-2 (US) (Tiz)"  group-title="Test",ESPN Opt-2 (US) (Tiz)
-http://espn.clinicalkey.icu/cache/espn1.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2n86md.jpg" tvg-name="ESPN Opt-3 (US) (Tiz)"  group-title="Test",ESPN Opt-3 (US) (Tiz)
-http://espn.tmedia.me/cache/espn1_540.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2wd5apj.png" tvg-name="ESPN2 Opt-1 (US) (Tiz)"  group-title="Test",ESPN2 Opt-1 (US) (Tiz)
-http://161.0.157.5/PLTV/88888888/224/3221226881/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2wd5apj.png" tvg-name="ESPN2 Opt-2 (US) (Tiz)"  group-title="Test",ESPN2 Opt-2 (US) (Tiz)
-http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2wd5apj.png" tvg-name="ESPN2 Opt-3 (US) (Tiz)"  group-title="Test",ESPN2 Opt-3 (US) (Tiz)
-http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2wd5apj.png" tvg-name="ESPN2 Opt-4 (US) (Tiz)"  group-title="Test",ESPN2 Opt-4 (US) (Tiz)
-http://161.0.157.38/PLTV/88888888/224/3221226881/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2wd5apj.png" tvg-name="ESPN2+ (Tiz)"  group-title="Test",ESPN2+ (Tiz)
-http://espn.tmedia.me/cache/espn2_540.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/2dqkids.jpg" tvg-name="ESPNU (Tiz)"  group-title="Test",ESPNU (Tiz)
-http://espn.tmedia.me/cache/espnu.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/2dqkids.jpg" tvg-name="ESPNU (US) (Tiz)"  group-title="Test",ESPNU (US) (Tiz)
-http://espn.clinicalkey.icu/cache/espnu.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/29eg282.jpg" tvg-name="ET Live (US) (Tiz)"  group-title="Mixed",ET Live (US) (Tiz)
 http://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/idf9nd.jpg" tvg-name="ET Now India (Tiz)"  group-title="News",ET Now India (Tiz)
 http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/9zx0np.jpg" tvg-name="Euronews (UK) (Tiz)"  group-title="Test",Euronews (UK) (Tiz)
-https://83.81.112.133:9981/stream/channelid/474541016
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2a9xgtz.png" tvg-name="Evine Live (US) (Tiz)"  group-title="Shopping",Evine Live (US) (Tiz)
 https://aos01-evine.secure.footprint.net/evine/dirty/Evine_Dirty_VIDEO_1_2064000.m3u8
@@ -1041,10 +864,7 @@ http://stitcher.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/xfpvzs.jpg" tvg-name="FightBox (US) (Tiz)"  group-title="Sports",FightBox (US) (Tiz)
 http://ott-cdn.ucom.am/s86/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FiOS1 Hudson Valley NY (US) (Tiz)"  group-title="News",FiOS1 Hudson Valley NY (US) (Tiz)
-http://cdnapisec.kaltura.com/p/424341/sp/42434100/playManifest/entryId/1_is35xshu/format/applehttp/protocol/http/uiConfId/39790741/a.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/211l4yw.png" tvg-name="FiOS1 News (New York) (US) (Tiz)"  group-title="Local",FiOS1 News (New York) (US) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/211l4yw.png" tvg-name="FiOS1 Hudson Valley NY News (US) (Tiz)"  group-title="Local",FiOS1 Hudson Valley NY News (US) (Tiz)
 http://cdnapisec.kaltura.com/p/424341/sp/42434100/playManifest/entryId/1_is35xshu/format/applehttp/protocol/http/uiConfId/39790741/a.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="Flicks of Fury (PlutoTV)"  group-title="PlutoTV",Flicks of Fury (PlutoTV)
@@ -1071,11 +891,11 @@ http://api.new.livestream.com/accounts/4241684/events/2152811/live.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2ih72ub.png" tvg-name="Fox 05 WTTG Washington DC (US) (Tiz)"  group-title="Local",Fox 05 WTTG Washington DC (US) (Tiz)
 http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/oszmmw.png" tvg-name="Fox 07 WSVN Miami FL (US) (Tiz)"  group-title="Local",Fox 07 WSVN Miami FL (US) (Tiz)
-http://161.0.157.51/PLTV/88888888/224/3221227013/index.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/adnshx.jpg" tvg-name="Fox 07 WSVN Miami FL (US) (Tiz)"  group-title="Local",Fox 07 WSVN Miami FL (US) (Tiz)
 http://161.0.157.38/PLTV/88888888/224/3221227013/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/oszmmw.png" tvg-name="Fox 07 WSVN Miami FL (US) (Tiz)"  group-title="Local",Fox 07 WSVN Miami FL (US) (Tiz)
+http://161.0.157.51/PLTV/88888888/224/3221227013/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox 09 WWOR Secaucus NJ (US) (Tiz)"  group-title="Local",Fox 09 WWOR Secaucus NJ (US) (Tiz)
 http://161.0.157.9/PLTV/88888888/224/3221226727/03.m3u8
@@ -1122,27 +942,6 @@ http://1259541102.rsc.cdn77.org/LS-ATL-54548-4/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox News Opt-2 (US) (Tiz)"  group-title="News",Fox News Opt-2 (US) (Tiz)
 http://1259541102.rsc.cdn77.org/LS-ATL-54548-4/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/ajo4qu.jpg" tvg-name="Fox Premium Cinema Opt-1 (US) (Tiz)"  group-title="Test",Fox Premium Cinema Opt-1 (US) (Tiz)
-http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Premium Cinema Opt-2 (US) (Tiz)"  group-title="Test",Fox Premium Cinema Opt-2 (US) (Tiz)
-http://161.0.157.38/PLTV/88888888/224/3221226793/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/2ep0tpt.png" tvg-name="Fox Premium Comedy Opt-1 (US) (Tiz)"  group-title="Test",Fox Premium Comedy Opt-1 (US) (Tiz)
-http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Premium Comedy Opt-2 (US) (Tiz)"  group-title="Test",Fox Premium Comedy Opt-2 (US) (Tiz)
-http://161.0.157.38/PLTV/88888888/224/3221226800/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Premium Movies Opt-1 (US) (Tiz)"  group-title="Test",Fox Premium Movies Opt-1 (US) (Tiz)
-http://161.0.157.38/PLTV/88888888/224/3221226321/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/vym5gi.jpg" tvg-name="Fox Premium Movies Opt-2 (US) (Tiz)"  group-title="Test",Fox Premium Movies Opt-2 (US) (Tiz)
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/2nlxwz8.jpg" tvg-name="Fox Sport Racing (CA) (Tiz)"  group-title="Test",Fox Sport Racing (CA) (Tiz)
-http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="Fox Sports (PlutoTV)"  group-title="PlutoTV",Fox Sports (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
@@ -1151,12 +950,6 @@ http://45.58.62.92:8080
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/105wtnk.png" tvg-name="France 24 (UK) (Tiz)"  group-title="News",France 24 (UK) (Tiz)
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/105wtnk.png" tvg-name="France 24 Opt-2 (UK) (Tiz)"  group-title="Test",France 24 Opt-2 (UK) (Tiz)
-http://161.0.157.9/PLTV/88888888/224/3221226821/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="France 24 Opt-3 (US) (Tiz)"  group-title="Test",France 24 Opt-3 (US) (Tiz)
-http://161.0.157.38/PLTV/88888888/224/3221226821/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/25tuof8.png" tvg-name="Free Speech TV (US) (Tiz)"  group-title="Mixed",Free Speech TV (US) (Tiz)
 http://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
@@ -1173,7 +966,7 @@ http://stitcher.pluto.tv/stitch/hls/channel/561c5be8ada51f8004c4d856/master.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/2ztafr7.jpg" tvg-name="Gem Shopping Network (US) (Tiz)"  group-title="Shopping",Gem Shopping Network (US) (Tiz)
 http://replays.robertsstream.com/racereplays/cust/gemshopping/live.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/2ly4qyd.png" tvg-name="Gemporia Opt-1 (UK) (Tiz)"  group-title="Test",Gemporia Opt-1 (UK) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/2ly4qyd.png" tvg-name="Gemporia Opt-1 (UK) (Tiz)"  group-title="Shopping",Gemporia Opt-1 (UK) (Tiz)
 https://57d6b85685bb8.streamlock.net/abrgemporiaukgfx/livestream_source/chunklist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/2ly4qyd.png" tvg-name="Gemporia Opt-2 (UK) (Tiz)"  group-title="Shopping",Gemporia Opt-2 (UK) (Tiz)
@@ -1205,12 +998,6 @@ http://cdn.samtv.ca/hamdard/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/zx436s.png" tvg-name="Hard Knocks Fighting (CA) (Tiz)"  group-title="Sports",Hard Knocks Fighting (CA) (Tiz)
 http://vcnboutsports.teleosmedia.com/stream/boutsports/boutsports/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/jg1di0.jpg" tvg-name="HBO Opt-01 (Tiz)"  group-title="Test",HBO Opt-01 (Tiz)
-http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/jg1di0.jpg" tvg-name="HBO Opt-02 (Tiz)"  group-title="Test",HBO Opt-02 (Tiz)
-http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/a2xhzb.png" tvg-name="HBO2 Opt-01 (Tiz)"  group-title="Premium",HBO2 Opt-01 (Tiz)
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
@@ -1257,9 +1044,6 @@ http://stitcher.pluto.tv/stitch/hls/channel/580814179dfdf1f4141f78f5/master.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/k9vxpy.jpg" tvg-name="HLN (US) (Tiz)"  group-title="USA",HLN (US) (Tiz)
 http://1259541102.rsc.cdn77.org/LS-ATL-54548-7/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="Hoarding: Buried Alive (PlutoTV)"  group-title="Test",Hoarding: Buried Alive (PlutoTV)
-https://stitcher.pluto.tv/stitch/hls/channel/5ca2ac3688925d78c857465f/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=bpleiqkv48retieubjjds9qrm7
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/w2om75.jpg" tvg-name="Hope Channel (US) (Tiz)"  group-title="Religion",Hope Channel (US) (Tiz)
 http://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/master.m3u8
 
@@ -1274,12 +1058,6 @@ http://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/1zog86f.jpg" tvg-name="HSN2 (US) (Tiz)"  group-title="Shopping",HSN2 (US) (Tiz)
 http://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HYPE TV (CAR) (Tiz)"  group-title="Test",HYPE TV (CAR) (Tiz)
-http://161.0.157.38/PLTV/88888888/224/3221226726/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="I24 News (UK) (Tiz)"  group-title="Test",I24 News (UK) (Tiz)
-https://i24alive1-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/2dakb36.png" tvg-name="ID (US) (Tiz)"  group-title="USA",ID (US) (Tiz)
 http://80.80.160.168/live/5/live.m3u8
@@ -1301,24 +1079,6 @@ http://stitcher.pluto.tv/stitch/hls/channel/56b27a7badb45b1f50b91b0b/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/152p9ax.jpg" tvg-name="Investment Pitch (US) (Tiz)"  group-title="Mixed",Investment Pitch (US) (Tiz)
 http://www.30a-tv.com/InvPit.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/fvxxqh.jpg" tvg-name="ITV Be (UK) (Tiz)"  group-title="Test",ITV Be (UK) (Tiz)
-https://185.53.163.214:5678/ipvt_005
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2nvw3ma.jpg" tvg-name="ITV1 (UK) (Tiz)"  group-title="Test",ITV1 (UK) (Tiz)
-https://185.53.163.214:5678/ipvt_001
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/mr9wtv.jpg" tvg-name="ITV2 (UK) (Tiz)"  group-title="Test",ITV2 (UK) (Tiz)
-https://185.53.163.214:5678/ipvt_002
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/30moifs.jpg" tvg-name="ITV3 (UK) (Tiz)"  group-title="Test",ITV3 (UK) (Tiz)
-https://185.53.163.214:5678/ipvt_003
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/2myvzx2.jpg" tvg-name="ITV4 (UK) (Tiz)"  group-title="Test",ITV4 (UK) (Tiz)
-https://185.53.163.214:5678/ipvt_004
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="JASH (PlutoTV)"  group-title="Test",JASH (PlutoTV)
-https://stitcher.pluto.tv/stitch/hls/channel/598c8e2f3d8719a202ec66cc/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/kbaf4m.png" tvg-name="Jewellery Maker (UK) (Tiz)"  group-title="Shopping",Jewellery Maker (UK) (Tiz)
 http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
@@ -1350,14 +1110,8 @@ http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/4sbarb.png" tvg-name="Kool TV (US) (Tiz)"  group-title="Mixed",Kool TV (US) (Tiz)
 http://173.199.158.79:1935/roku/myStream/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KroneHit TV Opt-1 (AT) (Tiz)"  group-title="Music",KroneHit TV Opt-1 (AT) (Tiz)
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KroneHit TV Opt-2 (AT) (Tiz)"  group-title="Music",KroneHit TV Opt-2 (AT) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KroneHit TV (AT) (Tiz)"  group-title="Music",KroneHit TV (AT) (Tiz)
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="LA Ink + NY Ink (PlutoTV)"  group-title="Test",LA Ink + NY Ink (PlutoTV)
-https://stitcher.pluto.tv/stitch/hls/channel/5c2d6603bdf11b71587184b9/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=h1i2kmn8epo99i02q1oji559k6
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="LaSuperTV (CO) (Tiz)"  group-title="Music",LaSuperTV (CO) (Tiz)
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
@@ -1365,37 +1119,13 @@ http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="LifeVision TV (US) (Tiz)"  group-title="Religion",LifeVision TV (US) (Tiz)
 http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="LittleThings (PlutoTV)"  group-title="Test",LittleThings (PlutoTV)
-https://stitcher.pluto.tv/stitch/hls/channel/5984cbeaa0fc957e6e9195ab/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="Live Music Replay (PlutoTV)"  group-title="PlutoTV",Live Music Replay (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/ine90p.png" tvg-name="Live QVC (UK) (Tiz)"  group-title="Shopping",Live QVC (UK) (Tiz)
-http://live.qvcuk.simplestreamcdn.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/dfhojb.png" tvg-name="Live QVC +1 (UK) (Tiz)"  group-title="Shopping",Live QVC +1 (UK) (Tiz)
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/25zjkoi.png" tvg-name="Live QVC Beauty (UK) (Tiz)"  group-title="Shopping",Live QVC Beauty (UK) (Tiz)
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/161dbh5.png" tvg-name="Live QVC Extra (UK) (Tiz)"  group-title="Shopping",Live QVC Extra (UK) (Tiz)
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/a1l76h.png" tvg-name="Live QVC Style (UK) (Tiz)"  group-title="Shopping",Live QVC Style (UK) (Tiz)
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/2a8nk1h.jpg" tvg-name="Logo TV (US) (Tiz)"  group-title="Test",Logo TV (US) (Tiz)
-https://espn.tmedia.me/cache/logotv.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="Lucha Libre AAA (PlutoTV)"  group-title="PlutoTV",Lucha Libre AAA (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=z24jbjrh2o33lln3jns6j2tmn0
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/30su4xl.png" tvg-name="M20TV Opt-1 (IT) (Tiz)"  group-title="Music",M20TV Opt-1 (IT) (Tiz)
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="M20TV Opt-2 (IT) (Tiz)"  group-title="Music",M20TV Opt-2 (IT) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="M20 TV (IT) (Tiz)"  group-title="Music",M20 TV (IT) (Tiz)
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MaltaVision (MT) (Tiz)"  group-title="Music",MaltaVision (MT) (Tiz)
@@ -1461,47 +1191,11 @@ http://stitcher.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472ea4b/master.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="MTV Guy Code (PlutoTV)"  group-title="PlutoTV",MTV Guy Code (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/5ca68acec16f7d78dc161fe1/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=fcuqage0urlhccbp8kbecjc830
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/280oyvn.jpg" tvg-name="MTV Opt-2 (Tiz)"  group-title="USA",MTV Opt-2 (Tiz)
-https://espn.tmedia.me/cache/mtv.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="MTV Teen (PlutoTV)"  group-title="PlutoTV",MTV Teen (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/5ca68a4737b88b269472f1be/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jcuqage0urlhccbp8kbecjc830
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2d9sb9f.png" tvg-name="Music Choice (US) (Tiz)"  group-title="Music",Music Choice (US) (Tiz)
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/a1006.jpg" tvg-name="Muzzik (Tiz)"  group-title="Test",Muzzik (Tiz)
-https://mts-live.morescreens.com/mts-6/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/nqwnb9.jpg" tvg-name="Muzzik Cafe & Club (Tiz)"  group-title="Test",Muzzik Cafe & Club (Tiz)
-https://mts-live.morescreens.com/mts-3/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2epr34h.jpg" tvg-name="Muzzik Gen Z (Tiz)"  group-title="Test",Muzzik Gen Z (Tiz)
-https://mts-live.morescreens.com/mts-a2/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/bm0bb.jpg" tvg-name="Muzzik Hip Hop (Tiz)"  group-title="Test",Muzzik Hip Hop (Tiz)
-https://mts-live.morescreens.com/mts-a4/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/30skm52.jpg" tvg-name="Muzzik JEKA (Tiz)"  group-title="Test",Muzzik JEKA (Tiz)
-https://mts-live.morescreens.com/mts-4/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2qvxidg.jpg" tvg-name="Muzzik Mediteraneo (Tiz)"  group-title="Test",Muzzik Mediteraneo (Tiz)
-https://mts-live.morescreens.com/mts-a5/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/14izmzo.jpg" tvg-name="Muzzik OKK (Tiz)"  group-title="Test",Muzzik OKK (Tiz)
-https://mts-live.morescreens.com/mts-2/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/11r4o0h.jpg" tvg-name="Muzzik Rock & Roll (Tiz)"  group-title="Test",Muzzik Rock & Roll (Tiz)
-https://mts-live.morescreens.com/mts-1/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/2hwyywm.jpg" tvg-name="Muzzik Vision (Tiz)"  group-title="Test",Muzzik Vision (Tiz)
-https://mts-live.morescreens.com/mts-a3/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/2qn8wef.jpg" tvg-name="Muzzik WorldWide (Tiz)"  group-title="Test",Muzzik WorldWide (Tiz)
-https://mts-live.morescreens.com/mts-5/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/1zlswuh.png" tvg-name="My9 WWOR (US) (Tiz)"  group-title="Test",My9 WWOR (US) (Tiz)
-http://161.0.157.9/PLTV/88888888/224/3221226727/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="Mystery Science Theater 3000 (PlutoTV)"  group-title="PlutoTV",Mystery Science Theater 3000 (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/545943f1c9f133a519bbac92/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
@@ -1565,18 +1259,6 @@ http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC 36 WCNC Charlotte NC (US) (Tiz)"  group-title="Local",NBC 36 WCNC Charlotte NC (US) (Tiz)
 http://wcnc-lh.akamaihd.net/i/WCNC_Breaking_1@195112/master.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/30d9f7d.jpg" tvg-name="NBC Golf Opt-1 (Tiz)"  group-title="Test",NBC Golf Opt-1 (Tiz)
-https://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/30d9f7d.jpg" tvg-name="NBC Golf Opt-2 (US) (Tiz)"  group-title="Test",NBC Golf Opt-2 (US) (Tiz)
-https://161.0.157.38/PLTV/88888888/224/3221226812/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/30d9f7d.jpg" tvg-name="NBC Golf Opt-3 (US) (Tiz)"  group-title="Test",NBC Golf Opt-3 (US) (Tiz)
-https://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/6nxdgz.png" tvg-name="NDTV HD (Tiz)"  group-title="Test",NDTV HD (Tiz)
-https://ndtvstream-lh.akamaihd.net/i/ndtv_24x7_1@300633/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="Nerdist (PlutoTV)"  group-title="PlutoTV",Nerdist (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/561c5c7f3286e48904fb2586/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
@@ -1737,6 +1419,9 @@ http://granicusliveus4-a.akamaihd.net/collier/G0056_003/chunklist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/1hsgn7.jpg" tvg-name="PATV FL Escambia County TV (US) (Tiz)"  group-title="Local",PATV FL Escambia County TV (US) (Tiz)
 http://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/chunklist_w1496843195.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/vg52th.png" tvg-name="PATV FL Key TV Opt-1 (US) (Tiz)"  group-title="Local",PATV FL Key TV Opt-1 (US) (Tiz)
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/5b1zcz.jpg" tvg-name="PATV FL Key TV Opt-2 (US) (Tiz)"  group-title="Local",PATV FL Key TV Opt-2 (US) (Tiz)
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist.m3u8
 
@@ -1751,9 +1436,6 @@ http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fvefky.jpg" tvg-name="PATV FL Seminole Government TV (US) (Tiz)"  group-title="Local",PATV FL Seminole Government TV (US) (Tiz)
 http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/vg52th.png" tvg-name="PATV Florida Key TV (US) (Tiz)"  group-title="Local",PATV Florida Key TV (US) (Tiz)
-http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2cpuyyu.jpg" tvg-name="PATV GA Atlanta Channel Opt-1 (US) (Tiz)"  group-title="Local",PATV GA Atlanta Channel Opt-1 (US) (Tiz)
 http://granicusliveus12-a.akamaihd.net/azleg/G0247_012/chunklist.m3u8
@@ -1821,7 +1503,7 @@ http://granicusliveus2-a.akamaihd.net/bloomingtonmn/G1223_002/chunklist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PATV NC Greensboro TV Network (US) (Tiz)"  group-title="Local",PATV NC Greensboro TV Network (US) (Tiz)
 http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/2yoz4lu.jpg" tvg-name="PATV NC Raleigh RTN11 Government (US) (Tiz)"  group-title="Local",PATV NC Raleigh RTN11 Government (US) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/2yoz4lu.jpg" tvg-name="PATV NC Raleigh RTN11 Gov (US) (Tiz)"  group-title="Local",PATV NC Raleigh RTN11 Gov (US) (Tiz)
 http://granicusliveus2-a.akamaihd.net/raleigh/G0224_002/chunklist_w716725136.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PATV New Hyde Park NY (US) (Tiz)"  group-title="Local",PATV New Hyde Park NY (US) (Tiz)
@@ -1842,6 +1524,9 @@ http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/25tvymv.jpg" tvg-name="PATV Scotland STV (UK) (Tiz)"  group-title="Local",PATV Scotland STV (UK) (Tiz)
 http://185.53.163.214:5678/ipvt_011
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/29ktnyv.jpg" tvg-name="PATV UT Vernal Channel V6 (US) (Tiz)"  group-title="Mixed",PATV UT Vernal Channel V6 (US) (Tiz)
+http://media2.stratanet.com:1935/live/mylivestream/playlist.m3u8
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/25gbbkw.jpg" tvg-name="PATV VA Fairfax Public Access (US) (Tiz)"  group-title="Local",PATV VA Fairfax Public Access (US) (Tiz)
 http://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8
 
@@ -1857,9 +1542,6 @@ http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PATV WA TV Washington Opt-3 (US) (Tiz)"  group-title="Local",PATV WA TV Washington Opt-3 (US) (Tiz)
 http://d3ktuc8v2sjk6m.cloudfront.net/livetv/TVWAIR/chucklist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/2ezmp9j.jpg" tvg-name="PBS (US) (Tiz)"  group-title="Test",PBS (US) (Tiz)
-http://190.80.3.28/PBS/PBS.isml/index.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2vwa5ba.jpg" tvg-name="PBS Kids Opt-1 (US) (Tiz)"  group-title="KidsTV",PBS Kids Opt-1 (US) (Tiz)
 http://live-cdn.pbskids.org/out/u/aim/wtvs_3.m3u8
 
@@ -1868,9 +1550,6 @@ http://live-cdn.pbskids.org/out/u/est.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="People TV (PlutoTV)"  group-title="PlutoTV",People TV (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/59c2c3ae40e64939daad8b76/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=0&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/110hawx.png" tvg-name="Pets.TV (US) (Tiz)"  group-title="Test",Pets.TV (US) (Tiz)
-https://161.0.157.38/PLTV/88888888/224/3221226145/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/i26hhs.jpg" tvg-name="Planet Green (US) (Tiz)"  group-title="Mixed",Planet Green (US) (Tiz)
 http://80.80.160.168/live/4/live.m3u8
@@ -1887,42 +1566,6 @@ http://stitcher.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="Pluto TV Sports (PlutoTV)"  group-title="PlutoTV",Pluto TV Sports (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=tb3stkgum0jt2soq367mu97333
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2ufx8k3.png" tvg-name="PlutoMusic Dash Indie Rock (Tiz)"  group-title="Music",PlutoMusic Dash Indie Rock (Tiz)
-http://video.pluto.tv/dash_radio/station39/chunklist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2ufx8k3.png" tvg-name="PlutoMusic Dash Latin X (Tiz)"  group-title="Music",PlutoMusic Dash Latin X (Tiz)
-http://video.pluto.tv/dash_radio/station60/chunklist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2ufx8k3.png" tvg-name="PlutoMusic Dash Pop X (Tiz)"  group-title="Music",PlutoMusic Dash Pop X (Tiz)
-http://video.pluto.tv/dash_radio/station28/chunklist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2ufx8k3.png" tvg-name="PlutoMusic Dash X Pop (Tiz)"  group-title="Music",PlutoMusic Dash X Pop (Tiz)
-http://video.pluto.tv/dash_radio/station3/chunklist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2ufx8k3.png" tvg-name="PlutoMusic Decades 70's (Tiz)"  group-title="Music",PlutoMusic Decades 70's (Tiz)
-http://video.pluto.tv/dash_radio/station70/chunklist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2ufx8k3.png" tvg-name="PlutoMusic Decades 80's (Tiz)"  group-title="Music",PlutoMusic Decades 80's (Tiz)
-http://video.pluto.tv/dash_radio/station31/chunklist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2ufx8k3.png" tvg-name="PlutoMusic Decades 90's (Tiz)"  group-title="Music",PlutoMusic Decades 90's (Tiz)
-http://video.pluto.tv/dash_radio/station62/chunklist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2ufx8k3.png" tvg-name="PlutoMusic Decades Y2K (Tiz)"  group-title="Music",PlutoMusic Decades Y2K (Tiz)
-http://video.pluto.tv/dash_radio/station19/chunklist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2ufx8k3.png" tvg-name="PlutoMusic Loud Electronic & Dance (Tiz)"  group-title="Music",PlutoMusic Loud Electronic & Dance (Tiz)
-http://video.pluto.tv/dash_radio/station9/chunklist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2ufx8k3.png" tvg-name="PlutoMusic Tailgate Country (Tiz)"  group-title="Music",PlutoMusic Tailgate Country (Tiz)
-http://video.pluto.tv/dash_radio/station43/chunklist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2ufx8k3.png" tvg-name="PlutoMusic The City Hip Hop (Tiz)"  group-title="Music",PlutoMusic The City Hip Hop (Tiz)
-http://video.pluto.tv/dash_radio/station49/chunklist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2ufx8k3.png" tvg-name="PlutoMusic The Cross Faith & Gospel (Tiz)"  group-title="Music",PlutoMusic The Cross Faith & Gospel (Tiz)
-http://video.pluto.tv/dash_radio/station56/chunklist.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/m8n511.png" tvg-name="Pop (US) (Tiz)"  group-title="Mixed",Pop (US) (Tiz)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
 
@@ -1932,8 +1575,59 @@ http://stitcher.pluto.tv/stitch/hls/channel/561721d6ada51f8004c4b474/master.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/dzx9xy.png" tvg-name="Prime Canada TV (CA) (Tiz)"  group-title="CA",Prime Canada TV (CA) (Tiz)
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2ufx8k3.png" tvg-name="PTV Dash Decades 70's (Tiz)"  group-title="Music",PTV Dash Decades 70's (Tiz)
+http://video.pluto.tv/dash_radio/station70/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2ufx8k3.png" tvg-name="PTV Dash Decades 80's (Tiz)"  group-title="Music",PTV Dash Decades 80's (Tiz)
+http://video.pluto.tv/dash_radio/station31/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2ufx8k3.png" tvg-name="PTV Dash Decades 90's (Tiz)"  group-title="Music",PTV Dash Decades 90's (Tiz)
+http://video.pluto.tv/dash_radio/station62/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2ufx8k3.png" tvg-name="PTV Dash Decades Y2K (Tiz)"  group-title="Music",PTV Dash Decades Y2K (Tiz)
+http://video.pluto.tv/dash_radio/station19/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2ufx8k3.png" tvg-name="PTV Dash Indie Rock (Tiz)"  group-title="Music",PTV Dash Indie Rock (Tiz)
+http://video.pluto.tv/dash_radio/station39/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2ufx8k3.png" tvg-name="PTV Dash Latin X (Tiz)"  group-title="Music",PTV Dash Latin X (Tiz)
+http://video.pluto.tv/dash_radio/station60/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2ufx8k3.png" tvg-name="PTV Dash Loud Electronic & Dance (Tiz)"  group-title="Music",PTV Dash Loud Electronic & Dance (Tiz)
+http://video.pluto.tv/dash_radio/station9/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2ufx8k3.png" tvg-name="PTV Dash Pop X (Tiz)"  group-title="Music",PTV Dash Pop X (Tiz)
+http://video.pluto.tv/dash_radio/station28/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2ufx8k3.png" tvg-name="PTV Dash Tailgate Country (Tiz)"  group-title="Music",PTV Dash Tailgate Country (Tiz)
+http://video.pluto.tv/dash_radio/station43/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2ufx8k3.png" tvg-name="PTV Dash The City Hip Hop (Tiz)"  group-title="Music",PTV Dash The City Hip Hop (Tiz)
+http://video.pluto.tv/dash_radio/station49/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2ufx8k3.png" tvg-name="PTV Dash The Cross Faith & Gospel (Tiz)"  group-title="Music",PTV Dash The Cross Faith & Gospel (Tiz)
+http://video.pluto.tv/dash_radio/station56/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2ufx8k3.png" tvg-name="PTV Dash X Pop (Tiz)"  group-title="Music",PTV Dash X Pop (Tiz)
+http://video.pluto.tv/dash_radio/station3/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/ine90p.png" tvg-name="QVC (UK) (Tiz)"  group-title="Shopping",QVC (UK) (Tiz)
+http://live.qvcuk.simplestreamcdn.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/dfhojb.png" tvg-name="QVC +1 (UK) (Tiz)"  group-title="Shopping",QVC +1 (UK) (Tiz)
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/dfhojb.png" tvg-name="QVC +1 (UK) (Tiz)"  group-title="Shopping",QVC +1 (UK) (Tiz)
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/25zjkoi.png" tvg-name="QVC Beauty (UK) (Tiz)"  group-title="Shopping",QVC Beauty (UK) (Tiz)
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/161dbh5.png" tvg-name="QVC Extra (UK) (Tiz)"  group-title="Shopping",QVC Extra (UK) (Tiz)
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/a1l76h.png" tvg-name="QVC Style (UK) (Tiz)"  group-title="Shopping",QVC Style (UK) (Tiz)
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/ine90p.png" tvg-name="QVC1 Opt-1 (US) (Tiz)"  group-title="Shopping",QVC1 Opt-1 (US) (Tiz)
 http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
@@ -1954,7 +1648,7 @@ http://qvclvp2.mmdlive.lldns.net/qvclvp2/4bc0e8c660c94c00afcdae21479e2b95/manife
 http://203.213.16.202:9981/stream/channelid/118481239?ticket=474A27182DBEC18FCA15337E0F215FFAC94FBE09&profile=matroska
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/2eajlee.jpg" tvg-name="Radio 092.9 KBEZ Tulsa OK (Tiz)"  group-title="Radio",Radio 092.9 KBEZ Tulsa OK (Tiz)
-http://prod-54-82-27-224.wostreaming.net/griffin-kbezfmaac-ibc1
+https://prod-54-82-27-224.wostreaming.net/griffin-kbezfmaac-ibc1
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/2vbn9dl.jpg" tvg-name="Radio 093.7 KISR Fort Smith AR (Tiz)"  group-title="Radio",Radio 093.7 KISR Fort Smith AR (Tiz)
 http://ice41.securenetsystems.net/KISR
@@ -1993,7 +1687,7 @@ http://ice8.securenetsystems.net/KMYZ
 http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/9a7b5k.jpg" tvg-name="Radio 106.9 KHTT Tulsa OK (Tiz)"  group-title="Radio",Radio 106.9 KHTT Tulsa OK (Tiz)
-http://prod-54-82-27-224.wostreaming.net/griffin-khttfmaac-ibc1
+https://prod-54-82-27-224.wostreaming.net/griffin-khttfmaac-ibc1
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/r7vc06.png" tvg-name="Radio 107.1 K296GB Sacramento CA (US) (Tiz)"  group-title="Radio",Radio 107.1 K296GB Sacramento CA (US) (Tiz)
 http://c9.prod.playlists.ihrhls.com/4242/playlist.m3u8
@@ -2086,10 +1780,7 @@ http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
 http://stitcher.pluto.tv/stitch/hls/channel/5ac7d243cd17c85601684f57/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=iaasl9n3jh3esnglai5na3geu7
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="RiffTrax (PlutoTV)"  group-title="PlutoTV",RiffTrax (PlutoTV)
-http://stitcher.pluto.tv/stitch/hls/channel/58d947b9e420d8656ee101ab/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/29d8j5u.jpg" tvg-name="Ring Side Network (US) (Tiz)"  group-title="Test",Ring Side Network (US) (Tiz)
-https://58748bacc0282.streamlock.net/ringside/ringside/chunklist_w790608739.m3u8
+https://stitcher.pluto.tv/stitch/hls/channel/58d947b9e420d8656ee101ab/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="Romance (PlutoTV)"  group-title="PlutoTV",Romance (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=rb3stkgum0jt2soq367mu97333
@@ -2113,10 +1804,10 @@ http://ott-cdn.ucom.am/s93/index.m3u8
 http://rt-news.secure.footprint.net/1103-inadv-qidx-1k_v3.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/157z0i9.png" tvg-name="RT News Opt-2 (US) (Tiz)"  group-title="News",RT News Opt-2 (US) (Tiz)
-http://rt-news.secure.footprint.net:80/1103.m3u8
+http://ott-cdn.ucom.am/s96/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/157z0i9.png" tvg-name="RT News Opt-3 (US) (Tiz)"  group-title="News",RT News Opt-3 (US) (Tiz)
-http://ott-cdn.ucom.am/s96/index.m3u8
+http://rt-news.secure.footprint.net:80/1103.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/24f9r0p.png" tvg-name="RTE News Now (IE) (Tiz)"  group-title="News",RTE News Now (IE) (Tiz)
 http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
@@ -2145,11 +1836,8 @@ http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/315h9pu.jpg" tvg-name="School Globesville NYIT (US) (Tiz)"  group-title="Local",School Globesville NYIT (US) (Tiz)
 http://live-h1.frontlayer.net/fl592468/live/chunks.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/63r49j.png" tvg-name="School KBVR TV Oregon State University (US) (Tiz)"  group-title="Local",School KBVR TV Oregon State University (US) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/63r49j.png" tvg-name="School Oregon State University KBVR TV (US) (Tiz)"  group-title="Local",School Oregon State University KBVR TV (US) (Tiz)
 http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="School Longhorn Football Network (US) (Tiz)"  group-title="Test",School Longhorn Football Network (US) (Tiz)
-https://espn.tmedia.me/cache/lghn.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="School Southeastern Louisiana University (US) (Tiz)"  group-title="Local",School Southeastern Louisiana University (US) (Tiz)
 http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
@@ -2220,9 +1908,6 @@ http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/1golr5.jpg" tvg-name="Sky News US Opt-3 (US) (Tiz)"  group-title="News",Sky News US Opt-3 (US) (Tiz)
 http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/skynewsamericas_cdhls.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Sports Main Event (UK) (Tiz)"  group-title="Sports",Sky Sports Main Event (UK) (Tiz)
-http://sbsports.pro/lba/NDI5OGFiOTU4ZjFmYjQzOGU0YmRhYjkyMjNhYzA3MDc=/g2/maineventss.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/2isi34k.jpg" tvg-name="Sleep Radio (Tiz)"  group-title="Radio",Sleep Radio (Tiz)
 http://149.56.234.138:8169/stream
 
@@ -2241,9 +1926,6 @@ http://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/jpvby9.jpg" tvg-name="SonLife Broadcasting Network (US) (Tiz)"  group-title="Religion",SonLife Broadcasting Network (US) (Tiz)
 http://sonlife8-i.akamaihd.net/hls/live/585012/ch8/ch80/ch80.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/nd7bzp.jpg" tvg-name="Spike Paramount Network (US) (Tiz)"  group-title="Test",Spike Paramount Network (US) (Tiz)
-https://espn.tmedia.me/cache/spikeus.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="Sports News (PlutoTV)"  group-title="PlutoTV",Sports News (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/5812b223e58ad7c757009420/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
@@ -2253,14 +1935,8 @@ http://stitcher.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/14d2b6h.png" tvg-name="Spydar TV (US) (Tiz)"  group-title="Mixed",Spydar TV (US) (Tiz)
 https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/s48mcx.jpg" tvg-name="Stadium (US) (Tiz)"  group-title="Test",Stadium (US) (Tiz)
-https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="Stand-Up TV (PlutoTV)"  group-title="PlutoTV",Stand-Up TV (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="Survivorman (PlutoTV)"  group-title="Test",Survivorman (PlutoTV)
-https://stitcher.pluto.tv/stitch/hls/channel/5c6eec031846c82e15e01a9a/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a37cef12f9heq1mq8ah9ia4h70
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/6i67ux.png" tvg-name="Tastemade (US) (Tiz)"  group-title="Mixed",Tastemade (US) (Tiz)
 http://amagi-primary.akamaized.net/index.m3u8
@@ -2270,9 +1946,6 @@ http://trinity-lh.akamaihd.net/i/ttmain_d@82127/index_3128_av-p.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/w811sl.png" tvg-name="TBD (US) (Tiz)"  group-title="USA",TBD (US) (Tiz)
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/30jgsvl.png" tvg-name="TBS (US) (Tiz)"  group-title="Test",TBS (US) (Tiz)
-https://170.250.96.20:8117/streams/TBS.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/105w7z7.jpg" tvg-name="TCT Kids (Tiz)"  group-title="Religion",TCT Kids (Tiz)
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8
@@ -2310,9 +1983,6 @@ http://stitcher.pluto.tv/stitch/hls/channel/56377913f7c493ce618c4de1/master.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/2z3wi05.jpg" tvg-name="Three (UK) (Tiz)"  group-title="Mixed",Three (UK) (Tiz)
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Three Angels Broadcasting Network (US) (Tiz)"  group-title="Religion",Three Angels Broadcasting Network (US) (Tiz)
-http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/6z55xl.jpg" tvg-name="Thrill TV (US) (Tiz)"  group-title="Mixed",Thrill TV (US) (Tiz)
 http://210.210.155.35/qwr9ew/s/s34/index.m3u8
 
@@ -2331,12 +2001,6 @@ http://80.80.160.168/live/3/live.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/whntj6.png" tvg-name="TRT World (TU) (Tiz)"  group-title="News",TRT World (TU) (Tiz)
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV Jaagriti (TTO) (Tiz)"  group-title="Test",TV Jaagriti (TTO) (Tiz)
-http://161.0.157.38/PLTV/88888888/224/3221226848/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/24gofaw.jpg" tvg-name="TV Land (US) (Tiz)"  group-title="Test",TV Land (US) (Tiz)
-https://espn.tmedia.me/cache/tvland.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/2nsrwaq.jpg" tvg-name="TV MANA (UK) (Tiz)"  group-title="Religion",TV MANA (UK) (Tiz)
 http://c2.manasat.com:1935/church-online/ingles3/playlist.m3u8
 
@@ -2352,32 +2016,8 @@ http://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="Unsolved Mysteries (PlutoTV)"  group-title="PlutoTV",Unsolved Mysteries (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=&deviceModel=&embedPartner=pluto.tv&sid=3792htruebflrgcrn4utr475i7
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/dw82mg.png" tvg-name="USA Network (US) (Tiz)"  group-title="Test",USA Network (US) (Tiz)
-https://170.250.96.20:8105/USANET.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/sb28hh.jpg" tvg-name="VH1 Classic (UK) (Tiz)"  group-title="Test",VH1 Classic (UK) (Tiz)
-https://83.81.112.133:9981/stream/channelid/897974588
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2chtjc4.jpg" tvg-name="VH1 Europe (UK) (Tiz)"  group-title="Test",VH1 Europe (UK) (Tiz)
-https://161.0.157.51/PLTV/88888888/224/3221226078/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2e0jzx1.jpg" tvg-name="VH1 Mega Hits (Tiz)"  group-title="Music",VH1 Mega Hits (Tiz)
-http://deltatvfull.club:25461/8993/8993/29561
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/1zxt9n7.png" tvg-name="VH1 Opt-1 (Tiz)"  group-title="USA",VH1 Opt-1 (Tiz)
-http://deltatvfull.club:25461/8993/8993/29563
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/1zxt9n7.png" tvg-name="VH1 Opt-2 (Tiz)"  group-title="USA",VH1 Opt-2 (Tiz)
-http://deltatvfull.club:25461/8993/8993/29562
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/1zxt9n7.png" tvg-name="VH1 Opt-3 (Tiz)"  group-title="USA",VH1 Opt-3 (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/1zxt9n7.png" tvg-name="VH1 (Tiz)"  group-title="USA",VH1 (Tiz)
 http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/1zxt9n7.png" tvg-name="VH1 Opt-4 (Tiz)"  group-title="Test",VH1 Opt-4 (Tiz)
-https://espn.tmedia.me/cache/vh1.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/1zxt9n7.png" tvg-name="VH1 Opt-5 (Tiz)"  group-title="Test",VH1 Opt-5 (Tiz)
-http://161.0.157.5/PLTV/88888888/224/3221226078/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/erdcsh.jpg" tvg-name="Victory TV AR (US) (Tiz)"  group-title="Religion",Victory TV AR (US) (Tiz)
 http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8
@@ -2390,9 +2030,6 @@ http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="Voyager Documentaries (PlutoTV)"  group-title="PlutoTV",Voyager Documentaries (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=d24jbjrh2o33lln3jns6j2tmn0
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/1zzqphf.png" tvg-name="VTV Channel 6 Colorado (US) (Tiz)"  group-title="Local",VTV Channel 6 Colorado (US) (Tiz)
-http://hls.ksl.com/t/strata/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="Wahlburgers (PlutoTV)"  group-title="PlutoTV",Wahlburgers (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/5c6eeb011846c82e15e01a99/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a6vkbe38fqjt8dhs9uov8ef1t7
@@ -2412,23 +2049,11 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="What?! (PlutoTV)"  group-title="PlutoTV",What?! (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/5808e8c360976cdc1b19d374/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="What's On? (PlutoTV)"  group-title="Test",What's On? (PlutoTV)
-https://stitcher.pluto.tv/stitch/hls/channel/58e2cd77a84e99942f414e68/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2qukvn5.jpg" tvg-name="WHO 13 Weather (Iowa) (US) (Tiz)"  group-title="Local",WHO 13 Weather (Iowa) (US) (Tiz)
 http://whotribune-lh.akamaihd.net/i/WHOTribune_1@198423/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="Wipeout (PlutoTV)"  group-title="PlutoTV",Wipeout (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/5ab3e1242be690697279c75d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="World Fishing Network Opt-1 (CA) (Tiz)"  group-title="Test",World Fishing Network Opt-1 (CA) (Tiz)
-http://161.0.157.38/PLTV/88888888/224/3221226811/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/2hx7dj9.jpg" tvg-name="World Fishing Network Opt-2 (CA) (Tiz)"  group-title="Test",World Fishing Network Opt-2 (CA) (Tiz)
-http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/208yzqu.jpg" tvg-name="World Fishing Network Opt-3 (CA) (Tiz)"  group-title="Test",World Fishing Network Opt-3 (CA) (Tiz)
-http://161.0.157.51/PLTV/88888888/224/3221226811/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="World Poker Tour (PlutoTV)"  group-title="PlutoTV",World Poker Tour (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
@@ -2450,10 +2075,4 @@ http://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/35c1pg6.jpg" tvg-name="Z Living TV (US) (Tiz)"  group-title="Mixed",Z Living TV (US) (Tiz)
 http://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/2dlvls1.jpg" tvg-name="Zee Cinema (IN) (Tiz)"  group-title="Test",Zee Cinema (IN) (Tiz)
-http://161.0.157.38/PLTV/88888888/224/3221226709/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/2l8wv29.jpg" tvg-name="Zee World (IN) (Tiz)"  group-title="Test",Zee World (IN) (Tiz)
-http://161.0.157.38/PLTV/88888888/224/3221226542/index.m3u8
 
