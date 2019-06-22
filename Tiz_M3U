@@ -276,6 +276,9 @@ http://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/415ja.png" tvg-name="Buzzr Opt-2 (Tiz)"  group-title="Mixed",Buzzr Opt-2 (Tiz)
 http://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
 
+#EXTINF:-1, tvg-id="" tvg-logo="http://i65.tinypic.com/167p7yf.jpg" tvg-name="Cam Australia Sydney New South Wales (Tiz)"  group-title="Cams",Cam Australia Sydney New South Wales (Tiz)
+https://s42.ipcamlive.com/streams/2a5d0b9adacb67e90/stream.m3u8
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/devk2d.jpg" tvg-name="Cam Brazil Rio de Janeiro (Tiz)"  group-title="Cams",Cam Brazil Rio de Janeiro (Tiz)
 http://videos3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8
 
@@ -1615,10 +1618,10 @@ http://video.pluto.tv/dash_radio/station3/chunklist.m3u8
 http://live.qvcuk.simplestreamcdn.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/dfhojb.png" tvg-name="QVC +1 (UK) (Tiz)"  group-title="Shopping",QVC +1 (UK) (Tiz)
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
+http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/dfhojb.png" tvg-name="QVC +1 (UK) (Tiz)"  group-title="Shopping",QVC +1 (UK) (Tiz)
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/25zjkoi.png" tvg-name="QVC Beauty (UK) (Tiz)"  group-title="Shopping",QVC Beauty (UK) (Tiz)
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
