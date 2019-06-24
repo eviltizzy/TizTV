@@ -480,7 +480,10 @@ http://169.47.9.197:1935/live/wb.stream/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA North Dakota Cavalier (Tiz)"  group-title="Cams",Cam USA North Dakota Cavalier (Tiz)
 http://video3.earthcam.com:1935/fecnetwork/6698.flv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA Oklahoma West Siloam Springs Cherokee Casino  (US) (Tiz)"  group-title="Cams",Cam USA Oklahoma West Siloam Springs Cherokee Casino  (US) (Tiz)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA Oklahoma Pocola Choctaw Casino (Tiz)"  group-title="Cams",Cam USA Oklahoma Pocola Choctaw Casino (Tiz)
+http://216.198.184.106/mjpg/video.mjpg
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA Oklahoma West Siloam Springs Cherokee Casino (Tiz)"  group-title="Cams",Cam USA Oklahoma West Siloam Springs Cherokee Casino (Tiz)
 http://wms-prod-1.wetmet.net/live/170-02-01/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA Pennsylvania Doylestown (Tiz)"  group-title="Cams",Cam USA Pennsylvania Doylestown (Tiz)
