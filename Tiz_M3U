@@ -276,7 +276,7 @@ http://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/415ja.png" tvg-name="Buzzr Opt-2 (Tiz)"  group-title="Mixed",Buzzr Opt-2 (Tiz)
 http://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-logo="http://i65.tinypic.com/167p7yf.jpg" tvg-name="Cam Australia Sydney New South Wales (Tiz)"  group-title="Cams",Cam Australia Sydney New South Wales (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/167p7yf.jpg" tvg-name="Cam Australia Sydney New South Wales (Tiz)"  group-title="Cams",Cam Australia Sydney New South Wales (Tiz)
 https://s42.ipcamlive.com/streams/2a5d0b9adacb67e90/stream.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i65.tinypic.com/devk2d.jpg" tvg-name="Cam Brazil Rio de Janeiro (Tiz)"  group-title="Cams",Cam Brazil Rio de Janeiro (Tiz)
@@ -359,6 +359,9 @@ http://video3.earthcam.com:1935/fecnetwork/AbbeyRoadHD1.flv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/2bnyia.jpg" tvg-name="Cam UK Bognor Regis Beach Cam (Tiz)"  group-title="Cams",Cam UK Bognor Regis Beach Cam (Tiz)
 http://video3.earthcam.com:1935/fecnetwork/5288.flv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA Arkansas Fort Smith Area Agency on Aging (Tiz)"  group-title="Cams",Cam USA Arkansas Fort Smith Area Agency on Aging (Tiz)
+http://40.133.223.62/mjpg/video.mjpg
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i41.tinypic.com/25fsppc.jpg" tvg-name="Cam USA Arkansas Fort Smith Garrison Building (Tiz)"  group-title="Cams",Cam USA Arkansas Fort Smith Garrison Building (Tiz)
 http://wms-prod-1.wetmet.net/live/170-04-01/playlist.m3u8
@@ -894,11 +897,11 @@ http://api.new.livestream.com/accounts/4241684/events/2152811/live.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2ih72ub.png" tvg-name="Fox 05 WTTG Washington DC (US) (Tiz)"  group-title="Local",Fox 05 WTTG Washington DC (US) (Tiz)
 http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/oszmmw.png" tvg-name="Fox 07 WSVN Miami FL (US) (Tiz)"  group-title="Local",Fox 07 WSVN Miami FL (US) (Tiz)
-http://161.0.157.51/PLTV/88888888/224/3221227013/index.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/adnshx.jpg" tvg-name="Fox 07 WSVN Miami FL (US) (Tiz)"  group-title="Local",Fox 07 WSVN Miami FL (US) (Tiz)
 http://161.0.157.38/PLTV/88888888/224/3221227013/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i68.tinypic.com/oszmmw.png" tvg-name="Fox 07 WSVN Miami FL (US) (Tiz)"  group-title="Local",Fox 07 WSVN Miami FL (US) (Tiz)
+http://161.0.157.51/PLTV/88888888/224/3221227013/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox 09 WWOR Secaucus NJ (US) (Tiz)"  group-title="Local",Fox 09 WWOR Secaucus NJ (US) (Tiz)
 http://161.0.157.9/PLTV/88888888/224/3221226727/03.m3u8
