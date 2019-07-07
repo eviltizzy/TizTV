@@ -1188,7 +1188,7 @@ http://ott.mobcrush.com/hls/0/ott.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/15xr9xv.png" tvg-name="Movie Screen (UK) (Tiz)"  group-title="Premium",Movie Screen (UK) (Tiz)
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/ogyv6f.jpg" tvg-name="MSNBC (US) (Tiz)"  group-title="News",MSNBC (US) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/10zp7bc.jpg" tvg-name="MSNBC (US) (Tiz)"  group-title="News",MSNBC (US) (Tiz)
 http://1259541102.rsc.cdn77.org/LS-ATL-54548-15/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="MTV (PlutoTV)"  group-title="PlutoTV",MTV (PlutoTV)
@@ -1545,16 +1545,16 @@ http://media2.stratanet.com:1935/live/mylivestream/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/25gbbkw.jpg" tvg-name="PATV VA Fairfax Public Access (US) (Tiz)"  group-title="Local",PATV VA Fairfax Public Access (US) (Tiz)
 http://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2v1ks1t.jpg" tvg-name="PATV VA Town of Vienna Community Network (US) (Tiz)"  group-title="Local",PATV VA Town of Vienna Community Network (US) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/2iapet0.jpg" tvg-name="PATV VA Town of Vienna Community Network (US) (Tiz)"  group-title="Local",PATV VA Town of Vienna Community Network (US) (Tiz)
 http://granicusliveus2-a.akamaihd.net/vienna-va/G1359_002/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/s3hjx2.png" tvg-name="PATV WA TV Washington Opt-1 (US) (Tiz)"  group-title="Local",PATV WA TV Washington Opt-1 (US) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/n1xu6u.jpg" tvg-name="PATV WA TV Washington Opt-1 (US) (Tiz)"  group-title="Local",PATV WA TV Washington Opt-1 (US) (Tiz)
 http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/s3hjx2.png" tvg-name="PATV WA TV Washington Opt-2 (US) (Tiz)"  group-title="Local",PATV WA TV Washington Opt-2 (US) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/n1xu6u.jpg" tvg-name="PATV WA TV Washington Opt-2 (US) (Tiz)"  group-title="Local",PATV WA TV Washington Opt-2 (US) (Tiz)
 http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/s3hjx2.png" tvg-name="PATV WA TV Washington Opt-3 (US) (Tiz)"  group-title="Local",PATV WA TV Washington Opt-3 (US) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i66.tinypic.com/n1xu6u.jpg" tvg-name="PATV WA TV Washington Opt-3 (US) (Tiz)"  group-title="Local",PATV WA TV Washington Opt-3 (US) (Tiz)
 http://d3ktuc8v2sjk6m.cloudfront.net/livetv/TVWAIR/chucklist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2vwa5ba.jpg" tvg-name="PBS Kids Opt-1 (US) (Tiz)"  group-title="KidsTV",PBS Kids Opt-1 (US) (Tiz)
