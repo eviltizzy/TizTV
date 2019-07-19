@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1, tvg-id="00 TizTV 00" tvg-logo="http://i64.tinypic.com/14mt1qu.png" tvg-name="00 TizTV 00"  group-title="00 TizTV 00",00 TizTV 00
-http://www.dropbox.com/s/2d6j7fgjjg4tt5y/videoplayback.mp4?raw=1
+http://bit.ly/TizPirate
 
 #EXTINF:-1, tvg-id="00 TizTV 00" tvg-logo="http://i65.tinypic.com/zxpl6r.jpg" tvg-name="00 TizTV Test 00"  group-title="00 TizTV 00",00 TizTV Test 00
-http://www.dropbox.com/s/jholkqbka5z8p5l/Tiz%20Color%20Bars%20%26%20Tones%20Test.mp4?raw=1
+http://bit.ly/TizTestTV
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i64.tinypic.com/fy0494.jpg" tvg-name="1? Kids (PlutoTV)"  group-title="PlutoTV",1? Kids (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/5ad8d54be738977e2c310940/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=j7go93gc2nj2bijagutmn2d3v6
