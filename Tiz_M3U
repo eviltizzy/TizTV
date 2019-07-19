@@ -1783,7 +1783,7 @@ http://tunein4.streamguys1.com/claltfree1
 http://tunein4.streamguys1.com/clshhfree1
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i67.tinypic.com/2lxjgv4.png" tvg-name="Radio TuneIn Classic Hits (Tiz)"  group-title="Radio",Radio TuneIn Classic Hits (Tiz)
-http://tunein4.streamguys1.com/oldiefree1
+http://rfcmedia.streamguys1.com/classichits.mp3
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i63.tinypic.com/2qvfmmu.png" tvg-name="Radio TuneIn Classic Rock Hits (Tiz)"  group-title="Radio",Radio TuneIn Classic Rock Hits (Tiz)
 http://rfcmedia.streamguys1.com/classicrock.mp3
