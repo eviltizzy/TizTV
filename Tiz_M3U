@@ -1047,6 +1047,9 @@ http://cdn.samtv.ca/hamdard/index.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/L66cVn73/zx436s-1.png" tvg-name="Hard Knocks Fighting (CA) (Tiz)"  group-title="Sports",Hard Knocks Fighting (CA) (Tiz)
 http://vcnboutsports.teleosmedia.com/stream/boutsports/boutsports/playlist.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/d1D0RPH6/HBO.jpg" tvg-name="HBO1 (Tiz)"  group-title="Premium",HBO1 (Tiz)
+http://218.202.220.2:5000/nn_live.ts?id=HBO
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/wj1nSn9t/a2xhzb-1.png" tvg-name="HBO2 Opt-01 (Tiz)"  group-title="Premium",HBO2 Opt-01 (Tiz)
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
 
