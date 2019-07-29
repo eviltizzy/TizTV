@@ -582,9 +582,6 @@ https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/2SfTkJD9/24fzeat-1.jpg" tvg-name="CBN Opt-1 (US) (Tiz)"  group-title="Religion",CBN Opt-1 (US) (Tiz)
 https://i.postimg.cc/2SfTkJD9/24fzeat-1.jpg
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/2SfTkJD9/24fzeat-1.jpg" tvg-name="CBN Opt-2 (US) (Tiz)"  group-title="Religion",CBN Opt-2 (US) (Tiz)
-https://i.postimg.cc/2SfTkJD9/24fzeat-1.jpg
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/jdC9BBhp/2ptrukn-1.png" tvg-name="CBS 04 WFOR Miami FL Opt-1 (US) (Tiz)"  group-title="Local",CBS 04 WFOR Miami FL Opt-1 (US) (Tiz)
 http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
 
@@ -2391,7 +2388,7 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/C51HtTbd/ra9q4j-1.png" tvg-name="Xcorps TV (US) (Tiz)"  group-title="Mixed",Xcorps TV (US) (Tiz)
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://alliantcontent.com/wp-content/uploads/2011/05/Xive-Logo-Black-300x132.png" tvg-name="XiveTV (PlutoTV)"  group-title="PlutoTV",XiveTV (PlutoTV)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/WztFQgBZ/xivetv-logo-horizontal.jpg" tvg-name="XiveTV (PlutoTV)"  group-title="PlutoTV",XiveTV (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/HxWQcDZ3/35c1pg6-1.png" tvg-name="Z Living TV (US) (Tiz)"  group-title="Mixed",Z Living TV (US) (Tiz)
