@@ -582,6 +582,9 @@ https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/2SfTkJD9/24fzeat-1.jpg" tvg-name="CBN Opt-1 (US) (Tiz)"  group-title="Religion",CBN Opt-1 (US) (Tiz)
 https://i.postimg.cc/2SfTkJD9/24fzeat-1.jpg
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/2SfTkJD9/24fzeat-1.jpg" tvg-name="CBN Opt-2 (US) (Tiz)"  group-title="Religion",CBN Opt-2 (US) (Tiz)
+https://i.postimg.cc/2SfTkJD9/24fzeat-1.jpg
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/jdC9BBhp/2ptrukn-1.png" tvg-name="CBS 04 WFOR Miami FL Opt-1 (US) (Tiz)"  group-title="Local",CBS 04 WFOR Miami FL Opt-1 (US) (Tiz)
 http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
 
@@ -1968,6 +1971,9 @@ http://liveradio.cbc.ca/i/CBCR1_OTT@348188/master.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/mg0Mw1dc/2j5f1p3-1.jpg" tvg-name="Radio CBC 2 (CA) (Tiz)"  group-title="Radio",Radio CBC 2 (CA) (Tiz)
 http://liveradiocanada.cbc.ca/i/CBCR2_TOR@382863/master.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/TwZFFT0X/Cosmic-Fuzz-FM.jpg" tvg-name="Radio Cosmic FuzzFM"  group-title="Radio",Radio Cosmic FuzzFM
+http://18193.live.streamtheworld.com/SAM04AAC335.mp3
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/7L0zQPcK/102p1l3-1.jpg" tvg-name="Radio Cult Radio Go Go (Tiz)"  group-title="Radio",Radio Cult Radio Go Go (Tiz)
 http://s10.voscast.com:8502/;stream.mp3
 
@@ -1991,6 +1997,9 @@ http://us2.internet-radio.com:8443/
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/vHTVwtkg/14w7o8x-1.jpg" tvg-name="Radio Nick Radio (Tiz)"  group-title="Radio",Radio Nick Radio (Tiz)
 http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/xCtq3F3H/NPR-Logo.png" tvg-name="Radio NPR"  group-title="Radio",Radio NPR
+https://nprsxsw-lh.akamaihd.net/i/prog24_1@348758/index_256_a-p.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/SxbQj1BX/Tune-In-Classic-Alternative.jpg" tvg-name="Radio TuneIn Classic Alternative Hits (Tiz)"  group-title="Radio",Radio TuneIn Classic Alternative Hits (Tiz)
 http://tunein4.streamguys1.com/claltfree1
