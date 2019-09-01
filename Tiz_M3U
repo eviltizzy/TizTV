@@ -1737,49 +1737,49 @@ http://184.164.135.70:8259/listen.m3u
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/zfgwZFLS/25u4net-1.png" tvg-name="Radio ABC Canberra (AU) (Tiz)"  group-title="Radio",Radio ABC Canberra (AU) (Tiz)
 http://abcradiolivehls-lh.akamaihd.net/i/localcanberra_1@327263/master.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Radio BBC Asian Network (Tiz)"  group-title="Radio",Radio BBC Asian Network (Tiz)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/769gJ1yf/BBC-Asia.jpg" tvg-name="Radio BBC Asian Network (Tiz)"  group-title="Radio",Radio BBC Asian Network (Tiz)
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_asianet_mf_p
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Radio BBC World Service (UK) (Tiz)"  group-title="Radio",Radio BBC World Service (UK) (Tiz)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/NFPmpgFt/BBC-World-Service.jpg" tvg-name="Radio BBC World Service (UK) (Tiz)"  group-title="Radio",Radio BBC World Service (UK) (Tiz)
 http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/hjRLSQTF/6y2mmx-1.jpg" tvg-name="Radio BBC1 (UK) (Tiz)"  group-title="Radio",Radio BBC1 (UK) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/hjRLSQTF/6y2mmx-1.jpg" tvg-name="Radio BBC1 Opt-1 (UK) (Tiz)"  group-title="Radio",Radio BBC1 Opt-1 (UK) (Tiz)
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Radio BBC1 (UK) (Tiz)"  group-title="Radio",Radio BBC1 (UK) (Tiz)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/hjRLSQTF/6y2mmx-1.jpg" tvg-name="Radio BBC1 Opt-2 (UK) (Tiz)"  group-title="Radio",Radio BBC1 Opt-2 (UK) (Tiz)
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Radio BBC1 Xtra (UK) (Tiz)"  group-title="Radio",Radio BBC1 Xtra (UK) (Tiz)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/8kyR1bHY/BBC1-Xtra.jpg" tvg-name="Radio BBC1 Xtra (UK) (Tiz)"  group-title="Radio",Radio BBC1 Xtra (UK) (Tiz)
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Radio BBC2 (UK) (Tiz)"  group-title="Radio",Radio BBC2 (UK) (Tiz)
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/0j87SgVc/zmczex-1.png" tvg-name="Radio BBC2 (UK) (Tiz)"  group-title="Radio",Radio BBC2 (UK) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/0j87SgVc/zmczex-1.png" tvg-name="Radio BBC2 Opt-1 (UK) (Tiz)"  group-title="Radio",Radio BBC2 Opt-1 (UK) (Tiz)
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_two.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/fyBmjHFZ/1yoaar-1.jpg" tvg-name="Radio BBC3 (UK) (Tiz)"  group-title="Radio",Radio BBC3 (UK) (Tiz)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/0j87SgVc/zmczex-1.png" tvg-name="Radio BBC2 Opt-2 (UK) (Tiz)"  group-title="Radio",Radio BBC2 Opt-2 (UK) (Tiz)
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/fyBmjHFZ/1yoaar-1.jpg" tvg-name="Radio BBC3 Opt-1 (UK) (Tiz)"  group-title="Radio",Radio BBC3 Opt-1 (UK) (Tiz)
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_three.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Radio BBC3 (UK) (Tiz)"  group-title="Radio",Radio BBC3 (UK) (Tiz)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/fyBmjHFZ/1yoaar-1.jpg" tvg-name="Radio BBC3 Opt-2 (UK) (Tiz)"  group-title="Radio",Radio BBC3 Opt-2 (UK) (Tiz)
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/CMNGg1Kt/102tf1z-1.jpg" tvg-name="Radio BBC4 (UK) (Tiz)"  group-title="Radio",Radio BBC4 (UK) (Tiz)
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_fourfm.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Radio BBC4 Extra (UK) (Tiz)"  group-title="Radio",Radio BBC4 Extra (UK) (Tiz)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/s2vX4pSM/BBC4-Extra.jpg" tvg-name="Radio BBC4 Extra (UK) (Tiz)"  group-title="Radio",Radio BBC4 Extra (UK) (Tiz)
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_p
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Radio BBC4 FM (UK) (Tiz)"  group-title="Radio",Radio BBC4 FM (UK) (Tiz)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/yNtFm6Jz/BBC4FM.jpg" tvg-name="Radio BBC4 FM (UK) (Tiz)"  group-title="Radio",Radio BBC4 FM (UK) (Tiz)
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Radio BBC4 LW (UK) (Tiz)"  group-title="Radio",Radio BBC4 LW (UK) (Tiz)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/fLSfpS4L/BBC4-LW.jpg" tvg-name="Radio BBC4 LW (UK) (Tiz)"  group-title="Radio",Radio BBC4 LW (UK) (Tiz)
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4lw_mf_p
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Radio BBC5 Live (UK) (Tiz)"  group-title="Radio",Radio BBC5 Live (UK) (Tiz)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/9QS4S8cd/bbc-radio-5live.jpg" tvg-name="Radio BBC5 Live (UK) (Tiz)"  group-title="Radio",Radio BBC5 Live (UK) (Tiz)
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Radio BBC6 Music (UK) (Tiz)"  group-title="Radio",Radio BBC6 Music (UK) (Tiz)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/fLR69K0P/BBC6-Music.jpg" tvg-name="Radio BBC6 Music (UK) (Tiz)"  group-title="Radio",Radio BBC6 Music (UK) (Tiz)
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/FsHjs4dK/2mg8ex1-1.jpg" tvg-name="Radio Beats 1 (Tiz)"  group-title="Radio",Radio Beats 1 (Tiz)
