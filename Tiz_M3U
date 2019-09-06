@@ -315,6 +315,12 @@ http://video3.earthcam.com:1935/fecnetwork/4135.flv/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/mkJ9cxMz/25fsppc-1.jpg" tvg-name="Cam USA Florida Lauderdale by the Sea (Tiz)"  group-title="Cams",Cam USA Florida Lauderdale by the Sea (Tiz)
 http://video3.earthcam.com:1935/fecnetwork/windjammerHD2.flv/playlist.m3u8
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Cam USA Florida Panama City Beach Schooners 1 (Tiz)"  group-title="Cams",Cam USA Florida Panama City Beach Schooners 1 (Tiz)
+https://58f0f58ecd733.streamlock.net:444/schoonersbeachHDCam/schbeach/playlist.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Cam USA Florida Panama City Beach Schooners 2 (Tiz)"  group-title="New Group",Cam USA Florida Panama City Beach Schooners 2 (Tiz)
+https://58f0f58ecd733.streamlock.net:444/schoonerssunsetHDCam392023487563/schsun/playlist.m3u8
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/mkJ9cxMz/25fsppc-1.jpg" tvg-name="Cam USA Georgia Atlanta (Tiz)"  group-title="Cams",Cam USA Georgia Atlanta (Tiz)
 http://wms-prod-1.wetmet.net/live/73-02-01/playlist.m3u8
 
@@ -1680,7 +1686,7 @@ https://prod-54-82-27-224.wostreaming.net/griffin-kbezfmaac-ibc1
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/MGvPcBnv/2vbn9dl-1.jpg" tvg-name="Radio 093.7 KISR Fort Smith AR (Tiz)"  group-title="Radio",Radio 093.7 KISR Fort Smith AR (Tiz)
 http://ice41.securenetsystems.net/KISR
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/6QgHCQZz/10o1czm-1.png" tvg-name="Radio 094.1 K231BS Fort Smith AR (Tiz)"  group-title="Radio",Radio 094.1 K231BS Fort Smith AR (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/6QgHCQZz/10o1czm-1.png" tvg-name="Radio 094.1 K231BS Fort Smith AR The Fort (Tiz)"  group-title="Radio",Radio 094.1 K231BS Fort Smith AR The Fort (Tiz)
 http://ice42.securenetsystems.net/KISRHD2
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/26W0GfFY/246kvp3-1.jpg" tvg-name="Radio 094.5 KFPW Fort Smith AR (Tiz)"  group-title="Radio",Radio 094.5 KFPW Fort Smith AR (Tiz)
@@ -1704,11 +1710,17 @@ http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/3xb9Hwt7/9r7v9u-1.png" tvg-name="Radio 100.5 KATT OKC OK (Tiz)"  group-title="Radio",Radio 100.5 KATT OKC OK (Tiz)
 http://15363.live.streamtheworld.com/KATTFMAAC_SC
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/bw8g7PP6/The-River101-9.jpg" tvg-name="Radio 101.9 K270BR Fort Smith AR The River"  group-title="Radio",Radio 101.9 K270BR Fort Smith AR The River
+http://ice42.securenetsystems.net/KISRHD3
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/SK2dQpP9/1or5lc-1.jpg" tvg-name="Radio 102.7 KBBQ Fort Smith AR (Tiz)"  group-title="Radio",Radio 102.7 KBBQ Fort Smith AR (Tiz)
 http://14943.live.streamtheworld.com/KBBQFMAAC_SC
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/FR0xcVNs/28u3cow-1.jpg" tvg-name="Radio 104.5 KMYZ Tulsa OK (Tiz)"  group-title="Radio",Radio 104.5 KMYZ Tulsa OK (Tiz)
 http://ice8.securenetsystems.net/KMYZ
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/SKxrKGJC/The-Rooster105-5.png" tvg-name="Radio 105.5 K288GO Fort Smith AR The Rooster (Tiz)"  group-title="Radio",Radio 105.5 K288GO Fort Smith AR The Rooster (Tiz)
+http://ice42.securenetsystems.net/KISRHD4
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/j2K4hnS6/rur18l-1.jpg" tvg-name="Radio 106.7 WLTW NY NY (Tiz)"  group-title="Radio",Radio 106.7 WLTW NY NY (Tiz)
 http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
