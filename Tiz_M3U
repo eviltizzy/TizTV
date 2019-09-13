@@ -345,7 +345,7 @@ http://video3.earthcam.com:1935/fecnetwork/windjammerHD2.flv/playlist.m3u8
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Cam USA Florida Panama City Beach Schooners 1 (Tiz)"  group-title="Cams",Cam USA Florida Panama City Beach Schooners 1 (Tiz)
 https://58f0f58ecd733.streamlock.net:444/schoonersbeachHDCam/schbeach/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Cam USA Florida Panama City Beach Schooners 2 (Tiz)"  group-title="New Group",Cam USA Florida Panama City Beach Schooners 2 (Tiz)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Cam USA Florida Panama City Beach Schooners 2 (Tiz)"  group-title="Cams",Cam USA Florida Panama City Beach Schooners 2 (Tiz)
 https://58f0f58ecd733.streamlock.net:444/schoonerssunsetHDCam392023487563/schsun/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/mkJ9cxMz/25fsppc-1.jpg" tvg-name="Cam USA Georgia Atlanta (Tiz)"  group-title="Cams",Cam USA Georgia Atlanta (Tiz)
