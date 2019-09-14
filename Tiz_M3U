@@ -225,6 +225,9 @@ http://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Sourc
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/4dKNYY1P/206irdu-1.jpg" tvg-name="Bloomberg US Opt-2 (US) (Tiz)"  group-title="News",Bloomberg US Opt-2 (US) (Tiz)
 http://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" tvg-name="Boomerang (US) (Tiz)"  group-title="KidsTV",Boomerang (US) (Tiz)
+http://185.246.209.109:8080/BOOMERANG/index.m3u8
+
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Boston WBTS (LoCast)"  group-title="LoCast",Boston WBTS (LoCast)
 https://acdn.locastnet.org/proxy/bos1/wbts_src.m3u8
 
@@ -318,7 +321,7 @@ http://video3.earthcam.com:1935/fecnetwork/AbbeyRoadHD1.flv/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/fyJXTW3Q/2bnyia-1.jpg" tvg-name="Cam UK Bognor Regis Beach Cam (Tiz)"  group-title="Cams",Cam UK Bognor Regis Beach Cam (Tiz)
 http://video3.earthcam.com:1935/fecnetwork/5288.flv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/mkJ9cxMz/25fsppc-1.jpg" tvg-name="Cam USA Arkansas Fort Smith Area Agency on Aging (Tiz)"  group-title="Cams",Cam USA Arkansas Fort Smith Area Agency on Aging (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/mkJ9cxMz/25fsppc-1.jpg" tvg-name="Cam USA Arkansas Fort Smith Area Agency on Aging (Tiz)"  group-title="Cams",Cam USA Arkansas Fort Smith Area Agency on Aging (Tiz)
 http://40.133.223.62/mjpg/video.mjpg
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/mkJ9cxMz/25fsppc-1.jpg" tvg-name="Cam USA Arkansas Fort Smith Garrison Building (Tiz)"  group-title="Cams",Cam USA Arkansas Fort Smith Garrison Building (Tiz)
@@ -342,10 +345,10 @@ http://video3.earthcam.com:1935/fecnetwork/4135.flv/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/mkJ9cxMz/25fsppc-1.jpg" tvg-name="Cam USA Florida Lauderdale by the Sea (Tiz)"  group-title="Cams",Cam USA Florida Lauderdale by the Sea (Tiz)
 http://video3.earthcam.com:1935/fecnetwork/windjammerHD2.flv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Cam USA Florida Panama City Beach Schooners 1 (Tiz)"  group-title="Cams",Cam USA Florida Panama City Beach Schooners 1 (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="New Logo" tvg-name="Cam USA Florida Panama City Beach Schooners 1 (Tiz)"  group-title="Cams",Cam USA Florida Panama City Beach Schooners 1 (Tiz)
 https://58f0f58ecd733.streamlock.net:444/schoonersbeachHDCam/schbeach/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Cam USA Florida Panama City Beach Schooners 2 (Tiz)"  group-title="Cams",Cam USA Florida Panama City Beach Schooners 2 (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="New Logo" tvg-name="Cam USA Florida Panama City Beach Schooners 2 (Tiz)"  group-title="Cams",Cam USA Florida Panama City Beach Schooners 2 (Tiz)
 https://58f0f58ecd733.streamlock.net:444/schoonerssunsetHDCam392023487563/schsun/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/mkJ9cxMz/25fsppc-1.jpg" tvg-name="Cam USA Georgia Atlanta (Tiz)"  group-title="Cams",Cam USA Georgia Atlanta (Tiz)
@@ -429,7 +432,7 @@ http://169.47.9.197:1935/live/wb.stream/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/mkJ9cxMz/25fsppc-1.jpg" tvg-name="Cam USA North Dakota Cavalier (Tiz)"  group-title="Cams",Cam USA North Dakota Cavalier (Tiz)
 http://video3.earthcam.com:1935/fecnetwork/6698.flv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/mkJ9cxMz/25fsppc-1.jpg" tvg-name="Cam USA Oklahoma Pocola Choctaw Casino (Tiz)"  group-title="Cams",Cam USA Oklahoma Pocola Choctaw Casino (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/mkJ9cxMz/25fsppc-1.jpg" tvg-name="Cam USA Oklahoma Pocola Choctaw Casino (Tiz)"  group-title="Cams",Cam USA Oklahoma Pocola Choctaw Casino (Tiz)
 http://216.198.184.106/mjpg/video.mjpg
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/mkJ9cxMz/25fsppc-1.jpg" tvg-name="Cam USA Oklahoma West Siloam Springs Cherokee Casino (Tiz)"  group-title="Cams",Cam USA Oklahoma West Siloam Springs Cherokee Casino (Tiz)
@@ -1040,6 +1043,9 @@ http://api.new.livestream.com/accounts/11328309/events/3653675/live.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX Business Network (US) (Tiz)"  group-title="News",FOX Business Network (US) (Tiz)
 http://1329918864.rsc.cdn77.org/ls-54548-1/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.iptv-epg.com/us/FoxNews.us.png" tvg-name="Fox News (US) (Tiz)"  group-title="News",Fox News (US) (Tiz)
+http://23.237.22.82:8086/udp/127.0.0.1:56077
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/2SXrW4SW/5bpqax-1.png" tvg-name="Fox Sports (UK) (Tiz)"  group-title="Sports",Fox Sports (UK) (Tiz)
 http://45.58.62.92:8080
@@ -2031,7 +2037,7 @@ http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/3xb9Hwt7/9r7v9u-1.png" tvg-name="Radio 100.5 KATT OKC OK (Tiz)"  group-title="Radio",Radio 100.5 KATT OKC OK (Tiz)
 http://15363.live.streamtheworld.com/KATTFMAAC_SC
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/bw8g7PP6/The-River101-9.jpg" tvg-name="Radio 101.9 K270BR Fort Smith AR The River"  group-title="Radio",Radio 101.9 K270BR Fort Smith AR The River
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/bw8g7PP6/The-River101-9.jpg" tvg-name="Radio 101.9 K270BR Fort Smith AR The River"  group-title="Radio",Radio 101.9 K270BR Fort Smith AR The River
 http://ice42.securenetsystems.net/KISRHD3
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/SK2dQpP9/1or5lc-1.jpg" tvg-name="Radio 102.7 KBBQ Fort Smith AR (Tiz)"  group-title="Radio",Radio 102.7 KBBQ Fort Smith AR (Tiz)
@@ -2040,7 +2046,7 @@ http://14943.live.streamtheworld.com/KBBQFMAAC_SC
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/FR0xcVNs/28u3cow-1.jpg" tvg-name="Radio 104.5 KMYZ Tulsa OK (Tiz)"  group-title="Radio",Radio 104.5 KMYZ Tulsa OK (Tiz)
 http://ice8.securenetsystems.net/KMYZ
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/SKxrKGJC/The-Rooster105-5.png" tvg-name="Radio 105.5 K288GO Fort Smith AR The Rooster (Tiz)"  group-title="Radio",Radio 105.5 K288GO Fort Smith AR The Rooster (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/SKxrKGJC/The-Rooster105-5.png" tvg-name="Radio 105.5 K288GO Fort Smith AR The Rooster (Tiz)"  group-title="Radio",Radio 105.5 K288GO Fort Smith AR The Rooster (Tiz)
 http://ice42.securenetsystems.net/KISRHD4
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/j2K4hnS6/rur18l-1.jpg" tvg-name="Radio 106.7 WLTW NY NY (Tiz)"  group-title="Radio",Radio 106.7 WLTW NY NY (Tiz)
@@ -2070,49 +2076,49 @@ http://184.164.135.70:8259/listen.m3u
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/zfgwZFLS/25u4net-1.png" tvg-name="Radio ABC Canberra (AU) (Tiz)"  group-title="Radio",Radio ABC Canberra (AU) (Tiz)
 http://abcradiolivehls-lh.akamaihd.net/i/localcanberra_1@327263/master.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/769gJ1yf/BBC-Asia.jpg" tvg-name="Radio BBC Asian Network (Tiz)"  group-title="Radio",Radio BBC Asian Network (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/769gJ1yf/BBC-Asia.jpg" tvg-name="Radio BBC Asian Network (Tiz)"  group-title="Radio",Radio BBC Asian Network (Tiz)
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_asianet_mf_p
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/NFPmpgFt/BBC-World-Service.jpg" tvg-name="Radio BBC World Service (UK) (Tiz)"  group-title="Radio",Radio BBC World Service (UK) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/NFPmpgFt/BBC-World-Service.jpg" tvg-name="Radio BBC World Service (UK) (Tiz)"  group-title="Radio",Radio BBC World Service (UK) (Tiz)
 http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/hjRLSQTF/6y2mmx-1.jpg" tvg-name="Radio BBC1 Opt-1 (UK) (Tiz)"  group-title="Radio",Radio BBC1 Opt-1 (UK) (Tiz)
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/hjRLSQTF/6y2mmx-1.jpg" tvg-name="Radio BBC1 Opt-2 (UK) (Tiz)"  group-title="Radio",Radio BBC1 Opt-2 (UK) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/hjRLSQTF/6y2mmx-1.jpg" tvg-name="Radio BBC1 Opt-2 (UK) (Tiz)"  group-title="Radio",Radio BBC1 Opt-2 (UK) (Tiz)
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/8kyR1bHY/BBC1-Xtra.jpg" tvg-name="Radio BBC1 Xtra (UK) (Tiz)"  group-title="Radio",Radio BBC1 Xtra (UK) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/8kyR1bHY/BBC1-Xtra.jpg" tvg-name="Radio BBC1 Xtra (UK) (Tiz)"  group-title="Radio",Radio BBC1 Xtra (UK) (Tiz)
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/0j87SgVc/zmczex-1.png" tvg-name="Radio BBC2 Opt-1 (UK) (Tiz)"  group-title="Radio",Radio BBC2 Opt-1 (UK) (Tiz)
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_two.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/0j87SgVc/zmczex-1.png" tvg-name="Radio BBC2 Opt-2 (UK) (Tiz)"  group-title="Radio",Radio BBC2 Opt-2 (UK) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/0j87SgVc/zmczex-1.png" tvg-name="Radio BBC2 Opt-2 (UK) (Tiz)"  group-title="Radio",Radio BBC2 Opt-2 (UK) (Tiz)
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/fyBmjHFZ/1yoaar-1.jpg" tvg-name="Radio BBC3 Opt-1 (UK) (Tiz)"  group-title="Radio",Radio BBC3 Opt-1 (UK) (Tiz)
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_three.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/fyBmjHFZ/1yoaar-1.jpg" tvg-name="Radio BBC3 Opt-2 (UK) (Tiz)"  group-title="Radio",Radio BBC3 Opt-2 (UK) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/fyBmjHFZ/1yoaar-1.jpg" tvg-name="Radio BBC3 Opt-2 (UK) (Tiz)"  group-title="Radio",Radio BBC3 Opt-2 (UK) (Tiz)
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/CMNGg1Kt/102tf1z-1.jpg" tvg-name="Radio BBC4 (UK) (Tiz)"  group-title="Radio",Radio BBC4 (UK) (Tiz)
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_fourfm.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2Spy7qGG/BBC4-Extra.jpg" tvg-name="Radio BBC4 Extra (UK) (Tiz)"  group-title="Radio",Radio BBC4 Extra (UK) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/2Spy7qGG/BBC4-Extra.jpg" tvg-name="Radio BBC4 Extra (UK) (Tiz)"  group-title="Radio",Radio BBC4 Extra (UK) (Tiz)
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_p
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/yNtFm6Jz/BBC4FM.jpg" tvg-name="Radio BBC4 FM (UK) (Tiz)"  group-title="Radio",Radio BBC4 FM (UK) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/yNtFm6Jz/BBC4FM.jpg" tvg-name="Radio BBC4 FM (UK) (Tiz)"  group-title="Radio",Radio BBC4 FM (UK) (Tiz)
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/fLSfpS4L/BBC4-LW.jpg" tvg-name="Radio BBC4 LW (UK) (Tiz)"  group-title="Radio",Radio BBC4 LW (UK) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/fLSfpS4L/BBC4-LW.jpg" tvg-name="Radio BBC4 LW (UK) (Tiz)"  group-title="Radio",Radio BBC4 LW (UK) (Tiz)
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4lw_mf_p
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/9QS4S8cd/bbc-radio-5live.jpg" tvg-name="Radio BBC5 Live (UK) (Tiz)"  group-title="Radio",Radio BBC5 Live (UK) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/9QS4S8cd/bbc-radio-5live.jpg" tvg-name="Radio BBC5 Live (UK) (Tiz)"  group-title="Radio",Radio BBC5 Live (UK) (Tiz)
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/fLR69K0P/BBC6-Music.jpg" tvg-name="Radio BBC6 Music (UK) (Tiz)"  group-title="Radio",Radio BBC6 Music (UK) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/fLR69K0P/BBC6-Music.jpg" tvg-name="Radio BBC6 Music (UK) (Tiz)"  group-title="Radio",Radio BBC6 Music (UK) (Tiz)
 http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/FsHjs4dK/2mg8ex1-1.jpg" tvg-name="Radio Beats 1 (Tiz)"  group-title="Radio",Radio Beats 1 (Tiz)
@@ -2735,3 +2741,4 @@ http://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/HxWQcDZ3/35c1pg6-1.png" tvg-name="Z ComedyTV (US) (Tiz)"  group-title="Mixed",Z ComedyTV (US) (Tiz)
 http://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
+
