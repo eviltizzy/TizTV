@@ -1867,7 +1867,7 @@ http://us2.internet-radio.com:8443/
 http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/xCtq3F3H/NPR-Logo.png" tvg-name="Radio NPR (Tiz)"  group-title="Radio",Radio NPR (Tiz)
-https://npr-ice.streamguys1.com/live.mp3
+http://npr-ice.streamguys1.com/live.mp3
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/sx7D31YL/2isi34k-1.jpg" tvg-name="Radio Sleep (Tiz)"  group-title="Radio",Radio Sleep (Tiz)
 http://149.56.234.138:8169/stream
