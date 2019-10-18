@@ -228,33 +228,6 @@ http://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-1, tvg-id="Boomerang.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" tvg-name="Boomerang (US) (Tiz)"  group-title="KidsTV",Boomerang (US) (Tiz)
 http://185.246.209.109:8080/BOOMERANG/index.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Boston WBTS (LoCast)"  group-title="LoCast",Boston WBTS (LoCast)
-https://acdn.locastnet.org/proxy/bos1/wbts_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Boston WBZ (LoCast)"  group-title="LoCast",Boston WBZ (LoCast)
-https://acdn.locastnet.org/proxy/bos2/wbz_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Boston WCVB (LoCast)"  group-title="LoCast",Boston WCVB (LoCast)
-https://acdn.locastnet.org/proxy/bos2/wcvb_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Boston WFXT (LoCast)"  group-title="LoCast",Boston WFXT (LoCast)
-https://acdn.locastnet.org/proxy/bos1/wfxt_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Boston WGBH (LoCast)"  group-title="LoCast",Boston WGBH (LoCast)
-https://acdn.locastnet.org/proxy/bos1/wgbh_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Boston WHDH (LoCast)"  group-title="LoCast",Boston WHDH (LoCast)
-https://acdn.locastnet.org/proxy/bos2/whdh_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Boston WLVI (LoCast)"  group-title="LoCast",Boston WLVI (LoCast)
-https://acdn.locastnet.org/proxy/bos2/wlvi_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Boston WNEU (LoCast)"  group-title="LoCast",Boston WNEU (LoCast)
-https://acdn.locastnet.org/proxy/bos1/wneu_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Boston WSBK (LoCast)"  group-title="LoCast",Boston WSBK (LoCast)
-https://acdn.locastnet.org/proxy/bos1/wsbk_src.m3u8
-
 #EXTINF:-1, tvg-id="BoxHits.uk" tvg-logo="https://i.postimg.cc/150RVhDk/14wamw8-1.png" tvg-name="Box Hits (UK) (Tiz)"  group-title="Music",Box Hits (UK) (Tiz)
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
@@ -582,48 +555,6 @@ http://live.chdrstatic.com/cheddar/primary/1.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/Y9Zn7CRT/jq1i4m-1.png" tvg-name="Cheddar Opt-2 (Tiz)"  group-title="News",Cheddar Opt-2 (Tiz)
 http://live.chdrstatic.com/cheddar/primary/5.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Chicago WBBM (LoCast)"  group-title="LoCast",Chicago WBBM (LoCast)
-https://acdn.locastnet.org/proxy/chi1/wbbm_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Chicago WCIU (LoCast)"  group-title="LoCast",Chicago WCIU (LoCast)
-https://acdn.locastnet.org/proxy/chi2/wciu_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Chicago WCPX (LoCast)"  group-title="LoCast",Chicago WCPX (LoCast)
-https://acdn.locastnet.org/proxy/chi2/wcpx_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Chicago WFLD (LoCast)"  group-title="LoCast",Chicago WFLD (LoCast)
-https://acdn.locastnet.org/proxy/chi2/wfld_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Chicago WGBO (LoCast)"  group-title="LoCast",Chicago WGBO (LoCast)
-https://acdn.locastnet.org/proxy/chi1/wgbo_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Chicago WGN (LoCast)"  group-title="LoCast",Chicago WGN (LoCast)
-https://acdn.locastnet.org/proxy/chi1/wgn_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Chicago WLS (LoCast)"  group-title="LoCast",Chicago WLS (LoCast)
-https://acdn.locastnet.org/proxy/chi1/wls_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Chicago WMAQ (LoCast)"  group-title="LoCast",Chicago WMAQ (LoCast)
-https://acdn.locastnet.org/proxy/chi1/wmaq_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Chicago WMEU (LoCast)"  group-title="LoCast",Chicago WMEU (LoCast)
-https://acdn.locastnet.org/proxy/chi2/wmeu_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Chicago WPWR (My50) (LoCast)"  group-title="LoCast",Chicago WPWR (My50) (LoCast)
-https://acdn.locastnet.org/proxy/chi1/wpwr_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Chicago WSNS (LoCast)"  group-title="LoCast",Chicago WSNS (LoCast)
-https://acdn.locastnet.org/proxy/chi2/wsns_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Chicago WTTW (LoCast)"  group-title="LoCast",Chicago WTTW (LoCast)
-https://acdn.locastnet.org/proxy/chi2/wttw_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Chicago WWME (MeTV) (LoCast)"  group-title="LoCast",Chicago WWME (MeTV) (LoCast)
-https://acdn.locastnet.org/proxy/chi2/wwme_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Chicago WXFT (LoCast)"  group-title="LoCast",Chicago WXFT (LoCast)
-https://acdn.locastnet.org/proxy/chi1/wxft_src.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/v8x2z5Hy/23w08ww-1.jpg" tvg-name="Christian Youth Channel (US) (Tiz)"  group-title="Religion",Christian Youth Channel (US) (Tiz)
 http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist.m3u8
 
@@ -773,45 +704,6 @@ http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
 
 #EXTINF:-1, tvg-id="CWwsfl.us" tvg-logo="https://i.postimg.cc/2yYHyKpx/5bwjgm-1.png" tvg-name="CW 27-39 WSFL-TV Miami FL (US) (Tiz)"  group-title="Local",CW 27-39 WSFL-TV Miami FL (US) (Tiz)
 http://190.80.3.28/CW/CW.isml/index.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Dallas KDAF (LoCast)"  group-title="LoCast",Dallas KDAF (LoCast)
-https://acdn.locastnet.org/proxy/dal1/kdaf_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Dallas KDFI (Fox4More) (LoCast)"  group-title="LoCast",Dallas KDFI (Fox4More) (LoCast)
-https://acdn.locastnet.org/proxy/dal2/kdfi_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Dallas KDFW (LoCast)"  group-title="LoCast",Dallas KDFW (LoCast)
-https://acdn.locastnet.org/proxy/dal1/kdfw_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Dallas KDTN (DayStar) (LoCast)"  group-title="LoCast",Dallas KDTN (DayStar) (LoCast)
-https://acdn.locastnet.org/proxy/dal1/kdtn_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Dallas KERA (LoCast)"  group-title="LoCast",Dallas KERA (LoCast)
-https://acdn.locastnet.org/proxy/dal1/kera_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Dallas KMPX (LoCast)"  group-title="LoCast",Dallas KMPX (LoCast)
-https://acdn.locastnet.org/proxy/dal2/kmpx_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Dallas KPXD (LoCast)"  group-title="LoCast",Dallas KPXD (LoCast)
-https://acdn.locastnet.org/proxy/dal1/kpxd_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Dallas KSTR (LoCast)"  group-title="LoCast",Dallas KSTR (LoCast)
-https://acdn.locastnet.org/proxy/dal2/kstr_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Dallas KTVT (LoCast)"  group-title="LoCast",Dallas KTVT (LoCast)
-https://acdn.locastnet.org/proxy/dal1/ktvt_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Dallas KUVN (LoCast)"  group-title="LoCast",Dallas KUVN (LoCast)
-https://acdn.locastnet.org/proxy/dal2/kuvn_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Dallas KXAS (LoCast)"  group-title="LoCast",Dallas KXAS (LoCast)
-https://acdn.locastnet.org/proxy/dal2/kxas_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Dallas KXTX (LoCast)"  group-title="LoCast",Dallas KXTX (LoCast)
-https://acdn.locastnet.org/proxy/dal1/kxtx_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Dallas WFAA (LoCast)"  group-title="LoCast",Dallas WFAA (LoCast)
-https://acdn.locastnet.org/proxy/dal2/wfaa_src.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/QCqfTJhZ/2e0r6nk-1.jpg" tvg-name="Darcizzle Offshore (US) (Tiz)"  group-title="Sports",Darcizzle Offshore (US) (Tiz)
 http://30a-tv.com/darcizzle.m3u8
@@ -1161,51 +1053,6 @@ http://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/3rkcV8kh/Pluto-TV-Logo.jpg" tvg-name="Horror 24/7 Opt-2 (PlutoTV)"  group-title="PlutoTV",Horror 24/7 Opt-2 (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Houston KETH (TBN) (LoCast)"  group-title="LoCast",Houston KETH (TBN) (LoCast)
-https://acdn.locastnet.org/proxy/hou1/keth_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Houston KFTH (LoCast)"  group-title="LoCast",Houston KFTH (LoCast)
-https://acdn.locastnet.org/proxy/hou2/kfth_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Houston KHOU (LoCast)"  group-title="LoCast",Houston KHOU (LoCast)
-https://acdn.locastnet.org/proxy/hou3/khou_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Houston KIAH (LoCast)"  group-title="LoCast",Houston KIAH (LoCast)
-https://acdn.locastnet.org/proxy/hou2/kiah_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Houston KLTJ (DayStar) (LoCast)"  group-title="LoCast",Houston KLTJ (DayStar) (LoCast)
-https://acdn.locastnet.org/proxy/hou1/kltj_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Houston KPRC (LoCast)"  group-title="LoCast",Houston KPRC (LoCast)
-https://acdn.locastnet.org/proxy/hou1/kprc_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Houston KPXB (LoCast)"  group-title="LoCast",Houston KPXB (LoCast)
-https://acdn.locastnet.org/proxy/hou2/kpxb_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Houston KRIV (LoCast)"  group-title="LoCast",Houston KRIV (LoCast)
-https://acdn.locastnet.org/proxy/hou1/kriv_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Houston KTMD (LoCast)"  group-title="LoCast",Houston KTMD (LoCast)
-https://acdn.locastnet.org/proxy/hou2/ktmd_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Houston KTRK (LoCast)"  group-title="LoCast",Houston KTRK (LoCast)
-https://acdn.locastnet.org/proxy/hou3/ktrk_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Houston KTXH (LoCast)"  group-title="LoCast",Houston KTXH (LoCast)
-https://acdn.locastnet.org/proxy/hou1/ktxh_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Houston KUBE (LoCast)"  group-title="LoCast",Houston KUBE (LoCast)
-https://acdn.locastnet.org/proxy/hou2/kube_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Houston KUHT (LoCast)"  group-title="LoCast",Houston KUHT (LoCast)
-https://acdn.locastnet.org/proxy/hou2/kuht_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Houston KXLN (LoCast)"  group-title="LoCast",Houston KXLN (LoCast)
-https://acdn.locastnet.org/proxy/hou2/kxln_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Houston KYAZ (LoCast)"  group-title="LoCast",Houston KYAZ (LoCast)
-https://acdn.locastnet.org/proxy/hou2/kyaz_src.m3u8
-
 #EXTINF:-1, tvg-id="HomeShoppingNetwork.us" tvg-logo="https://i.postimg.cc/2yjKTKHS/2qtcndj-1.jpg" tvg-name="HSN (US) (Tiz)"  group-title="Shopping",HSN (US) (Tiz)
 http://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
 
@@ -1283,132 +1130,6 @@ http://stitcher.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ce5a8954311f992edbe1da2/featuredImage.jpg" tvg-name="Logo (PlutoTV)"  group-title="PlutoTV",Logo (PlutoTV)
 https://stitcher.pluto.tv/stitch/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=300lm1j6kehed04ucl6d6fc4q7
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KABC (Laff) (LoCast)"  group-title="LoCast",Los Angeles KABC (Laff) (LoCast)
-https://acdn.locastnet.org/proxy/lax1/kabclaff_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KABC (LiveWell) (LoCast)"  group-title="LoCast",Los Angeles KABC (LiveWell) (LoCast)
-https://acdn.locastnet.org/proxy/lax1/kabclivwell_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KABC (LoCast)"  group-title="LoCast",Los Angeles KABC (LoCast)
-https://acdn.locastnet.org/proxy/lax1/kabc_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KAZA (Decades) (LoCast)"  group-title="LoCast",Los Angeles KAZA (Decades) (LoCast)
-https://acdn.locastnet.org/proxy/lax3/kazadecades_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KAZA (MeTV) (LoCast)"  group-title="LoCast",Los Angeles KAZA (MeTV) (LoCast)
-https://acdn.locastnet.org/proxy/lax3/kaza_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KCAL (LoCast)"  group-title="LoCast",Los Angeles KCAL (LoCast)
-https://acdn.locastnet.org/proxy/lax1/kcal_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KCAL (Stadium) (LoCast)"  group-title="LoCast",Los Angeles KCAL (Stadium) (LoCast)
-https://acdn.locastnet.org/proxy/lax1/kcalstadium_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KCBS (LoCast)"  group-title="LoCast",Los Angeles KCBS (LoCast)
-https://acdn.locastnet.org/proxy/lax4/kcbs_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KCET (Link) (LoCast)"  group-title="LoCast",Los Angeles KCET (Link) (LoCast)
-https://acdn.locastnet.org/proxy/lax4/kcetlnk_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KCET (LoCast)"  group-title="LoCast",Los Angeles KCET (LoCast)
-https://acdn.locastnet.org/proxy/lax4/kcet_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KCET (NHKWorld) (LoCast)"  group-title="LoCast",Los Angeles KCET (NHKWorld) (LoCast)
-https://acdn.locastnet.org/proxy/lax4/kcetnhk_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KCOP (Buzzr) (LoCast)"  group-title="LoCast",Los Angeles KCOP (Buzzr) (LoCast)
-https://acdn.locastnet.org/proxy/lax2/kcopbuzzr_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KCOP (Movies) (LoCast)"  group-title="LoCast",Los Angeles KCOP (Movies) (LoCast)
-https://acdn.locastnet.org/proxy/lax2/kcopmovies_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KCOP (My13) (LoCast)"  group-title="LoCast",Los Angeles KCOP (My13) (LoCast)
-https://acdn.locastnet.org/proxy/lax2/kcop_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KDOC (Charge) (LoCast)"  group-title="LoCast",Los Angeles KDOC (Charge) (LoCast)
-https://acdn.locastnet.org/proxy/lax2/kdoccharge_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KDOC (Comet) (LoCast)"  group-title="LoCast",Los Angeles KDOC (Comet) (LoCast)
-https://acdn.locastnet.org/proxy/lax2/kdoccomet_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KDOC (LoCast)"  group-title="LoCast",Los Angeles KDOC (LoCast)
-https://acdn.locastnet.org/proxy/lax2/kdoc_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KFLA (AMG) (LoCast)"  group-title="LoCast",Los Angeles KFLA (AMG) (LoCast)
-https://acdn.locastnet.org/proxy/lax5/kflaamg_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KFLA (NewsNet) (LoCast)"  group-title="LoCast",Los Angeles KFLA (NewsNet) (LoCast)
-https://acdn.locastnet.org/proxy/lax1/kfla_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KFLA (TCN) (LoCast)"  group-title="LoCast",Los Angeles KFLA (TCN) (LoCast)
-https://acdn.locastnet.org/proxy/lax4/kflatcn_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KFTR (Escape) (LoCast)"  group-title="LoCast",Los Angeles KFTR (Escape) (LoCast)
-https://acdn.locastnet.org/proxy/lax4/kftrescape_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KFTR (GetTV) (LoCast)"  group-title="LoCast",Los Angeles KFTR (GetTV) (LoCast)
-https://acdn.locastnet.org/proxy/lax4/kftrgettv_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KFTR (Grit) (LoCast)"  group-title="LoCast",Los Angeles KFTR (Grit) (LoCast)
-https://acdn.locastnet.org/proxy/lax4/kftrgrit_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KFTR (Quest) (LoCast)"  group-title="LoCast",Los Angeles KFTR (Quest) (LoCast)
-https://acdn.locastnet.org/proxy/lax4/kftrquest_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KLCS (Create) (LoCast)"  group-title="LoCast",Los Angeles KLCS (Create) (LoCast)
-https://acdn.locastnet.org/proxy/lax4/klcscreate_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KLCS (Kids) (LoCast)"  group-title="LoCast",Los Angeles KLCS (Kids) (LoCast)
-https://acdn.locastnet.org/proxy/lax4/klcskids_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KLCS (LoCast)"  group-title="LoCast",Los Angeles KLCS (LoCast)
-https://acdn.locastnet.org/proxy/lax4/klcs_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KMEX (Bounce) (LoCast)"  group-title="LoCast",Los Angeles KMEX (Bounce) (LoCast)
-https://acdn.locastnet.org/proxy/lax5/kmexbounce_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KMEX (Justice) (LoCast)"  group-title="LoCast",Los Angeles KMEX (Justice) (LoCast)
-https://acdn.locastnet.org/proxy/lax5/kmexjustice_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KMEX (UniVision) (LoCast)"  group-title="LoCast",Los Angeles KMEX (UniVision) (LoCast)
-https://acdn.locastnet.org/proxy/lax5/kmex_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KMEX-KFTR (Unimas) (LoCast)"  group-title="LoCast",Los Angeles KMEX-KFTR (Unimas) (LoCast)
-https://acdn.locastnet.org/proxy/lax5/kmexunimas_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KNBC (Cozi) (LoCast)"  group-title="LoCast",Los Angeles KNBC (Cozi) (LoCast)
-https://acdn.locastnet.org/proxy/lax5/knbccozi_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KNBC (LoCast)"  group-title="LoCast",Los Angeles KNBC (LoCast)
-https://acdn.locastnet.org/proxy/lax5/knbc_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KRCA (Estrella) (LoCast)"  group-title="LoCast",Los Angeles KRCA (Estrella) (LoCast)
-https://acdn.locastnet.org/proxy/lax1/krca_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KTAV (AlmaVision) (LoCast)"  group-title="LoCast",Los Angeles KTAV (AlmaVision) (LoCast)
-https://acdn.locastnet.org/proxy/lax5/ktav_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KTLA (Antenna) (LoCast)"  group-title="LoCast",Los Angeles KTLA (Antenna) (LoCast)
-https://acdn.locastnet.org/proxy/lax5/ktlaantenna_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KTLA (LoCast)"  group-title="LoCast",Los Angeles KTLA (LoCast)
-https://acdn.locastnet.org/proxy/lax5/ktla_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KTLA (TBD) (LoCast)"  group-title="LoCast",Los Angeles KTLA (TBD) (LoCast)
-https://acdn.locastnet.org/proxy/lax5/ktlatbd_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KTLA (This) (LoCast)"  group-title="LoCast",Los Angeles KTLA (This) (LoCast)
-https://acdn.locastnet.org/proxy/lax5/ktlathistv_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KTTV (LoCast)"  group-title="LoCast",Los Angeles KTTV (LoCast)
-https://acdn.locastnet.org/proxy/lax2/kttv_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KVEA (Telemundo) (LoCast)"  group-title="LoCast",Los Angeles KVEA (Telemundo) (LoCast)
-https://acdn.locastnet.org/proxy/lax3/kvea_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Los Angeles KVEA (Telexitos) (LoCast)"  group-title="LoCast",Los Angeles KVEA (Telexitos) (LoCast)
-https://acdn.locastnet.org/proxy/lax3/kveatelxtos_src.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c01df1759ee03633e7b272c/featuredImage.jpg" tvg-name="Lucha Libre AAA (PlutoTV)"  group-title="PlutoTV",Lucha Libre AAA (PlutoTV)
 https://stitcher.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=z24jbjrh2o33lln3jns6j2tmn0
@@ -1562,48 +1283,6 @@ http://wcnc-lh.akamaihd.net/i/WCNC_Breaking_1@195112/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/bb5b66a2-9927-94fe-a346-751120398eb3-Nerdist_hero.jpg" tvg-name="Nerdist (PlutoTV)"  group-title="PlutoTV",Nerdist (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/561c5c7f3286e48904fb2586/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="New York WABC (LoCast)"  group-title="LoCast",New York WABC (LoCast)
-https://acdn.locastnet.org/proxy/nyc2/wabc_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="New York WCBS (LoCast)"  group-title="LoCast",New York WCBS (LoCast)
-https://acdn.locastnet.org/proxy/nyc2/wcbs_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="New York WFUT (LoCast)"  group-title="LoCast",New York WFUT (LoCast)
-https://acdn.locastnet.org/proxy/nyc1/wfut_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="New York WLIW (LoCast)"  group-title="LoCast",New York WLIW (LoCast)
-https://acdn.locastnet.org/proxy/nyc1/wliw_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="New York WNBC (LoCast)"  group-title="LoCast",New York WNBC (LoCast)
-https://acdn.locastnet.org/proxy/nyc2/wnbc_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="New York WNET (LoCast)"  group-title="LoCast",New York WNET (LoCast)
-https://acdn.locastnet.org/proxy/nyc1/wnet_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="New York WNET2 (PBS Kids) (LoCast)"  group-title="LoCast",New York WNET2 (PBS Kids) (LoCast)
-https://acdn.locastnet.org/proxy/nyc1/wnet2_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="New York WNJU (LoCast)"  group-title="LoCast",New York WNJU (LoCast)
-https://acdn.locastnet.org/proxy/nyc1/wnju_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="New York WNYE NYLife (LoCast)"  group-title="LoCast",New York WNYE NYLife (LoCast)
-https://acdn.locastnet.org/proxy/nyc1/nylife_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="New York WNYW (LoCast)"  group-title="LoCast",New York WNYW (LoCast)
-https://acdn.locastnet.org/proxy/nyc2/wnyw_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="New York WPIX (LoCast)"  group-title="LoCast",New York WPIX (LoCast)
-https://acdn.locastnet.org/proxy/nyc2/wpix_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="New York WPXN (LoCast)"  group-title="LoCast",New York WPXN (LoCast)
-https://acdn.locastnet.org/proxy/nyc1/wpxn_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="New York WWOR (LoCast)"  group-title="LoCast",New York WWOR (LoCast)
-https://acdn.locastnet.org/proxy/nyc2/wwor_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="New York WXTV (LoCast)"  group-title="LoCast",New York WXTV (LoCast)
-https://acdn.locastnet.org/proxy/nyc1/wxtv_src.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/9fFb67dL/301hted-1.jpg" tvg-name="News 12  Bronx NY (US) (Tiz)"  group-title="Local",News 12  Bronx NY (US) (Tiz)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
@@ -2121,6 +1800,15 @@ http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/FsHjs4dK/2mg8ex1-1.jpg" tvg-name="Radio Beats 1 (Tiz)"  group-title="Radio",Radio Beats 1 (Tiz)
 http://radio.heropiggy95.xyz/beats1/play_hls.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/hGdtsHnG/Capital-FM-Logo.png" tvg-name="Radio Capital 95-106 FM London Opt-1 (Tiz)"  group-title="Radio",Radio Capital 95-106 FM London Opt-1 (Tiz)
+http://media-ice.musicradio.com:80/Capital
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/hGdtsHnG/Capital-FM-Logo.png" tvg-name="Radio Capital 95-106 FM London Opt-1 (Tiz)"  group-title="Radio",Radio Capital 95-106 FM London Opt-1 (Tiz)
+http://ice-the.musicradio.com/Capital
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/fT14CkRx/Capital-FM-Xtra-Logo.png" tvg-name="Radio Capital Xtra London (Tiz)"  group-title="Radio",Radio Capital Xtra London (Tiz)
+http://media-ice.musicradio.com:80/CapitalXTRALondonMP3
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/L8qLL3VK/wlqd0p-1.jpg" tvg-name="Radio CBC 1 (CA) (Tiz)"  group-title="Radio",Radio CBC 1 (CA) (Tiz)
 http://liveradio.cbc.ca/i/CBCR1_OTT@348188/master.m3u8
 
@@ -2136,8 +1824,29 @@ http://s10.voscast.com:8502/;stream.mp3
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/KzbTXShx/34zj4eq-1.jpg" tvg-name="Radio Fox News (US) (Tiz)"  group-title="Radio",Radio Fox News (US) (Tiz)
 http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ncy57532/Gold-UK-Logo.png" tvg-name="Radio Gold UK (Tiz)"  group-title="Radio",Radio Gold UK (Tiz)
+http://media-ice.musicradio.com:80/GoldMP3
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/NLq49hQr/Heart-70-s-Logo.png" tvg-name="Radio Heart 70's UK (Tiz)"  group-title="Radio",Radio Heart 70's UK (Tiz)
+http://media-ice.musicradio.com:80/Heart70sMP3
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/LsCGqswY/Heart-80-s-Logo.png" tvg-name="Radio Heart 80's UK (Tiz)"  group-title="Radio",Radio Heart 80's UK (Tiz)
+http://media-ice.musicradio.com:80/Heart80sMP3
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/HsDR8RZ2/Heart-90-s-Logo.png" tvg-name="Radio Heart 90's UK (Tiz)"  group-title="Radio",Radio Heart 90's UK (Tiz)
+http://media-ice.musicradio.com:80/Heart90sMP3
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/T1rkc27c/Heart-Extra-Logo.png" tvg-name="Radio Heart Extra UK (Tiz)"  group-title="Radio",Radio Heart Extra UK (Tiz)
+http://media-ice.musicradio.com:80/HeartextraMP3
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/52W7jztk/Heart-Logo.png" tvg-name="Radio Heart UK (Tiz)"  group-title="Radio",Radio Heart UK (Tiz)
+http://media-ice.musicradio.com:80/HeartUK
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/3RZvYS3p/2cr0x13-1.png" tvg-name="Radio HHRN Horror and Halloween (Tiz)"  group-title="Radio",Radio HHRN Horror and Halloween (Tiz)
 http://s2.voscast.com:11034/;stream.mp3
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/7h2vryBC/i-Heart70s-Logo.jpg" tvg-name="Radio iHeart 1970's (Tiz)"  group-title="Radio",Radio iHeart 1970's (Tiz)
+http://c1.prod.playlists.ihrhls.com/6843/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/90FqMdfk/35hh7if-1.jpg" tvg-name="Radio iHeart 1980'S (Tiz)"  group-title="Radio",Radio iHeart 1980'S (Tiz)
 http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
@@ -2148,6 +1857,9 @@ http://c1.prod.playlists.ihrhls.com/6834/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/RCXHYDsx/v43pu8-1.jpg" tvg-name="Radio iHeart 2000's (Tiz)"  group-title="Radio",Radio iHeart 2000's (Tiz)
 http://c1.prod.playlists.ihrhls.com/6850/playlist.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/bYBb6jcx/i-Heart-Today.jpg" tvg-name="Radio iHeart Today's Mix (Tiz)"  group-title="Radio",Radio iHeart Today's Mix (Tiz)
+http://c8.prod.playlists.ihrhls.com/4409/playlist.m3u8
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/TP3HqmFV/Megaton-Cafe-Logo3.jpg" tvg-name="Radio Megaton Cafe (Tiz)"  group-title="Radio",Radio Megaton Cafe (Tiz)
 http://us2.internet-radio.com:8443/
 
@@ -2155,13 +1867,25 @@ http://us2.internet-radio.com:8443/
 http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/xCtq3F3H/NPR-Logo.png" tvg-name="Radio NPR (Tiz)"  group-title="Radio",Radio NPR (Tiz)
-https://nprsxsw-lh.akamaihd.net/i/prog24_1@348758/index_256_a-p.m3u8
+http://nprsxsw-lh.akamaihd.net/i/prog24_1@348758/index_256_a-p.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/sx7D31YL/2isi34k-1.jpg" tvg-name="Radio Sleep (Tiz)"  group-title="Radio",Radio Sleep (Tiz)
 http://149.56.234.138:8169/stream
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/xjzdvpwP/e99bgn-1.jpg" tvg-name="Radio SleepScape (Tiz)"  group-title="Radio",Radio SleepScape (Tiz)
 http://stream.willstare.com:8850/;?d=
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/8zWCB2Nz/Smooth-FM-Chill.png" tvg-name="Radio Smooth Chill UK (Tiz)"  group-title="Radio",Radio Smooth Chill UK (Tiz)
+http://media-ice.musicradio.com:80/SmoothChillMP3
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/8CSzyZzB/Smooth-FM-Country.png" tvg-name="Radio Smooth Country UK (Tiz)"  group-title="Radio",Radio Smooth Country UK (Tiz)
+http://media-ice.musicradio.com:80/SmoothCountryMP3
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/pXrh8cmm/Smooth-Extra-Logo.png" tvg-name="Radio Smooth Extra UK (Tiz)"  group-title="Radio",Radio Smooth Extra UK (Tiz)
+http://media-ice.musicradio.com:80/SmoothExtraMP3
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZnTN1TYH/Smooth-FM-Logo.png" tvg-name="Radio Smooth FM UK (Tiz)"  group-title="Radio",Radio Smooth FM UK (Tiz)
+http://media-ice.musicradio.com:80/SmoothUKMP3
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/SxbQj1BX/Tune-In-Classic-Alternative.jpg" tvg-name="Radio TuneIn Classic Alternative Hits (Tiz)"  group-title="Radio",Radio TuneIn Classic Alternative Hits (Tiz)
 http://tunein4.streamguys1.com/claltfree1
@@ -2181,32 +1905,8 @@ http://rfcmedia.streamguys1.com/mixlite.mp3
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/4d0sGWvx/Tune-In-Todays-Hits.png" tvg-name="Radio TuneIn Today's Hits (Tiz)"  group-title="Radio",Radio TuneIn Today's Hits (Tiz)
 http://rfcmedia.streamguys1.com/MusicPulse.mp3
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Rapid City KCLO (CW) (LoCast)"  group-title="LoCast",Rapid City KCLO (CW) (LoCast)
-https://acdn.locastnet.org/proxy/rap2/kclocw_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Rapid City KCLO (Escape) (LoCast)"  group-title="LoCast",Rapid City KCLO (Escape) (LoCast)
-https://acdn.locastnet.org/proxy/rap2/kcloescape_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Rapid City KCLO (ION) (LoCast)"  group-title="LoCast",Rapid City KCLO (ION) (LoCast)
-https://acdn.locastnet.org/proxy/rap2/kcloion_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Rapid City KCLO (LoCast)"  group-title="LoCast",Rapid City KCLO (LoCast)
-https://acdn.locastnet.org/proxy/rap2/kclo_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Rapid City KEVN (LoCast)"  group-title="LoCast",Rapid City KEVN (LoCast)
-https://acdn.locastnet.org/proxy/rap1/kevn_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Rapid City KHME (H&I) (LoCast)"  group-title="LoCast",Rapid City KHME (H&I) (LoCast)
-https://acdn.locastnet.org/proxy/rap2/khmehi_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Rapid City KHME (LoCast)"  group-title="LoCast",Rapid City KHME (LoCast)
-https://acdn.locastnet.org/proxy/rap2/khme_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Rapid City KNBN (LoCast)"  group-title="LoCast",Rapid City KNBN (LoCast)
-https://acdn.locastnet.org/proxy/rap1/knbn_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Rapid City KOTA (LoCast)"  group-title="LoCast",Rapid City KOTA (LoCast)
-https://acdn.locastnet.org/proxy/rap1/kota_src.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/MHX4b8kP/Radio-X-UK-Logo.png" tvg-name="Radio X UK (Tiz)"  group-title="Radio",Radio X UK (Tiz)
+http://media-ice.musicradio.com:80/RadioXUKMP3
 
 #EXTINF:-1, tvg-id="RedBullTV.us" tvg-logo="https://i.postimg.cc/d027jHkX/126bs09-1.png" tvg-name="Red Bull TV Opt-1 (US) (Tiz)"  group-title="Sports",Red Bull TV Opt-1 (US) (Tiz)
 http://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.ts
@@ -2274,129 +1974,6 @@ http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/GtVhCGTG/s16hyc-1.png" tvg-name="SafeTV (US) (Tiz)"  group-title="Religion",SafeTV (US) (Tiz)
 http://18.191.91.130:1935/live/safetv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KAXT (Decades) (LoCast)"  group-title="LoCast",San Francisco KAXT (Decades) (LoCast)
-https://acdn.locastnet.org/proxy/sfo2/kaxt_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KBCW (Comet) (LoCast)"  group-title="LoCast",San Francisco KBCW (Comet) (LoCast)
-https://acdn.locastnet.org/proxy/sfo1/kbcwcomet_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KBCW (LoCast)"  group-title="LoCast",San Francisco KBCW (LoCast)
-https://acdn.locastnet.org/proxy/sfo1/kbcw_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KBCW (TBD) (LoCast)"  group-title="LoCast",San Francisco KBCW (TBD) (LoCast)
-https://acdn.locastnet.org/proxy/sfo1/kbcwtbd_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KDTV (Escape) (LoCast)"  group-title="LoCast",San Francisco KDTV (Escape) (LoCast)
-https://acdn.locastnet.org/proxy/sfo4/kdtvescape_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KDTV (UniVision) (LoCast)"  group-title="LoCast",San Francisco KDTV (UniVision) (LoCast)
-https://acdn.locastnet.org/proxy/sfo4/kdtv_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KFSF (Bounce) (LoCast)"  group-title="LoCast",San Francisco KFSF (Bounce) (LoCast)
-https://acdn.locastnet.org/proxy/sfo3/kfsfbounce_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KFSF (Grit) (LoCast)"  group-title="LoCast",San Francisco KFSF (Grit) (LoCast)
-https://acdn.locastnet.org/proxy/sfo3/kfsfgrit_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KFSF (Justice) (LoCast)"  group-title="LoCast",San Francisco KFSF (Justice) (LoCast)
-https://acdn.locastnet.org/proxy/sfo3/kfsfjustice_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KFSF (Unimas) (LoCast)"  group-title="LoCast",San Francisco KFSF (Unimas) (LoCast)
-https://acdn.locastnet.org/proxy/sfo3/kfsf_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KGO (Laff) (LoCast)"  group-title="LoCast",San Francisco KGO (Laff) (LoCast)
-https://acdn.locastnet.org/proxy/sfo5/kgolaff_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KGO (LiveWell) (LoCast)"  group-title="LoCast",San Francisco KGO (LiveWell) (LoCast)
-https://acdn.locastnet.org/proxy/sfo5/kgolivwell_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KGO (LoCast)"  group-title="LoCast",San Francisco KGO (LoCast)
-https://acdn.locastnet.org/proxy/sfo5/kgo_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KICU (LightTV) (LoCast)"  group-title="LoCast",San Francisco KICU (LightTV) (LoCast)
-https://acdn.locastnet.org/proxy/sfo3/kiculight_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KICU-CCTV (LoCast)"  group-title="LoCast",San Francisco KICU-CCTV (LoCast)
-https://acdn.locastnet.org/proxy/sfo3/kicucctv_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KICU-KEMS (LoCast)"  group-title="LoCast",San Francisco KICU-KEMS (LoCast)
-https://acdn.locastnet.org/proxy/sfo3/kicukems_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KICU-KTVU (Plus) (LoCast)"  group-title="LoCast",San Francisco KICU-KTVU (Plus) (LoCast)
-https://acdn.locastnet.org/proxy/sfo3/kicu_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KKPX (ION) (LoCast)"  group-title="LoCast",San Francisco KKPX (ION) (LoCast)
-https://acdn.locastnet.org/proxy/sfo2/kkpx_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KKPX (Qubo) (LoCast)"  group-title="LoCast",San Francisco KKPX (Qubo) (LoCast)
-https://acdn.locastnet.org/proxy/sfo2/kkpxqubo_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KNTV (Cozi) (LoCast)"  group-title="LoCast",San Francisco KNTV (Cozi) (LoCast)
-https://acdn.locastnet.org/proxy/sfo5/kntvcozi_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KNTV (LoCast)"  group-title="LoCast",San Francisco KNTV (LoCast)
-https://acdn.locastnet.org/proxy/sfo5/kntv_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KOFY (LoCast)"  group-title="LoCast",San Francisco KOFY (LoCast)
-https://acdn.locastnet.org/proxy/sfo5/kofy_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KOFY (This) (LoCast)"  group-title="LoCast",San Francisco KOFY (This) (LoCast)
-https://acdn.locastnet.org/proxy/sfo5/kofythistv_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KPIX (LoCast)"  group-title="LoCast",San Francisco KPIX (LoCast)
-https://acdn.locastnet.org/proxy/sfo4/kpix_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KPIX (StartTV) (LoCast)"  group-title="LoCast",San Francisco KPIX (StartTV) (LoCast)
-https://acdn.locastnet.org/proxy/sfo4/kpixstart_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KPJK (LoCast)"  group-title="LoCast",San Francisco KPJK (LoCast)
-https://acdn.locastnet.org/proxy/sfo1/kpjk_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KQED (Kids) (LoCast)"  group-title="LoCast",San Francisco KQED (Kids) (LoCast)
-https://acdn.locastnet.org/proxy/sfo4/kqedkids_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KQED (LoCast)"  group-title="LoCast",San Francisco KQED (LoCast)
-https://acdn.locastnet.org/proxy/sfo4/kqed_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KQED (Plus) (LoCast)"  group-title="LoCast",San Francisco KQED (Plus) (LoCast)
-https://acdn.locastnet.org/proxy/sfo4/kqedplus_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KQED (World) (LoCast)"  group-title="LoCast",San Francisco KQED (World) (LoCast)
-https://acdn.locastnet.org/proxy/sfo4/kqedworld_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KRON (CourtTV) (LoCast)"  group-title="LoCast",San Francisco KRON (CourtTV) (LoCast)
-https://acdn.locastnet.org/proxy/sfo2/kroncourtv_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KRON (GetTV) (LoCast)"  group-title="LoCast",San Francisco KRON (GetTV) (LoCast)
-https://acdn.locastnet.org/proxy/sfo2/krongettv_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KRON (LoCast)"  group-title="LoCast",San Francisco KRON (LoCast)
-https://acdn.locastnet.org/proxy/sfo2/kron_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KRON (SkyLink) (LoCast)"  group-title="LoCast",San Francisco KRON (SkyLink) (LoCast)
-https://acdn.locastnet.org/proxy/sfo2/kronskylink_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KSTS (Telemundo) (LoCast)"  group-title="LoCast",San Francisco KSTS (Telemundo) (LoCast)
-https://acdn.locastnet.org/proxy/sfo3/ksts_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KTLN (H&I) (LoCast)"  group-title="LoCast",San Francisco KTLN (H&I) (LoCast)
-https://acdn.locastnet.org/proxy/sfo2/ktln_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KTLN (MeTV) (LoCast)"  group-title="LoCast",San Francisco KTLN (MeTV) (LoCast)
-https://acdn.locastnet.org/proxy/sfo2/ktlnmetv_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KTSF (LoCast)"  group-title="LoCast",San Francisco KTSF (LoCast)
-https://acdn.locastnet.org/proxy/sfo4/ktsf_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KTVU (Buzzr) (LoCast)"  group-title="LoCast",San Francisco KTVU (Buzzr) (LoCast)
-https://acdn.locastnet.org/proxy/sfo1/ktvubuzzr_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KTVU (LoCast)"  group-title="LoCast",San Francisco KTVU (LoCast)
-https://acdn.locastnet.org/proxy/sfo1/ktvu_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="San Francisco KTVU (Movies) (LoCast)"  group-title="LoCast",San Francisco KTVU (Movies) (LoCast)
-https://acdn.locastnet.org/proxy/sfo1/ktvumovies_src.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/bNSwRC4T/5o8468-1.png" tvg-name="School Austin Texas Student TV (US) (Tiz)"  group-title="Local",School Austin Texas Student TV (US) (Tiz)
 http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
 
@@ -2462,54 +2039,6 @@ http://vcnswee.teleosmedia.com/stream/swee/signmetv/seglist_720p.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Silence TV (NO) (Tiz)"  group-title="Mixed",Silence TV (NO) (Tiz)
 http://109.236.85.100:8081/SilenceTV/live/playlist.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Sioux Falls KCSD (Create) (LoCast)"  group-title="LoCast",Sioux Falls KCSD (Create) (LoCast)
-https://acdn.locastnet.org/proxy/fsd1/kcsdcreate_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Sioux Falls KCSD (Kids) (LoCast)"  group-title="LoCast",Sioux Falls KCSD (Kids) (LoCast)
-https://acdn.locastnet.org/proxy/fsd1/kcsdkids_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Sioux Falls KCSD (SDPB-PBS) (LoCast)"  group-title="LoCast",Sioux Falls KCSD (SDPB-PBS) (LoCast)
-https://acdn.locastnet.org/proxy/fsd1/kcsd_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Sioux Falls KCSD (World) (LoCast)"  group-title="LoCast",Sioux Falls KCSD (World) (LoCast)
-https://acdn.locastnet.org/proxy/fsd1/kcsdworld_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Sioux Falls KDLT (Antenna) (LoCast)"  group-title="LoCast",Sioux Falls KDLT (Antenna) (LoCast)
-https://acdn.locastnet.org/proxy/fsd3/kdltantenna_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Sioux Falls KDLT (LoCast)"  group-title="LoCast",Sioux Falls KDLT (LoCast)
-https://acdn.locastnet.org/proxy/fsd3/kdlt_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Sioux Falls KELO (Escape) (LoCast)"  group-title="LoCast",Sioux Falls KELO (Escape) (LoCast)
-https://acdn.locastnet.org/proxy/fsd1/keloescape_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Sioux Falls KELO (ION) (LoCast)"  group-title="LoCast",Sioux Falls KELO (ION) (LoCast)
-https://acdn.locastnet.org/proxy/fsd1/keloion_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Sioux Falls KELO (LoCast)"  group-title="LoCast",Sioux Falls KELO (LoCast)
-https://acdn.locastnet.org/proxy/fsd1/kelo_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Sioux Falls KELO (UTV-MNTV) (LoCast)"  group-title="LoCast",Sioux Falls KELO (UTV-MNTV) (LoCast)
-https://acdn.locastnet.org/proxy/fsd1/keloutv_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Sioux Falls KSFY (CW) (LoCast)"  group-title="LoCast",Sioux Falls KSFY (CW) (LoCast)
-https://acdn.locastnet.org/proxy/fsd2/ksfycw_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Sioux Falls KSFY (LoCast)"  group-title="LoCast",Sioux Falls KSFY (LoCast)
-https://acdn.locastnet.org/proxy/fsd2/ksfy_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Sioux Falls KSFY (MeTV) (LoCast)"  group-title="LoCast",Sioux Falls KSFY (MeTV) (LoCast)
-https://acdn.locastnet.org/proxy/fsd2/ksfymetv_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Sioux Falls KTTW (Cozi) (LoCast)"  group-title="LoCast",Sioux Falls KTTW (Cozi) (LoCast)
-https://acdn.locastnet.org/proxy/fsd1/kttwcozi_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Sioux Falls KTTW (LoCast)"  group-title="LoCast",Sioux Falls KTTW (LoCast)
-https://acdn.locastnet.org/proxy/fsd1/kttw_src.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Sioux Falls KTTW (This) (LoCast)"  group-title="LoCast",Sioux Falls KTTW (This) (LoCast)
-https://acdn.locastnet.org/proxy/fsd1/kttwthis_src.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c2d64ffbdf11b71587184b8/featuredImage.jpg" tvg-name="Sitcoms Opt-1 (PlutoTV)"  group-title="PlutoTV",Sitcoms Opt-1 (PlutoTV)
 http://stitcher.pluto.tv/stitch/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=z8orq3a8c0i8mnij1r1q96i7p0
