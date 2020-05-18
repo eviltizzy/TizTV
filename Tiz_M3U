@@ -1704,6 +1704,15 @@ http://ice41.securenetsystems.net/KFPW
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/vTd3SS3V/2nbr6t2-1.jpg" tvg-name="Radio 095.9 KKBD Fort Smith AR (Tiz)"  group-title="Radio",Radio 095.9 KKBD Fort Smith AR (Tiz)
 https://n10b-e2.revma.ihrhls.com/zc113/hls.m3u8
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/7Zr0xtPz/96-5-KOIT.jpg" tvg-name="Radio 096.5 KOIT San Francisco CA (Tiz)"  group-title="Radio",Radio 096.5 KOIT San Francisco CA (Tiz)
+http://18543.live.streamtheworld.com/KOITFM_SC
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/qMTDFwfm/96-9-The-Eagle.jpg" tvg-name="Radio 096.9 KSEG Sacramento CA The Eagle (Tiz)"  group-title="Radio",Radio 096.9 KSEG Sacramento CA The Eagle (Tiz)
+http://16603.live.streamtheworld.com/KSEGFMAAC_SC
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/W4T2bgJS/97-1AMP.jpg" tvg-name="Radio 097.1 KAMP Los Angeles CA (Tiz)"  group-title="Radio",Radio 097.1 KAMP Los Angeles CA (Tiz)
+http://17933.live.streamtheworld.com/KAMPFMAAC_SC
+
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/gkmgVQw9/2jdj7lt-1.png" tvg-name="Radio 097.5 KMOD Tulsa OK (Tiz)"  group-title="Radio",Radio 097.5 KMOD Tulsa OK (Tiz)
 https://n45b-e2.revma.ihrhls.com/zc1929/hls.m3u8
 
@@ -1722,6 +1731,9 @@ http://ice42.securenetsystems.net/KISRHD3
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/SK2dQpP9/1or5lc-1.jpg" tvg-name="Radio 102.7 KBBQ Fort Smith AR (Tiz)"  group-title="Radio",Radio 102.7 KBBQ Fort Smith AR (Tiz)
 http://14943.live.streamtheworld.com/KBBQFMAAC_SC
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/zBYTfdF6/WNEW1027.jpg" tvg-name="Radio 102.7 WNEW New York NY Hot AC (Tiz)"  group-title="Radio",Radio 102.7 WNEW New York NY Hot AC (Tiz)
+http://18053.live.streamtheworld.com/WNEWFMAAC_SC
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/FR0xcVNs/28u3cow-1.jpg" tvg-name="Radio 104.5 KMYZ Tulsa OK (Tiz)"  group-title="Radio",Radio 104.5 KMYZ Tulsa OK (Tiz)
 http://ice8.securenetsystems.net/KMYZ
 
@@ -1733,6 +1745,9 @@ http://ice42.securenetsystems.net/KISRHD4
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/j2K4hnS6/rur18l-1.jpg" tvg-name="Radio 106.7 WLTW NY NY (Tiz)"  group-title="Radio",Radio 106.7 WLTW NY NY (Tiz)
 https://n1cb-e2.revma.ihrhls.com/zc1477/hls.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/LsxhcN0j/Magic106-7.jpg" tvg-name="Radio 106.7 WMJX Boston MA (Tiz)"  group-title="Radio",Radio 106.7 WMJX Boston MA (Tiz)
+http://17333.live.streamtheworld.com/WMJXFMAAC_SC
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/WbN7FZKT/fp155-1.png" tvg-name="Radio 107.9 KBPI Fort Collins CO (Tiz)"  group-title="Radio",Radio 107.9 KBPI Fort Collins CO (Tiz)
 https://n2fb-e2.revma.ihrhls.com/zc373/hls.m3u8
@@ -1814,6 +1829,27 @@ http://18193.live.streamtheworld.com/SAM04AAC335.mp3
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/7L0zQPcK/102p1l3-1.jpg" tvg-name="Radio Cult Radio Go Go (Tiz)"  group-title="Radio",Radio Cult Radio Go Go (Tiz)
 http://s10.voscast.com:8502/;stream.mp3
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/MGjCyT2N/Radio-Disney.jpg" tvg-name="Radio Disney (Tiz)"  group-title="Radio",Radio Disney (Tiz)
+http://16693.live.streamtheworld.com/RADIODISNEYANDROID_SC
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/DZCpHJGx/ESPNRadio.jpg" tvg-name="Radio ESPN (Tiz)"  group-title="Radio",Radio ESPN (Tiz)
+http://live.wostreaming.net/direct/espn-networkmp3-48?source=TuneIn
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/DZCpHJGx/ESPNRadio.jpg" tvg-name="Radio ESPN Chicago (Tiz)"  group-title="Radio",Radio ESPN Chicago (Tiz)
+https://live.wostreaming.net/direct/goodkarma-wmvpammp3-ibc1?source=TuneIn
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/DZCpHJGx/ESPNRadio.jpg" tvg-name="Radio ESPN Dallas (Tiz)"  group-title="Radio",Radio ESPN Dallas (Tiz)
+http://15363.live.streamtheworld.com/KESNFMAAC_SC
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/DZCpHJGx/ESPNRadio.jpg" tvg-name="Radio ESPN Los Angeles (Tiz)"  group-title="Radio",Radio ESPN Los Angeles (Tiz)
+http://live.wostreaming.net/direct/espn-kspnmp3-48?source=TuneIn
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/DZCpHJGx/ESPNRadio.jpg" tvg-name="Radio ESPN New York (Tiz)"  group-title="Radio",Radio ESPN New York (Tiz)
+http://live.wostreaming.net/direct/espn-wepnmp3-32?source=TuneIn
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/DZCpHJGx/ESPNRadio.jpg" tvg-name="Radio ESPN Seattle (Tiz)"  group-title="Radio",Radio ESPN Seattle (Tiz)
+http://19193.live.streamtheworld.com/KIROAM_SC
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/KzbTXShx/34zj4eq-1.jpg" tvg-name="Radio Fox News (US) (Tiz)"  group-title="Radio",Radio Fox News (US) (Tiz)
 http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
@@ -2238,11 +2274,11 @@ https://stitcher.pluto.tv/stitch/hls/channel/5c6eeb011846c82e15e01a99/master.m3u
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Weather Channel Opt-1 (US) (Tiz)"  group-title="News",Weather Channel Opt-1 (US) (Tiz)
 http://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Weather Nation (US) (Tiz)"  group-title="News",Weather Nation (US) (Tiz)
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/protocol/http/format/applehttp/a.m3u8
-
 #EXTINF:-1, tvg-id="WeatherNation.us" tvg-logo="https://i.postimg.cc/kGXfmtPJ/24wc7s6-1.png" tvg-name="Weather Nation (US) (Tiz)"  group-title="News",Weather Nation (US) (Tiz)
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Weather Nation (US) (Tiz)"  group-title="News",Weather Nation (US) (Tiz)
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/protocol/http/format/applehttp/a.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5877acecb16bb1e042ee453f/featuredImage.jpg" tvg-name="Weddings (PlutoTV) (Tiz)"  group-title="PlutoTV",Weddings (PlutoTV) (Tiz)
 https://stitcher.pluto.tv/stitch/hls/channel/5877acecb16bb1e042ee453f/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=400lm1j6kehed04ucl6d6fc4q7
