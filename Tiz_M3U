@@ -858,11 +858,11 @@ http://stitcher.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bee1a7359ee03633e780238/featuredImage.jpg" tvg-name="Dog the Bounty Hunter Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",Dog the Bounty Hunter Opt-2 (PlutoTV) (Tiz)
 https://stitcher.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=x24jbjrh2o33lln3jns6j2tmn0
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Dove Channel (STIRЯ 56) (Tiz)"  group-title="STIRЯ",Dove Channel (STIRЯ 56) (Tiz)
+https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://scontent.fosu1-1.fna.fbcdn.net/v/t1.0-9/49342330_820886054909505_4383462502973833216_n.png?_nc_cat=110&_nc_ohc=IcHBajrpdVgAX_wbW6A&_nc_ht=scontent.fosu1-1.fna&oh=aec08fb9f1f38e4dfb78f0825b18f627&oe=5EFC2A7E" tvg-name="Dove Channel Opt-1 (Xumo) (Tiz)"  group-title="Xumo",Dove Channel Opt-1 (Xumo) (Tiz)
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.roku.com/developer_channels/prod/8432f7becc7755f9a82361097f7a62d8c25b270c203565484c583dc0c2d69115.png" tvg-name="Dove Channel Opt-2 (Xumo) (Tiz)"  group-title="Xumo",Dove Channel Opt-2 (Xumo) (Tiz)
-https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Dr Gene Scott (US) (Tiz)"  group-title="Religion",Dr Gene Scott (US) (Tiz)
 http://wescottcchls-lh.akamaihd.net/i/wcc_wowlivehls@24607/master.m3u8
@@ -1701,6 +1701,18 @@ http://ice42.securenetsystems.net/KISRHD2
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/26W0GfFY/246kvp3-1.jpg" tvg-name="Radio 094.5 KFPW Fort Smith AR (Tiz)"  group-title="Radio",Radio 094.5 KFPW Fort Smith AR (Tiz)
 http://ice41.securenetsystems.net/KFPW
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/vTd3SS3V/2nbr6t2-1.jpg" tvg-name="Radio 095.9 KKBD Fort Smith AR (Tiz)"  group-title="Radio",Radio 095.9 KKBD Fort Smith AR (Tiz)
+https://n10b-e2.revma.ihrhls.com/zc113/hls.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/gkmgVQw9/2jdj7lt-1.png" tvg-name="Radio 097.5 KMOD Tulsa OK (Tiz)"  group-title="Radio",Radio 097.5 KMOD Tulsa OK (Tiz)
+https://n45b-e2.revma.ihrhls.com/zc1929/hls.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/wT2002J1/x4nrd4-1.jpg" tvg-name="Radio 097.9 KZBB Fort Smith AR (Tiz)"  group-title="Radio",Radio 097.9 KZBB Fort Smith AR (Tiz)
+https://n20b-e2.revma.ihrhls.com/zc117/hls.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/K8YQVTrJ/1z2j2f5-1.png" tvg-name="Radio 100.3 WHTZ NY NY (Tiz)"  group-title="Radio",Radio 100.3 WHTZ NY NY (Tiz)
+https://n1db-e2.revma.ihrhls.com/zc1469/hls.m3u8
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/3xb9Hwt7/9r7v9u-1.png" tvg-name="Radio 100.5 KATT OKC OK (Tiz)"  group-title="Radio",Radio 100.5 KATT OKC OK (Tiz)
 http://15363.live.streamtheworld.com/KATTFMAAC_SC
 
@@ -1718,6 +1730,12 @@ http://ice42.securenetsystems.net/KQBK
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/SKxrKGJC/The-Rooster105-5.png" tvg-name="Radio 105.5 K288GO Fort Smith AR The Rooster (Tiz)"  group-title="Radio",Radio 105.5 K288GO Fort Smith AR The Rooster (Tiz)
 http://ice42.securenetsystems.net/KISRHD4
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/j2K4hnS6/rur18l-1.jpg" tvg-name="Radio 106.7 WLTW NY NY (Tiz)"  group-title="Radio",Radio 106.7 WLTW NY NY (Tiz)
+https://n1cb-e2.revma.ihrhls.com/zc1477/hls.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/WbN7FZKT/fp155-1.png" tvg-name="Radio 107.9 KBPI Fort Collins CO (Tiz)"  group-title="Radio",Radio 107.9 KBPI Fort Collins CO (Tiz)
+https://n2fb-e2.revma.ihrhls.com/zc373/hls.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/nz4r3YKS/3awlogo.jpg" tvg-name="Radio 3AW Melbourne (AU) (Tiz)"  group-title="Radio",Radio 3AW Melbourne (AU) (Tiz)
 http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
@@ -1817,6 +1835,21 @@ http://media-ice.musicradio.com:80/HeartUK
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/3RZvYS3p/2cr0x13-1.png" tvg-name="Radio HHRN Horror and Halloween (Tiz)"  group-title="Radio",Radio HHRN Horror and Halloween (Tiz)
 http://s2.voscast.com:11034/;stream.mp3
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/7h2vryBC/i-Heart70s-Logo.jpg" tvg-name="Radio iHeart 1970's (Tiz)"  group-title="Radio",Radio iHeart 1970's (Tiz)
+https://n01b-e2.revma.ihrhls.com/zc6843/hls.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/90FqMdfk/35hh7if-1.jpg" tvg-name="Radio iHeart 1980'S (Tiz)"  group-title="Radio",Radio iHeart 1980'S (Tiz)
+https://n24b-e2.revma.ihrhls.com/zc5060/hls.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/zvtHRybG/nw0k1u-1.jpg" tvg-name="Radio iHeart 1990's (Tiz)"  group-title="Radio",Radio iHeart 1990's (Tiz)
+https://n05b-e2.revma.ihrhls.com/zc6834/hls.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/RCXHYDsx/v43pu8-1.jpg" tvg-name="Radio iHeart 2000's (Tiz)"  group-title="Radio",Radio iHeart 2000's (Tiz)
+https://n30b-e2.revma.ihrhls.com/zc6850/hls.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/bYBb6jcx/i-Heart-Today.jpg" tvg-name="Radio iHeart Today's Mix (Tiz)"  group-title="Radio",Radio iHeart Today's Mix (Tiz)
+https://n18b-e2.revma.ihrhls.com/zc4409/hls.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/TP3HqmFV/Megaton-Cafe-Logo3.jpg" tvg-name="Radio Megaton Cafe (Tiz)"  group-title="Radio",Radio Megaton Cafe (Tiz)
 http://us2.internet-radio.com:8443/
@@ -2252,3 +2285,4 @@ http://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/HxWQcDZ3/35c1pg6-1.png" tvg-name="Z ComedyTV (US) (Tiz)"  group-title="Entertainment",Z ComedyTV (US) (Tiz)
 http://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
+
