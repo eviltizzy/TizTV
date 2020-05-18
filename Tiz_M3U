@@ -6,14 +6,92 @@ http://bit.ly/TizPirate
 #EXTINF:-1, tvg-id="00 TizTV 00" tvg-logo="https://i.postimg.cc/L5HPL6YW/zxpl6r.gif" tvg-name="00 TizTV Test 00"  group-title="00 TizTV 00",00 TizTV Test 00
 http://bit.ly/TizTestTV
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/3rkcV8kh/Pluto-TV-Logo.jpg" tvg-name="1? Kids (PlutoTV) (Tiz)"  group-title="PlutoTV",1? Kids (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5ad8d54be738977e2c310940/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=j7go93gc2nj2bijagutmn2d3v6
+
 #EXTINF:-1, tvg-id="247Retro.us" tvg-logo="https://i.postimg.cc/Fz5ZqJWn/RetroTV.jpg" tvg-name="24-7 Retro TV (US) (Tiz)"  group-title="Entertainment",24-7 Retro TV (US) (Tiz)
 http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 21 Jumpstreet (STIRЯ 157) (Tiz)"  group-title="STIRЯ",24x7 21 Jumpstreet (STIRЯ 157) (Tiz)
+https://dai.google.com/linear/hls/event/UXgY8vuCSgiAlXtckOHm6A/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Beverly Hillbillies (STIRЯ 180) (Tiz)"  group-title="STIRЯ",24x7 Beverly Hillbillies (STIRЯ 180) (Tiz)
+https://dai.google.com/linear/hls/event/TEeUv9DbStyK8DyFmG3Cfw/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Bonanza (STIRЯ 187) (Tiz)"  group-title="STIRЯ",24x7 Bonanza (STIRЯ 187) (Tiz)
+https://dai.google.com/linear/hls/event/LeVr-Z0_Q4qMDdXx7zr22w/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Booker (DISC) (STIRЯ 158) (Tiz)"  group-title="STIRЯ",24x7 Booker (DISC) (STIRЯ 158) (Tiz)
+https://dai.google.com/linear/hls/event/MkkiR5IOSNqKnzT6JiRHVg/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Crime Story (STIRЯ 159) (Tiz)"  group-title="STIRЯ",24x7 Crime Story (STIRЯ 159) (Tiz)
+https://dai.google.com/linear/hls/pa/event/HgozmUlQQviIXFUF23mloA/stream/8673f1d7-a316-4a4e-a89f-0011224506e1:MRN/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Family Feud (DISC) (STIRЯ 196) (Tiz)"  group-title="STIRЯ",24x7 Family Feud (DISC) (STIRЯ 196) (Tiz)
+https://dai.google.com/linear/hls/event/lxxHF4OUTH-HdBB0qeMf9g/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Forensic Files (STIRЯ 152) (Tiz)"  group-title="STIRЯ",24x7 Forensic Files (STIRЯ 152) (Tiz)
+https://dai.google.com/linear/hls/event/fJj7BuL_Tv2KjCnNAmLK8g/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Gr. Am. Hero (STIRЯ 151) (Tiz)"  group-title="STIRЯ",24x7 Gr. Am. Hero (STIRЯ 151) (Tiz)
+https://dai.google.com/linear/hls/event/zaW9PVeXQeamNt6SZ9FsOg/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Hell's Kitchen (STIRЯ 171) (Tiz)"  group-title="STIRЯ",24x7 Hell's Kitchen (STIRЯ 171) (Tiz)
+https://sinclair-prod.apigee.net/pemediator/29647b12-693b-41b2-a3c6-484cdda32e7e.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Hunter (STIRЯ 154) (Tiz)"  group-title="STIRЯ",24x7 Hunter (STIRЯ 154) (Tiz)
+https://dai.google.com/linear/hls/event/Z-kHpGoATwyuxIuQEY_3fw/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Kitchen Nightmares (STIRЯ 172) (Tiz)"  group-title="STIRЯ",24x7 Kitchen Nightmares (STIRЯ 172) (Tiz)
+https://sinclair-prod.apigee.net/pemediator/0fdaaae4-1e80-4ea3-ba68-c9b0137233d9.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Laurel & Hardy (STIRЯ 176) (Tiz)"  group-title="STIRЯ",24x7 Laurel & Hardy (STIRЯ 176) (Tiz)
+https://dai.google.com/linear/hls/event/uDdlFsS2S1CqcUkd7KGu4Q/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Real People (STIRЯ 195) (Tiz)"  group-title="STIRЯ",24x7 Real People (STIRЯ 195) (Tiz)
+https://dai.google.com/linear/hls/event/RoiVzG-4TJiJMSVUatDd4A/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Sherlock Holmes (STIRЯ 193) (Tiz)"  group-title="STIRЯ",24x7 Sherlock Holmes (STIRЯ 193) (Tiz)
+https://dai.google.com/linear/hls/event/fMcxjP7ORACGFsBvi7ZhAg/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Silk Stalkings (STIRЯ 165) (Tiz)"  group-title="STIRЯ",24x7 Silk Stalkings (STIRЯ 165) (Tiz)
+https://dai.google.com/linear/hls/event/8ZYru1fgSY6JL1Ejb6T5Ag/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Space 1999 (DISC) (STIRЯ 104) (Tiz)"  group-title="STIRЯ",24x7 Space 1999 (DISC) (STIRЯ 104) (Tiz)
+https://dai.google.com/linear/hls/pa/event/NeKNJHuzSeCiN_7Fcuo83Q/stream/baa6c797-71dd-454e-841a-7f36c4aded59:MRN/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 The Commish (STIRЯ 155) (Tiz)"  group-title="STIRЯ",24x7 The Commish (STIRЯ 155) (Tiz)
+https://dai.google.com/linear/hls/event/zfyiHhG0TeuoNist_WUwjg/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 The Lone Ranger (STIRЯ 190) (Tiz)"  group-title="STIRЯ",24x7 The Lone Ranger (STIRЯ 190) (Tiz)
+https://dai.google.com/linear/hls/event/dRKvXuioSv-e5T65yR_7Ow/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 The Lucy Show (STIRЯ 185) (Tiz)"  group-title="STIRЯ",24x7 The Lucy Show (STIRЯ 185) (Tiz)
+https://dai.google.com/linear/hls/event/-s-FtbzrQCaLMDSyM0ejyw/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Unsolved Mysteries (STIRЯ 153) (Tiz)"  group-title="STIRЯ",24x7 Unsolved Mysteries (STIRЯ 153) (Tiz)
+https://dai.google.com/linear/hls/event/iLjE1UKtRCiSNkFatA65bg/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Whose Line Is It Anyway? (STIRЯ 174) (Tiz)"  group-title="STIRЯ",24x7 Whose Line Is It Anyway? (STIRЯ 174) (Tiz)
+https://dai.google.com/linear/hls/event/SYob3ZZfTwyVW7LILC9ckw/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Wiseguy (STIRЯ 156) (Tiz)"  group-title="STIRЯ",24x7 Wiseguy (STIRЯ 156) (Tiz)
+https://dai.google.com/linear/hls/event/kv03O_9RS8-uRahEGtDcjA/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 World Poker Tour (STIRЯ 170) (Tiz)"  group-title="STIRЯ",24x7 World Poker Tour (STIRЯ 170) (Tiz)
+https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/cLxrh4m7/33ygto5-1.png" tvg-name="30A Music (US) (Tiz)"  group-title="Music",30A Music (US) (Tiz)
 http://30a-tv.com/music.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/xT7rd64w/30ATV.png" tvg-name="30A TV (US) (Tiz)"  group-title="Local",30A TV (US) (Tiz)
 http://30a-tv.com/my999.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/4cc90abe-fdfa-a008-eaf5-d1e508a0cd5a-4kTV_hero.jpg" tvg-name="4K TV (PlutoTV) (Tiz)"  group-title="PlutoTV",4K TV (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/553838c8c0b860c11a631f3a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca525b650be2571e3943c63/featuredImage.jpg" tvg-name="80s Rewind (PlutoTV) (Tiz)"  group-title="PlutoTV",80s Rewind (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=duaohqlqf26jfvbh443n3ie5g0
 
 #EXTINF:-1, tvg-id="abcwbrz.us" tvg-logo="https://i.postimg.cc/sXn6NXFk/ABC-WBRZ.png" tvg-name="ABC 02 WBRZ Baton Rouge LA (US) (Tiz)"  group-title="Local",ABC 02 WBRZ Baton Rouge LA (US) (Tiz)
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
@@ -69,20 +147,62 @@ http://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/g0HB3sgk/ABC-News.png" tvg-name="ABC News SD (US) (Tiz)"  group-title="SD Channels",ABC News SD (US) (Tiz)
 http://abclive1-lh.akamaihd.net/i/abc_preview02@425077/index_100_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Action (STIRЯ 201) (Tiz)"  group-title="STIRЯ",Action (STIRЯ 201) (Tiz)
+https://dai.google.com/linear/hls/event/PjptMDPzTeGnkOAnV0cHyA/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg" tvg-name="Action Movies (PlutoTV) (Tiz)"  group-title="PlutoTV",Action Movies (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
 #EXTINF:-1, tvg-id="AdultSwimOnAir.us" tvg-logo="https://i.postimg.cc/RVJsg4gY/Adult-Swim-Logo.png" tvg-name="Adult Swim Williams Stream (US) (Tiz)"  group-title="Entertainment",Adult Swim Williams Stream (US) (Tiz)
 http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/1zbcnqQ5/XumoLogo.jpg" tvg-name="Adventure Sports Network (Xumo) (Tiz)"  group-title="Sports",Adventure Sports Network (Xumo) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/1zbcnqQ5/XumoLogo.jpg" tvg-name="Adventure Sports Network (Xumo) (Tiz)"  group-title="Xumo",Adventure Sports Network (Xumo) (Tiz)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5938876b78d8d9c074c3c657/featuredImage.jpg" tvg-name="Adventure TV (PlutoTV) (Tiz)"  group-title="PlutoTV",Adventure TV (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5938876b78d8d9c074c3c657/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/811b1700-0585-c37a-5bf0-56e79a8d0e7e-after-school-cartoons-channel-feature.jpg" tvg-name="After School Cartoons (PlutoTV) (Tiz)"  group-title="PlutoTV",After School Cartoons (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=0cc9f1f1-724b-489f-b1dd-61b832b70b78&deviceId=-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/MHtTS6Fy/0003-The-American-Kennel-Club-AKC.jpg" tvg-name="AKC TV (US) (Tiz)"  group-title="Lifestyle",AKC TV (US) (Tiz)
 http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Alltime (STIRЯ 305) (Tiz)"  group-title="STIRЯ",Alltime (STIRЯ 305) (Tiz)
+https://dai.google.com/linear/hls/event/g1PhXJdESlO6czd-8mP4kQ/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="American Classics (STIRЯ 57) (Tiz)"  group-title="STIRЯ",American Classics (STIRЯ 57) (Tiz)
+https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_americanClassics.png" tvg-name="American Classics (Xumo) (Tiz)"  group-title="Xumo",American Classics (Xumo) (Tiz)
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/1280x720_5000000/index.m3u8
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/L8dy7w78/American-Horrors.png" tvg-name="American Horrors (US) (Tiz)"  group-title="Movies",American Horrors (US) (Tiz)
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/1zbcnqQ5/XumoLogo.jpg" tvg-name="America's Funniest Videos (Xumo) (Tiz)"  group-title="Entertainment",America's Funniest Videos (Xumo) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/1zbcnqQ5/XumoLogo.jpg" tvg-name="America's Funniest Videos (Xumo) (Tiz)"  group-title="Xumo",America's Funniest Videos (Xumo) (Tiz)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/56b27f85ff3037045055037e/featuredImage.jpg" tvg-name="Animals Opt-1 (PlutoTV) (Tiz)"  group-title="PlutoTV",Animals Opt-1 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=sb3stkgum0jt2soq367mu97333
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/56b27f85ff3037045055037e/featuredImage.jpg" tvg-name="Animals Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",Animals Opt-2 (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=sb3stkgum0jt2soq367mu97333
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5be4c6311843b56328bce619/featuredImage.jpg" tvg-name="Anime All Ages Opt-1 (PlutoTV) (Tiz)"  group-title="PlutoTV",Anime All Ages Opt-1 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a24jbjrh2o33lln3jns6j2tmn0
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5be4c6311843b56328bce619/featuredImage.jpg" tvg-name="Anime All Ages Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",Anime All Ages Opt-2 (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5be4c6311843b56328bce619/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a24jbjrh2o33lln3jns6j2tmn0
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/9e3a8364-6268-caa1-53ee-fccdbca198aa-Hero%20Optional%201560x878.jpg" tvg-name="Anime All Day (PlutoTV) (Tiz)"  group-title="PlutoTV",Anime All Day (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=1&deviceId=&deviceVersion=&appVersion=&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ce44810b421747ae467b7cd/featuredImage.jpg" tvg-name="Antiques Roadshow (UK) (PlutoTV) (Tiz)"  group-title="PlutoTV",Antiques Roadshow (UK) (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5ce44810b421747ae467b7cd/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=200lm1j6kehed04ucl6d6fc4q7
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://s3.amazonaws.com/pluto.tv/assets/images/channels/92b06cb1-4269-5d05-686b-39917f08d546-Channel-Featured_AwesomenessTV.jpg" tvg-name="Awesomeness TV (PlutoTV) (Tiz)"  group-title="PlutoTV",Awesomeness TV (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5595e43c66ace1652e63c6a2/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/LsnfkBBF/1qizkk-1.png" tvg-name="AZ Chandler Channel (US) (Tiz)"  group-title="PublicAccess",AZ Chandler Channel (US) (Tiz)
 http://granicusliveus5-a.akamaihd.net/chandleraz/G0987_002/chunklist.m3u8
@@ -93,6 +213,18 @@ http://granicusliveus3-a.akamaihd.net/lakehavasucity/G0643_002/chunklist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/LXP1w9by/ok8j7d-1.gif" tvg-name="AZ Tempe 11 (US) (Tiz)"  group-title="PublicAccess",AZ Tempe 11 (US) (Tiz)
 http://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://pbs.twimg.com/profile_images/793150060917907456/jpJURr5n_400x400.jpg" tvg-name="Battery Pop (Xumo) (Tiz)"  group-title="Xumo",Battery Pop (Xumo) (Tiz)
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca670f6593a5d78f0e85aed/featuredImage.jpg" tvg-name="BET Opt-1 (PlutoTV) (Tiz)"  group-title="PlutoTV",BET Opt-1 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=gcuqage0urlhccbp8kbecjc830
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca670f6593a5d78f0e85aed/featuredImage.jpg" tvg-name="BET Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",BET Opt-2 (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=gcuqage0urlhccbp8kbecjc830
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca670f6593a5d78f0e85aed/featuredImage.jpg" tvg-name="BET Opt-3 (PlutoTV) (Tiz)"  group-title="PlutoTV",BET Opt-3 (PlutoTV) (Tiz)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=19b70f7d-30c0-4ede-9a23-83600637213d&deviceId=05adad54-d314-4eae-84b6-4fecf221e693&deviceVersion=75.0.3770.142&appVersion=2.7.1-5725cf052c6d5a7776009f53b7086f64da9ef528&deviceDNT=0&userId=&advertisingId=&deviceLat=37.751&deviceLon=-97.822&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/662y3mjK/28lb5ma-1.png" tvg-name="Better Life Broadcasting Network (US) (Tiz)"  group-title="Religion",Better Life Broadcasting Network (US) (Tiz)
 http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
 
@@ -101,6 +233,24 @@ http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Better Life TV Three Angels Broadcasting Network (US) (Tiz)"  group-title="Religion",Better Life TV Three Angels Broadcasting Network (US) (Tiz)
 http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Big Life TV (STIRЯ 255) (Tiz)"  group-title="STIRЯ",Big Life TV (STIRЯ 255) (Tiz)
+https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/59641d9173ac1fec2fc01f17/featuredImage.jpg" tvg-name="Big Sky Conference (PlutoTV) (Tiz)"  group-title="PlutoTV",Big Sky Conference (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/59641d9173ac1fec2fc01f17/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Biographies (STIRЯ 230) (Tiz)"  group-title="STIRЯ",Biographies (STIRЯ 230) (Tiz)
+https://dai.google.com/linear/hls/event/OzhtmoTQQjSNOimI6ikGCQ/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c2e8c4a9e06fa0511b75276/featuredImage.jpg" tvg-name="Biography (PlutoTV) (Tiz)"  group-title="PlutoTV",Biography (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5c2e8c4a9e06fa0511b75276/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jaasl9n3jh3esnglai5na3geu7
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58af4c093a41ca9d4ecabe96/featuredImage.jpg" tvg-name="Black Cinema (PlutoTV) (Tiz)"  group-title="PlutoTV",Black Cinema (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Black Cinema (STIRЯ 211) (Tiz)"  group-title="STIRЯ",Black Cinema (STIRЯ 211) (Tiz)
+https://dai.google.com/linear/hls/event/9WuQ_LseR12mMx2-QW41XQ/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/J7ftB5vk/2rr3ud0-1.jpg" tvg-name="Bloomberg Asia (Tiz)"  group-title="News",Bloomberg Asia (Tiz)
 https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
@@ -131,6 +281,12 @@ http://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
 #EXTINF:-1, tvg-id="BoxHits.uk" tvg-logo="https://i.postimg.cc/150RVhDk/14wamw8-1.png" tvg-name="Box Hits (UK) (Tiz)"  group-title="Music",Box Hits (UK) (Tiz)
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Britcom (STIRЯ 58) (Tiz)"  group-title="STIRЯ",Britcom (STIRЯ 58) (Tiz)
+https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Buzzr (STIRЯ 55) (Tiz)"  group-title="STIRЯ",Buzzr (STIRЯ 55) (Tiz)
+https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
 
 #EXTINF:-1, tvg-id="BuzzrTV.us" tvg-logo="https://i.postimg.cc/NGmBZqCK/415ja-1.png" tvg-name="Buzzr Opt-1 (Tiz)"  group-title="Entertainment",Buzzr Opt-1 (Tiz)
 http://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8
@@ -357,8 +513,17 @@ http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
 #EXTINF:-1, tvg-id="capitaltv.uk" tvg-logo="Logo N/A" tvg-name="Capital TV (Tiz)"  group-title="Music",Capital TV (Tiz)
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5812b3a4249444e05d09cc46/featuredImage.jpg" tvg-name="Cars (PlutoTV) (Tiz)"  group-title="PlutoTV",Cars (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c37dec3de714a458f5c0f41/featuredImage.jpg" tvg-name="Cash Cab (PlutoTV) (Tiz)"  group-title="PlutoTV",Cash Cab (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5c37dec3de714a458f5c0f41/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=cde3cigj2626i43pra7jrnrbs4
+
 #EXTINF:-1, tvg-id="CatholicTV.us" tvg-logo="https://i.postimg.cc/NGS2kc9L/2i96suq-1.jpg" tvg-name="Catholic TV (US) (Tiz)"  group-title="Religion",Catholic TV (US) (Tiz)
 http://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/599375885ceaac3cabccbed7/featuredImage.jpg" tvg-name="Cats 24/7 (PlutoTV) (Tiz)"  group-title="PlutoTV",Cats 24/7 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/599375885ceaac3cabccbed7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/2SfTkJD9/24fzeat-1.jpg" tvg-name="CBN (US) (Tiz)"  group-title="Religion",CBN (US) (Tiz)
 https://i.postimg.cc/2SfTkJD9/24fzeat-1.jpg
@@ -435,6 +600,12 @@ http://210.210.155.35/uq2663/h/h29/01.m3u8
 #EXTINF:-1, tvg-id="ChargeTV.us" tvg-logo="https://i.postimg.cc/s2f0981H/2m27rx5-1.png" tvg-name="Charge (US) (Tiz)"  group-title="Entertainment",Charge (US) (Tiz)
 http://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Charge! (STIRЯ 61) (Tiz)"  group-title="STIRЯ",Charge! (STIRЯ 61) (Tiz)
+https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b6b285823ecb93393cbf766/featuredImage.jpg" tvg-name="Chassy (PlutoTV) (Tiz)"  group-title="PlutoTV",Chassy (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5b6b285823ecb93393cbf766/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
 #EXTINF:-1, tvg-id="cheddar.us" tvg-logo="https://i.postimg.cc/Pq6V64wX/ne6hc9-1.png" tvg-name="Cheddar (US) (Tiz)"  group-title="News",Cheddar (US) (Tiz)
 http://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
 
@@ -443,6 +614,9 @@ http://live.chdrstatic.com/cbn/primary/1.m3u8
 
 #EXTINF:-1, tvg-id="CheddarBusiness.us" tvg-logo="https://i.postimg.cc/FR7WwLyj/2m3nuyu-1.jpg" tvg-name="Cheddar Big News Opt-2 (Tiz)"  group-title="News",Cheddar Big News Opt-2 (Tiz)
 http://live.chdrstatic.com/cbn/primary/5.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Cheddar News (STIRЯ 11) (Tiz)"  group-title="STIRЯ",Cheddar News (STIRЯ 11) (Tiz)
+https://dai.google.com/linear/hls/event/frfwucAPTVunrpitYiymwg/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/Y9Zn7CRT/jq1i4m-1.png" tvg-name="Cheddar Opt-1 (Tiz)"  group-title="News",Cheddar Opt-1 (Tiz)
 http://live.chdrstatic.com/cheddar/primary/1.m3u8
@@ -453,26 +627,131 @@ http://live.chdrstatic.com/cheddar/primary/5.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/v8x2z5Hy/23w08ww-1.jpg" tvg-name="Christian Youth Channel (US) (Tiz)"  group-title="Religion",Christian Youth Channel (US) (Tiz)
 http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c2d64655f3202714e8dad6e/featuredImage.jpg" tvg-name="Cine (PlutoTV) (Tiz)"  group-title="PlutoTV",Cine (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5c2d64655f3202714e8dad6e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=l8orq3a8c0i8mnij1r1q96i7p0
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c9abcd72bebe52e3cacc1c4/featuredImage.jpg" tvg-name="Cine Dos (PlutoTV) (Tiz)"  group-title="PlutoTV",Cine Dos (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5c9abcd72bebe52e3cacc1c4/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=100lm1j6kehed04ucl6d6fc4q7
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="CineLife (STIRЯ 219) (Tiz)"  group-title="STIRЯ",CineLife (STIRЯ 219) (Tiz)
+https://dai.google.com/linear/hls/pa/event/PFJ1Jhd6SsSMcu3qq86wzQ/stream/3e21af07-9b96-4640-b3b9-a73f10176020:MRN/master.m3u8
+
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CineMax Prime (US) (Tiz)"  group-title="Movies",CineMax Prime (US) (Tiz)
 http://161.0.157.9/PLTV/88888888/224/3221226834/01.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/DyVjYm8X/2ryg7d4-1.jpg" tvg-name="Classic Arts Showcase (US) (Tiz)"  group-title="Entertainment",Classic Arts Showcase (US) (Tiz)
 http://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/ab1857ba-26d5-6f07-0e5d-4c45700e2389-ClassicMovies_featured.jpg" tvg-name="Classic Movies (PlutoTV) (Tiz)"  group-title="PlutoTV",Classic Movies (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/1e9ec725-8ff7-2e4a-092e-11de3a4515e9-ClassicToons_thumb.jpg" tvg-name="Classic Toons TV (PlutoTV) (Tiz)"  group-title="PlutoTV",Classic Toons TV (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=5b8dde6c-ee63-40c0-8a6c-81595c7a920c&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/b6e39f2b-47cc-772e-65eb-e40ef08c79ce-ClassicTV_featured.jpg" tvg-name="Classic TV (PlutoTV) (Tiz)"  group-title="PlutoTV",Classic TV (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/55383613c0b860c11a631e36/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Classics (DISC) (STIRЯ 212) (Tiz)"  group-title="STIRЯ",Classics (DISC) (STIRЯ 212) (Tiz)
+https://dai.google.com/linear/hls/event/BAz4OB1yS22SEnG8d7OYjw/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/621e2260-8beb-16a9-eaf6-c7442107a1d8-Clevver_Hero.jpg" tvg-name="Clevver (PlutoTV) (Tiz)"  group-title="PlutoTV",Clevver (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/587599db0decb235457c956d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/sDp6Fyh0/2lmujrd-1.jpg" tvg-name="CMC-TV California Music Channel (US) (Tiz)"  group-title="Music",CMC-TV California Music Channel (US) (Tiz)
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/AlMIGmj.jpg" tvg-name="CMT Westerns Opt-1 (PlutoTV) (Tiz)"  group-title="PlutoTV",CMT Westerns Opt-1 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=pb3stkgum0jt2soq367mu97333
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/AlMIGmj.jpg" tvg-name="CMT Westerns Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",CMT Westerns Opt-2 (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=ncuqage0urlhccbp8kbecjc830
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2000px-CNBC_logo.svg.png" tvg-name="CNBC (PlutoTV) (Tiz)"  group-title="PlutoTV",CNBC (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/57ebfd64f70792b24b5bd9a6/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/7cd92dbc-3121-2ec3-774e-a46148805439-CNET-channel-feature.jpg" tvg-name="CNET (PlutoTV) (Tiz)"  group-title="PlutoTV",CNET (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/56283c8769ba54637dea0464/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/3rkcV8kh/Pluto-TV-Logo.jpg" tvg-name="CNN (PlutoTV) (Tiz)"  group-title="PlutoTV",CNN (PlutoTV) (Tiz)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/pVjk8xqX/8ycayp-1.jpg" tvg-name="CNN Philippines (PH) (Tiz)"  group-title="News",CNN Philippines (PH) (Tiz)
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c37d6712de254456f7ec340/featuredImage.jpg" tvg-name="Cold Case Files Opt-1 (PlutoTV) (Tiz)"  group-title="PlutoTV",Cold Case Files Opt-1 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5c37d6712de254456f7ec340/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=kaasl9n3jh3esnglai5na3geu7
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c37d6712de254456f7ec340/featuredImage.jpg" tvg-name="Cold Case Files Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",Cold Case Files Opt-2 (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5c37d6712de254456f7ec340/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=kaasl9n3jh3esnglai5na3geu7
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb1ac3e268cae539bcedb07/featuredImage.jpg" tvg-name="Combate World (PlutoTV) (Tiz)"  group-title="PlutoTV",Combate World (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="CombatGo (STIRЯ 356) (Tiz)"  group-title="STIRЯ",CombatGo (STIRЯ 356) (Tiz)
+https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5a4d3a00ad95e4718ae8d8db/featuredImage.jpg" tvg-name="Comedy (PlutoTV) (Tiz)"  group-title="PlutoTV",Comedy (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=qb3stkgum0jt2soq367mu97333
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Comedy (STIRЯ 202) (Tiz)"  group-title="STIRЯ",Comedy (STIRЯ 202) (Tiz)
+https://dai.google.com/linear/hls/event/dGP9Z-PNRPCgGQSDEzxqYg/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c363c2411c5ca053f198f97/featuredImage.jpg" tvg-name="Comedy (UK) (PlutoTV) (Tiz)"  group-title="PlutoTV",Comedy (UK) (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5c363c2411c5ca053f198f97/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=d45b9ea1nuf9ijm985tiag4ge6
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca671f215a62078d2ec0abf/featuredImage.jpg" tvg-name="Comedy Central Opt-1 (PlutoTV) (Tiz)"  group-title="PlutoTV",Comedy Central Opt-1 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=ecuqage0urlhccbp8kbecjc830
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca671f215a62078d2ec0abf/featuredImage.jpg" tvg-name="Comedy Central Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",Comedy Central Opt-2 (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=ecuqage0urlhccbp8kbecjc830
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca671f215a62078d2ec0abf/featuredImage.jpg" tvg-name="Comedy Central Opt-3 (PlutoTV) (Tiz)"  group-title="PlutoTV",Comedy Central Opt-3 (PlutoTV) (Tiz)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca675d6593a5d78f0e85c2e/featuredImage.jpg" tvg-name="Comedy Central Standup Opt-1 (PlutoTV) (Tiz)"  group-title="PlutoTV",Comedy Central Standup Opt-1 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5ca675d6593a5d78f0e85c2e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=kcuqage0urlhccbp8kbecjc830
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca675d6593a5d78f0e85c2e/featuredImage.jpg" tvg-name="Comedy Central Standup Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",Comedy Central Standup Opt-2 (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5ca675d6593a5d78f0e85c2e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=kcuqage0urlhccbp8kbecjc830
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Comedy Dynamics (STIRЯ 173) (Tiz)"  group-title="STIRЯ",Comedy Dynamics (STIRЯ 173) (Tiz)
+https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Comet TV (STIRЯ 101) (Tiz)"  group-title="STIRЯ",Comet TV (STIRЯ 101) (Tiz)
+https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
+
 #EXTINF:-1, tvg-id="Comet.us" tvg-logo="https://i.postimg.cc/28Fwcwss/4fzint-1.jpg" tvg-name="Comet TV (Tiz)"  group-title="Entertainment",Comet TV (Tiz)
 http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/2SkxPWmV/23m3lnp-1.png" tvg-name="CONtv (US) (Tiz)"  group-title="Entertainment",CONtv (US) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb1b439ea5c9e53afd21325/featuredImage.jpg" tvg-name="Complex Networks (PlutoTV) (Tiz)"  group-title="PlutoTV",Complex Networks (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5bb1b439ea5c9e53afd21325/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a986f9svfip7e01cg9g78c92l4
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5adf96e3e738977e2c31cb04/featuredImage.jpg" tvg-name="Conspiracy (PlutoTV) (Tiz)"  group-title="PlutoTV",Conspiracy (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=m24jbjrh2o33lln3jns6j2tmn0
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb1bb65268cae539bcedb0c/featuredImage.jpg" tvg-name="ConTV (PlutoTV) (Tiz)"  group-title="PlutoTV",ConTV (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5bb1bb65268cae539bcedb0c/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="ConTV (STIRЯ 60) (Tiz)"  group-title="STIRЯ",ConTV (STIRЯ 60) (Tiz)
+https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/1044272252072521728/IWUQk2nK_400x400.jpg" tvg-name="CONtv (Xumo) (Tiz)"  group-title="Xumo",CONtv (Xumo) (Tiz)
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Cooks (STIRЯ 260) (Tiz)"  group-title="STIRЯ",Cooks (STIRЯ 260) (Tiz)
+https://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8
 
 #EXTINF:-1, tvg-id="CornerstoneTelevision.us" tvg-logo="https://i.postimg.cc/t4BzygCD/2ur9h50-1.jpg" tvg-name="CornerStone TV (US) (Tiz)"  group-title="Religion",CornerStone TV (US) (Tiz)
 http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/chunklist_w1852678767_b2328000_sleng.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/ab51f0fb-5cfb-d826-5de8-0527fa983eba-cracked-channel-feature%20(1).jpg" tvg-name="Cracked (PlutoTV) (Tiz)"  group-title="PlutoTV",Cracked (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/561c5d74ada51f8004c4d85d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5cf0627e3c6efae31002e114/featuredImage.jpg" tvg-name="Crazy Pets (PlutoTV) (Tiz)"  group-title="PlutoTV",Crazy Pets (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5cf0627e3c6efae31002e114/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=500lm1j6kehed04ucl6d6fc4q7
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5812be1c249444e05d09cc50/featuredImage.jpg" tvg-name="Crime Network (PlutoTV) (Tiz)"  group-title="PlutoTV",Crime Network (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5812be1c249444e05d09cc50/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
 #EXTINF:-1, tvg-id="cspan.us" tvg-logo="https://i.postimg.cc/xdynqBhs/wa3kn5-1.png" tvg-name="C-SPAN1 SD (US) (Tiz)"  group-title="SD Channels",C-SPAN1 SD (US) (Tiz)
 http://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
@@ -497,6 +776,12 @@ http://video.ct-n.com/live/web2stream/chunklist_w1202315245_DVR.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/NfDrWPdw/16qlib-1.jpg" tvg-name="CT CTN Streaming Media Connecticut Network (US) (Tiz)"  group-title="PublicAccess",CT CTN Streaming Media Connecticut Network (US) (Tiz)
 http://video.ct-n.com/live/ctnstream/chunklist_w1534354198_DVR.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c665db3e6c01b72c4977bc2/featuredImage.jpg" tvg-name="Cult Films Opt-1 (PlutoTV) (Tiz)"  group-title="PlutoTV",Cult Films Opt-1 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=aas1tmuhiduj44cbhncosi4hb7
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c665db3e6c01b72c4977bc2/featuredImage.jpg" tvg-name="Cult Films Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",Cult Films Opt-2 (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=aas1tmuhiduj44cbhncosi4hb7
 
 #EXTINF:-1, tvg-id="CWwccb.us" tvg-logo="https://i.postimg.cc/bJkCzj5J/30lmdj6-1.png" tvg-name="CW 27-18 WCCB Charlotte NC (US) (Tiz)"  group-title="Local",CW 27-18 WCCB Charlotte NC (US) (Tiz)
 http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
@@ -552,17 +837,74 @@ http://www.djing.com/tv/session_summer-vibes.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/KvzPf25M/1zgvrko-1.png" tvg-name="DJing Underground (Tiz)"  group-title="Music",DJing Underground (Tiz)
 http://www.djing.com/tv/underground.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/Hk8QG9RW/2w4zq76-1.jpg" tvg-name="Docurama (US) (Tiz)"  group-title="News",Docurama (US) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ce4475cd43850831ca91ce7/featuredImage.jpg" tvg-name="Doctor Who Classic (PlutoTV) (Tiz)"  group-title="PlutoTV",Doctor Who Classic (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5ce4475cd43850831ca91ce7/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=afm0olmob01dea5o07g90tqtu0
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b85a7582921777994caea63/featuredImage.jpg" tvg-name="Documentaries (PlutoTV) (Tiz)"  group-title="PlutoTV",Documentaries (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Docurama (STIRЯ 231) (Tiz)"  group-title="STIRЯ",Docurama (STIRЯ 231) (Tiz)
+https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMHDxUIBwgRERUSDRYPEBAVEBgWGBUaFR0iFxUdExcZIzQgGhonGxMTITEhJSkrLi4uFx8zODMsOigtLisBCgoKDg0OFw4QGislHx4tLy0tKystKystLS0wLSszNi0tLS0rKy0rKy0tLS0tNy0tLS0rLSstLS0rLS0tKy0tK//AABEIALQAtAMBIgACEQEDEQH/xAAbAAEAAwEBAQEAAAAAAAAAAAAABAUGBwMCCP/EAEMQAAEDAgMCCQcJBwUAAAAAAAABAgMEBQYREiEyBxMUMVJyocHRIjVBUWFxsRVidIKRkrKzwjM2QlN1gaIjJDTD0v/EABkBAQEBAQEBAAAAAAAAAAAAAAABAgMEBf/EACQRAQADAAAFBQADAAAAAAAAAAABAhEDEyExYQQyQVHwEiIz/9oADAMBAAIRAxEAPwDmYAPrMgAAAAAAAAAAAAAAAAAAAAAAAAAAm0G6vW7kAoN1et3IAIQAAAAAAAAAAAAAAAAAAAAAAAAAAAACbQbq9buQCg3V63cgAhAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJtBur1u5AKDdXrdyACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAm0G6vW7kAoN1et3IAIQAAEy00DrrURW6B7WumlSJrnZ6UVelp6pDL3Annai+mt+CktORMiyuXBpc6DNyW5szUXehkRyr9R2S9hl62klt7uLuFJLCqc6SRuZ8UP0fiXHFLhmaOju7pGrLGsjXNjV7URFy8rTt7Cfab3SYljV1tq4qhqLk9vOqddjtqf3Q8keovEbMdFx+WkXPaiovuB+k7pwfW255uns0THL/HGixO/wAMjKXLgWgk8q13WaLZsbIiSN+3Yp1r6ms90xxcG8uPBJcaTbS8RUp8yTi3fdfs7TH3O2TWmTkt0o3wv06ka5Nqt9bcudPJOtb1t2kQwAaAAKuXOuQADPPykVF9qH0rFamt0bkT0OVioi/3UD5BZyYfrIYlrZrPUMia3W6V0Sta1vrzUkYewnV4kRz7NTNekb0Y9zpEYiOVM8tu9sJ/KIjdFICfe7RLY6h1tuLWpIxGq9Gu1NyemabfcQCxO9QAAE2g3V63cgFBur1u5ABCAAAvcCedqL6a34KURe4E87UX01vwUzf2yNzwxRJPeLfDMzU1zWse1eZzXTNRyL70POy0LLBi35OtLeLidGqLGi7NL4uM09VHtzT1Hvwu+erb72fntPqT99E6ifkHmr7c8SvyqGVFfii5V602IJqdaRJZI2te5GaWOViMREXJN3aq5miw7wjzLY5bxXwJNNTStgRd1JFfp0OflzZcZty6PtKbAPnK8fR6j815n7F+7Vb/AFCm/QJrE9Jj6G7tfChUQLTPxPZ2RQ1iZwVET1VMs0bm5i5rlm5vpzyXPI8cfYZXFl9ZbmVaQ6bUkyuVmvNEkVMmpmnSI8VvttdarW7E90fTuZTf7dGvy1eUmrZpXPajPtNW/wDehP6Ev5pz6Vna9O6ufYY4OI7tUVlHV3KVqUVQkObGtRZNirntzy5j0w3g6glsy4pvaVTtDZXyMjkRubWPVjUamzbk1vpNpgP/AJ95/qCfhUiYFoo7nhlKG4VXExypNG+XUiaUWV23Ndhq3Et9/SYyWP8ABlJabfDiCwuma2V0aLFI5X5tlTNq7dqOTZ6S/wCCiw0klubcbtbYZXy1r443yRo9cs9DETV6M2uPHhmrY7ZRU2GII3rkjHtkdzIyBNGWfpfnpLaz076Cy2qKGFyq6tpXv0sVcmyvV6udlzJ5W1SzaeXGz3k+WTqaBtBi5lPDE1rFqWSNYjURqI+L+FObna42PDFTfKVvjaxm5dIWfeVY/wDsKzFFIkeLaGb+bCjs/axJE/8AJqrnAlxinpXbdF4p15+bJ8Uv6jNrdaz4U4Sn52etjRN2DT+Ff1Ga4HHpb7RJWuy/1LjpzX0pmyJO3UWuNarlVpuu3ckdF91sfiUlkX5OwxTSI39rWwPXL59U1fghK/555GW4aYOKu6yfzKOJ33Vcn6TCHTeHqHTW00+W9RvZ9x+f6zmR6+DO0hmQAHQTaDdXrdyAUG6vW7kAEIAAC9wJ52ovprfgpRF7gTztRfTW/BTN/bI3nC556tvvZ+e0MlbUYz1QvRyI3SqouaIrYNqf2NLj7ADsX1UVW24tgbFA6J3+mrnKqu1eTtRCbgvg/psJqtRBI+aZzdCzSZbE51RjU2Nz9Pp9p444lYr5zFcrtOIIsMXG6LdUe1ZUngY3Tmup0jlai+pFRzdpY4WwrVVuG6mOnpl1z1Mc8Ea+S57YtOatz9el2WfPl7TrF4S30r+W3htGx6J+0lSNHZe920oblwr22i8mCqkqF9UMSqn33ZN7S8y1vbH6DGGocI3HEraG3XC1JSQ0KaHTPemp6akcumPpeRl6vK5zQYuxHHhbEMVdWxudG61cS9Wpmrc5FVHZend7StuXDVI7ZarI1vz5pc/8GeJzzEV/nxJMlbdXsVyRpG1GN0ojWqq5Ze9zjpXh2tP9oyB1q34ttFldV3OlvTpX1knHvh4t2pHNTTpYmlO0orddIUwlLb+XRJNxMucPGJrRXSqqeRz8xy4ac9uSbPSa5ER8prrHCS9uKbHS3mmkassaRrIiOTNvHIkcqOTn2P0fdL/H+I5cFwUFLbntTVI2GTU1HZxxtRrvdzt2nB0YiLqRERV51TnPtz3PTTLK5yJzI56uROrnzDkdontBrveMqbK+WisT0vniVfqak/UWmH5OPuNzpHLsZVU0qfWib3xHA0xJWao5n3edzoXK+Bzna+LVyaXKmfzXOQnW7HFdbp5bjDWNdJOjEmc+JrkekSZM2NyyyR3oMT6e2Zv7V10StqOVWK8VCczrjV5Z+prmtT8JaT4gTAljoqhaVJlWOCLRr0b7dblzyXmycclgxhUQ0E9g4mJ0dS98j3qi60dKua5bcuf2EjGGNZMU0sVtloWQJC/U1WvVyLparE2KmzLUOTO58amtrw+Ro9lFUsT+OVmfsc1qp+E5CbXGmN48T0UFvShljkgka7W5zXNVGsVjubbt1NUxR24NZrTJJAAdBNoN1et3IBQbq9buQAQgAAJ9huHyTVwXN0Sv4mZJVYi5KulF2Z/WIAExvQdJufDJV1GbbbQQQJ6FcqyOT4NMpc8ZXC6Z8rvU2S87I3cW37GZFCDFeHSvaAc3Wut+bl6Srmv2qADaAACgAAAAAAAAAAAAAAAJtBur1u5AKDdXrdyACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAm0G6vW7kAoN1et3IAIQAAAAAAAAAAAAAAAAAAAAAAAAAAAACbQbq9buQCg3V63cgAhAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJtBur1u5AKDdXrdyAByJOm7s8ByJOm7s8AAHIk6buzwHIk6buzwAAciTpu7PAciTpu7PAAByJOm7s8ByJOm7s8AAHIk6buzwHIk6buzwAAciTpu7PAciTpu7PAAByJOm7s8ByJOm7s8AAHIk6buzwHIk6buzwAAciTpu7PAciTpu7PAAByJOm7s8ByJOm7s8AAHIk6buzwHIk6buzwAAmUFEmlfLdvez1J7AAB/9k=" tvg-name="Docurama (Xumo) (Tiz)"  group-title="Xumo",Docurama (Xumo) (Tiz)
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/7acadea2-4d35-2f5f-7933-a0648ed5d1cb-DocuTV_featured.jpg" tvg-name="DocuTV (PlutoTV) (Tiz)"  group-title="PlutoTV",DocuTV (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5695441df3ed8937070b1ac6/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bee1a7359ee03633e780238/featuredImage.jpg" tvg-name="Dog the Bounty Hunter Opt-1 (PlutoTV) (Tiz)"  group-title="PlutoTV",Dog the Bounty Hunter Opt-1 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=x24jbjrh2o33lln3jns6j2tmn0
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bee1a7359ee03633e780238/featuredImage.jpg" tvg-name="Dog the Bounty Hunter Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",Dog the Bounty Hunter Opt-2 (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=x24jbjrh2o33lln3jns6j2tmn0
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://scontent.fosu1-1.fna.fbcdn.net/v/t1.0-9/49342330_820886054909505_4383462502973833216_n.png?_nc_cat=110&_nc_ohc=IcHBajrpdVgAX_wbW6A&_nc_ht=scontent.fosu1-1.fna&oh=aec08fb9f1f38e4dfb78f0825b18f627&oe=5EFC2A7E" tvg-name="Dove Channel Opt-1 (Xumo) (Tiz)"  group-title="Xumo",Dove Channel Opt-1 (Xumo) (Tiz)
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.roku.com/developer_channels/prod/8432f7becc7755f9a82361097f7a62d8c25b270c203565484c583dc0c2d69115.png" tvg-name="Dove Channel Opt-2 (Xumo) (Tiz)"  group-title="Xumo",Dove Channel Opt-2 (Xumo) (Tiz)
+https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Dr Gene Scott (US) (Tiz)"  group-title="Religion",Dr Gene Scott (US) (Tiz)
 http://wescottcchls-lh.akamaihd.net/i/wcc_wowlivehls@24607/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e92e4694c027be6ecece1/featuredImage.jpg" tvg-name="Drama (PlutoTV) (Tiz)"  group-title="PlutoTV",Drama (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Drama (STIRЯ 203) (Tiz)"  group-title="STIRЯ",Drama (STIRЯ 203) (Tiz)
+https://dai.google.com/linear/hls/event/3P6eoQ_ARgeofjgKUyVI6w/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c5c2dd9e59bf23c192c411e/featuredImage.jpg" tvg-name="Drama (UK) (PlutoTV) (Tiz)"  group-title="PlutoTV",Drama (UK) (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5c5c2dd9e59bf23c192c411e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=c63a4iic6a2islfekugkgdsul4
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pmcvariety.files.wordpress.com/2016/02/dramafever-logo.jpg" tvg-name="DramaFever (PlutoTV) (Tiz)"  group-title="PlutoTV",DramaFever (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5a667765a5c02e717a25dc0f/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=6&deviceId=&deviceVersion=&appVersion=&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
 #EXTINF:-1, tvg-id="Dsport.uk" tvg-logo="https://i.postimg.cc/5twLyNfZ/2l1jqf-1.png" tvg-name="DSport (UK) (Tiz)"  group-title="Sports",DSport (UK) (Tiz)
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DuckTV (US) (Tiz)"  group-title="KidsTV",DuckTV (US) (Tiz)
 http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Dust (Sci-Fi) (STIRЯ 102) (Tiz)"  group-title="STIRЯ",Dust (Sci-Fi) (STIRЯ 102) (Tiz)
+https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Edge Sports (STIRЯ 359) (Tiz)"  group-title="STIRЯ",Edge Sports (STIRЯ 359) (Tiz)
+https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Electric Now (STIRЯ 62) (Tiz)"  group-title="STIRЯ",Electric Now (STIRЯ 62) (Tiz)
+https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_ElectricNow.png" tvg-name="ElectricNOW (Xumo) (Tiz)"  group-title="Xumo",ElectricNOW (Xumo) (Tiz)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5cda08d99ad3b121623d6dcb/featuredImage.jpg" tvg-name="ER Stories (PlutoTV) (Tiz)"  group-title="PlutoTV",ER Stories (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5cda08d99ad3b121623d6dcb/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=2lo2e1dlqpk6g2c72q7m3mjag2
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/3rkcV8kh/Pluto-TV-Logo.jpg" tvg-name="ES Lucha Libre AAA (PlutoTV) (Tiz)"  group-title="PlutoTV",ES Lucha Libre AAA (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=z24jbjrh2o33lln3jns6j2tmn0
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="ESR Esports Channel (STIRЯ 360) (Tiz)"  group-title="STIRЯ",ESR Esports Channel (STIRЯ 360) (Tiz)
+https://dai.google.com/linear/hls/event/7-91LhuBQNONHzAbrFQr-Q/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/1RLFGq4L/29eg282-1.jpg" tvg-name="ET Live Opt-1 (US) (Tiz)"  group-title="News",ET Live Opt-1 (US) (Tiz)
 http://etlive-mediapackage-fastly.cbsaavideo.com/live/manifest.m3u8
@@ -579,26 +921,71 @@ https://aos01-evine.secure.footprint.net/evine/dirty/Evine_Dirty_VIDEO_1_2064000
 #EXTINF:-1, tvg-id="EXPO.au" tvg-logo="https://i.postimg.cc/vmHxY7S6/zjebv8-1.jpg" tvg-name="Expo Channel (AU) (Tiz)"  group-title="Lifestyle",Expo Channel (AU) (Tiz)
 http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/1zbcnqQ5/XumoLogo.jpg" tvg-name="FailArmy (Xumo) (Tiz)"  group-title="Entertainment",FailArmy (Xumo) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://s3.amazonaws.com/pluto.tv/assets/images/channels/3c99f280-43ab-1831-ddac-4e8f186ea8e1-eyecandy_heroXL_2.png" tvg-name="Eye Candy (PlutoTV) (Tiz)"  group-title="PlutoTV",Eye Candy (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/53b1c003eded29524e1deb97/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Fail Army (STIRЯ 302) (Tiz)"  group-title="STIRЯ",Fail Army (STIRЯ 302) (Tiz)
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/554158e864526b29254ff105/featuredImage.jpg" tvg-name="FailArmy (PlutoTV) (Tiz)"  group-title="PlutoTV",FailArmy (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/554158e864526b29254ff105/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/1zbcnqQ5/XumoLogo.jpg" tvg-name="FailArmy (Xumo) (Tiz)"  group-title="Xumo",FailArmy (Xumo) (Tiz)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/Kz1KLGbG/2uif314-1.png" tvg-name="Faith TV (US) (Tiz)"  group-title="Religion",Faith TV (US) (Tiz)
 http://hls-live-media.cdn01.net/default/stream_14889.m3u8?
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c58a539fae3812612f33ca3/featuredImage.jpg" tvg-name="Faith TV Opt-1 (PlutoTV) (Tiz)"  group-title="PlutoTV",Faith TV Opt-1 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5c58a539fae3812612f33ca3/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=c37cef12f9heq1mq8ah9ia4h70
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c58a539fae3812612f33ca3/featuredImage.jpg" tvg-name="Faith TV Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",Faith TV Opt-2 (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5c58a539fae3812612f33ca3/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=c37cef12f9heq1mq8ah9ia4h70
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b64a245a202b3337f09e51d/featuredImage.jpg" tvg-name="Family (PlutoTV) (Tiz)"  group-title="PlutoTV",Family (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_of_Family_Feud.png" tvg-name="Family Feud (Xumo) (Tiz)"  group-title="Xumo",Family Feud (Xumo) (Tiz)
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/1280x720_5000000/index.m3u8
+
 #EXTINF:-1, tvg-id="FashionTV.ca" tvg-logo="Logo N/A" tvg-name="Fashion TV (FR) (Tiz)"  group-title="Lifestyle",Fashion TV (FR) (Tiz)
 http://95.67.47.114/hls/hdfashion_ua_low/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/1zbcnqQ5/XumoLogo.jpg" tvg-name="Filmrise Classics (Xumo) (Tiz)"  group-title="Movies",Filmrise Classics (Xumo) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c362ded581a86051df509b4/featuredImage.jpg" tvg-name="Fear Factor (PlutoTV) (Tiz)"  group-title="PlutoTV",Fear Factor (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5c362ded581a86051df509b4/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=f45b9ea1nuf9ijm985tiag4ge6
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5812b0f2237a6ff45d16c3f9/featuredImage.jpg" tvg-name="Fight (PlutoTV) (Tiz)"  group-title="PlutoTV",Fight (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Film Detective (STIRЯ 213) (Tiz)"  group-title="STIRЯ",Film Detective (STIRЯ 213) (Tiz)
+https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_filmHub-copy.png" tvg-name="FilmHub (Xumo) (Tiz)"  group-title="Xumo",FilmHub (Xumo) (Tiz)
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Filmrise (STIRЯ 220) (Tiz)"  group-title="STIRЯ",Filmrise (STIRЯ 220) (Tiz)
+https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/a/AGF-l78Hdk9rq6wjchysWzLLxFQKClhBfyHghiKRCw=s900-c-k-c0xffffffff-no-rj-mo" tvg-name="Filmrise (Xumo) (Tiz)"  group-title="Xumo",Filmrise (Xumo) (Tiz)
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Filmrise Classic TV (STIRЯ 150) (Tiz)"  group-title="STIRЯ",Filmrise Classic TV (STIRЯ 150) (Tiz)
+https://dai.google.com/linear/hls/event/hW5jMh7dTRK1UXW5fTH07A/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/1zbcnqQ5/XumoLogo.jpg" tvg-name="Filmrise Classics (Xumo) (Tiz)"  group-title="Xumo",Filmrise Classics (Xumo) (Tiz)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/1zbcnqQ5/XumoLogo.jpg" tvg-name="Filmrise Crime (Xumo) (Tiz)"  group-title="Movies",Filmrise Crime (Xumo) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/1zbcnqQ5/XumoLogo.jpg" tvg-name="Filmrise Crime (Xumo) (Tiz)"  group-title="Xumo",Filmrise Crime (Xumo) (Tiz)
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/1zbcnqQ5/XumoLogo.jpg" tvg-name="Filmrise Family (Xumo) (Tiz)"  group-title="Movies",Filmrise Family (Xumo) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/1zbcnqQ5/XumoLogo.jpg" tvg-name="Filmrise Family (Xumo) (Tiz)"  group-title="Xumo",Filmrise Family (Xumo) (Tiz)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/1zbcnqQ5/XumoLogo.jpg" tvg-name="Filmrise Movies (Xumo) (Tiz)"  group-title="Movies",Filmrise Movies (Xumo) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/1zbcnqQ5/XumoLogo.jpg" tvg-name="Filmrise Movies (Xumo) (Tiz)"  group-title="Xumo",Filmrise Movies (Xumo) (Tiz)
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Fit (STIRЯ 259) (Tiz)"  group-title="STIRЯ",Fit (STIRЯ 259) (Tiz)
+https://dai.google.com/linear/hls/event/ZidoyK28TXyMRTZU7rFuEQ/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/3wsyXMx2/2wowvpj-1.png" tvg-name="FL Beach TV 30A (US) (Tiz)"  group-title="PublicAccess",FL Beach TV 30A (US) (Tiz)
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
@@ -624,14 +1011,32 @@ http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/pTMT9DsZ/2mocye1-1.jpg" tvg-name="FL Orange County TV (US) (Tiz)"  group-title="PublicAccess",FL Orange County TV (US) (Tiz)
 http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58e55b14ad8e9c364d55f717/featuredImage.jpg" tvg-name="Flicks of Fury Opt-1 (PlutoTV) (Tiz)"  group-title="PlutoTV",Flicks of Fury Opt-1 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58e55b14ad8e9c364d55f717/featuredImage.jpg" tvg-name="Flicks of Fury Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",Flicks of Fury Opt-2 (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
 #EXTINF:-1, tvg-id="FlowSports1.int" tvg-logo="https://i.postimg.cc/kX3V6PpC/24njgg3-1.jpg" tvg-name="Flow Sports (UK) (Tiz)"  group-title="Sports",Flow Sports (UK) (Tiz)
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
 #EXTINF:-1, tvg-id="FOLK.us" tvg-logo="https://i.postimg.cc/KvP1tp6M/2nbrqlt-1.png" tvg-name="Folk TV (US) (Tiz)"  group-title="Religion",Folk TV (US) (Tiz)
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/1zbcnqQ5/XumoLogo.jpg" tvg-name="Food52 (Xumo) (Tiz)"  group-title="Lifestyle",Food52 (Xumo) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5877ac8cb791f4eb4a140d81/featuredImage.jpg" tvg-name="Food TV (PlutoTV) (Tiz)"  group-title="PlutoTV",Food TV (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/1zbcnqQ5/XumoLogo.jpg" tvg-name="Food52 Opt-1 (Xumo) (Tiz)"  group-title="Xumo",Food52 Opt-1 (Xumo) (Tiz)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://s3.amazonaws.com/production.mediajoint.prx.org/public/piece_images/629190/food52_small.jpg" tvg-name="Food52 Opt-2 (Xumo) (Tiz)"  group-title="Xumo",Food52 Opt-2 (Xumo) (Tiz)
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxfood52A/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb1af6a268cae539bcedb0a/featuredImage.jpg" tvg-name="Forensic Files (PlutoTV) (Tiz)"  group-title="PlutoTV",Forensic Files (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Forensic_Files_Titlecard_Seasons_1-6.png/220px-Forensic_Files_Titlecard_Seasons_1-6.png" tvg-name="Forensic Files (Xumo) (Tiz)"  group-title="Xumo",Forensic Files (Xumo) (Tiz)
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxforensicfiles/CDN/1280x720_5000000/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox 05 KSWB-TV San Diego CA (US) (Tiz)"  group-title="Local",Fox 05 KSWB-TV San Diego CA (US) (Tiz)
 http://api.new.livestream.com/accounts/9263055/events/3189799/live.m3u8
@@ -651,8 +1056,65 @@ http://api.new.livestream.com/accounts/3417789/events/1980088/live.m3u8
 #EXTINF:-1, tvg-id="FoxSports1.us" tvg-logo="https://i.postimg.cc/2SXrW4SW/5bpqax-1.png" tvg-name="Fox Sports (UK) (Tiz)"  group-title="Sports",Fox Sports (UK) (Tiz)
 http://45.58.62.92:8080
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png" tvg-name="Fox Sports Opt-1 (PlutoTV) (Tiz)"  group-title="PlutoTV",Fox Sports Opt-1 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png" tvg-name="Fox Sports Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",Fox Sports Opt-2 (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
 #EXTINF:-1, tvg-id="FreeSpeech.us" tvg-logo="https://i.postimg.cc/Bvr3Y4DQ/25tuof8-1.png" tvg-name="Free Speech TV (US) (Tiz)"  group-title="News",Free Speech TV (US) (Tiz)
 http://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Fridays (DISC) (STIRЯ 175) (Tiz)"  group-title="STIRЯ",Fridays (DISC) (STIRЯ 175) (Tiz)
+https://dai.google.com/linear/hls/event/QN2mfqK7RbCeE3mm1xlREw/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://static.pluto.tv/channels/5938888cd045ffce74cf9048/logo.png" tvg-name="FrontDoor Opt-1 (PlutoTV) (Tiz)"  group-title="PlutoTV",FrontDoor Opt-1 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5938888cd045ffce74cf9048/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=88958f10-712d-11e8-b9ec-8ba319deeadf&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://static.pluto.tv/channels/5938888cd045ffce74cf9048/logo.png" tvg-name="FrontDoor Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",FrontDoor Opt-2 (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5938888cd045ffce74cf9048/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=88958f10-712d-11e8-b9ec-8ba319deeadf&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/79328cdd-3e2e-70d4-cce3-574ffb9fcc75-FunnyAF_featured.jpg" tvg-name="Funny AF (PlutoTV) (Tiz)"  group-title="PlutoTV",Funny AF (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Futurism (STIRЯ 103) (Tiz)"  group-title="STIRЯ",Futurism (STIRЯ 103) (Tiz)
+https://dai.google.com/linear/hls/event/YakHdnr_RpyszducVuHOpQ/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/02c4eb8a-b20e-f6d0-0ff8-b2d6fdf8135f-GS_PlutoTV_1560x878.jpg" tvg-name="Geek & Sundry (PlutoTV) (Tiz)"  group-title="PlutoTV",Geek & Sundry (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/561c5be8ada51f8004c4d856/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c45f5a9d40d58066869fa60/featuredImage.jpg" tvg-name="Ghost Dimension (PlutoTV) (Tiz)"  group-title="PlutoTV",Ghost Dimension (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5c45f5a9d40d58066869fa60/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=e45b9ea1nuf9ijm985tiag4ge6
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Glewed TV (STIRЯ 256) (Tiz)"  group-title="STIRЯ",Glewed TV (STIRЯ 256) (Tiz)
+https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.xumo.com/v1/channels/channel/9999224/300x300.png?type=smartCast_channelTile" tvg-name="Global Got Talent (Xumo) (Tiz)"  group-title="Xumo",Global Got Talent (Xumo) (Tiz)
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxgottalentglobal/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5417a212ff9fba68282fbf5e/featuredImage.jpg" tvg-name="Glory Kickboxing (Germany) (PlutoTV) (Tiz)"  group-title="PlutoTV",Glory Kickboxing (Germany) (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5ad9be1be738977e2c312134/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=dur393qqr6rgv34sdqt02gjgp6
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5417a212ff9fba68282fbf5e/featuredImage.jpg" tvg-name="Glory Kickboxing (UK) (PlutoTV) (Tiz)"  group-title="PlutoTV",Glory Kickboxing (UK) (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5ad8d6f5e738977e2c310949/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=bur393qqr6rgv34sdqt02gjgp6
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5417a212ff9fba68282fbf5e/featuredImage.jpg" tvg-name="Glory Kickboxing Opt-1 (PlutoTV) (Tiz)"  group-title="PlutoTV",Glory Kickboxing Opt-1 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5417a212ff9fba68282fbf5e/featuredImage.jpg" tvg-name="Glory Kickboxing Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",Glory Kickboxing Opt-2 (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=aur393qqr6rgv34sdqt02gjgp6
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/59120e45877eeb3760b3d9da/featuredImage.jpg" tvg-name="Gravitas Movies (PlutoTV) (Tiz)"  group-title="PlutoTV",Gravitas Movies (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/59120e45877eeb3760b3d9da/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Gravitas Movies (STIRЯ 221) (Tiz)"  group-title="STIRЯ",Gravitas Movies (STIRЯ 221) (Tiz)
+https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/59120e45877eeb3760b3d9da/featuredImage.jpg" tvg-name="Gravitas Movies (Xumo) (Tiz)"  group-title="Xumo",Gravitas Movies (Xumo) (Tiz)
+https://dai.google.com/linear/hls/pa/event/EpqgwRlpQKq73ySVSohJWA/stream/f3b56329-3ec7-4684-948c-4194ef970a86:CBF2/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Gusto TV (STIRЯ 254) (Tiz)"  group-title="STIRЯ",Gusto TV (STIRЯ 254) (Tiz)
+https://dai.google.com/linear/hls/event/tdSCy5u2R5WtCLXX4NwDtg/master.m3u8
 
 #EXTINF:-1, tvg-id="HallmarkMoviesMysteries.us" tvg-logo="https://i.postimg.cc/RVgBrcfY/f0auzo-1.jpg" tvg-name="Hallmark M&M Opt-1 (US) (Tiz)"  group-title="Entertainment",Hallmark M&M Opt-1 (US) (Tiz)
 http://crownmediaingest.akamaized.net/hls/live/567739/mm/master.m3u8?hdnts=exp=3053348551~acl=/*~hmac=592bc88702cf4f549f6fa1233adcf78fdff0209e062d72a244dce61650291d26
@@ -666,8 +1128,23 @@ http://crownmediaingest.akamaized.net/hls/live/567739/cm/master.m3u8?hdnts=exp=3
 #EXTINF:-1, tvg-id="Hallmark.us" tvg-logo="https://i.postimg.cc/CxdVwzsx/2u3uljk-1.jpg" tvg-name="Hallmark Opt-2 (US) (Tiz)"  group-title="Entertainment",Hallmark Opt-2 (US) (Tiz)
 http://crownmediaingest.akamaized.net/hls/live/567739/cm/master.m3u8?hdnts=exp=3053211897~acl=/*~hmac=4f866e42c1c949ed813463f45310c7b32bd8c212efdba1e5b3f2a97ff5b2e895
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Hallypop (STIRЯ 402) (Tiz)"  group-title="STIRЯ",Hallypop (STIRЯ 402) (Tiz)
+https://dai.google.com/linear/hls/event/ctGD-E18Q0-3WScFd_tK5w/master.m3u8
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/qvYHq41X/xmpj5c-1.png" tvg-name="Hamdard TV (CA) (Tiz)"  group-title="Religion",Hamdard TV (CA) (Tiz)
 http://cdn.samtv.ca/hamdard/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e99f4423e067bd6df6903/featuredImage.jpg" tvg-name="Hell's Kitchen (PlutoTV) (Tiz)"  group-title="PlutoTV",Hell's Kitchen (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5887ba337b8e94223eb121bd/featuredImage.jpg" tvg-name="Her (PlutoTV) (Tiz)"  group-title="PlutoTV",Her (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/3rkcV8kh/Pluto-TV-Logo.jpg" tvg-name="Her Dramas Opt-1 (PlutoTV) (Tiz)"  group-title="PlutoTV",Her Dramas Opt-1 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5c86b772e7f96a5a929736c0/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=apleiqkv48retieubjjds9qrm7
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c86b772e7f96a5a929736c0/featuredImage.jpg" tvg-name="Her Dramas Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",Her Dramas Opt-2 (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5c86b772e7f96a5a929736c0/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=apleiqkv48retieubjjds9qrm7
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/dQB11Zr2/vffe5g-1.jpg" tvg-name="HI AKAKU 53 (US) (Tiz)"  group-title="PublicAccess",HI AKAKU 53 (US) (Tiz)
 http://akaku.vod.castus.tv/live/ch1.m3u8
@@ -693,11 +1170,29 @@ http://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/fLszWMbq/2i7tqb5-1.png" tvg-name="HI Olelo 55 (US) (Tiz)"  group-title="PublicAccess",HI Olelo 55 (US) (Tiz)
 http://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5a4d35dfa5c02e717a234f86/featuredImage.jpg" tvg-name="History (PlutoTV) (Tiz)"  group-title="PlutoTV",History (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=s1i2kmn8epo99i02q1oji559k6
+
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="History Channel 2 (US) (Tiz)"  group-title="Educational",History Channel 2 (US) (Tiz)
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/94c00b9b-c823-6d69-6d0b-e64daad439ac-Hive_featured.jpg" tvg-name="Hive (PlutoTV) (Tiz)"  group-title="PlutoTV",Hive (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/580814179dfdf1f4141f78f5/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://scontent.fosu1-1.fna.fbcdn.net/v/t31.0-8/p960x960/14940215_683032278531461_8289967831208298707_o.jpg?_nc_cat=105&_nc_ohc=e2k6r305u3cAX8ldMvQ&_nc_ht=scontent.fosu1-1.fna&_nc_tp=6&oh=a638e9e83a1c348e075a90287eae3233&oe=5EB59C19" tvg-name="Hi-Yah! (Xumo) (Tiz)"  group-title="Xumo",Hi-Yah! (Xumo) (Tiz)
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca2ac3688925d78c857465f/featuredImage.jpg" tvg-name="Hoarding: Buried Alive (PlutoTV) (Tiz)"  group-title="PlutoTV",Hoarding: Buried Alive (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5ca2ac3688925d78c857465f/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=bpleiqkv48retieubjjds9qrm7
+
 #EXTINF:-1, tvg-id="HopeChannel.us" tvg-logo="https://i.postimg.cc/0Qs3KQDm/w2om75-1.jpg" tvg-name="Hope Channel (US) (Tiz)"  group-title="Religion",Hope Channel (US) (Tiz)
 http://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/3rkcV8kh/Pluto-TV-Logo.jpg" tvg-name="Horror 24/7 Opt-1 (PlutoTV) (Tiz)"  group-title="PlutoTV",Horror 24/7 Opt-1 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/3rkcV8kh/Pluto-TV-Logo.jpg" tvg-name="Horror 24/7 Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",Horror 24/7 Opt-2 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1, tvg-id="HomeShoppingNetwork.us" tvg-logo="https://i.postimg.cc/2yjKTKHS/2qtcndj-1.jpg" tvg-name="HSN (US) (Tiz)"  group-title="Lifestyle",HSN (US) (Tiz)
 http://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
@@ -705,11 +1200,53 @@ http://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
 #EXTINF:-1, tvg-id="HSN2.us" tvg-logo="https://i.postimg.cc/Kj9sWDVr/1zog86f-1.jpg" tvg-name="HSN2 (US) (Tiz)"  group-title="Lifestyle",HSN2 (US) (Tiz)
 http://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c99f5810c95814ff92512f9/featuredImage.jpg" tvg-name="Hunter (PlutoTV) (Tiz)"  group-title="PlutoTV",Hunter (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5c99f5810c95814ff92512f9/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=b63a4iic6a2islfekugkgdsul4
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/4b34952a-5e39-6200-4895-47690a5f7de7-IGN-Hero-Artwork.jpg" tvg-name="IGN (PlutoTV) (Tiz)"  group-title="PlutoTV",IGN (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IL Champaign Gov TV (US) (Tiz)"  group-title="PublicAccess",IL Champaign Gov TV (US) (Tiz)
 http://reflect-live-champaign.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Impact_Wrestling_Logo.svg/800px-Impact_Wrestling_Logo.svg.png" tvg-name="Impact Wrestling (PlutoTV) (Tiz)"  group-title="PlutoTV",Impact Wrestling (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58ed63525e2c798008323a1c/featuredImage.jpg" tvg-name="Indies (PlutoTV) (Tiz)"  group-title="PlutoTV",Indies (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/58ed63525e2c798008323a1c/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="INSIGHT TV (STIRЯ 304) (Tiz)"  group-title="STIRЯ",INSIGHT TV (STIRЯ 304) (Tiz)
+https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/867faca1-0c44-a85f-af4b-e3a116147f1f-InternetGold_featured.jpg" tvg-name="Internet Gold (PlutoTV) (Tiz)"  group-title="PlutoTV",Internet Gold (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/56b27a7badb45b1f50b91b0b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="INtrouble (STIRЯ 252) (Tiz)"  group-title="STIRЯ",INtrouble (STIRЯ 252) (Tiz)
+https://dai.google.com/linear/hls/event/_af28lUaQjuoPhfAU_BYQA/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="INwonder (STIRЯ 253) (Tiz)"  group-title="STIRЯ",INwonder (STIRЯ 253) (Tiz)
+https://dai.google.com/linear/hls/event/QiQc47LCQDep-t9pkaGIVg/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/598c8e2f3d8719a202ec66cc/featuredImage.jpg" tvg-name="JASH (PlutoTV) (Tiz)"  group-title="PlutoTV",JASH (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/598c8e2f3d8719a202ec66cc/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/1093651342051074048/qBCrwQ4i_400x400.jpg" tvg-name="Journy (Xumo) (Tiz)"  group-title="Xumo",Journy (Xumo) (Tiz)
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxjourny/CDN/1280x720_5000000/index.m3u8
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/xdrpBCs7/j8mxl5-1.png" tvg-name="JTV (US) (Tiz)"  group-title="Lifestyle",JTV (US) (Tiz)
 http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/7149ZiRIyzL._SY355_.png" tvg-name="Kabillion (Xumo) (Tiz)"  group-title="Xumo",Kabillion (Xumo) (Tiz)
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxkabillion/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ad8d54be738977e2c310940/featuredImage.jpg" tvg-name="Kids (PlutoTV) (Tiz)"  group-title="PlutoTV",Kids (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5ad8d54be738977e2c310940/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=j7go93gc2nj2bijagutmn2d3v6
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c5c2e228002db3c3e0b1c6f/featuredImage.jpg" tvg-name="Kids Learning (PlutoTV) (Tiz)"  group-title="PlutoTV",Kids Learning (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5c5c2e228002db3c3e0b1c6f/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=c45b9ea1nuf9ijm985tiag4ge6
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/410c79a3-193d-ed36-bce8-5f86d9b4996a-KidsTV_featured.jpg" tvg-name="Kids TV (PlutoTV) (Tiz)"  group-title="PlutoTV",Kids TV (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=c8b023af-ff3b-4fb6-87f0-4af929510c3d&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/zf5SnR2J/4sbarb-1.png" tvg-name="Kool TV (US) (Tiz)"  group-title="Entertainment",Kool TV (US) (Tiz)
 http://173.199.158.79:1935/roku/myStream/playlist.m3u8
@@ -720,6 +1257,9 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/HxtpVFcY/96j7sw-1.jpg" tvg-name="KY Lexington TV (US) (Tiz)"  group-title="PublicAccess",KY Lexington TV (US) (Tiz)
 http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c2d6603bdf11b71587184b9/featuredImage.jpg" tvg-name="LA Ink + NY Ink (PlutoTV) (Tiz)"  group-title="PlutoTV",LA Ink + NY Ink (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5c2d6603bdf11b71587184b9/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=h1i2kmn8epo99i02q1oji559k6
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/Y2nHZ6Qs/14o3xah-1.png" tvg-name="LA New Orleans TV (US) (Tiz)"  group-title="PublicAccess",LA New Orleans TV (US) (Tiz)
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 
@@ -729,8 +1269,26 @@ http://66.210.225.230/live/CELL-496k-270p/CELL-496k-270p.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="LaSuperTV (CO) (Tiz)"  group-title="Music",LaSuperTV (CO) (Tiz)
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Law & Crime (STIRЯ 10) (Tiz)"  group-title="STIRЯ",Law & Crime (STIRЯ 10) (Tiz)
+https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Lifestyle (STIRЯ 250) (Tiz)"  group-title="STIRЯ",Lifestyle (STIRЯ 250) (Tiz)
+https://dai.google.com/linear/hls/event/08ADpEIeQ8iZOjusLsZbCg/master.m3u8
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="LifeVision TV (US) (Tiz)"  group-title="Religion",LifeVision TV (US) (Tiz)
 http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5984cbeaa0fc957e6e9195ab/featuredImage.jpg" tvg-name="LittleThings (PlutoTV) (Tiz)"  group-title="PlutoTV",LittleThings (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5984cbeaa0fc957e6e9195ab/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/ee0298f1-d9df-fa01-1f45-0e07d10c9ce8-Hero%20Optional%201560x878.jpg" tvg-name="Live Music Replay (PlutoTV) (Tiz)"  group-title="PlutoTV",Live Music Replay (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ce5a8954311f992edbe1da2/featuredImage.jpg" tvg-name="Logo (PlutoTV) (Tiz)"  group-title="PlutoTV",Logo (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=300lm1j6kehed04ucl6d6fc4q7
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c01df1759ee03633e7b272c/featuredImage.jpg" tvg-name="Lucha Libre AAA (PlutoTV) (Tiz)"  group-title="PlutoTV",Lucha Libre AAA (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=z24jbjrh2o33lln3jns6j2tmn0
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="M20 TV Opt-1 (IT) (Tiz)"  group-title="Music",M20 TV Opt-1 (IT) (Tiz)
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
@@ -750,6 +1308,21 @@ http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/8568MMfy/WCCA.png" tvg-name="MA WCCA Public Access Worcester (US) (Tiz)"  group-title="PublicAccess",MA WCCA Public Access Worcester (US) (Tiz)
 http://worcester.vod.castus.tv/live/ch1.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Made In Hollywood (STIRЯ 257) (Tiz)"  group-title="STIRЯ",Made In Hollywood (STIRЯ 257) (Tiz)
+https://dai.google.com/linear/hls/event/Mteif75-SJeFi19Sk3-dGQ/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Magellan TV (STIRЯ 232) (Tiz)"  group-title="STIRЯ",Magellan TV (STIRЯ 232) (Tiz)
+https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/20daeac7-6437-270c-68a6-4c00b17e3474-manup_hero.jpg" tvg-name="Man Up (PlutoTV) (Tiz)"  group-title="PlutoTV",Man Up (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c393cad2de254456f7ef8c2/featuredImage.jpg" tvg-name="Man Up: Outdoors (PlutoTV) (Tiz)"  group-title="PlutoTV",Man Up: Outdoors (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=b37cef12f9heq1mq8ah9ia4h70
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_Maverick.png" tvg-name="Maverick Black Cinema (Xumo) (Tiz)"  group-title="Xumo",Maverick Black Cinema (Xumo) (Tiz)
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/1280x720_5000000/index.m3u8
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MD Bowie TV (US) (Tiz)"  group-title="PublicAccess",MD Bowie TV (US) (Tiz)
 http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
 
@@ -759,14 +1332,83 @@ http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/Xv8Kx7t9/30nc129-1.png" tvg-name="Metro Cable Network (US) (Tiz)"  group-title="Local",Metro Cable Network (US) (Tiz)
 http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5cbf6a868a1bce4a3d52a5e9/featuredImage.jpg" tvg-name="Midsomer Murders (PlutoTV) (Tiz)"  group-title="PlutoTV",Midsomer Murders (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5cbf6a868a1bce4a3d52a5e9/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=1lo2e1dlqpk6g2c72q7m3mjag2
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb3fea0f711fd76340eebff/featuredImage.jpg" tvg-name="Military (PlutoTV) (Tiz)"  group-title="PlutoTV",Military (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5bb3fea0f711fd76340eebff/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=cuaohqlqf26jfvbh443n3ie5g0
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/59925e4c-00de-2e8d-5a1f-86b55d2cc36e-MINECRAFTV_HERO.jpg" tvg-name="Minecraft TV (PlutoTV) (Tiz)"  group-title="PlutoTV",Minecraft TV (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5812b821249444e05d09cc4c/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
 #EXTINF:-1, tvg-id="Miracle.ca" tvg-logo="https://i.postimg.cc/hjtLYRq6/29f5gso-1.jpg" tvg-name="Miracle Channel (US) (Tiz)"  group-title="Religion",Miracle Channel (US) (Tiz)
 http://d9ruw6nhj5a52.cloudfront.net/live/live/chunklist_w1223587918.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/3rkcV8kh/Pluto-TV-Logo.jpg" tvg-name="MLS (PlutoTV) (Tiz)"  group-title="PlutoTV",MLS (PlutoTV) (Tiz)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=19b70f7d-30c0-4ede-9a23-83600637213d&deviceId=05adad54-d314-4eae-84b6-4fecf221e693&deviceVersion=75.0.3770.142&appVersion=2.7.1-5725cf052c6d5a7776009f53b7086f64da9ef528&deviceDNT=0&userId=&advertisingId=&deviceLat=37.751&deviceLon=-97.822&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Mobcrush (STIRЯ 361) (Tiz)"  group-title="STIRЯ",Mobcrush (STIRЯ 361) (Tiz)
+https://dai.google.com/linear/hls/event/LGDVXxxyT8SxrL4-ZodxKw/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/zvLnJwvk/vxg7mf-1.jpg" tvg-name="Mobcrush (US) (Tiz)"  group-title="Entertainment",Mobcrush (US) (Tiz)
 http://ott.mobcrush.com/hls/0/ott.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="MovieMix (STIRЯ 222) (Tiz)"  group-title="STIRЯ",MovieMix (STIRЯ 222) (Tiz)
+https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ytimg.com/vi/cSJsoHA8xdg/hqdefault.jpg" tvg-name="MovieMix (Xumo) (Tiz)"  group-title="Xumo",MovieMix (Xumo) (Tiz)
+https://dai.google.com/linear/hls/pa/event/TSIJo6RCRZWuCD9WrKtRFg/stream/a468bdd3-a0e5-4a4b-bae7-3e784ee5f4e4:CBF2/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Movies (STIRЯ 200) (Tiz)"  group-title="STIRЯ",Movies (STIRЯ 200) (Tiz)
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg" tvg-name="Movies 1 (PlutoTV) (Tiz)"  group-title="PlutoTV",Movies 1 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg" tvg-name="Movies 2 (PlutoTV) (Tiz)"  group-title="PlutoTV",Movies 2 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/3rkcV8kh/Pluto-TV-Logo.jpg" tvg-name="MSNBC (PlutoTV) (Tiz)"  group-title="PlutoTV",MSNBC (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0
+
 #EXTINF:-1, tvg-id="MTV.us" tvg-logo="https://i.postimg.cc/59GBsrKK/280oyvn-1.jpg" tvg-name="MTV (Tiz)"  group-title="Entertainment",MTV (Tiz)
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca6899a37b88b269472ea4b/featuredImage.jpg" tvg-name="MTV Dating Opt-1 (PlutoTV) (Tiz)"  group-title="PlutoTV",MTV Dating Opt-1 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472ea4b/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=hcuqage0urlhccbp8kbecjc830
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca6899a37b88b269472ea4b/featuredImage.jpg" tvg-name="MTV Dating Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",MTV Dating Opt-2 (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472ea4b/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=hcuqage0urlhccbp8kbecjc830
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca68acec16f7d78dc161fe1/featuredImage.jpg" tvg-name="MTV Guy Code Opt-1 (PlutoTV) (Tiz)"  group-title="PlutoTV",MTV Guy Code Opt-1 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5ca68acec16f7d78dc161fe1/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=fcuqage0urlhccbp8kbecjc830
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca68acec16f7d78dc161fe1/featuredImage.jpg" tvg-name="MTV Guy Code Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",MTV Guy Code Opt-2 (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5ca68acec16f7d78dc161fe1/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=fcuqage0urlhccbp8kbecjc830
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca672f515a62078d2ec0ad2/featuredImage.jpg" tvg-name="MTV Opt-1 (PlutoTV) (Tiz)"  group-title="PlutoTV",MTV Opt-1 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=dcuqage0urlhccbp8kbecjc830
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca672f515a62078d2ec0ad2/featuredImage.jpg" tvg-name="MTV Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",MTV Opt-2 (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=dcuqage0urlhccbp8kbecjc830
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca68a4737b88b269472f1be/featuredImage.jpg" tvg-name="MTV Teen Opt-1 (PlutoTV) (Tiz)"  group-title="PlutoTV",MTV Teen Opt-1 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5ca68a4737b88b269472f1be/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jcuqage0urlhccbp8kbecjc830
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca68a4737b88b269472f1be/featuredImage.jpg" tvg-name="MTV Teen Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",MTV Teen Opt-2 (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5ca68a4737b88b269472f1be/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jcuqage0urlhccbp8kbecjc830
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Music (STIRЯ 400) (Tiz)"  group-title="STIRЯ",Music (STIRЯ 400) (Tiz)
+https://dai.google.com/linear/hls/event/_e1csFnJR6W6y056PyiG6A/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Music Baeble (STIRЯ 401) (Tiz)"  group-title="STIRЯ",Music Baeble (STIRЯ 401) (Tiz)
+https://dai.google.com/linear/hls/event/HuoWULBBQFKJalbtsd7qPw/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://cdn.crowdfundinsider.com/wp-content/uploads/2015/11/Mystery-Science-Theater-3000-logo.png" tvg-name="Mystery Science Theater 3000 (PlutoTV) (Tiz)"  group-title="PlutoTV",Mystery Science Theater 3000 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/545943f1c9f133a519bbac92/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="NASA TV (STIRЯ 450) (Tiz)"  group-title="STIRЯ",NASA TV (STIRЯ 450) (Tiz)
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
 #EXTINF:-1, tvg-id="NASAChannel.us" tvg-logo="https://i.postimg.cc/0yG72ykh/nca9s-1.png" tvg-name="NASA TV Opt-1 (US) (Tiz)"  group-title="Educational",NASA TV Opt-1 (US) (Tiz)
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
@@ -782,6 +1424,9 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NatGeo Wild (US) (Tiz)"  group-title="Educational",NatGeo Wild (US) (Tiz)
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/05.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="National Feed (STIRЯ 01) (Tiz)"  group-title="STIRЯ",National Feed (STIRЯ 01) (Tiz)
+https://playoutengine.sinclairstoryline.com/playout/74594c4d-49cd-416c-8ecd-a01f77d7b0b3.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="National Religious Broadcast TV (US) (Tiz)"  group-title="Religion",National Religious Broadcast TV (US) (Tiz)
 http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
@@ -831,6 +1476,9 @@ http://tvecsnnorthwest-i.akamaihd.net/hls/live/221535/CSNnorthwestx/351XCSN4200.
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/yN12Q2gS/GTV.jpg" tvg-name="NC Greensboro TV Network (US) (Tiz)"  group-title="PublicAccess",NC Greensboro TV Network (US) (Tiz)
 http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/bb5b66a2-9927-94fe-a346-751120398eb3-Nerdist_hero.jpg" tvg-name="Nerdist (PlutoTV) (Tiz)"  group-title="PlutoTV",Nerdist (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/561c5c7f3286e48904fb2586/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/9fFb67dL/301hted-1.jpg" tvg-name="News 12  Bronx NY (US) (Tiz)"  group-title="Local",News 12  Bronx NY (US) (Tiz)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
 
@@ -867,6 +1515,9 @@ http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NYC
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/sDYJ1cKn/11vtb47-1.jpg" tvg-name="News 12 Weather Hudson Valley NY (US) (Tiz)"  group-title="Local",News 12 Weather Hudson Valley NY (US) (Tiz)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12HV
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/3rkcV8kh/Pluto-TV-Logo.jpg" tvg-name="News 24/7 (PlutoTV) (Tiz)"  group-title="PlutoTV",News 24/7 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/t4DtN4KW/2w3azj9-1.jpg" tvg-name="News Center 7 (Ohio) (US) (Tiz)"  group-title="Local",News Center 7 (Ohio) (US) (Tiz)
 http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8
 
@@ -878,6 +1529,30 @@ http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Newsy.us" tvg-logo="https://i.postimg.cc/B6PT3cXB/2uid7ph-1.jpg" tvg-name="Newsy (US) (Tiz)"  group-title="News",Newsy (US) (Tiz)
 http://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca6748a37b88b269472dad9/featuredImage.jpg" tvg-name="Nick Jr Opt-1 (PlutoTV) (Tiz)"  group-title="PlutoTV",Nick Jr Opt-1 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=ccuqage0urlhccbp8kbecjc830
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca6748a37b88b269472dad9/featuredImage.jpg" tvg-name="Nick Jr Opt-3 (PlutoTV) (Tiz)"  group-title="PlutoTV",Nick Jr Opt-3 (PlutoTV) (Tiz)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca6748a37b88b269472dad9/featuredImage.jpg" tvg-name="Nick Jr. Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",Nick Jr. Opt-2 (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=ccuqage0urlhccbp8kbecjc830
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca673e0d0bd6c2689c94ce3/featuredImage.jpg" tvg-name="Nickelodeon Opt-1 (PlutoTV) (Tiz)"  group-title="PlutoTV",Nickelodeon Opt-1 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=bcuqage0urlhccbp8kbecjc830
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca673e0d0bd6c2689c94ce3/featuredImage.jpg" tvg-name="Nickelodeon Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",Nickelodeon Opt-2 (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=bcuqage0urlhccbp8kbecjc830
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca673e0d0bd6c2689c94ce3/featuredImage.jpg" tvg-name="Nickelodeon Opt-3 (PlutoTV) (Tiz)"  group-title="PlutoTV",Nickelodeon Opt-3 (PlutoTV) (Tiz)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5aec96ec5126c2157123c657/featuredImage.jpg" tvg-name="Nosey (PlutoTV) (Tiz)"  group-title="PlutoTV",Nosey (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5aec96ec5126c2157123c657/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Now_This_Logo_White.svg/1200px-Now_This_Logo_White.svg.png" tvg-name="NowThis (Xumo) (Tiz)"  group-title="Xumo",NowThis (Xumo) (Tiz)
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxnowthis/CDN/1280x720_5000000/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NY Buffalo TV (US) (Tiz)"  group-title="PublicAccess",NY Buffalo TV (US) (Tiz)
 http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
@@ -900,14 +1575,38 @@ http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
 #EXTINF:-1, tvg-id="OlympicChannel.us" tvg-logo="https://i.postimg.cc/TYJrTPYF/2552l8j-1.png" tvg-name="Olympic Channel UHD (US) (Tiz)"  group-title="Sports",Olympic Channel UHD (US) (Tiz)
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Outdoor America (STIRЯ 357) (Tiz)"  group-title="STIRЯ",Outdoor America (STIRЯ 357) (Tiz)
+https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
+
 #EXTINF:-1, tvg-id="OutdoorCookingChannel.us" tvg-logo="https://i.postimg.cc/mgdCF69S/rrhw0z-1.png" tvg-name="Outdoor Cooking Channel (US) (Tiz)"  group-title="Lifestyle",Outdoor Cooking Channel (US) (Tiz)
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Outside TV+ (STIRЯ 358) (Tiz)"  group-title="STIRЯ",Outside TV+ (STIRЯ 358) (Tiz)
+https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5cb0cae7a461406ffe3f5213/featuredImage.jpg" tvg-name="Paramount Movie Channel Opt-1 (PlutoTV) (Tiz)"  group-title="PlutoTV",Paramount Movie Channel Opt-1 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=pcuqage0urlhccbp8kbecjc830
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5cb0cae7a461406ffe3f5213/featuredImage.jpg" tvg-name="Paramount Movie Channel Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",Paramount Movie Channel Opt-2 (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=pcuqage0urlhccbp8kbecjc830
 
 #EXTINF:-1, tvg-id="PBSKids.us" tvg-logo="https://i.postimg.cc/pLK3Wznx/2vwa5ba-1.jpg" tvg-name="PBS Kids Opt-1 (US) (Tiz)"  group-title="KidsTV",PBS Kids Opt-1 (US) (Tiz)
 http://live-cdn.pbskids.org/out/u/aim/wtvs_3.m3u8
 
 #EXTINF:-1, tvg-id="PBSKids.us" tvg-logo="https://i.postimg.cc/pLK3Wznx/2vwa5ba-1.jpg" tvg-name="PBS Kids Opt-2 (US) (Tiz)"  group-title="KidsTV",PBS Kids Opt-2 (US) (Tiz)
 http://live-cdn.pbskids.org/out/u/est.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/index.m3u8" tvg-name="People Are Awesome (Xumo) (Tiz)"  group-title="Xumo",People Are Awesome (Xumo) (Tiz)
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://judygold.com/wp-content/uploads/2015/04/people-tv-300x235.jpg" tvg-name="People TV (PlutoTV) (Tiz)"  group-title="PlutoTV",People TV (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/59c2c3ae40e64939daad8b76/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=0&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="PeopleTV (STIRЯ 12) (Tiz)"  group-title="STIRЯ",PeopleTV (STIRЯ 12) (Tiz)
+https://dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Pet Collective (STIRЯ 301) (Tiz)"  group-title="STIRЯ",Pet Collective (STIRЯ 301) (Tiz)
+https://dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/bvTMbPTB/2ufx8k3-1.png" tvg-name="Pluto Dash Decades 70's (Tiz)"  group-title="Music",Pluto Dash Decades 70's (Tiz)
 http://video.pluto.tv/dash_radio/station70/chunklist.m3u8
@@ -945,8 +1644,32 @@ http://video.pluto.tv/dash_radio/station56/chunklist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/bvTMbPTB/2ufx8k3-1.png" tvg-name="Pluto Dash X Pop (Tiz)"  group-title="Music",Pluto Dash X Pop (Tiz)
 http://video.pluto.tv/dash_radio/station3/chunklist.m3u8
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_pocketWatch.png" tvg-name="Pocket Watch (Xumo) (Tiz)"  group-title="Xumo",Pocket Watch (Xumo) (Tiz)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-pocket-watch/CDN/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561721d6ada51f8004c4b474/featuredImage.jpg" tvg-name="PopSugar (PlutoTV) (Tiz)"  group-title="PlutoTV",PopSugar (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/561721d6ada51f8004c4b474/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/NGr3J3f5/dzx9xy-1.png" tvg-name="Prime Canada TV (CA) (Tiz)"  group-title="Local",Prime Canada TV (CA) (Tiz)
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/3rkcV8kh/Pluto-TV-Logo.jpg" tvg-name="PTV Biography (PlutoTV) (Tiz)"  group-title="PlutoTV",PTV Biography (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5c2e8c4a9e06fa0511b75276/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=jaasl9n3jh3esnglai5na3geu7
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/3rkcV8kh/Pluto-TV-Logo.jpg" tvg-name="PTV Comedy (PlutoTV) (Tiz)"  group-title="PlutoTV",PTV Comedy (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=qb3stkgum0jt2soq367mu97333
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/3rkcV8kh/Pluto-TV-Logo.jpg" tvg-name="PTV Conspiracy (PlutoTV) (Tiz)"  group-title="PlutoTV",PTV Conspiracy (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=m24jbjrh2o33lln3jns6j2tmn0
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/3rkcV8kh/Pluto-TV-Logo.jpg" tvg-name="PTV History (PlutoTV) (Tiz)"  group-title="PlutoTV",PTV History (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=s1i2kmn8epo99i02q1oji559k6
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/3rkcV8kh/Pluto-TV-Logo.jpg" tvg-name="PTV Sports (PlutoTV) (Tiz)"  group-title="PlutoTV",PTV Sports (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=tb3stkgum0jt2soq367mu97333
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/3rkcV8kh/Pluto-TV-Logo.jpg" tvg-name="PTV Travel (PlutoTV) (Tiz)"  group-title="PlutoTV",PTV Travel (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=aoelrk6ul5u6hqj57r05399uc4
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/kgwzR9wh/dfhojb-1.png" tvg-name="QVC +1 Opt-1 (UK) (Tiz)"  group-title="Lifestyle",QVC +1 Opt-1 (UK) (Tiz)
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
@@ -1099,10 +1822,10 @@ http://s2.voscast.com:11034/;stream.mp3
 http://us2.internet-radio.com:8443/
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/xCtq3F3H/NPR-Logo.png" tvg-name="Radio NPR (Tiz)"  group-title="Radio",Radio NPR (Tiz)
-https://nprsxsw-lh.akamaihd.net/i/prog24_1@348758/index_256_a-p.m3u8
+http://npr-ice.streamguys1.com/live.mp3
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/xCtq3F3H/NPR-Logo.png" tvg-name="Radio NPR (Tiz)"  group-title="Radio",Radio NPR (Tiz)
-http://npr-ice.streamguys1.com/live.mp3
+https://nprsxsw-lh.akamaihd.net/i/prog24_1@348758/index_256_a-p.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/sx7D31YL/2isi34k-1.jpg" tvg-name="Radio Sleep (Tiz)"  group-title="Radio",Radio Sleep (Tiz)
 http://149.56.234.138:8169/stream
@@ -1149,8 +1872,35 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1, tvg-id="RedBullTV.us" tvg-logo="https://i.postimg.cc/d027jHkX/126bs09-1.png" tvg-name="Red Bull TV Opt-3 (US) (Tiz)"  group-title="Sports",Red Bull TV Opt-3 (US) (Tiz)
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c5c3195f21b553c1f673faf/featuredImage.jpg" tvg-name="Retro Drama (PlutoTV) (Tiz)"  group-title="PlutoTV",Retro Drama (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5c5c3195f21b553c1f673faf/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a63a4iic6a2islfekugkgdsul4
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/kGpDgLzV/sc855i-1.jpg" tvg-name="Retro Music (Tiz)"  group-title="Music",Retro Music (Tiz)
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1397767252.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c5c2b9d8002db3c3e0b1c6d/featuredImage.jpg" tvg-name="Retro Toons (PlutoTV) (Tiz)"  group-title="PlutoTV",Retro Toons (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5c5c2b9d8002db3c3e0b1c6d/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a45b9ea1nuf9ijm985tiag4ge6
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/1020450526742233089/XaX7h5fe_400x400.jpg" tvg-name="Revry (Xumo) (Tiz)"  group-title="Xumo",Revry (Xumo) (Tiz)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-revryxumo/CDN/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ac7d243cd17c85601684f57/featuredImage.jpg" tvg-name="Revry Opt-1 (PlutoTV) (Tiz)"  group-title="PlutoTV",Revry Opt-1 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5ac7d243cd17c85601684f57/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=iaasl9n3jh3esnglai5na3geu7
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ac7d243cd17c85601684f57/featuredImage.jpg" tvg-name="Revry Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",Revry Opt-2 (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5ac7d243cd17c85601684f57/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=iaasl9n3jh3esnglai5na3geu7
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.rifftrax.com/sites/default/files/logo-sm.png" tvg-name="RiffTrax Opt-1 (PlutoTV) (Tiz)"  group-title="PlutoTV",RiffTrax Opt-1 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/58d947b9e420d8656ee101ab/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.rifftrax.com/sites/default/files/logo-sm.png" tvg-name="RiffTrax Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",RiffTrax Opt-2 (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/58d947b9e420d8656ee101ab/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5a66795ef91fef2c7031c599/featuredImage.jpg" tvg-name="Romance Opt-1 (PlutoTV) (Tiz)"  group-title="PlutoTV",Romance Opt-1 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=rb3stkgum0jt2soq367mu97333
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5a66795ef91fef2c7031c599/featuredImage.jpg" tvg-name="Romance Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",Romance Opt-2 (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=rb3stkgum0jt2soq367mu97333
 
 #EXTINF:-1, tvg-id="RTA.ru" tvg-logo="https://i.postimg.cc/Pr0Pss19/157z0i9-1.png" tvg-name="RT America (RU) (Tiz)"  group-title="News",RT America (RU) (Tiz)
 http://rt-news.secure.footprint.net:80/1103.m3u8?streamType=live
@@ -1194,8 +1944,20 @@ http://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/rmzkwzkJ/5k3fah-1.jpg" tvg-name="School University of Wisconsin Whitewater TV (US) (Tiz)"  group-title="Local",School University of Wisconsin Whitewater TV (US) (Tiz)
 http://vanadium.uww.edu:1935/uwwlive/smil:uwwtv.smil/chunklist_w2102626622_b300000.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/f7531066-b03f-9806-4292-b2cce8913a23-ScienceTV_featured.jpg" tvg-name="Science TV (PlutoTV) (Tiz)"  group-title="PlutoTV",Science TV (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/DZDKJFfK/abji8l-1.png" tvg-name="Screamfest (US) (Tiz)"  group-title="Entertainment",Screamfest (US) (Tiz)
 http://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="SG Network (STIRЯ 352) (Tiz)"  group-title="STIRЯ",SG Network (STIRЯ 352) (Tiz)
+https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Shout Factory TV (STIRЯ 59) (Tiz)"  group-title="STIRЯ",Shout Factory TV (STIRЯ 59) (Tiz)
+https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.zype.com/53c0457a69702d4d66040000/zobject_image/54c923da69702d070c177700/1422468057/original.png?1422468057" tvg-name="ShoutFactoryTV (PlutoTV) (Tiz)"  group-title="PlutoTV",ShoutFactoryTV (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/55a6a3275616b6240c26f393/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/GhvHCgzp/sff7dz-1.png" tvg-name="SideWalks (US) (Tiz)"  group-title="Local",SideWalks (US) (Tiz)
 http://30a-tv.com/sidewalks.m3u8
@@ -1206,14 +1968,104 @@ https://acdn.locastnet.org/proxy/fsd2/ksfycw_src.m3u8
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/5NnP08kw/locast.jpg" tvg-name="Sioux Falls KSFY (LoCast) (Tiz)"  group-title="Local",Sioux Falls KSFY (LoCast) (Tiz)
 https://acdn.locastnet.org/proxy/fsd2/ksfy_src.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c2d64ffbdf11b71587184b8/featuredImage.jpg" tvg-name="Sitcoms Opt-1 (PlutoTV) (Tiz)"  group-title="PlutoTV",Sitcoms Opt-1 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=z8orq3a8c0i8mnij1r1q96i7p0
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c2d64ffbdf11b71587184b8/featuredImage.jpg" tvg-name="Sitcoms Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",Sitcoms Opt-2 (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=z8orq3a8c0i8mnij1r1q96i7p0
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/9ed1cafa-b155-dbe3-f0d9-688d256804a7-SlowTV_hero.jpg" tvg-name="Slow TV (PlutoTV) (Tiz)"  group-title="PlutoTV",Slow TV (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5317bfebff98025b3200ff99/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Soar (STIRЯ 452) (Tiz)"  group-title="STIRЯ",Soar (STIRЯ 452) (Tiz)
+https://dai.google.com/linear/hls/pa/event/_PDxBUttQYqkxPnmh3VOZA/stream/c42992f8-5ecc-4361-a124-db1459b45380:MRN/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/JGD62i8.jpg" tvg-name="Spike Opt-1 (PlutoTV) (Tiz)"  group-title="PlutoTV",Spike Opt-1 (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=lcuqage0urlhccbp8kbecjc830
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/JGD62i8.jpg" tvg-name="Spike Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",Spike Opt-2 (PlutoTV) (Tiz)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=19b70f7d-30c0-4ede-9a23-83600637213d&deviceId=05adad54-d314-4eae-84b6-4fecf221e693&deviceVersion=75.0.3770.142&appVersion=2.7.1-5725cf052c6d5a7776009f53b7086f64da9ef528&deviceDNT=0&userId=&advertisingId=&deviceLat=37.751&deviceLon=-97.822&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/3bp1B22.jpg" tvg-name="Spike Outdoors Opt-1 (PlutoTV) (Tiz)"  group-title="PlutoTV",Spike Outdoors Opt-1 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=b37cef12f9heq1mq8ah9ia4h70
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/3bp1B22.jpg" tvg-name="Spike Outdoors Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",Spike Outdoors Opt-2 (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=mcuqage0urlhccbp8kbecjc830
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/56340779a738201b4ccfeac9/featuredImage.jpg" tvg-name="Sports (PlutoTV) (Tiz)"  group-title="PlutoTV",Sports (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=tb3stkgum0jt2soq367mu97333
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Sports (STIRЯ 350) (Tiz)"  group-title="STIRЯ",Sports (STIRЯ 350) (Tiz)
+https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/76b2146e-f88e-5fb9-9539-634f9a406223-SportsNews_featured.jpg" tvg-name="Sports News (PlutoTV) (Tiz)"  group-title="PlutoTV",Sports News (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5812b223e58ad7c757009420/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ba3fb9c4b078e0f37ad34e8/featuredImage.jpg" tvg-name="Spotlight (PlutoTV) (Tiz)"  group-title="PlutoTV",Spotlight (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/3rkcV8kh/Pluto-TV-Logo.jpg" tvg-name="Stadium (PlutoTV) (Tiz)"  group-title="PlutoTV",Stadium (PlutoTV) (Tiz)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59974b6d7ec5063cb56f24c9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Stadium (STIRЯ 351) (Tiz)"  group-title="STIRЯ",Stadium (STIRЯ 351) (Tiz)
+https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/0d2aa422-73cb-a635-1058-66bbcf517773-StandUp_featured.jpg" tvg-name="StandupTV (PlutoTV) (Tiz)"  group-title="PlutoTV",StandupTV (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Star Movies (US) (Tiz)"  group-title="Movies",Star Movies (US) (Tiz)
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Stingray Classic Rock (STIRЯ 406) (Tiz)"  group-title="STIRЯ",Stingray Classic Rock (STIRЯ 406) (Tiz)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Stingray Flashback 70s (STIRЯ 411) (Tiz)"  group-title="STIRЯ",Stingray Flashback 70s (STIRЯ 411) (Tiz)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Stingray Greatest Hits (STIRЯ 404) (Tiz)"  group-title="STIRЯ",Stingray Greatest Hits (STIRЯ 404) (Tiz)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Stingray Hit List (STIRЯ 405) (Tiz)"  group-title="STIRЯ",Stingray Hit List (STIRЯ 405) (Tiz)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Stingray Hot Country (STIRЯ 410) (Tiz)"  group-title="STIRЯ",Stingray Hot Country (STIRЯ 410) (Tiz)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Stingray Karaoke (STIRЯ 415) (Tiz)"  group-title="STIRЯ",Stingray Karaoke (STIRЯ 415) (Tiz)
+https://dai.google.com/linear/hls/pa/event/_R-7e_1sSXikAss5HLBuRw/stream/713ae4f9-0f72-40dd-9db7-aa2f0171fc15:MRN/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Stingray NatureScape (STIRЯ 451) (Tiz)"  group-title="STIRЯ",Stingray NatureScape (STIRЯ 451) (Tiz)
+https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Stingray Pop Adult (STIRЯ 408) (Tiz)"  group-title="STIRЯ",Stingray Pop Adult (STIRЯ 408) (Tiz)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Stingray Qello (STIRЯ 414) (Tiz)"  group-title="STIRЯ",Stingray Qello (STIRЯ 414) (Tiz)
+https://dai.google.com/linear/hls/pa/event/3Bh8wtVqQ-CRT4zNZ0pT4w/stream/ccf85d0b-bc51-45c2-882d-0ded558f23a0:MRN/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Stingray Remember the 80s (STIRЯ 412) (Tiz)"  group-title="STIRЯ",Stingray Remember the 80s (STIRЯ 412) (Tiz)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Stingray Rock Alternative (STIRЯ 407) (Tiz)"  group-title="STIRЯ",Stingray Rock Alternative (STIRЯ 407) (Tiz)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Stingray Today's Latin Pop (STIRЯ 413) (Tiz)"  group-title="STIRЯ",Stingray Today's Latin Pop (STIRЯ 413) (Tiz)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Stingray Urban Beat (STIRЯ 409) (Tiz)"  group-title="STIRЯ",Stingray Urban Beat (STIRЯ 409) (Tiz)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c6eec031846c82e15e01a9a/featuredImage.jpg" tvg-name="Survivorman (PlutoTV) (Tiz)"  group-title="PlutoTV",Survivorman (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5c6eec031846c82e15e01a9a/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a37cef12f9heq1mq8ah9ia4h70
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/TP1dptjg/6i67ux-1.png" tvg-name="Tastemade (US) (Tiz)"  group-title="Lifestyle",Tastemade (US) (Tiz)
 http://amagi-primary.akamaized.net/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TastyTrade (US) (Tiz)"  group-title="News",TastyTrade (US) (Tiz)
 http://trinity-lh.akamaihd.net/i/ttmain_d@82127/index_3128_av-p.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="TBD (STIRЯ 300) (Tiz)"  group-title="STIRЯ",TBD (STIRЯ 300) (Tiz)
+https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
 
 #EXTINF:-1, tvg-id="TBDTV.us" tvg-logo="https://i.postimg.cc/dV1PBL7K/w811sl-1.png" tvg-name="TBD (US) (Tiz)"  group-title="Entertainment",TBD (US) (Tiz)
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
@@ -1227,14 +2079,50 @@ http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/Famil
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/R06kkyQs/2zznnkj-1.jpg" tvg-name="teleSUR (VE) (Tiz)"  group-title="News",teleSUR (VE) (Tiz)
 http://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/1zbcnqQ5/XumoLogo.jpg" tvg-name="The Asylum (Xumo) (Tiz)"  group-title="Entertainment",The Asylum (Xumo) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/880ab7c4-5a84-dd74-f084-ecc22cba366f-TheHighChannel_featured.jpg" tvg-name="THC (PlutoTV) (Tiz)"  group-title="PlutoTV",THC (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5633f71888576f124c834ef4/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.dreadcentral.com/wp-content/uploads/2016/01/the-asylum-logo.jpg" tvg-name="The Asylum (PlutoTV) (Tiz)"  group-title="PlutoTV",The Asylum (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="The Asylum (STIRЯ 217) (Tiz)"  group-title="STIRЯ",The Asylum (STIRЯ 217) (Tiz)
+https://dai.google.com/linear/hls/event/2r7F3DThT-C5YW21CUuGLQ/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/1zbcnqQ5/XumoLogo.jpg" tvg-name="The Asylum (Xumo) (Tiz)"  group-title="Xumo",The Asylum (Xumo) (Tiz)
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/1zbcnqQ5/XumoLogo.jpg" tvg-name="The Pet Collective (Xumo) (Tiz)"  group-title="Entertainment",The Pet Collective (Xumo) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/57f9f46b-8671-b9f3-78a1-94a4941bd3bf-TheFeed_featured.jpg" tvg-name="The Feed (PlutoTV) (Tiz)"  group-title="PlutoTV",The Feed (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/54173136ff9fba68282f4d53/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca68b45d0bd6c2689c96537/featuredImage.jpg" tvg-name="The Hills (PlutoTV) (Tiz)"  group-title="PlutoTV",The Hills (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5ca68b45d0bd6c2689c96537/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=ocuqage0urlhccbp8kbecjc830
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5aea40b35126c2157123aa64/featuredImage.jpg" tvg-name="The New Detectives (PlutoTV) (Tiz)"  group-title="PlutoTV",The New Detectives (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5aea40b35126c2157123aa64/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5616fc1cf39f506e04b61dfc/featuredImage.jpg" tvg-name="The Onion Opt-1 (PlutoTV) (Tiz)"  group-title="PlutoTV",The Onion Opt-1 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5616fc1cf39f506e04b61dfc/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=oaasl9n3jh3esnglai5na3geu7
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5616fc1cf39f506e04b61dfc/featuredImage.jpg" tvg-name="The Onion Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",The Onion Opt-2 (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5616fc1cf39f506e04b61dfc/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=oaasl9n3jh3esnglai5na3geu7
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb1ad55268cae539bcedb08/featuredImage.jpg" tvg-name="The Pet Collective (PlutoTV) (Tiz)"  group-title="PlutoTV",The Pet Collective (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5bb1ad55268cae539bcedb08/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.roku.com/developer_channels/prod/83f9f0ddd6f6d0bd9394ab0b34fcc7daa84ea75a1b923b8872acdb36f26c034a.png" tvg-name="The Pet Collective Opt-1 (Xumo) (Tiz)"  group-title="Xumo",The Pet Collective Opt-1 (Xumo) (Tiz)
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/1zbcnqQ5/XumoLogo.jpg" tvg-name="The Pet Collective Opt-2 (Xumo) (Tiz)"  group-title="Xumo",The Pet Collective Opt-2 (Xumo) (Tiz)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/1280x720_5000000/index.m3u8
 
 #EXTINF:-1, tvg-id="TheShoppingChannel.ca" tvg-logo="https://i.postimg.cc/bJ1KJn51/2vif2hj-1.png" tvg-name="The Shopping Channel (CA) (Tiz)"  group-title="Lifestyle",The Shopping Channel (CA) (Tiz)
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/da2e62dc-de8e-9036-f86e-faf0b778ea99-surf-channel-channel-feature.jpg" tvg-name="The Surf Channel (PlutoTV) (Tiz)"  group-title="PlutoTV",The Surf Channel (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/56377913f7c493ce618c4de1/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="The T (STIRЯ 353) (Tiz)"  group-title="STIRЯ",The T (STIRЯ 353) (Tiz)
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
 
 #EXTINF:-1, tvg-id="WeatherChannel.us" tvg-logo="https://i.postimg.cc/fWjGQxmN/16i5rsw-1.png" tvg-name="The Weather Channel (US) (Tiz)"  group-title="News",The Weather Channel (US) (Tiz)
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
@@ -1242,17 +2130,50 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/yYL2ksLp/6z55xl-1.jpg" tvg-name="Thrill TV (US) (Tiz)"  group-title="Entertainment",Thrill TV (US) (Tiz)
 http://210.210.155.35/qwr9ew/s/s34/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/1zbcnqQ5/XumoLogo.jpg" tvg-name="TMZ (Xumo) (Tiz)"  group-title="Entertainment",TMZ (Xumo) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e69e08291147bd04a9fd7/featuredImage.jpg" tvg-name="Thrillers (PlutoTV) (Tiz)"  group-title="PlutoTV",Thrillers (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/1zbcnqQ5/XumoLogo.jpg" tvg-name="TMZ (Xumo) (Tiz)"  group-title="Xumo",TMZ (Xumo) (Tiz)
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Top Stories by Newsy (STIRЯ 05) (Tiz)"  group-title="STIRЯ",Top Stories by Newsy (STIRЯ 05) (Tiz)
+https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/59c01b1953680139c6ae9d4d/featuredImage.jpg" tvg-name="Travel (PlutoTV) (Tiz)"  group-title="PlutoTV",Travel (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=aoelrk6ul5u6hqj57r05399uc4
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Travel (STIRЯ 251) (Tiz)"  group-title="STIRЯ",Travel (STIRЯ 251) (Tiz)
+https://dai.google.com/linear/hls/event/0ZXyCbn9TYmrrAzcDfoU1w/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Truly (STIRЯ 303) (Tiz)"  group-title="STIRЯ",Truly (STIRЯ 303) (Tiz)
+https://dai.google.com/linear/hls/pa/event/Xu-I6qGiSTKeu6glzS4BtQ/stream/856fee6c-ff2e-49d9-b397-4a0074c901cf:MRN/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/wM6bjGLd/2nsrwaq-1.jpg" tvg-name="TV MANA (UK) (Tiz)"  group-title="Religion",TV MANA (UK) (Tiz)
 http://c2.manasat.com:1935/church-online/ingles3/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="TV Mix (STIRЯ 50) (Tiz)"  group-title="STIRЯ",TV Mix (STIRЯ 50) (Tiz)
+https://dai.google.com/linear/hls/event/UQrixd_tTG2nC-lOUtw0mQ/master.m3u8
 
 #EXTINF:-1, tvg-id="TwitTV.us" tvg-logo="https://i.postimg.cc/DZR06vM6/Twit.png" tvg-name="TWiT (US) (Tiz)"  group-title="News",TWiT (US) (Tiz)
 http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1, tvg-id="UNWebTV.com" tvg-logo="https://i.postimg.cc/5N2RcDfB/24lrncw-1.png" tvg-name="UN Web TV (US) (Tiz)"  group-title="News",UN Web TV (US) (Tiz)
 http://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e96a0423e067bd6df6901/featuredImage.jpg" tvg-name="Unsolved Mysteries Opt-1 (PlutoTV) (Tiz)"  group-title="PlutoTV",Unsolved Mysteries Opt-1 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=&deviceModel=&embedPartner=pluto.tv&sid=3792htruebflrgcrn4utr475i7
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e96a0423e067bd6df6901/featuredImage.jpg" tvg-name="Unsolved Mysteries Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",Unsolved Mysteries Opt-2 (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=&deviceModel=&embedPartner=pluto.tv&sid=3792htruebflrgcrn4utr475i7
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e96a0423e067bd6df6901/featuredImage.jpg" tvg-name="Unsolved Mysteries Opt-3 (PlutoTV) (Tiz)"  group-title="PlutoTV",Unsolved Mysteries Opt-3 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2u-REuYyJGfioNMEdcSnCED6KqZlcDR0hccDiOZByDoozHRVD" tvg-name="Unsolved Mysteries with Robert Stack (Xumo) (Tiz)"  group-title="Xumo",Unsolved Mysteries with Robert Stack (Xumo) (Tiz)
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://yt3.ggpht.com/a/AGF-l78hWI-o5t36hbnpDkWlGDH0SSizkf9YAiC8DA=s900-c-k-c0xffffffff-no-rj-mo" tvg-name="USA Today (Xumo) (Tiz)"  group-title="Xumo",USA Today (Xumo) (Tiz)
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxusatoday/CDN/960x540_5000000/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/RVkjxXhX/25gbbkw-1.png" tvg-name="VA Fairfax Public Access (US) (Tiz)"  group-title="PublicAccess",VA Fairfax Public Access (US) (Tiz)
 http://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8
@@ -1269,6 +2190,18 @@ http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/tTz2wNfv/fvsc5-1.png" tvg-name="Voice of America East (US) (Tiz)"  group-title="News",Voice of America East (US) (Tiz)
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/589aa03df9ba56a84197a560/featuredImage.jpg" tvg-name="Voyager Documentaries Opt-1 (PlutoTV) (Tiz)"  group-title="PlutoTV",Voyager Documentaries Opt-1 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=d24jbjrh2o33lln3jns6j2tmn0
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/589aa03df9ba56a84197a560/featuredImage.jpg" tvg-name="Voyager Documentaries Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",Voyager Documentaries Opt-2 (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=d24jbjrh2o33lln3jns6j2tmn0
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c6eeb011846c82e15e01a99/featuredImage.jpg" tvg-name="Wahlburgers Opt-1 (PlutoTV) (Tiz)"  group-title="PlutoTV",Wahlburgers Opt-1 (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5c6eeb011846c82e15e01a99/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a6vkbe38fqjt8dhs9uov8ef1t7
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c6eeb011846c82e15e01a99/featuredImage.jpg" tvg-name="Wahlburgers Opt-2 (PlutoTV) (Tiz)"  group-title="PlutoTV",Wahlburgers Opt-2 (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5c6eeb011846c82e15e01a99/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a6vkbe38fqjt8dhs9uov8ef1t7
+
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Weather Channel Opt-1 (US) (Tiz)"  group-title="News",Weather Channel Opt-1 (US) (Tiz)
 http://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8
 
@@ -1278,8 +2211,32 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/p
 #EXTINF:-1, tvg-id="WeatherNation.us" tvg-logo="https://i.postimg.cc/kGXfmtPJ/24wc7s6-1.png" tvg-name="Weather Nation (US) (Tiz)"  group-title="News",Weather Nation (US) (Tiz)
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5877acecb16bb1e042ee453f/featuredImage.jpg" tvg-name="Weddings (PlutoTV) (Tiz)"  group-title="PlutoTV",Weddings (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5877acecb16bb1e042ee453f/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=400lm1j6kehed04ucl6d6fc4q7
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e94282d4ec87bdcbb87cd/featuredImage.jpg" tvg-name="Westerns (PlutoTV) (Tiz)"  group-title="PlutoTV",Westerns (PlutoTV) (Tiz)
+https://stitcher.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=pb3stkgum0jt2soq367mu97333
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Westerns (STIRЯ 205) (Tiz)"  group-title="STIRЯ",Westerns (STIRЯ 205) (Tiz)
+https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
+
 #EXTINF:-1, tvg-id="WGN9Chicago.us" tvg-logo="https://i.postimg.cc/9XJLB1yr/2eevlw0-1.png" tvg-name="WGN 9 News Chicago (US) (Tiz)"  group-title="Local",WGN 9 News Chicago (US) (Tiz)
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/a78b9f26-908f-f0cf-60ae-6230239b5158-WHAT-!_featured.jpg" tvg-name="What?! (PlutoTV) (Tiz)"  group-title="PlutoTV",What?! (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5808e8c360976cdc1b19d374/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58e2cd77a84e99942f414e68/featuredImage.jpg" tvg-name="What's On? (PlutoTV) (Tiz)"  group-title="PlutoTV",What's On? (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/58e2cd77a84e99942f414e68/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=highhttp://stitcher.pluto.tv/stitch/hls/channel/58e2cd77a84e99942f414e68/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Whistle TV (STIRЯ 354) (Tiz)"  group-title="STIRЯ",Whistle TV (STIRЯ 354) (Tiz)
+https://dai.google.com/linear/hls/pa/event/Wu11mwhnTKGNhwZimEK6Jg/stream/9d0414f9-5960-4fa2-b5f8-3d0a9bf32b36:MRN/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ab3e1242be690697279c75d/featuredImage.jpg" tvg-name="Wipeout (PlutoTV) (Tiz)"  group-title="PlutoTV",Wipeout (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5ab3e1242be690697279c75d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=5&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/decd85f0-6e26-46f0-9fd8-0a1e656dfe9a-wpt_featured.jpg" tvg-name="World Poker Tour (PlutoTV) (Tiz)"  group-title="PlutoTV",World Poker Tour (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/4ySbRL1P/migz7k-1.png" tvg-name="Wrestling (US) (Tiz)"  group-title="Sports",Wrestling (US) (Tiz)
 http://cdnak19.cast4u.info/channels/4/10804.m3u8
@@ -1289,6 +2246,9 @@ http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/C51HtTbd/ra9q4j-1.png" tvg-name="Xcorps TV (US) (Tiz)"  group-title="Sports",Xcorps TV (US) (Tiz)
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/WztFQgBZ/xivetv-logo-horizontal.jpg" tvg-name="XiveTV (PlutoTV) (Tiz)"  group-title="PlutoTV",XiveTV (PlutoTV) (Tiz)
+http://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/HxWQcDZ3/35c1pg6-1.png" tvg-name="Z ComedyTV (US) (Tiz)"  group-title="Entertainment",Z ComedyTV (US) (Tiz)
 http://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
