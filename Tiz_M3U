@@ -6,76 +6,76 @@ http://bit.ly/TizPirate
 #EXTINF:-1, tvg-id="00 TizTV 00" tvg-logo="https://i.postimg.cc/L5HPL6YW/zxpl6r.gif" tvg-name="00 TizTV Test 00"  group-title="00 TizTV 00",00 TizTV Test 00
 http://bit.ly/TizTestTV
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24/7 21 Jumpstreet (STIRЯ 157) (Tiz)"  group-title="24/7",24/7 21 Jumpstreet (STIRЯ 157) (Tiz)
+https://dai.google.com/linear/hls/event/UXgY8vuCSgiAlXtckOHm6A/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24/7 Beverly Hillbillies (STIRЯ 180) (Tiz)"  group-title="24/7",24/7 Beverly Hillbillies (STIRЯ 180) (Tiz)
+https://dai.google.com/linear/hls/event/TEeUv9DbStyK8DyFmG3Cfw/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24/7 Bonanza (STIRЯ 187) (Tiz)"  group-title="24/7",24/7 Bonanza (STIRЯ 187) (Tiz)
+https://dai.google.com/linear/hls/event/LeVr-Z0_Q4qMDdXx7zr22w/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24/7 Booker (DISC) (STIRЯ 158) (Tiz)"  group-title="24/7",24/7 Booker (DISC) (STIRЯ 158) (Tiz)
+https://dai.google.com/linear/hls/event/MkkiR5IOSNqKnzT6JiRHVg/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24/7 Crime Story (STIRЯ 159) (Tiz)"  group-title="24/7",24/7 Crime Story (STIRЯ 159) (Tiz)
+https://dai.google.com/linear/hls/pa/event/HgozmUlQQviIXFUF23mloA/stream/8673f1d7-a316-4a4e-a89f-0011224506e1:MRN/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24/7 Family Feud (DISC) (STIRЯ 196) (Tiz)"  group-title="24/7",24/7 Family Feud (DISC) (STIRЯ 196) (Tiz)
+https://dai.google.com/linear/hls/event/lxxHF4OUTH-HdBB0qeMf9g/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24/7 Forensic Files (STIRЯ 152) (Tiz)"  group-title="24/7",24/7 Forensic Files (STIRЯ 152) (Tiz)
+https://dai.google.com/linear/hls/event/fJj7BuL_Tv2KjCnNAmLK8g/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24/7 Gr. Am. Hero (STIRЯ 151) (Tiz)"  group-title="24/7",24/7 Gr. Am. Hero (STIRЯ 151) (Tiz)
+https://dai.google.com/linear/hls/event/zaW9PVeXQeamNt6SZ9FsOg/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24/7 Hell's Kitchen (STIRЯ 171) (Tiz)"  group-title="24/7",24/7 Hell's Kitchen (STIRЯ 171) (Tiz)
+https://sinclair-prod.apigee.net/pemediator/29647b12-693b-41b2-a3c6-484cdda32e7e.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24/7 Hunter (STIRЯ 154) (Tiz)"  group-title="24/7",24/7 Hunter (STIRЯ 154) (Tiz)
+https://dai.google.com/linear/hls/event/Z-kHpGoATwyuxIuQEY_3fw/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24/7 Kitchen Nightmares (STIRЯ 172) (Tiz)"  group-title="24/7",24/7 Kitchen Nightmares (STIRЯ 172) (Tiz)
+https://sinclair-prod.apigee.net/pemediator/0fdaaae4-1e80-4ea3-ba68-c9b0137233d9.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24/7 Laurel & Hardy (STIRЯ 176) (Tiz)"  group-title="24/7",24/7 Laurel & Hardy (STIRЯ 176) (Tiz)
+https://dai.google.com/linear/hls/event/uDdlFsS2S1CqcUkd7KGu4Q/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24/7 Real People (STIRЯ 195) (Tiz)"  group-title="24/7",24/7 Real People (STIRЯ 195) (Tiz)
+https://dai.google.com/linear/hls/event/RoiVzG-4TJiJMSVUatDd4A/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24/7 Sherlock Holmes (STIRЯ 193) (Tiz)"  group-title="24/7",24/7 Sherlock Holmes (STIRЯ 193) (Tiz)
+https://dai.google.com/linear/hls/event/fMcxjP7ORACGFsBvi7ZhAg/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24/7 Silk Stalkings (STIRЯ 165) (Tiz)"  group-title="24/7",24/7 Silk Stalkings (STIRЯ 165) (Tiz)
+https://dai.google.com/linear/hls/event/8ZYru1fgSY6JL1Ejb6T5Ag/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24/7 Space 1999 (DISC) (STIRЯ 104) (Tiz)"  group-title="24/7",24/7 Space 1999 (DISC) (STIRЯ 104) (Tiz)
+https://dai.google.com/linear/hls/pa/event/NeKNJHuzSeCiN_7Fcuo83Q/stream/baa6c797-71dd-454e-841a-7f36c4aded59:MRN/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24/7 The Commish (STIRЯ 155) (Tiz)"  group-title="24/7",24/7 The Commish (STIRЯ 155) (Tiz)
+https://dai.google.com/linear/hls/event/zfyiHhG0TeuoNist_WUwjg/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24/7 The Lone Ranger (STIRЯ 190) (Tiz)"  group-title="24/7",24/7 The Lone Ranger (STIRЯ 190) (Tiz)
+https://dai.google.com/linear/hls/event/dRKvXuioSv-e5T65yR_7Ow/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24/7 The Lucy Show (STIRЯ 185) (Tiz)"  group-title="24/7",24/7 The Lucy Show (STIRЯ 185) (Tiz)
+https://dai.google.com/linear/hls/event/-s-FtbzrQCaLMDSyM0ejyw/master.m3u8
+
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://postimg.cc/hzb9wpD0" tvg-name="24/7 Tom & Jerry (Tiz)"  group-title="24/7",24/7 Tom & Jerry (Tiz)
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 21 Jumpstreet (STIRЯ 157) (Tiz)"  group-title="STIRЯ",24x7 21 Jumpstreet (STIRЯ 157) (Tiz)
-https://dai.google.com/linear/hls/event/UXgY8vuCSgiAlXtckOHm6A/master.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Beverly Hillbillies (STIRЯ 180) (Tiz)"  group-title="STIRЯ",24x7 Beverly Hillbillies (STIRЯ 180) (Tiz)
-https://dai.google.com/linear/hls/event/TEeUv9DbStyK8DyFmG3Cfw/master.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Bonanza (STIRЯ 187) (Tiz)"  group-title="STIRЯ",24x7 Bonanza (STIRЯ 187) (Tiz)
-https://dai.google.com/linear/hls/event/LeVr-Z0_Q4qMDdXx7zr22w/master.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Booker (DISC) (STIRЯ 158) (Tiz)"  group-title="STIRЯ",24x7 Booker (DISC) (STIRЯ 158) (Tiz)
-https://dai.google.com/linear/hls/event/MkkiR5IOSNqKnzT6JiRHVg/master.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Crime Story (STIRЯ 159) (Tiz)"  group-title="STIRЯ",24x7 Crime Story (STIRЯ 159) (Tiz)
-https://dai.google.com/linear/hls/pa/event/HgozmUlQQviIXFUF23mloA/stream/8673f1d7-a316-4a4e-a89f-0011224506e1:MRN/master.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Family Feud (DISC) (STIRЯ 196) (Tiz)"  group-title="STIRЯ",24x7 Family Feud (DISC) (STIRЯ 196) (Tiz)
-https://dai.google.com/linear/hls/event/lxxHF4OUTH-HdBB0qeMf9g/master.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Forensic Files (STIRЯ 152) (Tiz)"  group-title="STIRЯ",24x7 Forensic Files (STIRЯ 152) (Tiz)
-https://dai.google.com/linear/hls/event/fJj7BuL_Tv2KjCnNAmLK8g/master.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Gr. Am. Hero (STIRЯ 151) (Tiz)"  group-title="STIRЯ",24x7 Gr. Am. Hero (STIRЯ 151) (Tiz)
-https://dai.google.com/linear/hls/event/zaW9PVeXQeamNt6SZ9FsOg/master.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Hell's Kitchen (STIRЯ 171) (Tiz)"  group-title="STIRЯ",24x7 Hell's Kitchen (STIRЯ 171) (Tiz)
-https://sinclair-prod.apigee.net/pemediator/29647b12-693b-41b2-a3c6-484cdda32e7e.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Hunter (STIRЯ 154) (Tiz)"  group-title="STIRЯ",24x7 Hunter (STIRЯ 154) (Tiz)
-https://dai.google.com/linear/hls/event/Z-kHpGoATwyuxIuQEY_3fw/master.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Kitchen Nightmares (STIRЯ 172) (Tiz)"  group-title="STIRЯ",24x7 Kitchen Nightmares (STIRЯ 172) (Tiz)
-https://sinclair-prod.apigee.net/pemediator/0fdaaae4-1e80-4ea3-ba68-c9b0137233d9.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Laurel & Hardy (STIRЯ 176) (Tiz)"  group-title="STIRЯ",24x7 Laurel & Hardy (STIRЯ 176) (Tiz)
-https://dai.google.com/linear/hls/event/uDdlFsS2S1CqcUkd7KGu4Q/master.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Real People (STIRЯ 195) (Tiz)"  group-title="STIRЯ",24x7 Real People (STIRЯ 195) (Tiz)
-https://dai.google.com/linear/hls/event/RoiVzG-4TJiJMSVUatDd4A/master.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Sherlock Holmes (STIRЯ 193) (Tiz)"  group-title="STIRЯ",24x7 Sherlock Holmes (STIRЯ 193) (Tiz)
-https://dai.google.com/linear/hls/event/fMcxjP7ORACGFsBvi7ZhAg/master.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Silk Stalkings (STIRЯ 165) (Tiz)"  group-title="STIRЯ",24x7 Silk Stalkings (STIRЯ 165) (Tiz)
-https://dai.google.com/linear/hls/event/8ZYru1fgSY6JL1Ejb6T5Ag/master.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Space 1999 (DISC) (STIRЯ 104) (Tiz)"  group-title="STIRЯ",24x7 Space 1999 (DISC) (STIRЯ 104) (Tiz)
-https://dai.google.com/linear/hls/pa/event/NeKNJHuzSeCiN_7Fcuo83Q/stream/baa6c797-71dd-454e-841a-7f36c4aded59:MRN/master.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 The Commish (STIRЯ 155) (Tiz)"  group-title="STIRЯ",24x7 The Commish (STIRЯ 155) (Tiz)
-https://dai.google.com/linear/hls/event/zfyiHhG0TeuoNist_WUwjg/master.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 The Lone Ranger (STIRЯ 190) (Tiz)"  group-title="STIRЯ",24x7 The Lone Ranger (STIRЯ 190) (Tiz)
-https://dai.google.com/linear/hls/event/dRKvXuioSv-e5T65yR_7Ow/master.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 The Lucy Show (STIRЯ 185) (Tiz)"  group-title="STIRЯ",24x7 The Lucy Show (STIRЯ 185) (Tiz)
-https://dai.google.com/linear/hls/event/-s-FtbzrQCaLMDSyM0ejyw/master.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Unsolved Mysteries (STIRЯ 153) (Tiz)"  group-title="STIRЯ",24x7 Unsolved Mysteries (STIRЯ 153) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24/7 Unsolved Mysteries (STIRЯ 153) (Tiz)"  group-title="24/7",24/7 Unsolved Mysteries (STIRЯ 153) (Tiz)
 https://dai.google.com/linear/hls/event/iLjE1UKtRCiSNkFatA65bg/master.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Whose Line Is It Anyway? (STIRЯ 174) (Tiz)"  group-title="STIRЯ",24x7 Whose Line Is It Anyway? (STIRЯ 174) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24/7 Whose Line Is It Anyway? (STIRЯ 174) (Tiz)"  group-title="24/7",24/7 Whose Line Is It Anyway? (STIRЯ 174) (Tiz)
 https://dai.google.com/linear/hls/event/SYob3ZZfTwyVW7LILC9ckw/master.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 Wiseguy (STIRЯ 156) (Tiz)"  group-title="STIRЯ",24x7 Wiseguy (STIRЯ 156) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24/7 Wiseguy (STIRЯ 156) (Tiz)"  group-title="24/7",24/7 Wiseguy (STIRЯ 156) (Tiz)
 https://dai.google.com/linear/hls/event/kv03O_9RS8-uRahEGtDcjA/master.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24x7 World Poker Tour (STIRЯ 170) (Tiz)"  group-title="STIRЯ",24x7 World Poker Tour (STIRЯ 170) (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="24/7 World Poker Tour (STIRЯ 170) (Tiz)"  group-title="24/7",24/7 World Poker Tour (STIRЯ 170) (Tiz)
 https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/cLxrh4m7/33ygto5-1.png" tvg-name="30A Music (US) (Tiz)"  group-title="Music",30A Music (US) (Tiz)
@@ -940,10 +940,10 @@ http://66.210.225.230/live/CELL-496k-270p/CELL-496k-270p.m3u8
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" tvg-name="Latido Music (CA) (DistroTV) (Tiz)"  group-title="DistroTV",Latido Music (CA) (DistroTV) (Tiz)
-https://a.jsrdn.com/broadcast/g8sfF32l0/c.m3u8?Music
+https://a.jsrdn.com/broadcast/g8sfF32l0/c.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" tvg-name="Latido Music (CA) (DistroTV) (Tiz)"  group-title="DistroTV",Latido Music (CA) (DistroTV) (Tiz)
-https://a.jsrdn.com/broadcast/g8sfF32l0/c.m3u8
+https://a.jsrdn.com/broadcast/g8sfF32l0/c.m3u8?Music
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Law & Crime (STIRЯ 10) (Tiz)"  group-title="STIRЯ",Law & Crime (STIRЯ 10) (Tiz)
 https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
@@ -1681,10 +1681,10 @@ https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f7722
 https://a.jsrdn.com/broadcast/d5b46/+0000/c.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" tvg-name="Sword and Shield (DistroTV) (Tiz)"  group-title="DistroTV",Sword and Shield (DistroTV) (Tiz)
-https://a.jsrdn.com/broadcast/9e63a1b236/+0000/c.m3u8?NonFiction
+https://a.jsrdn.com/broadcast/9e63a1b236/+0000/c.m3u8?Entertainment
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" tvg-name="Sword and Shield (DistroTV) (Tiz)"  group-title="DistroTV",Sword and Shield (DistroTV) (Tiz)
-https://a.jsrdn.com/broadcast/9e63a1b236/+0000/c.m3u8?Entertainment
+https://a.jsrdn.com/broadcast/9e63a1b236/+0000/c.m3u8?NonFiction
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/TP1dptjg/6i67ux-1.png" tvg-name="Tastemade (US) (Tiz)"  group-title="Lifestyle",Tastemade (US) (Tiz)
 http://amagi-primary.akamaized.net/index.m3u8
