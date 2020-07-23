@@ -244,10 +244,10 @@ https://a.jsrdn.com/broadcast/d5b45/+0000/c.m3u8
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" tvg-name="Brit Asia (DistroTV) (Tiz)"  group-title="DistroTV",Brit Asia (DistroTV) (Tiz)
-https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0500/c.m3u8
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0500/c.m3u8?Music
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" tvg-name="Brit Asia (DistroTV) (Tiz)"  group-title="DistroTV",Brit Asia (DistroTV) (Tiz)
-https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0500/c.m3u8?Music
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0500/c.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Britcom (STIRЯ 58) (Tiz)"  group-title="STIRЯ",Britcom (STIRЯ 58) (Tiz)
 https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
@@ -940,10 +940,10 @@ http://66.210.225.230/live/CELL-496k-270p/CELL-496k-270p.m3u8
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" tvg-name="Latido Music (CA) (DistroTV) (Tiz)"  group-title="DistroTV",Latido Music (CA) (DistroTV) (Tiz)
-https://a.jsrdn.com/broadcast/g8sfF32l0/c.m3u8
+https://a.jsrdn.com/broadcast/g8sfF32l0/c.m3u8?Music
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" tvg-name="Latido Music (CA) (DistroTV) (Tiz)"  group-title="DistroTV",Latido Music (CA) (DistroTV) (Tiz)
-https://a.jsrdn.com/broadcast/g8sfF32l0/c.m3u8?Music
+https://a.jsrdn.com/broadcast/g8sfF32l0/c.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Law & Crime (STIRЯ 10) (Tiz)"  group-title="STIRЯ",Law & Crime (STIRЯ 10) (Tiz)
 https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
@@ -998,6 +998,9 @@ http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/Xv8Kx7t9/30nc129-1.png" tvg-name="Metro Cable Network (US) (Tiz)"  group-title="Local",Metro Cable Network (US) (Tiz)
 http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="MGM SyFy (Tiz)"  group-title="Entertainment",MGM SyFy (Tiz)
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/1920x1080_5420800/index.m3u8
 
 #EXTINF:-1, tvg-id="Miracle.ca" tvg-logo="https://i.postimg.cc/hjtLYRq6/29f5gso-1.jpg" tvg-name="Miracle Channel (US) (Tiz)"  group-title="Religion",Miracle Channel (US) (Tiz)
 http://d9ruw6nhj5a52.cloudfront.net/live/live/chunklist_w1223587918.m3u8
@@ -1681,10 +1684,10 @@ https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f7722
 https://a.jsrdn.com/broadcast/d5b46/+0000/c.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" tvg-name="Sword and Shield (DistroTV) (Tiz)"  group-title="DistroTV",Sword and Shield (DistroTV) (Tiz)
-https://a.jsrdn.com/broadcast/9e63a1b236/+0000/c.m3u8?Entertainment
+https://a.jsrdn.com/broadcast/9e63a1b236/+0000/c.m3u8?NonFiction
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" tvg-name="Sword and Shield (DistroTV) (Tiz)"  group-title="DistroTV",Sword and Shield (DistroTV) (Tiz)
-https://a.jsrdn.com/broadcast/9e63a1b236/+0000/c.m3u8?NonFiction
+https://a.jsrdn.com/broadcast/9e63a1b236/+0000/c.m3u8?Entertainment
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/TP1dptjg/6i67ux-1.png" tvg-name="Tastemade (US) (Tiz)"  group-title="Lifestyle",Tastemade (US) (Tiz)
 http://amagi-primary.akamaized.net/index.m3u8
@@ -1768,10 +1771,10 @@ https://dai.google.com/linear/hls/event/UQrixd_tTG2nC-lOUtw0mQ/master.m3u8
 http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" tvg-name="Unidentified (DistroTV) (Tiz)"  group-title="DistroTV",Unidentified (DistroTV) (Tiz)
-https://a.jsrdn.com/broadcast/4hhfi556/indexR404p.m3u8?NonFiction
+https://a.jsrdn.com/broadcast/4hhfi556/indexR404p.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" tvg-name="Unidentified (DistroTV) (Tiz)"  group-title="DistroTV",Unidentified (DistroTV) (Tiz)
-https://a.jsrdn.com/broadcast/4hhfi556/indexR404p.m3u8
+https://a.jsrdn.com/broadcast/4hhfi556/indexR404p.m3u8?NonFiction
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2u-REuYyJGfioNMEdcSnCED6KqZlcDR0hccDiOZByDoozHRVD" tvg-name="Unsolved Mysteries with Robert Stack (Xumo) (Tiz)"  group-title="Xumo",Unsolved Mysteries with Robert Stack (Xumo) (Tiz)
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/1280x720_5000000/index.m3u8
