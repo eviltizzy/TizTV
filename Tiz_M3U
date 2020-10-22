@@ -1644,63 +1644,6 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-1, tvg-id="DittyTV.com" tvg-logo="https://i.imgur.com/p5rREUo.png" tvg-name="Ditty TV (US)"  group-title="Music",Ditty TV (US)
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
 
-#EXTINF:-1, tvg-id="DJing" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/djing.png" tvg-name="DJing"  group-title="Music",DJing
-https://www.djing.com/tv/28645-04.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DJing_400x400.png?raw=true" tvg-name="Djing | Djing Classic"  group-title="Music",Djing | Djing Classic
-http://www.djing.com/tv/hits.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DJing_400x400.png?raw=true" tvg-name="Djing | Djing Hedonist"  group-title="Music",Djing | Djing Hedonist
-https://www.djing.com/tv/s-28634-05-hedonist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DJing_400x400.png?raw=true" tvg-name="Djing | Djing Hits"  group-title="Music",Djing | Djing Hits
-https://www.djing.com/tv/i-28634-04.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DJing_400x400.png?raw=true" tvg-name="Djing | Djing Karaoke (Alt)"  group-title="Music",Djing | Djing Karaoke (Alt)
-http://www.djing.com/tv/karaoke.m3u8?version=2
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DJing_400x400.png?raw=true" tvg-name="Djing | Djing TV"  group-title="Music",Djing | Djing TV
-https://www.djing.com/tv/28638-04.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DJing_400x400.png?raw=true" tvg-name="Djing | Wild EDM"  group-title="Music",Djing | Wild EDM
-https://www.djing.com/tv/s-28634-05-wild-edm.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/26Qws7qL/fdbrf8-1.png" tvg-name="DJing Animation (Tiz)"  group-title="Music",DJing Animation (Tiz)
-http://www.djing.com/tv/animation.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/WzS73pw2/2dnvo0-1.png" tvg-name="DJing Avicii (Tiz)"  group-title="Music",DJing Avicii (Tiz)
-http://www.djing.com/tv/session_avicii.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/h40sMMWH/29xzye-1.png" tvg-name="DJing Classics (Tiz)"  group-title="Music",DJing Classics (Tiz)
-http://www.djing.com/tv/classics.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/TYY9smTh/nfp5r9-1.png" tvg-name="DJing Dancefloor (Tiz)"  group-title="Music",DJing Dancefloor (Tiz)
-http://www.djing.com/tv/dancefloor.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/hPyrRjGs/2iswgoh-1.png" tvg-name="DJing Electro Rock (Tiz)"  group-title="Music",DJing Electro Rock (Tiz)
-http://www.djing.com/tv/session_electro-rock.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/L8JV9pYp/e981ah-1.png" tvg-name="DJing French touch (Tiz)"  group-title="Music",DJing French touch (Tiz)
-http://www.djing.com/tv/session_french-touch.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/bw49dBk2/vx1cvn-1.png" tvg-name="DJing Hedonist (Tiz)"  group-title="Music",DJing Hedonist (Tiz)
-http://www.djing.com/tv/session_hedonist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/yN9XRyyp/6f5ox1-1.png" tvg-name="DJing IBIZA (Tiz)"  group-title="Music",DJing IBIZA (Tiz)
-http://www.djing.com/tv/ibiza.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/qRxsbBY8/2h8ahxf-1.png" tvg-name="DJing Karaoke (Tiz)"  group-title="Music",DJing Karaoke (Tiz)
-http://www.djing.com/tv/karaoke.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/PJfmBss0/2dke83s-1.png" tvg-name="DJing Main (Tiz)"  group-title="Music",DJing Main (Tiz)
-http://www.djing.com/tv/live.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/sxnpz63x/emvmh-1.png" tvg-name="DJing Summer Vibes (Tiz)"  group-title="Music",DJing Summer Vibes (Tiz)
-http://www.djing.com/tv/session_summer-vibes.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/KvzPf25M/1zgvrko-1.png" tvg-name="DJing Underground (Tiz)"  group-title="Music",DJing Underground (Tiz)
-http://www.djing.com/tv/underground.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.pluto.tv/channels/5ce4475cd43850831ca91ce7/colorLogoPNG.png" tvg-name="Doctor Who Classic"  group-title="PlutoTV",Doctor Who Classic
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce4475cd43850831ca91ce7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=532&deviceId=5ce4475cd43850831ca91ce7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
