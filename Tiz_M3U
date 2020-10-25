@@ -480,7 +480,7 @@ http://51.52.156.22:8888/http/004
 #EXTINF:-1, tvg-id="BBC One (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/BBC_One_%282002%29.svg/200px-BBC_One_%282002%29.svg.png" tvg-name="| BBC One | (UK) (Tiz)"  group-title="UKTV",| BBC One | (UK) (Tiz)
 https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="| BBC Three | (UK) (Tiz)"  group-title="New Group",| BBC Three | (UK) (Tiz)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="BBC Three" tvg-name="| BBC Three | (UK) (Tiz)"  group-title="UKTV",| BBC Three | (UK) (Tiz)
 https://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://postimg.cc/jWh2Y9fC" tvg-name="| BBC World News | (Tiz)"  group-title="News",| BBC World News | (Tiz)
