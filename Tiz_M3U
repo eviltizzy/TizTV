@@ -66,7 +66,7 @@ https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="| 24/7 The Venture Bros. | [adult swim] (Tiz)"  group-title="[adult swim]",| 24/7 The Venture Bros. | [adult swim] (Tiz)
 https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ThisOldHouse_245x245.png?raw=true" tvg-name="| 24/7 This Old House | (Tiz)"  group-title="24/7",| 24/7 This Old House | (Tiz)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ThisOldHouse_245x245.png?raw=true" tvg-name="| 24/7 This Old House | (Tiz)"  group-title="Entertainment",| 24/7 This Old House | (Tiz)
 https://pcva4.manifest.auditude.com/auditude/variant/thisoldhouse_2/7b1d6383-3aa6-4601-b8cd-dff13b8b7965/aHR0cHM6Ly90aGlzb2xkaG91c2UtMi5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=318
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="| 24/7 Your Pretty Face is Going to Hell | [adult swim] (Tiz)"  group-title="[adult swim]",| 24/7 Your Pretty Face is Going to Hell | [adult swim] (Tiz)
