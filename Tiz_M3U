@@ -6,6 +6,12 @@ https://bit.ly/TizPirate
 #EXTINF:-1, tvg-id=".꧁☠ Ƭ⫯ⲍƬ⋎ ☠꧂." tvg-logo="https://i.postimg.cc/L5HPL6YW/zxpl6r.gif" tvg-name=".꧁☠Ƭ⫯ⲍƬest☠꧂."  group-title=".꧁☠ Ƭ⫯ⲍƬ⋎ ☠꧂.",.꧁☠Ƭ⫯ⲍƬest☠꧂.
 https://bit.ly/TizTestTV
 
+#EXTINF:-1, tvg-id="adult.swim.east.us" tvg-logo="https://i.postimg.cc/RVJsg4gY/Adult-Swim-Logo.png" tvg-name="[adult swim] - East (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",[adult swim] - East (Ƭ⫯ⲍƬ⋎)
+https://tve-live-lln.warnermediacdn.com/hls/live/572116/swime/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1, tvg-id="N/A" tvg-logo="https://i.postimg.cc/RVJsg4gY/Adult-Swim-Logo.png" tvg-name="[adult swim] - West (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",[adult swim] - West (Ƭ⫯ⲍƬ⋎)
+https://tve-live-lln.warnermediacdn.com/hls/live/572114/swimw/noslate/VIDEO_1_5128000.m3u8
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="[adult swim] Live Stream | (Ƭ⫯ⲍƬ⋎)"  group-title="Entertainment",[adult swim] Live Stream | (Ƭ⫯ⲍƬ⋎)
 https://media.cdn.adultswim.com/streams/playlists/live-stream.primary.v2.m3u8
 
@@ -236,12 +242,6 @@ https://nimble.dashstreams.net/onestudio/actionsportstv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/K4XpcFgF/Bumblebee-TV-Logo.png" tvg-name="Activity Kid | BeeTV (Ƭ⫯ⲍƬ⋎)"  group-title="BeeTV",Activity Kid | BeeTV (Ƭ⫯ⲍƬ⋎)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225d2d5eeee0f5a4094bf/playlist.m3u8
-
-#EXTINF:-1, tvg-id="adult.swim.east.us" tvg-logo="https://i.postimg.cc/RVJsg4gY/Adult-Swim-Logo.png" tvg-name="Adult Swim East (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Adult Swim East (Ƭ⫯ⲍƬ⋎)
-https://tve-live-lln.warnermediacdn.com/hls/live/572116/swime/noslate/VIDEO_1_5128000.m3u8
-
-#EXTINF:-1, tvg-id="N/A" tvg-logo="https://i.postimg.cc/RVJsg4gY/Adult-Swim-Logo.png" tvg-name="Adult Swim West (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Adult Swim West (Ƭ⫯ⲍƬ⋎)
-https://tve-live-lln.warnermediacdn.com/hls/live/572114/swimw/noslate/VIDEO_1_5128000.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/1zbcnqQ5/XumoLogo.jpg" tvg-name="Adventure Sports Network | Xumo (Ƭ⫯ⲍƬ⋎)"  group-title="Xumo",Adventure Sports Network | Xumo (Ƭ⫯ⲍƬ⋎)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
