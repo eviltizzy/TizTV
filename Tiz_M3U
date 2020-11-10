@@ -4701,6 +4701,9 @@ https://18193.live.streamtheworld.com/SAM04AAC335.mp3
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/7L0zQPcK/102p1l3-1.jpg" tvg-name="Radio Cult Radio Go Go | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio Cult Radio Go Go | (Ƭ⫯ⲍƬ⋎)
 https://s10.voscast.com:8502/;stream.mp3
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/BeatJunkieRadio.png" tvg-name="Radio DASH - Beat Junkie Radio (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio DASH - Beat Junkie Radio (Ƭ⫯ⲍƬ⋎)
+https://ice55.securenetsystems.net/DASH51
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TuneIn_Logos/iHeartRadio_GenericLogo_240x240.png?raw=true" tvg-name="Radio Disney | (Geo) (US)"  group-title="Radio",Radio Disney | (Geo) (US)
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIODISNEY_IHEART.m3u8
 
@@ -5154,11 +5157,11 @@ https://ammoruntime-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-runtime-plex/CDN/
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RunwayTV_960x960.png?raw=true" tvg-name="Runway TV | (Ƭ⫯ⲍƬ⋎)"  group-title="Lifestyle",Runway TV | (Ƭ⫯ⲍƬ⋎)
 https://runway-hls.secdn.net/runway-live/play/runway/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-name="Rush | Redbox (Ƭ⫯ⲍƬ⋎)"  group-title="Redbox",Rush | Redbox (Ƭ⫯ⲍƬ⋎)
-https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/WAs8vD1.png" tvg-name="Rush | Redbox (Ƭ⫯ⲍƬ⋎)"  group-title="Redbox",Rush | Redbox (Ƭ⫯ⲍƬ⋎)
 https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-name="Rush | Redbox (Ƭ⫯ⲍƬ⋎)"  group-title="Redbox",Rush | Redbox (Ƭ⫯ⲍƬ⋎)
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
 #EXTINF:-1, tvg-id="RTUK.ru" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/RT-UK_400x400.png" tvg-name="Russia Today | (UK) (Ƭ⫯ⲍƬ⋎)"  group-title="News",Russia Today | (UK) (Ƭ⫯ⲍƬ⋎)
 https://rt-uk-gd.secure2.footprint.net/1106_2500Kb.m3u8
@@ -5223,20 +5226,20 @@ https://vanadium.uww.edu:1935/uwwlive/smil:uwwtv.smil/chunklist_w2102626622_b300
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/colorLogoPNG.png" tvg-name="Science | PlutoTV (Ƭ⫯ⲍƬ⋎)"  group-title="PlutoTV",Science | PlutoTV (Ƭ⫯ⲍƬ⋎)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=672&deviceId=563a970aa1a1f7fe7c9daad7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Sci-Fi_355x355.png?raw=true" tvg-name="Sci-Fi | FilmRise (Ƭ⫯ⲍƬ⋎)"  group-title="FilmRise",Sci-Fi | FilmRise (Ƭ⫯ⲍƬ⋎)
-https://dai1.xumo.com/7a884267de5c44a9/9999437/master.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/XuWEujn.png" tvg-name="Sci-Fi | FilmRise (Ƭ⫯ⲍƬ⋎)"  group-title="FilmRise",Sci-Fi | FilmRise (Ƭ⫯ⲍƬ⋎)
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Sci-Fi_355x355.png?raw=true" tvg-name="Sci-Fi | FilmRise (Ƭ⫯ⲍƬ⋎)"  group-title="FilmRise",Sci-Fi | FilmRise (Ƭ⫯ⲍƬ⋎)
+https://dai1.xumo.com/7a884267de5c44a9/9999437/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.pluto.tv/channels/5b4fc274694c027be6ed3eea/colorLogoPNG.png" tvg-name="Sci-Fi | PlutoTV (Ƭ⫯ⲍƬ⋎)"  group-title="PlutoTV",Sci-Fi | PlutoTV (Ƭ⫯ⲍƬ⋎)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=151&deviceId=5b4fc274694c027be6ed3eea&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/RX6YusQ.png" tvg-name="Sci-Fi 4U | MyTVToGo (Ƭ⫯ⲍƬ⋎)"  group-title="MyTVToGo",Sci-Fi 4U | MyTVToGo (Ƭ⫯ⲍƬ⋎)
-https://edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SciFi4U_576x576.png?raw=true" tvg-name="Sci-Fi 4U | MyTVToGo (Ƭ⫯ⲍƬ⋎)"  group-title="MyTVToGo",Sci-Fi 4U | MyTVToGo (Ƭ⫯ⲍƬ⋎)
 https://nimble.dashstreams.net/onestudio/SciFiTV/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/RX6YusQ.png" tvg-name="Sci-Fi 4U | MyTVToGo (Ƭ⫯ⲍƬ⋎)"  group-title="MyTVToGo",Sci-Fi 4U | MyTVToGo (Ƭ⫯ⲍƬ⋎)
+https://edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-name="Sci-Fi on Redbox | FilmRise (Ƭ⫯ⲍƬ⋎)"  group-title="FilmRise",Sci-Fi on Redbox | FilmRise (Ƭ⫯ⲍƬ⋎)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisescifi/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
@@ -5265,11 +5268,11 @@ https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" tvg-name="ShopLC | Xumo (Ƭ⫯ⲍƬ⋎)"  group-title="Xumo",ShopLC | Xumo (Ƭ⫯ⲍƬ⋎)
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/woxovZh.png" tvg-name="Shopping 4U | MyTVToGo (Ƭ⫯ⲍƬ⋎)"  group-title="MyTVToGo",Shopping 4U | MyTVToGo (Ƭ⫯ⲍƬ⋎)
-https://edge1.dashmedia.tv/onestudio/shopping_4u/playlist.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-MTVTGNetwork.png?raw=true" tvg-name="Shopping 4U | MyTVToGo (Ƭ⫯ⲍƬ⋎)"  group-title="MyTVToGo",Shopping 4U | MyTVToGo (Ƭ⫯ⲍƬ⋎)
 https://nimble.dashstreams.net/onestudio/shopping_4u/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/woxovZh.png" tvg-name="Shopping 4U | MyTVToGo (Ƭ⫯ⲍƬ⋎)"  group-title="MyTVToGo",Shopping 4U | MyTVToGo (Ƭ⫯ⲍƬ⋎)
+https://edge1.dashmedia.tv/onestudio/shopping_4u/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Shout Factory" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/1cb27c26-19c1-46ee-8b8a-fe02abcd3f65-small3x1_stirr_1219_epg_shoutfactorytv_1920x1080_v2.png?cb=c81e728d9d4c2f636f067f89cc14862c" tvg-name="Shout Factory | STIRЯ (Ƭ⫯ⲍƬ⋎)"  group-title="STIRЯ",Shout Factory | STIRЯ (Ƭ⫯ⲍƬ⋎)
 https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
@@ -5388,11 +5391,11 @@ https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8
 #EXTINF:-1, tvg-id="Sonus FM TV" tvg-logo="https://sonus.fm/img/sonus_logo.png" tvg-name="Sonus FM TV | (Ƭ⫯ⲍƬ⋎)"  group-title="Music",Sonus FM TV | (Ƭ⫯ⲍƬ⋎)
 https://www.sonus.fm:1935/public/stream_240p/playlist.m3u8
 
-#EXTINF:-1, tvg-id="Space 1999" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/aaaa25c9-d98a-46b8-8dca-3851ab93d3ee-small3x1_STIRR_Logo_0320_SPACE1999_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" tvg-name="Space 1999 | STIRЯ (Ƭ⫯ⲍƬ⋎)"  group-title="STIRЯ",Space 1999 | STIRЯ (Ƭ⫯ⲍƬ⋎)
-https://dai.google.com/linear/hls/event/NeKNJHuzSeCiN_7Fcuo83Q/master.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Space 1999 | STIRЯ (Ƭ⫯ⲍƬ⋎)"  group-title="STIRЯ",Space 1999 | STIRЯ (Ƭ⫯ⲍƬ⋎)
 https://dai.google.com/linear/hls/pa/event/NeKNJHuzSeCiN_7Fcuo83Q/stream/baa6c797-71dd-454e-841a-7f36c4aded59:MRN/master.m3u8
+
+#EXTINF:-1, tvg-id="Space 1999" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/aaaa25c9-d98a-46b8-8dca-3851ab93d3ee-small3x1_STIRR_Logo_0320_SPACE1999_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" tvg-name="Space 1999 | STIRЯ (Ƭ⫯ⲍƬ⋎)"  group-title="STIRЯ",Space 1999 | STIRЯ (Ƭ⫯ⲍƬ⋎)
+https://dai.google.com/linear/hls/event/NeKNJHuzSeCiN_7Fcuo83Q/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.pluto.tv/channels/5d8d11baeb31c5a43b77bf59/colorLogoPNG.png" tvg-name="Spike Aventura | PlutoTV (Ƭ⫯ⲍƬ⋎)"  group-title="PlutoTV",Spike Aventura | PlutoTV (Ƭ⫯ⲍƬ⋎)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=950&deviceId=5d8d11baeb31c5a43b77bf59&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -5445,17 +5448,17 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/J0bfKwQp/Rakuten-TV.png" tvg-name="Spotlight | RakutenTV (Ƭ⫯ⲍƬ⋎)"  group-title="Entertainment",Spotlight | RakutenTV (Ƭ⫯ⲍƬ⋎)
 https://rakuten-spotlight-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-name="Spotlight | Redbox (Ƭ⫯ⲍƬ⋎)"  group-title="Redbox",Spotlight | Redbox (Ƭ⫯ⲍƬ⋎)
-https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/KqjTIh8.png" tvg-name="Spotlight | Redbox (Ƭ⫯ⲍƬ⋎)"  group-title="Redbox",Spotlight | Redbox (Ƭ⫯ⲍƬ⋎)
 https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/RSHCC2y.png" tvg-name="Spydar TV | MyTVToGo (Ƭ⫯ⲍƬ⋎)"  group-title="MyTVToGo",Spydar TV | MyTVToGo (Ƭ⫯ⲍƬ⋎)
-https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-name="Spotlight | Redbox (Ƭ⫯ⲍƬ⋎)"  group-title="Redbox",Spotlight | Redbox (Ƭ⫯ⲍƬ⋎)
+https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NostTV_SpydarTV.png" tvg-name="Spydar TV | MyTVToGo (Ƭ⫯ⲍƬ⋎)"  group-title="MyTVToGo",Spydar TV | MyTVToGo (Ƭ⫯ⲍƬ⋎)
 https://nimble.dashstreams.net/onestudio/spydar/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/RSHCC2y.png" tvg-name="Spydar TV | MyTVToGo (Ƭ⫯ⲍƬ⋎)"  group-title="MyTVToGo",Spydar TV | MyTVToGo (Ƭ⫯ⲍƬ⋎)
+https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/DzmxHqwT/Plex-Logo.jpg" tvg-name="Sqadl | PLEX (Ƭ⫯ⲍƬ⋎)"  group-title="PLEX",Sqadl | PLEX (Ƭ⫯ⲍƬ⋎)
 https://stream-us-east-1.getpublica.com/cl/4d309629-5d9a-4f21-8fe6-6e46ac0e51b3/1280x720_2772133_6.m3u8
@@ -5877,11 +5880,11 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.
 #EXTINF:-1, tvg-id="The Pet Collective" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/924f1362-0d11-488e-9644-42a7bae0a5cf-small3x1_stirr_1219_epg_thepetcollective_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" tvg-name="The Pet Collective | STIRЯ (Ƭ⫯ⲍƬ⋎)"  group-title="STIRЯ",The Pet Collective | STIRЯ (Ƭ⫯ⲍƬ⋎)
 https://dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.roku.com/developer_channels/prod/83f9f0ddd6f6d0bd9394ab0b34fcc7daa84ea75a1b923b8872acdb36f26c034a.png" tvg-name="The Pet Collective | Xumo (Ƭ⫯ⲍƬ⋎)"  group-title="Xumo",The Pet Collective | Xumo (Ƭ⫯ⲍƬ⋎)
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/1280x720_5000000/index.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/1zbcnqQ5/XumoLogo.jpg" tvg-name="The Pet Collective | Xumo (Ƭ⫯ⲍƬ⋎)"  group-title="Xumo",The Pet Collective | Xumo (Ƭ⫯ⲍƬ⋎)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.roku.com/developer_channels/prod/83f9f0ddd6f6d0bd9394ab0b34fcc7daa84ea75a1b923b8872acdb36f26c034a.png" tvg-name="The Pet Collective | Xumo (Ƭ⫯ⲍƬ⋎)"  group-title="Xumo",The Pet Collective | Xumo (Ƭ⫯ⲍƬ⋎)
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/1280x720_5000000/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ThePreviewChannel_220x220.png?raw=true" tvg-name="The Preview Channel | (Ƭ⫯ⲍƬ⋎)"  group-title="Entertainment",The Preview Channel | (Ƭ⫯ⲍƬ⋎)
 https://hls.xumo.com/channel-hls/v1/bmneuerw7j9k5lfc/9999330/master.m3u8
@@ -6033,11 +6036,11 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.pluto.tv/channels/5812be1c249444e05d09cc50/colorLogoPNG.png" tvg-name="True Crime | PlutoTV (Ƭ⫯ⲍƬ⋎)"  group-title="PlutoTV",True Crime | PlutoTV (Ƭ⫯ⲍƬ⋎)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812be1c249444e05d09cc50/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=365&deviceId=5812be1c249444e05d09cc50&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1, tvg-id="Truly" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/ed531a2a-04cd-4845-a419-cc46ed05333b-small3x1_STIRR_Logo_0320_Truly_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" tvg-name="Truly | STIRЯ (Ƭ⫯ⲍƬ⋎)"  group-title="STIRЯ",Truly | STIRЯ (Ƭ⫯ⲍƬ⋎)
-https://dai.google.com/linear/hls/event/Xu-I6qGiSTKeu6glzS4BtQ/master.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="Truly | STIRЯ (Ƭ⫯ⲍƬ⋎)"  group-title="STIRЯ",Truly | STIRЯ (Ƭ⫯ⲍƬ⋎)
 https://dai.google.com/linear/hls/pa/event/Xu-I6qGiSTKeu6glzS4BtQ/stream/856fee6c-ff2e-49d9-b397-4a0074c901cf:MRN/master.m3u8
+
+#EXTINF:-1, tvg-id="Truly" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/ed531a2a-04cd-4845-a419-cc46ed05333b-small3x1_STIRR_Logo_0320_Truly_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" tvg-name="Truly | STIRЯ (Ƭ⫯ⲍƬ⋎)"  group-title="STIRЯ",Truly | STIRЯ (Ƭ⫯ⲍƬ⋎)
+https://dai.google.com/linear/hls/event/Xu-I6qGiSTKeu6glzS4BtQ/master.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/BQ7gyYwp/Tru-TV-Logo0.png" tvg-name="TruTV East Opt-1 (US) (Ƭ⫯ⲍƬ⋎)"  group-title="Entertainment",TruTV East Opt-1 (US) (Ƭ⫯ⲍƬ⋎)
 https://tve-live-lln.warnermediacdn.com/hls/live/572100/true/aes_slate/VIDEO_3_1464000.m3u8
@@ -6372,11 +6375,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" tvg-name="World Poker Tour | Redbox (Ƭ⫯ⲍƬ⋎)"  group-title="Redbox",World Poker Tour | Redbox (Ƭ⫯ⲍƬ⋎)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
-#EXTINF:-1, tvg-id="World Poker Tour" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b0bcc7de-1b66-4bb0-aaba-f6b124b6446e-small3x1_STIRR_Logo_0520_WorldPokerTour_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" tvg-name="World Poker Tour | STIRЯ (Ƭ⫯ⲍƬ⋎)"  group-title="STIRЯ",World Poker Tour | STIRЯ (Ƭ⫯ⲍƬ⋎)
-https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Stirr_Blue_510x510.png?raw=true" tvg-name="World Poker Tour | STIRЯ (Ƭ⫯ⲍƬ⋎)"  group-title="STIRЯ",World Poker Tour | STIRЯ (Ƭ⫯ⲍƬ⋎)
 https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
+
+#EXTINF:-1, tvg-id="World Poker Tour" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b0bcc7de-1b66-4bb0-aaba-f6b124b6446e-small3x1_STIRR_Logo_0520_WorldPokerTour_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" tvg-name="World Poker Tour | STIRЯ (Ƭ⫯ⲍƬ⋎)"  group-title="STIRЯ",World Poker Tour | STIRЯ (Ƭ⫯ⲍƬ⋎)
+https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" tvg-name="World Poker Tour HD | DistroTV (Ƭ⫯ⲍƬ⋎)"  group-title="DistroTV",World Poker Tour HD | DistroTV (Ƭ⫯ⲍƬ⋎)
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
