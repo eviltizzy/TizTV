@@ -243,9 +243,6 @@ https://tve-live-lln.warnermediacdn.com/hls/live/572116/swime/noslate/VIDEO_1_51
 #EXTINF:-1, tvg-id="N/A" tvg-logo="https://i.postimg.cc/RVJsg4gY/Adult-Swim-Logo.png" tvg-name="Adult Swim West (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Adult Swim West (Ƭ⫯ⲍƬ⋎)
 https://tve-live-lln.warnermediacdn.com/hls/live/572114/swimw/noslate/VIDEO_1_5128000.m3u8
 
-#EXTINF:-1, tvg-id="N/A" tvg-logo="https://i.postimg.cc/RVJsg4gY/Adult-Swim-Logo.png" tvg-name="Adult Swim West (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Adult Swim West (Ƭ⫯ⲍƬ⋎)
-https://tve-live-lln.warnermediacdn.com/hls/live/572114/swimw/noslate/VIDEO_1_5128000.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/1zbcnqQ5/XumoLogo.jpg" tvg-name="Adventure Sports Network | Xumo (Ƭ⫯ⲍƬ⋎)"  group-title="Xumo",Adventure Sports Network | Xumo (Ƭ⫯ⲍƬ⋎)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 
@@ -890,9 +887,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b3a4249444e05d
 
 #EXTINF:-1, tvg-id="cartoon.network.usa.eastern.us" tvg-logo="https://i.postimg.cc/zBWyQJ01/Cartoon-Network-Logo.png" tvg-name="Cartoon Network East (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Cartoon Network East (Ƭ⫯ⲍƬ⋎)
 https://tve-live-lln.warnermediacdn.com/hls/live/572106/toone/aes_slate/VIDEO_3_1464000.m3u8
-
-#EXTINF:-1, tvg-id="cartoon.network.usa.pacific.us" tvg-logo="https://i.postimg.cc/zBWyQJ01/Cartoon-Network-Logo.png" tvg-name="Cartoon Network West (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Cartoon Network West (Ƭ⫯ⲍƬ⋎)
-https://tve-live-lln.warnermediacdn.com/hls/live/572108/toonw/aes_slate/VIDEO_3_1464000.m3u8
 
 #EXTINF:-1, tvg-id="cartoon.network.usa.pacific.us" tvg-logo="https://i.postimg.cc/zBWyQJ01/Cartoon-Network-Logo.png" tvg-name="Cartoon Network West (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Cartoon Network West (Ƭ⫯ⲍƬ⋎)
 https://tve-live-lln.warnermediacdn.com/hls/live/572108/toonw/aes_slate/VIDEO_3_1464000.m3u8
@@ -4287,14 +4281,8 @@ https://live-cdn.pbskids.org/out/u/hast.m3u8
 #EXTINF:-1, tvg-id="PBSKids.us" tvg-logo="https://i.postimg.cc/pLK3Wznx/2vwa5ba-1.jpg" tvg-name="PBS-Kids East | (Geo) (US) (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",PBS-Kids East | (Geo) (US) (Ƭ⫯ⲍƬ⋎)
 https://live-cdn.pbskids.org/out/u/est.m3u8
 
-#EXTINF:-1, tvg-id="PBSKids.us" tvg-logo="https://i.postimg.cc/pLK3Wznx/2vwa5ba-1.jpg" tvg-name="PBS-Kids East | (Geo) (US) (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",PBS-Kids East | (Geo) (US) (Ƭ⫯ⲍƬ⋎)
-https://live-cdn.pbskids.org/out/u/est.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/pLK3Wznx/2vwa5ba-1.jpg" tvg-name="PBS-Kids KET-TV | (US) (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",PBS-Kids KET-TV | (US) (Ƭ⫯ⲍƬ⋎)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
-
-#EXTINF:-1, tvg-id="PBSKids.us" tvg-logo="https://i.postimg.cc/pLK3Wznx/2vwa5ba-1.jpg" tvg-name="PBS-Kids WTVS | (US) (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",PBS-Kids WTVS | (US) (Ƭ⫯ⲍƬ⋎)
-https://live-cdn.pbskids.org/out/u/aim/wtvs_3.m3u8
 
 #EXTINF:-1, tvg-id="PBSKids.us" tvg-logo="https://i.postimg.cc/pLK3Wznx/2vwa5ba-1.jpg" tvg-name="PBS-Kids WTVS | (US) (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",PBS-Kids WTVS | (US) (Ƭ⫯ⲍƬ⋎)
 https://live-cdn.pbskids.org/out/u/aim/wtvs_3.m3u8
