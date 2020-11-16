@@ -354,9 +354,6 @@ https://tve-live-lln.warnermediacdn.com/hls/live/572116/swime/noslate/VIDEO_1_51
 #EXTINF:-1, tvg-id="N/A" tvg-logo="https://i.postimg.cc/RVJsg4gY/Adult-Swim-Logo.png" tvg-name="Adult Swim West (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Adult Swim West (Ƭ⫯ⲍƬ⋎)
 https://tve-live-lln.warnermediacdn.com/hls/live/572114/swimw/noslate/VIDEO_1_5128000.m3u8
 
-#EXTINF:-1, tvg-id="N/A" tvg-logo="https://i.postimg.cc/RVJsg4gY/Adult-Swim-Logo.png" tvg-name="Adult Swim West (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Adult Swim West (Ƭ⫯ⲍƬ⋎)
-https://tve-live-lln.warnermediacdn.com/hls/live/572114/swimw/noslate/VIDEO_1_5128000.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/1zbcnqQ5/XumoLogo.jpg" tvg-name="Adventure Sports Network | Xumo (Ƭ⫯ⲍƬ⋎)"  group-title="Xumo",Adventure Sports Network | Xumo (Ƭ⫯ⲍƬ⋎)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 
@@ -2595,9 +2592,6 @@ https://dai.google.com/linear/hls/event/hW5jMh7dTRK1UXW5fTH07A/master.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/1zbcnqQ5/XumoLogo.jpg" tvg-name="Filmrise Classics | Xumo (Ƭ⫯ⲍƬ⋎)"  group-title="Xumo",Filmrise Classics | Xumo (Ƭ⫯ⲍƬ⋎)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/1zbcnqQ5/XumoLogo.jpg" tvg-name="Filmrise Classics | Xumo (Ƭ⫯ⲍƬ⋎)"  group-title="Xumo",Filmrise Classics | Xumo (Ƭ⫯ⲍƬ⋎)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/1zbcnqQ5/XumoLogo.jpg" tvg-name="Filmrise Crime | Xumo (Ƭ⫯ⲍƬ⋎)"  group-title="Xumo",Filmrise Crime | Xumo (Ƭ⫯ⲍƬ⋎)
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
 
@@ -2641,9 +2635,6 @@ https://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist.m3u8
 https://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_16_TVS-Flashback-Network_160x160.png?raw=true" tvg-name="Flashback Network | TVS (Ƭ⫯ⲍƬ⋎)"  group-title="TVS",Flashback Network | TVS (Ƭ⫯ⲍƬ⋎)
-https://nrpus.bozztv.com/36bay2/gusa-TVSFlashback/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/KtdEoox.png" tvg-name="Flashback TV | (Ƭ⫯ⲍƬ⋎)"  group-title="USTV",Flashback TV | (Ƭ⫯ⲍƬ⋎)
 https://nrpus.bozztv.com/36bay2/gusa-TVSFlashback/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png" tvg-name="Flicks of Fury | PlutoTV (Ƭ⫯ⲍƬ⋎)"  group-title="PlutoTV",Flicks of Fury | PlutoTV (Ƭ⫯ⲍƬ⋎)
@@ -8547,6 +8538,90 @@ https://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/man
 #EXTINF:-1, tvg-id="Z Living" tvg-logo="https://i.postimg.cc/cLgJVdmH/Z-Living-Logo.png" tvg-name="Z Living | (Ƭ⫯ⲍƬ⋎)"  group-title="General",Z Living | (Ƭ⫯ⲍƬ⋎)
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/8cyFCGZB/Beta-Ast-TVLogo.png" tvg-name="ӿӾ*NSFW*Ӿӿ AST TV 1 HD (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ AST TV 1 HD (Ƭ⫯ⲍƬ⋎)
+https://www.ast.tv/stream/1/ultra.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/8cyFCGZB/Beta-Ast-TVLogo.png" tvg-name="ӿӾ*NSFW*Ӿӿ AST TV 1 SD (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ AST TV 1 SD (Ƭ⫯ⲍƬ⋎)
+https://www.ast.tv/stream/1/cellular.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/8cyFCGZB/Beta-Ast-TVLogo.png" tvg-name="ӿӾ*NSFW*Ӿӿ AST TV 2 HD (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ AST TV 2 HD (Ƭ⫯ⲍƬ⋎)
+https://www.ast.tv/stream/2/ultra.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/8cyFCGZB/Beta-Ast-TVLogo.png" tvg-name="ӿӾ*NSFW*Ӿӿ AST TV 2 SD (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ AST TV 2 SD (Ƭ⫯ⲍƬ⋎)
+https://www.ast.tv/stream/2/cellular.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/8cyFCGZB/Beta-Ast-TVLogo.png" tvg-name="ӿӾ*NSFW*Ӿӿ AST TV Shemale Tube TV 1 (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ AST TV Shemale Tube TV 1 (Ƭ⫯ⲍƬ⋎)
+http://www.ast.tv/stream/1/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/8cyFCGZB/Beta-Ast-TVLogo.png" tvg-name="ӿӾ*NSFW*Ӿӿ AST TV Shemale Tube TV 2 (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ AST TV Shemale Tube TV 2 (Ƭ⫯ⲍƬ⋎)
+http://www.ast.tv/stream/2/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/7ZgFTrGS/Super-One-HD.png" tvg-name="ӿӾ*NSFW*Ӿӿ Fluxus Super One HD (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ Fluxus Super One HD (Ƭ⫯ⲍƬ⋎)
+https://fluxustv.blogspot.com@bit.ly/SuperOneHD?.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/wvh2w9zk/fashiontv-logo-blue-horizontal.png" tvg-name="ӿӾ*NSFW*Ӿӿ FTV Midnight Secrets (HD) (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ FTV Midnight Secrets (HD) (Ƭ⫯ⲍƬ⋎)
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/wvh2w9zk/fashiontv-logo-blue-horizontal.png" tvg-name="ӿӾ*NSFW*Ӿӿ FTV Midnight Secrets (SD) (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ FTV Midnight Secrets (SD) (Ƭ⫯ⲍƬ⋎)
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/wvh2w9zk/fashiontv-logo-blue-horizontal.png" tvg-name="ӿӾ*NSFW*Ӿӿ FTV Midnight Secrets (UHD) (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ FTV Midnight Secrets (UHD) (Ƭ⫯ⲍƬ⋎)
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/JasminTV_880x880.png?raw=true" tvg-name="ӿӾ*NSFW*Ӿӿ Jasmin TV (18+) | (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ Jasmin TV (18+) | (Ƭ⫯ⲍƬ⋎)
 https://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/fTC4JLjh/Jasmin-TVLogo.jpg" tvg-name="ӿӾ*NSFW*Ӿӿ Jasmin TV HD (US) (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ Jasmin TV HD (US) (Ƭ⫯ⲍƬ⋎)
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Jasmine tv 18+" tvg-logo="https://i.postimg.cc/fTC4JLjh/Jasmin-TVLogo.jpg" tvg-name="ӿӾ*NSFW*Ӿӿ Jasmin TV SD (US) (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ Jasmin TV SD (US) (Ƭ⫯ⲍƬ⋎)
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/CLM74yQj/logo-miami-tv.png" tvg-name="ӿӾ*NSFW*Ӿӿ Miami TV Live (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ Miami TV Live (Ƭ⫯ⲍƬ⋎)
+http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/zv79PCNp/0XJcknD.png" tvg-name="ӿӾ*NSFW*Ӿӿ Red Traffic Big Ass (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ Red Traffic Big Ass (Ƭ⫯ⲍƬ⋎)
+http://live.redtraffic.xyz/bigass.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/zv79PCNp/0XJcknD.png" tvg-name="ӿӾ*NSFW*Ӿӿ Red Traffic Big Dick (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ Red Traffic Big Dick (Ƭ⫯ⲍƬ⋎)
+http://live.redtraffic.xyz/bigdick.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/zv79PCNp/0XJcknD.png" tvg-name="ӿӾ*NSFW*Ӿӿ Red Traffic Big Tits (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ Red Traffic Big Tits (Ƭ⫯ⲍƬ⋎)
+http://live.redtraffic.xyz/bigtits.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/zv79PCNp/0XJcknD.png" tvg-name="ӿӾ*NSFW*Ӿӿ Red Traffic Blowjob (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ Red Traffic Blowjob (Ƭ⫯ⲍƬ⋎)
+http://live.redtraffic.xyz/blowjob.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/zv79PCNp/0XJcknD.png" tvg-name="ӿӾ*NSFW*Ӿӿ Red Traffic Cuckold (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ Red Traffic Cuckold (Ƭ⫯ⲍƬ⋎)
+http://live.redtraffic.xyz/cuckold.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/zv79PCNp/0XJcknD.png" tvg-name="ӿӾ*NSFW*Ӿӿ Red Traffic Fetish (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ Red Traffic Fetish (Ƭ⫯ⲍƬ⋎)
+http://live.redtraffic.xyz/fetish.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/zv79PCNp/0XJcknD.png" tvg-name="ӿӾ*NSFW*Ӿӿ Red Traffic Hardcore (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ Red Traffic Hardcore (Ƭ⫯ⲍƬ⋎)
+http://live.redtraffic.xyz/hardcore.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/zv79PCNp/0XJcknD.png" tvg-name="ӿӾ*NSFW*Ӿӿ Red Traffic Interracial (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ Red Traffic Interracial (Ƭ⫯ⲍƬ⋎)
+http://live.redtraffic.xyz/interracial.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/zv79PCNp/0XJcknD.png" tvg-name="ӿӾ*NSFW*Ӿӿ Red Traffic Lesbian (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ Red Traffic Lesbian (Ƭ⫯ⲍƬ⋎)
+http://live.redtraffic.xyz/lesbian.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/zv79PCNp/0XJcknD.png" tvg-name="ӿӾ*NSFW*Ӿӿ Red Traffic MILF (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ Red Traffic MILF (Ƭ⫯ⲍƬ⋎)
+http://live.redtraffic.xyz/milf.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/zv79PCNp/0XJcknD.png" tvg-name="ӿӾ*NSFW*Ӿӿ Red Traffic Pornstar (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ Red Traffic Pornstar (Ƭ⫯ⲍƬ⋎)
+http://live.redtraffic.xyz/pornstar.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/zv79PCNp/0XJcknD.png" tvg-name="ӿӾ*NSFW*Ӿӿ Red Traffic POV (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ Red Traffic POV (Ƭ⫯ⲍƬ⋎)
+http://live.redtraffic.xyz/pov.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/zv79PCNp/0XJcknD.png" tvg-name="ӿӾ*NSFW*Ӿӿ Red Traffic Russian (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ Red Traffic Russian (Ƭ⫯ⲍƬ⋎)
+http://live.redtraffic.xyz/russian.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/zv79PCNp/0XJcknD.png" tvg-name="ӿӾ*NSFW*Ӿӿ Red Traffic Teen (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ Red Traffic Teen (Ƭ⫯ⲍƬ⋎)
+http://live.redtraffic.xyz/teen.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/zv79PCNp/0XJcknD.png" tvg-name="ӿӾ*NSFW*Ӿӿ Red Traffic Threesome (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ Red Traffic Threesome (Ƭ⫯ⲍƬ⋎)
+http://live.redtraffic.xyz/threesome.m3u8
 
