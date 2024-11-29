@@ -303,20 +303,14 @@ https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ABC | (AU) (Ƭ⫯ⲍƬ⋎)"  group-title="General",ABC | (AU) (Ƭ⫯ⲍƬ⋎)
 https://c.mjh.nz/101002510251/
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/B6BTpp5K/ABC-KOCO-OKC-05.webp" tvg-name="ABC 05 OKC (KOCO) ( | (Ƭ⫯ⲍƬ⋎)"  group-title="Local",ABC 05 OKC (KOCO) ( | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/B6BTpp5K/ABC-KOCO-OKC-05.webp" tvg-name="ABC 05 KOCO | Oklahoma City OK (Ƭ⫯ⲍƬ⋎)"  group-title="Local",ABC 05 KOCO | Oklahoma City OK (Ƭ⫯ⲍƬ⋎)
 https://apollo.production-public.tubi.io/live/ac-koco.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/B6BTpp5K/ABC-KOCO-OKC-05.webp" tvg-name="ABC 05 OKC (KOCO) (720) | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",ABC 05 OKC (KOCO) (720) | (Ƭ⫯ⲍƬ⋎)
-https://apollo.production-public.tubi.io/live/ac-koco/1280x720.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/L67DzRCT/KMGH.png" tvg-name="ABC 07 KMGH | Denver CO (Ƭ⫯ⲍƬ⋎)"  group-title="Local",ABC 07 KMGH | Denver CO (Ƭ⫯ⲍƬ⋎)
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ABC 07 KSWO | Lawton OK (Ƭ⫯ⲍƬ⋎)"  group-title="Local",ABC 07 KSWO | Lawton OK (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/rwYjvfrX/ABC-KSWO-OKC-07.webp" tvg-name="ABC 07 KSWO | Lawton OK (Ƭ⫯ⲍƬ⋎)"  group-title="Local",ABC 07 KSWO | Lawton OK (Ƭ⫯ⲍƬ⋎)
 https://dai2-playlistserver.aws.syncbak.com/playlist/18548486/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODU0ODQ4NiIsIm1kNSI6ImYxZWJkMzg1YTQ4NmFkNmZmZTgyNWUzZGEyNDU3NjZkIiwiaWF0IjoxNTk0NTgzNzY1LCJpc3MiOiJTeW5jYmFrIChURykifQ.z40P8bEiJ-8dRdt9UPr1vQItzNJeHzqZVbLXMfGv794
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ABC 07 KSWO | Lawton OK (Ƭ⫯ⲍƬ⋎)"  group-title="Information",ABC 07 KSWO | Lawton OK (Ƭ⫯ⲍƬ⋎)
-https://dai2-playlistserver.aws.syncbak.com/media.m3u8?bitrate=500722&session=943584cf261d49969b4171cf87ba1411
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/GtN2mTHD/WWSB.jpg" tvg-name="ABC 07 WWSB | Sarasota FL (IPTVMate) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",ABC 07 WWSB | Sarasota FL (IPTVMate) (Ƭ⫯ⲍƬ⋎)
 https://ch.iptvmate.net/30bbb346ab85abdec5e46414119c44f7.m3u8
@@ -2190,14 +2184,8 @@ http://luckonline.eu:8080/home/faizul/752
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/d0hk8RC3/Cartoon-Network-Logo.jpg" tvg-name="Cartoon Network (US) (Luck) (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Cartoon Network (US) (Luck) (Ƭ⫯ⲍƬ⋎)
 http://luckonline.eu:8080/home/faizul/1128
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cartoon Network | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Cartoon Network | (MOJ) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/zBWyQJ01/Cartoon-Network-Logo.png" tvg-name="Cartoon Network | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Cartoon Network | (MOJ) (Ƭ⫯ⲍƬ⋎)
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/zBWyQJ01/Cartoon-Network-Logo.png" tvg-name="Cartoon Network East (360p) (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Cartoon Network East (360p) (Ƭ⫯ⲍƬ⋎)
-https://tve-live-ctl.warnermediacdn.com/hls/live/2023167/tooneast/slate/master_de.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/zBWyQJ01/Cartoon-Network-Logo.png" tvg-name="Cartoon Network West (360p) (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Cartoon Network West (360p) (Ƭ⫯ⲍƬ⋎)
-https://tve-live-ctl.warnermediacdn.com/hls/live/2023180/toonwest/slate/master_de.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cartoon TV"  group-title="Unsorted",Cartoon TV
 https://lte.wiseplayout.com/WiseM3U8_5/master.m3u8
@@ -2295,19 +2283,7 @@ https://live.field59.com/kotv/kotv1/playlist.m3u8
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/c4V7vhCk/WRGB.png" tvg-name="CBS 06 WRGB | Albany NY (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS 06 WRGB | Albany NY (Ƭ⫯ⲍƬ⋎)
 https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/0jHhCZP6/KWTV.jpg" tvg-name="CBS 09 KWTV-DT Blank Screen | Oklahoma City OK (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS 09 KWTV-DT Blank Screen | Oklahoma City OK (Ƭ⫯ⲍƬ⋎)
-https://live.field59.com/kwtv/kwtv4/playlist.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/0jHhCZP6/KWTV.jpg" tvg-name="CBS 09 KWTV-DT News Feed | Oklahoma City OK (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS 09 KWTV-DT News Feed | Oklahoma City OK (Ƭ⫯ⲍƬ⋎)
-https://live.field59.com/kwtv/kwtv1/playlist.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/0jHhCZP6/KWTV.jpg" tvg-name="CBS 09 KWTV-DT WX111 | Oklahoma City OK (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS 09 KWTV-DT WX111 | Oklahoma City OK (Ƭ⫯ⲍƬ⋎)
-https://live.field59.com/kwtv/kwtv2/playlist.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/0jHhCZP6/KWTV.jpg" tvg-name="CBS 09 KWTV-DT WX118 | Oklahoma City OK (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS 09 KWTV-DT WX118 | Oklahoma City OK (Ƭ⫯ⲍƬ⋎)
-https://live.field59.com/kwtv/kwtv3/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/HLG5wbgC/CBS-KWTV-OKC-09.png" tvg-name="CBS 09 OKC (KWTV-DT1) [Not 24/7]"  group-title="Local",CBS 09 OKC (KWTV-DT1) [Not 24/7]
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/HLG5wbgC/CBS-KWTV-OKC-09.png" tvg-name="CBS 09 KWTV | Oklahoma City OK (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS 09 KWTV | Oklahoma City OK (Ƭ⫯ⲍƬ⋎)
 https://fuel-streaming-prod01.fuelmedia.io/v1/sep/f69b3d25-a0a9-43d5-912f-3f60ac590f72/a7574990-c736-4b1f-afa7-f6fe3ff6dfea/6S600K360AWS/SM/content.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/pLwjdL0w/WPEC.jpg" tvg-name="CBS 12 WPEC | Palm Beaches and Treasure Coast FL (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS 12 WPEC | Palm Beaches and Treasure Coast FL (Ƭ⫯ⲍƬ⋎)
