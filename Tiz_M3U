@@ -2623,7 +2623,7 @@ https://ad-playlistserver.aws.syncbak.com/playlist/13613390/master.m3u8?access_t
 https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
 
 #EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/Jhj0dvXc/adult-swim-Digital.jpg" tvg-name="? [adult swim] Live Stream | (1080p) (Ƭ⫯ⲍƬ⋎)"  group-title="Entertainment",? [adult swim] Live Stream | (1080p) (Ƭ⫯ⲍƬ⋎)
-https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master.m3u8
+https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_de.m3u8
 
 #EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Aqua Teen Hunger Force Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Aqua Teen Hunger Force Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
@@ -2709,8 +2709,11 @@ https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream.m3u8
 #EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Squidbillies Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Squidbillies Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_de.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="Toonami | (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Toonami | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="Toonami Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Toonami Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/toonami/stream.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Toonami Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="New Group",Toonami Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)
+https://adultswim-vodlive.cdn.turner.com/live/toonami/stream_html5.m3u8
 
 #EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Venture Bros. Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Venture Bros. Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
