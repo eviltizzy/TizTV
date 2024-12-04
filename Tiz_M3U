@@ -2574,7 +2574,7 @@ https://735d81460ce14f66bb1b9ebdaebd61ea.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/XqPQGb1s/revry-3.png" tvg-name="Revry 3 | (Ƭ⫯ⲍƬ⋎)"  group-title="General",Revry 3 | (Ƭ⫯ⲍƬ⋎)
 https://785e3b6ff91d4c6db1d8a5b67a894571.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-5-REVRY-BRIGHTCOVE/mt/brightcove/5/hls/master/playlist.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="BeanoTV | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",BeanoTV | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="24/7 BeanoTV | (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 BeanoTV | (Ƭ⫯ⲍƬ⋎)
 https://a7b60a6853d843dd9105acfa8d6e74c7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_BeanoTV/playlist.m3u8
 
 #EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/KjPCYGQX/abc-news-live.webp" tvg-name="ABC News Live 01 | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",ABC News Live 01 | (Ƭ⫯ⲍƬ⋎)
@@ -2607,118 +2607,127 @@ https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
 #EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/KjPCYGQX/abc-news-live.webp" tvg-name="ABC News Live 10 | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",ABC News Live 10 | (Ƭ⫯ⲍƬ⋎)
 https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/05p0CML7/V2-Beat.jpg" tvg-name="V2Beat TV | (720p) (Ƭ⫯ⲍƬ⋎)"  group-title="Music",V2Beat TV | (720p) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/05p0CML7/V2-Beat.jpg" tvg-name="V2Beat TV | (Ƭ⫯ⲍƬ⋎)"  group-title="Music",V2Beat TV | (Ƭ⫯ⲍƬ⋎)
 https://abr.de1se01.v2beat.live/playlist.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="AWE (720p)"  group-title="Unsorted",AWE (720p)
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="AWE | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",AWE | (Ƭ⫯ⲍƬ⋎)
 https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="Always Funny Videos (720p)"  group-title="Unsorted",Always Funny Videos (720p)
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="Always Funny Videos | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Always Funny Videos | (Ƭ⫯ⲍƬ⋎)
 https://a-cdn.klowdtv.com/live3/alwaysfunny_720p/playlist.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/qMv6CN0J/GrayTV.jpg" tvg-name="WABI 5 | Bangor ME (US) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",WABI 5 | Bangor ME (US) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/qMv6CN0J/GrayTV.jpg" tvg-name="Local News Live (LNL) | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Local News Live (LNL) | (Ƭ⫯ⲍƬ⋎)
 https://ad-playlistserver.aws.syncbak.com/playlist/13613390/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjEzMzkwLCJtZDUiOiI2Y2M5MzczYjIxZWIwNzQ4ZDA0YTRlYzYyMjU2YjBhMiIsImlhdCI6MTQ5NzM4MTU5NywiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.qJPiMCbnGjAn9wgPrGjVl3M9Xfc4CVSyoZTZ5OH-1jo
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/Hsvc0TsQ/NBC-WMTV.png" tvg-name="WI (720p) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",WI (720p) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/Hsvc0TsQ/NBC-WMTV.png" tvg-name="Local News Live (LNL) | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Local News Live (LNL) | (Ƭ⫯ⲍƬ⋎)
 https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/Jhj0dvXc/adult-swim-Digital.jpg" tvg-name="[adult swim] Live Stream | (1080p) (Ƭ⫯ⲍƬ⋎)"  group-title="Entertainment",[adult swim] Live Stream | (1080p) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/Jhj0dvXc/adult-swim-Digital.jpg" tvg-name="? [adult swim] Live Stream | (1080p) (Ƭ⫯ⲍƬ⋎)"  group-title="Entertainment",? [adult swim] Live Stream | (1080p) (Ƭ⫯ⲍƬ⋎)
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Aqua Teen Hunger Force | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Aqua Teen Hunger Force | [adult swim] (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Aqua Teen Hunger Force Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Aqua Teen Hunger Force Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="Adult Swim Aqua Teen Hunger Force (1080p) [Geo-blocked]"  group-title="Unsorted",Adult Swim Aqua Teen Hunger Force (1080p) [Geo-blocked]
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="24/7 Aqua Teen Hunger Force Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",24/7 Aqua Teen Hunger Force Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_de.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Black Jesus | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Black Jesus | [adult swim] (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Black Jesus Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Black Jesus Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="Adult Swim Black Jesus (1080p) [Geo-blocked]"  group-title="Unsorted",Adult Swim Black Jesus (1080p) [Geo-blocked]
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="24/7 Black Jesus Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",24/7 Black Jesus Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream_de.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Channel 5 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Channel 5 | [adult swim] (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Channel 5 Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Channel 5 Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="Adult Swim Channel 5 (1080p) [Geo-blocked]"  group-title="Unsorted",Adult Swim Channel 5 (1080p) [Geo-blocked]
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="24/7 Channel 5 Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",24/7 Channel 5 Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream_de.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Dream Corp LLC | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Dream Corp LLC | [adult swim] (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Dream Corp LLC Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Dream Corp LLC Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="Adult Swim Dream Corp LLC (1080p) [Geo-blocked]"  group-title="Unsorted",Adult Swim Dream Corp LLC (1080p) [Geo-blocked]
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="24/7 Dream Corp LLC Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",24/7 Dream Corp LLC Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream_de.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Eric Andre Show | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Eric Andre Show | [adult swim] (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Eric Andre Show Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Eric Andre Show Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="Adult Swim The Eric Andre Show (1080p) [Geo-blocked]"  group-title="Unsorted",Adult Swim The Eric Andre Show (1080p) [Geo-blocked]
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="24/7 Eric Andre Show Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",24/7 Eric Andre Show Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_de.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Infomercials | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Infomercials | [adult swim] (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Infomercials Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Infomercials Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="Adult Swim Infomercials (1080p) [Geo-blocked]"  group-title="Unsorted",Adult Swim Infomercials (1080p) [Geo-blocked]
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="24/7 Infomercials Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",24/7 Infomercials Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream_de.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Last Stream on the Left | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Last Stream on the Left | [adult swim] (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Last Stream on the Left Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Last Stream on the Left Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="Adult Swim Last Stream On The Left (1080p) [Geo-blocked]"  group-title="Unsorted",Adult Swim Last Stream On The Left (1080p) [Geo-blocked]
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="24/7 Last Stream on the Left Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",24/7 Last Stream on the Left Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream_de.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Metalocalypse | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Metalocalypse | [adult swim] (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Metalocalypse Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Metalocalypse Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="Adult Swim Metalocalypse (1080p) [Geo-blocked]"  group-title="Unsorted",Adult Swim Metalocalypse (1080p) [Geo-blocked]
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="24/7 Metalocalypse Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",24/7 Metalocalypse Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream_de.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Off The Air | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Off The Air | [adult swim] (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Off The Air Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Off The Air Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="Adult Swim Off The Air (1080p) [Geo-blocked]"  group-title="Unsorted",Adult Swim Off The Air (1080p) [Geo-blocked]
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="24/7 Off The Air Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",24/7 Off The Air Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_de.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="Adult Swim Primal (1080p) [Geo-blocked]"  group-title="Unsorted",Adult Swim Primal (1080p) [Geo-blocked]
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="24/7 Primal Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Primal Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
+https://adultswim-vodlive.cdn.turner.com/live/primal/stream.m3u8
+
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="24/7 Primal Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",24/7 Primal Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/primal/stream_de.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Rick and Morty | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Rick and Morty | [adult swim] (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Rick and Morty Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Rick and Morty Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="Adult Swim Rick and Morty (1080p) [Geo-blocked]"  group-title="Unsorted",Adult Swim Rick and Morty (1080p) [Geo-blocked]
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="24/7 Rick and Morty Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",24/7 Rick and Morty Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Robot Chicken | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Robot Chicken | [adult swim] (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Robot Chicken Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Robot Chicken Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="Adult Swim Robot Chicken (1080p) [Geo-blocked]"  group-title="Unsorted",Adult Swim Robot Chicken (1080p) [Geo-blocked]
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="24/7 Robot Chicken Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",24/7 Robot Chicken Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_de.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Samurai Jack | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Samurai Jack | [adult swim] (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Samurai Jack Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Samurai Jack Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="Adult Swim Samurai Jack (1080p) [Geo-blocked]"  group-title="Unsorted",Adult Swim Samurai Jack (1080p) [Geo-blocked]
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="24/7 Samurai Jack Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",24/7 Samurai Jack Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Squidbillies | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Squidbillies | [adult swim] (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="24/7 Squidbillies Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="New Group",24/7 Squidbillies Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream.m3u8
+
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Squidbillies Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Squidbillies Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)
+https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_de.m3u8
 
 #EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="Toonami | (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Toonami | (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/toonami/stream.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Venture Bros. | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Venture Bros. | [adult swim] (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Venture Bros. Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Venture Bros. Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="Adult Swim The Venture Bros. (1080p) [Geo-blocked]"  group-title="Unsorted",Adult Swim The Venture Bros. (1080p) [Geo-blocked]
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="24/7 Venture Bros. Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",24/7 Venture Bros. Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream_de.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/tCg1Cr0p/adult-swim-Williams-Stream-Logo.jpg" tvg-name="[adult swim] Williams Stream | (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",[adult swim] Williams Stream | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="[adult swim] Williams Stream Opt-1 | (Ƭ⫯ⲍƬ⋎)"  group-title="New Group",[adult swim] Williams Stream Opt-1 | (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Your Pretty Face is Going to Hell | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Your Pretty Face is Going to Hell | [adult swim] (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/tCg1Cr0p/adult-swim-Williams-Stream-Logo.jpg" tvg-name="[adult swim] Williams Stream Opt-2 | (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",[adult swim] Williams Stream Opt-2 | (Ƭ⫯ⲍƬ⋎)
+https://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
+
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Your Pretty Face is Going to Hell Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Your Pretty Face is Going to Hell Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="Adult Swim Your Pretty Face Is Going To Hell (1080p) [Geo-blocked]"  group-title="Unsorted",Adult Swim Your Pretty Face Is Going To Hell (1080p) [Geo-blocked]
+#EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="24/7 Your Pretty Face is Going to Hell Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",24/7 Your Pretty Face is Going to Hell Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/ypf/stream_de.m3u8
 
 #EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="ACCDN (1080p)"  group-title="Unsorted",ACCDN (1080p)
