@@ -6,12 +6,6 @@ https://rebrand.ly/Ц-Я-Д-ƤЇƦдƬƎ
 #EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/L5HPL6YW/zxpl6r.gif" tvg-name=".꧁☠Ƭ⫯ⲍƬest☠꧂."  group-title=".꧁☠ Ƭ⫯ⲍƬ⋎ ☠꧂.",.꧁☠Ƭ⫯ⲍƬest☠꧂.
 https://bit.ly/TizTestTV
 
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://i.postimg.cc/Jhj0dvXc/adult-swim-Digital.jpg" tvg-name="? [adult swim] Live Stream | (1080p) (Ƭ⫯ⲍƬ⋎)"  group-title="[adult swim]",? [adult swim] Live Stream | (1080p) (Ƭ⫯ⲍƬ⋎)
-https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_de.m3u8
-
-#EXTINF:-1, tvg-id="No-EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/512px-Adult_Swim_2003_logo.svg.png" tvg-name="? Adult Swim East [Geo-blocked] | (Ƭ⫯ⲍƬ⋎)"  group-title="[adult swim]",? Adult Swim East [Geo-blocked] | (Ƭ⫯ⲍƬ⋎)
-https://turnerlive.warnermediacdn.com/hls/live/2023183/aswest/noslate/VIDEO_1_5128000.m3u8
-
 #EXTINF:-1, tvg-id="No-EPG" tvg-logo="Logo N/A" tvg-name="[adult swim] East | (Ƭ⫯ⲍƬ⋎)"  group-title="[adult swim]",[adult swim] East | (Ƭ⫯ⲍƬ⋎)
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/aseast.us.m3u8
 
