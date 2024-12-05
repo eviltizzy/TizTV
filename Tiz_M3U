@@ -3384,13 +3384,13 @@ http://luckonline.eu:8080/home/faizul/477
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="SAT 7 Kids | (Luck) (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",SAT 7 Kids | (Luck) (Ƭ⫯ⲍƬ⋎)
 http://luckonline.eu:8080/home/faizul/986
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | AK Juneau Police and Fire | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | AK Juneau Police and Fire | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | AK Juneau Police/Fire | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | AK Juneau Police/Fire | (Ƭ⫯ⲍƬ⋎)
 https://broadcastify.cdnstream1.com/31544
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | AK Mat-Su Borough Police, Fire and EMS Dispatch | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | AK Mat-Su Borough Police, Fire and EMS Dispatch | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | AK MatSu Borough Police/Fire/EMS Dispatch | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | AK MatSu Borough Police/Fire/EMS Dispatch | (Ƭ⫯ⲍƬ⋎)
 https://broadcastify.cdnstream1.com/10341
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | AL Decatur and Morgan County Public Safety | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | AL Decatur and Morgan County Public Safety | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | AL Decatur & Morgan County Public Safety | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | AL Decatur & Morgan County Public Safety | (Ƭ⫯ⲍƬ⋎)
 https://broadcastify.cdnstream1.com/2994
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | AL Huntsville Police Department | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | AL Huntsville Police Department | (Ƭ⫯ⲍƬ⋎)
@@ -3402,7 +3402,7 @@ https://broadcastify.cdnstream1.com/34894
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | AR Jonesboro Police | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | AR Jonesboro Police | (Ƭ⫯ⲍƬ⋎)
 https://broadcastify.cdnstream1.com/42332
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | AR Little Rock Fire Dispatch and Rescue | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | AR Little Rock Fire Dispatch and Rescue | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | AR Little Rock Fire & Rescue Dispatch | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | AR Little Rock Fire & Rescue Dispatch | (Ƭ⫯ⲍƬ⋎)
 https://broadcastify.cdnstream1.com/30676
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | AR North Little Rock Police Dispatch 1 | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | AR North Little Rock Police Dispatch 1 | (Ƭ⫯ⲍƬ⋎)
@@ -3411,10 +3411,10 @@ https://listen.broadcastify.com/svm5x06dqyh18pr.mp3?nc=61926&xan=xtf9912b41c
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | AR Sebastian County Fire and Rescue | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | AR Sebastian County Fire and Rescue | (Ƭ⫯ⲍƬ⋎)
 https://broadcastify.cdnstream1.com/23604
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | AR Texarkana Police and Bowie and Miller County Sheriff | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | AR Texarkana Police and Bowie and Miller County Sheriff | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | AR Texarkana Police Bowie & Miller County Sheriff | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | AR Texarkana Police Bowie & Miller County Sheriff | (Ƭ⫯ⲍƬ⋎)
 https://broadcastify.cdnstream1.com/35736
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | AR&OK Police & Public Safety Sebastian County VanBuren Poteau and Sallisaw (Arkansas & Oklahoma) | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | AR&OK Police & Public Safety Sebastian County VanBuren Poteau and Sallisaw (Arkansas & Oklahoma) | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | AR&OK Sebastian County VanBuren/Poteau/Sallisaw Police & Public Safety | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | AR&OK Sebastian County VanBuren/Poteau/Sallisaw Police & Public Safety | (Ƭ⫯ⲍƬ⋎)
 https://broadcastify.cdnstream1.com/22081
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | AZ Phoeniz Police | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | AZ Phoeniz Police | (Ƭ⫯ⲍƬ⋎)
@@ -3423,34 +3423,64 @@ https://broadcastify.cdnstream1.com/12145
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | AZ Tucson Police Dispatch | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | AZ Tucson Police Dispatch | (Ƭ⫯ⲍƬ⋎)
 https://broadcastify.cdnstream1.com/22835
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CA Bakersfield Police, Fire and EMS | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CA Bakersfield Police, Fire and EMS | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CA Bakersfield Police/Fire/EMS | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CA Bakersfield Police/Fire/EMS | (Ƭ⫯ⲍƬ⋎)
 https://broadcastify.cdnstream1.com/14029
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CA Citrus Heights Police, Folsom Police, Elk Grove Police and Galt Police | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CA Citrus Heights Police, Folsom Police, Elk Grove Police and Galt Police | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CA Citrus Heights/Folsom/Elk Grove/Galt Police | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CA Citrus Heights/Folsom/Elk Grove/Galt Police | (Ƭ⫯ⲍƬ⋎)
 https://broadcastify.cdnstream1.com/5698
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CA Fairfield, Vacaville, and Suisun Police, Fire and EMS | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CA Fairfield, Vacaville, and Suisun Police, Fire and EMS | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CA Fairfield/Vacaville/Suisun Police/Fire/EMS | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CA Fairfield/Vacaville/Suisun Police/Fire/EMS | (Ƭ⫯ⲍƬ⋎)
 https://broadcastify.cdnstream1.com/4881
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CA Fresno County Sheriff Sanger/Parlier/Fowler/Orange Cove/Kingsburg | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CA Fresno County Sheriff Sanger/Parlier/Fowler/Orange Cove/Kingsburg | (Ƭ⫯ⲍƬ⋎)
-https://broadcastify.cdnstream1.com/34434
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CA LAPD - South Bureau | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CA LAPD - South Bureau | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CA LAPD South Bureau | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CA LAPD South Bureau | (Ƭ⫯ⲍƬ⋎)
 https://broadcastify.cdnstream1.com/20296
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CA LAPD Dispatch - Valley Bureau | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CA LAPD Dispatch - Valley Bureau | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CA LAPD Valley Bureau Dispatch | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CA LAPD Valley Bureau Dispatch | (Ƭ⫯ⲍƬ⋎)
 https://broadcastify.cdnstream1.com/26569
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CA Sacramento County Sheriff and City Police | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CA Sacramento County Sheriff and City Police | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CA Sacramento County Sheriff/Police | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CA Sacramento County Sheriff/Police | (Ƭ⫯ⲍƬ⋎)
 https://broadcastify.cdnstream1.com/5688
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CA San Diego City Police and Fire Dispatch | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CA San Diego City Police and Fire Dispatch | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CA San Diego City Police/Fire Dispatch | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CA San Diego City Police/Fire Dispatch | (Ƭ⫯ⲍƬ⋎)
 https://broadcastify.cdnstream1.com/20530
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CA Stockton Police and Fire Dispatch | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CA Stockton Police and Fire Dispatch | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CA Sanger/Parlier/Fowler/Orange Cove/Kingsburg/Fresno County Sheriff | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CA Sanger/Parlier/Fowler/Orange Cove/Kingsburg/Fresno County Sheriff | (Ƭ⫯ⲍƬ⋎)
+https://broadcastify.cdnstream1.com/34434
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CA Stanislaus County Sheriff/Fire Dispatch & Ceres/Modesto Police Dispatch | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CA Stanislaus County Sheriff/Fire Dispatch & Ceres/Modesto Police Dispatch | (Ƭ⫯ⲍƬ⋎)
+https://broadcastify.cdnstream1.com/37163
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CA Stockton Police/Fire Dispatch | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CA Stockton Police/Fire Dispatch | (Ƭ⫯ⲍƬ⋎)
 https://broadcastify.cdnstream1.com/9340
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | OK Oklahoma City Area Police and Fire | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | OK Oklahoma City Area Police and Fire | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CA Vallejo Police/Fire | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CA Vallejo Police/Fire | (Ƭ⫯ⲍƬ⋎)
+https://broadcastify.cdnstream1.com/820
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CO Adams County Law Enforcement | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CO Adams County Law Enforcement | (Ƭ⫯ⲍƬ⋎)
+https://broadcastify.cdnstream1.com/28369
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CO Denver Health EMS | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CO Denver Health EMS | (Ƭ⫯ⲍƬ⋎)
+https://broadcastify.cdnstream1.com/7435
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CO Mesa County/Grand Junction Police/Fire/EMS | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CO Mesa County/Grand Junction Police/Fire/EMS | (Ƭ⫯ⲍƬ⋎)
+https://broadcastify.cdnstream1.com/40688
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CO South Metro Fire Rescue (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CO South Metro Fire Rescue (Ƭ⫯ⲍƬ⋎)
+https://listen.broadcastify.com/7kq2ps8cwd3r1m4.mp3?nc=81106&xan=xtf9912b41c
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CO Weld County Sheriff | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CO Weld County Sheriff | (Ƭ⫯ⲍƬ⋎)
+https://broadcastify.cdnstream1.com/61
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CT Connecticut State Police Troops C/D/E/F/H/K & Norwich/Groton/Plainfield Police | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CT Connecticut State Police Troops C/D/E/F/H/K & Norwich/Groton/Plainfield Police | (Ƭ⫯ⲍƬ⋎)
+https://broadcastify.cdnstream1.com/28978
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CT Hartford Police/Fire/EMS | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CT Hartford Police/Fire/EMS | (Ƭ⫯ⲍƬ⋎)
+https://broadcastify.cdnstream1.com/41875
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CT Tolland County Fire/EMS & East Windsor/Ashford Fire | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CT Tolland County Fire/EMS & East Windsor/Ashford Fire | (Ƭ⫯ⲍƬ⋎)
+https://broadcastify.cdnstream1.com/15389
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | OK Oklahoma City Area Police/Fire | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | OK Oklahoma City Area Police/Fire | (Ƭ⫯ⲍƬ⋎)
 https://broadcastify.cdnstream1.com/318
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/Y9ZmD0qc/UCTV.png" tvg-name="School | University of California TV | (US) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",School | University of California TV | (US) (Ƭ⫯ⲍƬ⋎)
@@ -3466,6 +3496,9 @@ https://tdameritrade-vizio.amagi.tv/playlist.m3u8
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/N0LMm2jS/newsy.jpg" tvg-name="Scripps News | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Scripps News | (Ƭ⫯ⲍƬ⋎)
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/N0LMm2jS/newsy.jpg" tvg-name="Scripps News | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Scripps News | (Ƭ⫯ⲍƬ⋎)
 https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/dtRWb4KR/NBC-Logo.jpg" tvg-name="Scripps News | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Scripps News | (Ƭ⫯ⲍƬ⋎)
@@ -3473,9 +3506,6 @@ https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/N0LMm2jS/newsy.jpg" tvg-name="Scripps News | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Scripps News | (Ƭ⫯ⲍƬ⋎)
 https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/N0LMm2jS/newsy.jpg" tvg-name="Scripps News | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Scripps News | (Ƭ⫯ⲍƬ⋎)
-https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/B6BTpp5K/ABC-KOCO-OKC-05.webp" tvg-name="SD | ABC 05 OKC (KOCO) | (Tubi) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",SD | ABC 05 OKC (KOCO) | (Tubi) (Ƭ⫯ⲍƬ⋎)
 https://apollo.production-public.tubi.io/live/ac-koco/384x216.m3u8
@@ -3517,10 +3547,10 @@ https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3
 http://shoutfactory-redbox.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Showtime | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Showtime | (MOJ) (Ƭ⫯ⲍƬ⋎)
-http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Showtime | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Showtime | (MOJ) (Ƭ⫯ⲍƬ⋎)
-http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Showtime 2 | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Showtime 2 | (MOJ) (Ƭ⫯ⲍƬ⋎)
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
@@ -3595,10 +3625,10 @@ http://luckonline.eu:8080/home/faizul/466
 http://luckonline.eu:8080/home/faizul/470
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Sky News | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Sky News | (Ƭ⫯ⲍƬ⋎)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb092-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7161f04a-ca8e-48a5-ba86-50e1f09b73b7
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Sky News | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Sky News | (Ƭ⫯ⲍƬ⋎)
-https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb092-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7161f04a-ca8e-48a5-ba86-50e1f09b73b7
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Sky News | HD (Luck) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Sky News | HD (Luck) (Ƭ⫯ⲍƬ⋎)
 http://luckonline.eu:8080/home/faizul/475
@@ -3865,10 +3895,10 @@ https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_356
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="TCM | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",TCM | (MOJ) (Ƭ⫯ⲍƬ⋎)
-https://fl2.moveonjoy.com/TCM/index.m3u8
+http://fl1.moveonjoy.com/TCM/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="TCM | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",TCM | (MOJ) (Ƭ⫯ⲍƬ⋎)
-http://fl1.moveonjoy.com/TCM/index.m3u8
+https://fl2.moveonjoy.com/TCM/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="TCM East | (Ƭ⫯ⲍƬ⋎)"  group-title="Entertainment",TCM East | (Ƭ⫯ⲍƬ⋎)
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
@@ -4093,10 +4123,10 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?sid=0885&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=1&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="VH1 | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",VH1 | (MOJ) (Ƭ⫯ⲍƬ⋎)
-https://fl2.moveonjoy.com/VH1/index.m3u8
+http://fl2.moveonjoy.com/VH1/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="VH1 | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",VH1 | (MOJ) (Ƭ⫯ⲍƬ⋎)
-http://fl2.moveonjoy.com/VH1/index.m3u8
+https://fl2.moveonjoy.com/VH1/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Vice | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Vice | (MOJ) (Ƭ⫯ⲍƬ⋎)
 http://fl2.moveonjoy.com/VICELAND/index.m3u8
@@ -4128,14 +4158,14 @@ http://worcester.vod.castus.tv/live/ch1.m3u8
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="We TV | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",We TV | (MOJ) (Ƭ⫯ⲍƬ⋎)
 http://fl2.moveonjoy.com/WE_TV/index.m3u8
 
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/Gm4Nwb7G/Weather-Nation-logo.png" tvg-name="Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appVersion=9.6.0-a4885044134e9550f33624d94056de15020c6adb&app_name=web&clientDeviceType=0&clientID=375f0c1b-ef75-4c3c-a1ce-ea3b95242005&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=375f0c1b-ef75-4c3c-a1ce-ea3b95242005&deviceLat=35.5100&deviceLon=-97.4700&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=US&serverSideAds=false&sessionID=fb4f12df-b2d7-11ef-b289-667f6b555507&sid=fb4f12df-b2d7-11ef-b289-667f6b555507&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImEwYzliMzc3LTg4M2EtNGI0Mi1hODc0LTI3OTJhMjNkMmFiZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJmYjRmMTJkZi1iMmQ3LTExZWYtYjI4OS02NjdmNmI1NTU1MDciLCJjbGllbnRJUCI6IjI2MDA6MTcwMjozNjkwOjIyMTA6OTg2ZDplNjY0OmRlZDI6ODczNyIsImNpdHkiOiJPa2xhaG9tYSBDaXR5IiwicG9zdGFsQ29kZSI6IjczMTExIiwiY291bnRyeSI6IlVTIiwiZG1hIjo2NTAsImFjdGl2ZVJlZ2lvbiI6IlVTIiwiZGV2aWNlTGF0IjozNS41MDk5OTgzMjE1MzMyLCJkZXZpY2VMb24iOi05Ny40NzAwMDEyMjA3MDMxMiwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTMzLjAuMCIsImRldmljZU1ha2UiOiJmaXJlZm94IiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjkuNi4wLWE0ODg1MDQ0MTM0ZTk1NTBmMzM2MjRkOTQwNTZkZTE1MDIwYzZhZGIiLCJjbGllbnRJRCI6IjM3NWYwYzFiLWVmNzUtNGMzYy1hMWNlLWVhM2I5NTI0MjAwNSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0NoaWNhZ28iLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7ImFkTG9hZCI6eyJjb2hvcnQiOiIifSwibXVsdGlBdWRpbyI6eyJlbmFibGVkIjp0cnVlfSwibXVsdGlQb2RBZHMiOnsiZW5hYmxlZCI6dHJ1ZX0sInNlYXJjaEFQSSI6eyJtYXRjaEV4YWN0SW5QaHJhc2VFbmFibGVkIjp0cnVlLCJtYXRjaEluQWN0b3JzQm9vc3QiOjI1LCJtYXRjaEluQWN0b3JzRWRpdERpc3RhbmNlIjoiQVVUTzo1LDExIiwibWF0Y2hJbkFjdG9yc0VuYWJsZWQiOnRydWUsIm1hdGNoSW5EaXJlY3RvcnNCb29zdCI6MjUsIm1hdGNoSW5EaXJlY3RvcnNFZGl0RGlzdGFuY2UiOiJBVVRPOjUsMTEiLCJtYXRjaEluRGlyZWN0b3JzRW5hYmxlZCI6dHJ1ZSwibmV4dXNUaW1lb3V0TXMiOjUwMCwicXVlcnlTeW5vbnltc0VuYWJsZWQiOnRydWUsInF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCIsInNlYXJjaFByb3h5RW5oYW5jZW1lbnQiOmZhbHNlfX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiMzc1ZjBjMWItZWY3NS00YzNjLWExY2UtZWEzYjk1MjQyMDA1IiwiZndWY0lEMkNvcHBhIjoiMzc1ZjBjMWItZWY3NS00YzNjLWExY2UtZWEzYjk1MjQyMDA1IiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiIzNzVmMGMxYi1lZjc1LTRjM2MtYTFjZS1lYTNiOTUyNDIwMDUiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5In19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6TXpjMVpqQmpNV0l0WldZM05TMDBZek5qTFdFeFkyVXRaV0V6WWprMU1qUXlNREExIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTczMzQ2OTAxNywiaWF0IjoxNzMzMzgyNjE3LCJqdGkiOiIxNzNhMzJkZC0zYjBiLTQyMjgtYTI0Mi00MGFjMmUzOGIzZTUifQ.H9Q62pt0HO8iURQC0DD9YR4ivaLEJWy48yNLQ5klMUE&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQEUiUHXWSa3vaLEk4oUAy4R2osGJ47fgU-unZQUvkFXW_MhgIIRL5GvIKdNIibf1LClXs5G756ntQk_XRG28Lit_f5ikZezMOvHs6sdDs-FYtdZCLanqx2Y4JkU75TPkHXhY4V-b7457NY5G8EArRknHskitywv6XhXQjp86CR6DSFALLWDkt11GKh3Y8Y_0GZMgkVnjWRRLW_7gSG9KMG7YeNVmOfDTmcPGqbACyjGGR_iuqe5H8SBVW0Ba0JDoZnHkFj1UbtODkHvn7YcrADkFlPdVjoqd2SKZmoV8zHZsnph1yjz80_xDAV0AhJnvBfSD5W1UZUnf32k-wcbxLV7GDsID9uHx9w1O8F2dnxJ9SKOxTMIk7uESkkOhziFm9uEbsWNWzK3FDklzDBoWT3Velhmq7RZ68CbOW5ZlwO0CHdtPq-FebFdzZYLuteT0dkFGjH21IeDaUX5iYDy37HpPsKm2r2wEmXFbVhJYifh1qqYvo2V72k5jxhcYQRFJMNCZUBCkrJrseeRNIksfGvypGevDmpnghZYEiLvX0J96P4a_OF2PdwxMiFHVn23vH8iiJHxZqYykJamoFLK623-OaQL62fgwq1IbjFIwE3sAkI7Aunv3u0ThqlD-tCVsjJiDzh4pc3pIEULIERcdOqkSbNiNnderXCeDPcVc5c2cizhhbld9gcfMGBhKfJFPGW4AkgxB6GhJzwOyOSZkZleuqlwQXriMOCLxvmlxdQgCyZtDN7yxDVnS68uzEf2nGtylUHbjexPlJiWk_FheRjGd6UnTeL6Ep1s3QfzbTzohPLmPo-Q7H1hynoLsN271throkp2wyUtKH3xUVz-tUczTa4C2o8pPZp32-Y7rLcGeTXo-WHarN2fb0x-hliKqpibwk7qptKqls955tJuVSAsDqXNQ8XC60huCvyVWzF26GxzQNMcL5duEsanQQREtS8A0d6cOnkYx44PGLPW32Ww8Qdg80voMqIJ6bf-NaUs95xh7fuzZwbkWc0ARL-zFcizbs91lQmIgxHan2GB4xkYX6KPzCsOl_B5nzwIJ_lTa2SvCRAqZs2fMGWbwg2JqJ891zD-xNFjRG_wgLdWG4vI4AMK9eOI-awyQM.&gpp=DBABLA~BVQqAAAAAgA.QA&gpp_sid=7&us_privacy=1YNN&eventVOD=false&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22d7c7fa3e-d8e6-4514-972f-6f19714b7353%22%2Csu
+
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/Gm4Nwb7G/Weather-Nation-logo.png" tvg-name="Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="PlutoTV",Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bdce04659ee03633e758130/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/Gm4Nwb7G/Weather-Nation-logo.png" tvg-name="Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=217&deviceId=5bdce04659ee03633e758130&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/Gm4Nwb7G/Weather-Nation-logo.png" tvg-name="Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appVersion=9.6.0-a4885044134e9550f33624d94056de15020c6adb&app_name=web&clientDeviceType=0&clientID=375f0c1b-ef75-4c3c-a1ce-ea3b95242005&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=375f0c1b-ef75-4c3c-a1ce-ea3b95242005&deviceLat=35.5100&deviceLon=-97.4700&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=US&serverSideAds=false&sessionID=fb4f12df-b2d7-11ef-b289-667f6b555507&sid=fb4f12df-b2d7-11ef-b289-667f6b555507&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImEwYzliMzc3LTg4M2EtNGI0Mi1hODc0LTI3OTJhMjNkMmFiZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJmYjRmMTJkZi1iMmQ3LTExZWYtYjI4OS02NjdmNmI1NTU1MDciLCJjbGllbnRJUCI6IjI2MDA6MTcwMjozNjkwOjIyMTA6OTg2ZDplNjY0OmRlZDI6ODczNyIsImNpdHkiOiJPa2xhaG9tYSBDaXR5IiwicG9zdGFsQ29kZSI6IjczMTExIiwiY291bnRyeSI6IlVTIiwiZG1hIjo2NTAsImFjdGl2ZVJlZ2lvbiI6IlVTIiwiZGV2aWNlTGF0IjozNS41MDk5OTgzMjE1MzMyLCJkZXZpY2VMb24iOi05Ny40NzAwMDEyMjA3MDMxMiwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTMzLjAuMCIsImRldmljZU1ha2UiOiJmaXJlZm94IiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjkuNi4wLWE0ODg1MDQ0MTM0ZTk1NTBmMzM2MjRkOTQwNTZkZTE1MDIwYzZhZGIiLCJjbGllbnRJRCI6IjM3NWYwYzFiLWVmNzUtNGMzYy1hMWNlLWVhM2I5NTI0MjAwNSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0NoaWNhZ28iLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7ImFkTG9hZCI6eyJjb2hvcnQiOiIifSwibXVsdGlBdWRpbyI6eyJlbmFibGVkIjp0cnVlfSwibXVsdGlQb2RBZHMiOnsiZW5hYmxlZCI6dHJ1ZX0sInNlYXJjaEFQSSI6eyJtYXRjaEV4YWN0SW5QaHJhc2VFbmFibGVkIjp0cnVlLCJtYXRjaEluQWN0b3JzQm9vc3QiOjI1LCJtYXRjaEluQWN0b3JzRWRpdERpc3RhbmNlIjoiQVVUTzo1LDExIiwibWF0Y2hJbkFjdG9yc0VuYWJsZWQiOnRydWUsIm1hdGNoSW5EaXJlY3RvcnNCb29zdCI6MjUsIm1hdGNoSW5EaXJlY3RvcnNFZGl0RGlzdGFuY2UiOiJBVVRPOjUsMTEiLCJtYXRjaEluRGlyZWN0b3JzRW5hYmxlZCI6dHJ1ZSwibmV4dXNUaW1lb3V0TXMiOjUwMCwicXVlcnlTeW5vbnltc0VuYWJsZWQiOnRydWUsInF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCIsInNlYXJjaFByb3h5RW5oYW5jZW1lbnQiOmZhbHNlfX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiMzc1ZjBjMWItZWY3NS00YzNjLWExY2UtZWEzYjk1MjQyMDA1IiwiZndWY0lEMkNvcHBhIjoiMzc1ZjBjMWItZWY3NS00YzNjLWExY2UtZWEzYjk1MjQyMDA1IiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiIzNzVmMGMxYi1lZjc1LTRjM2MtYTFjZS1lYTNiOTUyNDIwMDUiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5In19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6TXpjMVpqQmpNV0l0WldZM05TMDBZek5qTFdFeFkyVXRaV0V6WWprMU1qUXlNREExIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTczMzQ2OTAxNywiaWF0IjoxNzMzMzgyNjE3LCJqdGkiOiIxNzNhMzJkZC0zYjBiLTQyMjgtYTI0Mi00MGFjMmUzOGIzZTUifQ.H9Q62pt0HO8iURQC0DD9YR4ivaLEJWy48yNLQ5klMUE&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQEUiUHXWSa3vaLEk4oUAy4R2osGJ47fgU-unZQUvkFXW_MhgIIRL5GvIKdNIibf1LClXs5G756ntQk_XRG28Lit_f5ikZezMOvHs6sdDs-FYtdZCLanqx2Y4JkU75TPkHXhY4V-b7457NY5G8EArRknHskitywv6XhXQjp86CR6DSFALLWDkt11GKh3Y8Y_0GZMgkVnjWRRLW_7gSG9KMG7YeNVmOfDTmcPGqbACyjGGR_iuqe5H8SBVW0Ba0JDoZnHkFj1UbtODkHvn7YcrADkFlPdVjoqd2SKZmoV8zHZsnph1yjz80_xDAV0AhJnvBfSD5W1UZUnf32k-wcbxLV7GDsID9uHx9w1O8F2dnxJ9SKOxTMIk7uESkkOhziFm9uEbsWNWzK3FDklzDBoWT3Velhmq7RZ68CbOW5ZlwO0CHdtPq-FebFdzZYLuteT0dkFGjH21IeDaUX5iYDy37HpPsKm2r2wEmXFbVhJYifh1qqYvo2V72k5jxhcYQRFJMNCZUBCkrJrseeRNIksfGvypGevDmpnghZYEiLvX0J96P4a_OF2PdwxMiFHVn23vH8iiJHxZqYykJamoFLK623-OaQL62fgwq1IbjFIwE3sAkI7Aunv3u0ThqlD-tCVsjJiDzh4pc3pIEULIERcdOqkSbNiNnderXCeDPcVc5c2cizhhbld9gcfMGBhKfJFPGW4AkgxB6GhJzwOyOSZkZleuqlwQXriMOCLxvmlxdQgCyZtDN7yxDVnS68uzEf2nGtylUHbjexPlJiWk_FheRjGd6UnTeL6Ep1s3QfzbTzohPLmPo-Q7H1hynoLsN271throkp2wyUtKH3xUVz-tUczTa4C2o8pPZp32-Y7rLcGeTXo-WHarN2fb0x-hliKqpibwk7qptKqls955tJuVSAsDqXNQ8XC60huCvyVWzF26GxzQNMcL5duEsanQQREtS8A0d6cOnkYx44PGLPW32Ww8Qdg80voMqIJ6bf-NaUs95xh7fuzZwbkWc0ARL-zFcizbs91lQmIgxHan2GB4xkYX6KPzCsOl_B5nzwIJ_lTa2SvCRAqZs2fMGWbwg2JqJ891zD-xNFjRG_wgLdWG4vI4AMK9eOI-awyQM.&gpp=DBABLA~BVQqAAAAAgA.QA&gpp_sid=7&us_privacy=1YNN&eventVOD=false&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22d7c7fa3e-d8e6-4514-972f-6f19714b7353%22%2Csu
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/Gm4Nwb7G/Weather-Nation-logo.png" tvg-name="Weather Nation | (Roku) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Weather Nation | (Roku) (Ƭ⫯ⲍƬ⋎)
 https://osm-use1.sr.roku.com/osm/v1/hls/use1/variant/eeef5f64e81844998b5fb3018163e7f2/live_720.m3u8
@@ -4204,10 +4234,10 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/V6DfnG8S/World-Poker-Tour.png" tvg-name="World Poker Tour | (DistroTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Sports",World Poker Tour | (DistroTV) (Ƭ⫯ⲍƬ⋎)
-https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8?Sports
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/V6DfnG8S/World-Poker-Tour.png" tvg-name="World Poker Tour | (DistroTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Sports",World Poker Tour | (DistroTV) (Ƭ⫯ⲍƬ⋎)
-https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8?Sports
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/xCPcxW3C/Wow-Kidz.jpg" tvg-name="Wow Kidz | (Luck) (TizTV)"  group-title="Animation/KidsTV",Wow Kidz | (Luck) (TizTV)
 http://luckonline.eu:8080/home/faizul/1999
@@ -4457,34 +4487,4 @@ http://live.redtraffic.net/woman.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ӿӾ*NSFW*Ӿӿ MyCamTV.com (IPTVMate) (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ MyCamTV.com (IPTVMate) (Ƭ⫯ⲍƬ⋎)
 https://ch.iptvmate.net/45d999f59d4a64e0db2f1d3ba21cc689.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CA Vallejo Police and Fire | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CA Vallejo Police and Fire | (Ƭ⫯ⲍƬ⋎)
-https://broadcastify.cdnstream1.com/820
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CA Stanislaus County Sheriff and Fire Dispatch, Ceres Police Dispatch, and Modesto Police Dispatch | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CA Stanislaus County Sheriff and Fire Dispatch, Ceres Police Dispatch, and Modesto Police Dispatch | (Ƭ⫯ⲍƬ⋎)
-https://broadcastify.cdnstream1.com/37163
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CO Denver Health EMS | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CO Denver Health EMS | (Ƭ⫯ⲍƬ⋎)
-https://broadcastify.cdnstream1.com/7435
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CO Mesa County and Grand Junction Police, Fire and EMS | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CO Mesa County and Grand Junction Police, Fire and EMS | (Ƭ⫯ⲍƬ⋎)
-https://broadcastify.cdnstream1.com/40688
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CO Weld County Sheriff | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CO Weld County Sheriff | (Ƭ⫯ⲍƬ⋎)
-https://broadcastify.cdnstream1.com/61
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CO Adams County Law Enforcement | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CO Adams County Law Enforcement | (Ƭ⫯ⲍƬ⋎)
-https://broadcastify.cdnstream1.com/28369
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CO South Metro Fire Rescue (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CO South Metro Fire Rescue (Ƭ⫯ⲍƬ⋎)
-https://listen.broadcastify.com/7kq2ps8cwd3r1m4.mp3?nc=81106&xan=xtf9912b41c
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CT Connecticut State Police Troops C,D,E,F,H,K, Norwich, Groton, Plainfield Police | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CT Connecticut State Police Troops C,D,E,F,H,K, Norwich, Groton, Plainfield Police | (Ƭ⫯ⲍƬ⋎)
-https://broadcastify.cdnstream1.com/28978
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CT Hartford Police, Fire and EMS | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CT Hartford Police, Fire and EMS | (Ƭ⫯ⲍƬ⋎)
-https://broadcastify.cdnstream1.com/41875
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | CT Tolland County Fire/EMS, East Windsor and Ashford Fire | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | CT Tolland County Fire/EMS, East Windsor and Ashford Fire | (Ƭ⫯ⲍƬ⋎)
-https://broadcastify.cdnstream1.com/15389
 
