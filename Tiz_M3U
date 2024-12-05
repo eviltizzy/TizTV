@@ -2553,23 +2553,11 @@ https://ad-playlistserver.aws.syncbak.com/playlist/13613390/master.m3u8?access_t
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Localish | (Tubi) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Localish | (Tubi) (Ƭ⫯ⲍƬ⋎)
 https://apollo.production-public.tubi.io/live/ac-localish.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Lofi Boy | (Rumble) (Ƭ⫯ⲍƬ⋎)"  group-title="Music",Lofi Boy | (Rumble) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/hj546RMH/Lofi-Boy-Girl.jpg" tvg-name="Lofi Boy | (Rumble) (Ƭ⫯ⲍƬ⋎)"  group-title="Music",Lofi Boy | (Rumble) (Ƭ⫯ⲍƬ⋎)
 https://rumble.com/live-hls/2lh8yh/playlist.m3u8?
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Lofi Boy Synthwave Radio | (Ƭ⫯ⲍƬ⋎)"  group-title="Music",Lofi Boy Synthwave Radio | (Ƭ⫯ⲍƬ⋎)
-https://www.youtube.com/watch?v=4xDzrJKXOOY
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Lofi Girl | (Rumble) (Ƭ⫯ⲍƬ⋎)"  group-title="Music",Lofi Girl | (Rumble) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/hj546RMH/Lofi-Boy-Girl.jpg" tvg-name="Lofi Girl | (Rumble) (Ƭ⫯ⲍƬ⋎)"  group-title="Music",Lofi Girl | (Rumble) (Ƭ⫯ⲍƬ⋎)
 https://rumble.com/live-hls/1essrt/playlist.m3u8?
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Lofi Girl Asian Radio | (Ƭ⫯ⲍƬ⋎)"  group-title="Music",Lofi Girl Asian Radio | (Ƭ⫯ⲍƬ⋎)
-https://www.youtube.com/watch?v=Na0w3Mz46GA
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Lofi Girl HipHop Radio | (Ƭ⫯ⲍƬ⋎)"  group-title="Music",Lofi Girl HipHop Radio | (Ƭ⫯ⲍƬ⋎)
-https://www.youtube.com/watch?v=jfKfPfyJRdk
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Lofi Girl Peaceful Piano | (Ƭ⫯ⲍƬ⋎)"  group-title="Music",Lofi Girl Peaceful Piano | (Ƭ⫯ⲍƬ⋎)
-https://www.youtube.com/watch?v=TtkFsfOP9QI
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Logo | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Logo | (MOJ) (Ƭ⫯ⲍƬ⋎)
 http://fl3.moveonjoy.com/Logo/index.m3u8
