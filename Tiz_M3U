@@ -1548,7 +1548,7 @@ https://59959724487e3.streamlock.net/stream/live/master.m3u8
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="C31 (Melbourne) | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",C31 (Melbourne) | (Ƭ⫯ⲍƬ⋎)
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Cam | New York NYC Time Square Opt-1 | (Ƭ⫯ⲍƬ⋎)"  group-title="Cams",Cam | New York NYC Time Square Opt-1 | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Cam | New York NYC Time Square | (Ƭ⫯ⲍƬ⋎)"  group-title="Cams",Cam | New York NYC Time Square | (Ƭ⫯ⲍƬ⋎)
 https://playback.akamaized.net/streams/888332_931293_lsi5u4h4vlxim7dvnrs_1/master.m3u8?dw=14400&hdnts=exp=1733392554~acl=/streams/888332_931293_lsi5u4h4vlxim7dvnrs_1/master.m3u8*~hmac=b498fec43c480e606ed8ec86c9f14b74f1207fdad476ab4696d3f400a11e7f52
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/k4Cf4S93/11kw0g9-1.jpg" tvg-name="Cam | Poland Lipowa | (Ƭ⫯ⲍƬ⋎)"  group-title="Cams",Cam | Poland Lipowa | (Ƭ⫯ⲍƬ⋎)
