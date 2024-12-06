@@ -198,7 +198,7 @@ https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Your Pretty Face is Going to Hell Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Your Pretty Face is Going to Hell Opt-2 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/ypf/stream_de.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="2GB Sydney | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",2GB Sydney | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="2GB Sydney | (Ƭ⫯ⲍƬ⋎)"  group-title="Local",2GB Sydney | (Ƭ⫯ⲍƬ⋎)
 https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="30A Darcizzle Offshore | (Ƭ⫯ⲍƬ⋎)"  group-title="Local",30A Darcizzle Offshore | (Ƭ⫯ⲍƬ⋎)
@@ -351,7 +351,7 @@ https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ABC 07 Omaha NE (KETV) | (Tubi) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",ABC 07 Omaha NE (KETV) | (Tubi) (Ƭ⫯ⲍƬ⋎)
 https://apollo.production-public.tubi.io/live/ac-ketv.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ABC 08 Dallas TX (WFAA) | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",ABC 08 Dallas TX (WFAA) | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ABC 08 Dallas TX (WFAA) | (Ƭ⫯ⲍƬ⋎)"  group-title="Local",ABC 08 Dallas TX (WFAA) | (Ƭ⫯ⲍƬ⋎)
 https://livevideo.tegnadigital.com/wfaa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WFAA/elvs/live.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ABC 08 Portland ME (WMTW) | (Tubi) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",ABC 08 Portland ME (WMTW) | (Tubi) (Ƭ⫯ⲍƬ⋎)
@@ -393,7 +393,7 @@ https://apollo.production-public.tubi.io/live/ac-wapt.m3u8
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ABC 22 Savannah GA (WJCL) | (Tubi) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",ABC 22 Savannah GA (WJCL) | (Tubi) (Ƭ⫯ⲍƬ⋎)
 https://apollo.production-public.tubi.io/live/ac-wjcl.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ABC 25 Columbia | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",ABC 25 Columbia | (MOJ) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ABC 25 Columbia | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",ABC 25 Columbia | (MOJ) (Ƭ⫯ⲍƬ⋎)
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ABC 25 News Central Texas | (Ƭ⫯ⲍƬ⋎)"  group-title="Local",ABC 25 News Central Texas | (Ƭ⫯ⲍƬ⋎)
@@ -579,10 +579,10 @@ https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/c4y6jVZn/After-School-Cartoons.jpg" tvg-name="After School Cartoons | (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",After School Cartoons | (Ƭ⫯ⲍƬ⋎)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=990&deviceId=56171fafada51f8004c4b40f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AFV | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",AFV | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AFV | (Ƭ⫯ⲍƬ⋎)"  group-title="Comedy",AFV | (Ƭ⫯ⲍƬ⋎)
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AFV Family | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",AFV Family | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AFV Family | (Ƭ⫯ⲍƬ⋎)"  group-title="Comedy",AFV Family | (Ƭ⫯ⲍƬ⋎)
 https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Aghapy Kids | (Ƭ⫯ⲍƬ⋎)"  group-title="Religion",Aghapy Kids | (Ƭ⫯ⲍƬ⋎)
@@ -603,19 +603,19 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Akaku 55 (Hawaii) | (Ƭ⫯ⲍƬ⋎)"  group-title="Local",Akaku 55 (Hawaii) | (Ƭ⫯ⲍƬ⋎)
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AKC TV | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",AKC TV | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AKC TV | (Ƭ⫯ⲍƬ⋎)"  group-title="Special Interest",AKC TV | (Ƭ⫯ⲍƬ⋎)
 https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AKC TV Meet The Breeds | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",AKC TV Meet The Breeds | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AKC TV Meet The Breeds | (Ƭ⫯ⲍƬ⋎)"  group-title="Special Interest",AKC TV Meet The Breeds | (Ƭ⫯ⲍƬ⋎)
 https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AKC TV Puppies 24/7 | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",AKC TV Puppies 24/7 | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AKC TV Puppies 24/7 | (Ƭ⫯ⲍƬ⋎)"  group-title="Special Interest",AKC TV Puppies 24/7 | (Ƭ⫯ⲍƬ⋎)
 https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/NM0bmcyp/Al-Jazeera-Logo.png" tvg-name="AL Jazeera | (Luck) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",AL Jazeera | (Luck) (Ƭ⫯ⲍƬ⋎)
 http://luckonline.eu:8080/home/faizul/488
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Al Jazeera English"  group-title="Unsorted",Al Jazeera English
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/NM0bmcyp/Al-Jazeera-Logo.png" tvg-name="Al Jazeera English | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Al Jazeera English | (Ƭ⫯ⲍƬ⋎)
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ALBUK TV (1080p) [Not 24/7] | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",ALBUK TV (1080p) [Not 24/7] | (Ƭ⫯ⲍƬ⋎)
@@ -624,10 +624,10 @@ http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/qMGgkfPx/Alibi.png" tvg-name="ALIBI | (UK) (Luck) (Ƭ⫯ⲍƬ⋎)"  group-title="UKTV",ALIBI | (UK) (Luck) (Ƭ⫯ⲍƬ⋎)
 http://luckonline.eu:8080/home/faizul/1350
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Aljazeera | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Aljazeera | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/NM0bmcyp/Al-Jazeera-Logo.png" tvg-name="Al Jazeera | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Al Jazeera | (Ƭ⫯ⲍƬ⋎)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Aljazeera English | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Aljazeera English | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/NM0bmcyp/Al-Jazeera-Logo.png" tvg-name="Al Jazeera English | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Al Jazeera English | (Ƭ⫯ⲍƬ⋎)
 http://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/8PVkGgtb/PlutoTV.png" tvg-name="All Reality by WE tv | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="PlutoTV",All Reality by WE tv | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
