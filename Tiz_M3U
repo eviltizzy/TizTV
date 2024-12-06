@@ -1210,7 +1210,7 @@ http://radio3.citrus3.com:2199/tunein/1940sradiostation.asx
 http://us.ishout.net:8275/stream
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/J4NhPBST/Walmart-Radio.jpg" tvg-name="Audio | Walmart Radio (One.Walmart.com) | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",Audio | Walmart Radio (One.Walmart.com) | (Ƭ⫯ⲍƬ⋎)
-https://retail-music.com/walmart_radio.mp3
+https://audio-edge-vqwx4.yyz.g.radiomast.io/2ce0b08d-2fe6-42a1-b64a-9f0a682f5508
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/FKC1Fkw5/WFED-Federal-News-Radio.png" tvg-name="Audio | WFED Federal News Radio | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",Audio | WFED Federal News Radio | (Ƭ⫯ⲍƬ⋎)
 http://playerservices.streamtheworld.com/api/livestream-redirect/WFEDAM.mp3?nocache=1454940168
@@ -4508,7 +4508,4 @@ http://live.redtraffic.net/woman.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ӿӾ*NSFW*Ӿӿ MyCamTV.com (IPTVMate) (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ MyCamTV.com (IPTVMate) (Ƭ⫯ⲍƬ⋎)
 https://ch.iptvmate.net/45d999f59d4a64e0db2f1d3ba21cc689.m3u8
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Audio | Walmart Radio | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",Audio | Walmart Radio | (Ƭ⫯ⲍƬ⋎)
-https://audio-edge-vqwx4.yyz.g.radiomast.io/2ce0b08d-2fe6-42a1-b64a-9f0a682f5508
 
