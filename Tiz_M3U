@@ -4518,32 +4518,32 @@ https://nl4.mystreaming.net/uber-app/boomerang1920s/icecast.audio
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Audio | 1930s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",Audio | 1930s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)
 https://nl4.mystreaming.net/uber-app/boomerang1930s/icecast.audio
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Audio | 1940s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="New Group",Audio | 1940s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)
-http://123.456.789
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Audio | 1940s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",Audio | 1940s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)
+https://nl4.mystreaming.net/uber-app/boomerang1940s/icecast.audio
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Audio | 1950s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="New Group",Audio | 1950s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)
-http://123.456.789
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Audio | 1950s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",Audio | 1950s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)
+https://2.mystreaming.net/uber-app/boomerang1950s/icecast.audio
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Audio | 1960s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="New Group",Audio | 1960s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)
-http://123.456.789
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Audio | 1960s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",Audio | 1960s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)
+https://nl4.mystreaming.net/uber-app/boomerang1960s/icecast.audio
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Audio | 1970s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="New Group",Audio | 1970s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)
-http://123.456.789
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Audio | 1970s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",Audio | 1970s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)
+https://nl4.mystreaming.net/uber-app/boomerang1970s/icecast.audio
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Audio | 1980s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="New Group",Audio | 1980s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)
-http://123.456.789
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Audio | 1980s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",Audio | 1980s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)
+https://nl4.mystreaming.net/uber-app/boomerang1980s/icecast.audio
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Audio | 1990s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="New Group",Audio | 1990s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)
-http://123.456.789
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Audio | 1990s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",Audio | 1990s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)
+https://2.mystreaming.net/uber-app/boomerang1990s/icecast.audio
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Audio | 2000s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="New Group",Audio | 2000s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)
-http://123.456.789
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Audio | 2000s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",Audio | 2000s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)
+https://nl4.mystreaming.net/uber-app/boomerang2000s/icecast.audio
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Audio | 2010s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="New Group",Audio | 2010s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)
-http://123.456.789
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Audio | 2010s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",Audio | 2010s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)
+https://nl4.mystreaming.net/uber-app/boomerang2010s/icecast.audio
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Audio | 2020s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="New Group",Audio | 2020s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)
-http://123.456.789
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Audio | 2020s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",Audio | 2020s Greatest Hits (You.Radio) | (Ƭ⫯ⲍƬ⋎)
+https://2.mystreaming.net/uber-app/boomerang2020s/icecast.audio
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Audio | Phil Collins (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",Audio | Phil Collins (You.Radio) | (Ƭ⫯ⲍƬ⋎)
 https://2.mystreaming.net/er-app/philcollins/icecast.audio
