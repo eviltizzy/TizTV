@@ -636,7 +636,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82530945600e0007c
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="All Reality by WE tv | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",All Reality by WE tv | (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e82530945600e0007ca076c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268071-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=aa6a05a1-3247-4bc5-bd09-5c548c69aecb
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="All Star Disco Radio | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",All Star Disco Radio | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="All Star Radio 70s/80s/Disco Music | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",All Star Radio 70s/80s/Disco Music | (Ƭ⫯ⲍƬ⋎)
 http://cast.iplayradio.net:8027/stream
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Alpha Digital (480p)"  group-title="Unsorted",Alpha Digital (480p)
@@ -4508,4 +4508,7 @@ http://live.redtraffic.net/woman.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ӿӾ*NSFW*Ӿӿ MyCamTV.com (IPTVMate) (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ MyCamTV.com (IPTVMate) (Ƭ⫯ⲍƬ⋎)
 https://ch.iptvmate.net/45d999f59d4a64e0db2f1d3ba21cc689.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Audio | Walmart Radio | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",Audio | Walmart Radio | (Ƭ⫯ⲍƬ⋎)
+https://audio-edge-vqwx4.yyz.g.radiomast.io/2ce0b08d-2fe6-42a1-b64a-9f0a682f5508
 
