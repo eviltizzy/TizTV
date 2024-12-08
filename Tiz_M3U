@@ -3579,9 +3579,6 @@ https://listen.broadcastify.com/tpmqs5bdfcv84r2.mp3?nc=1940&xan=xtf9912b41c
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | GA Atlanta Fire Rescue | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | GA Atlanta Fire Rescue | (Ƭ⫯ⲍƬ⋎)
 https://broadcastify.cdnstream1.com/35626
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | GA Atlanta Fire/Rescue | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | GA Atlanta Fire/Rescue | (Ƭ⫯ⲍƬ⋎)
-https://broadcastify.cdnstream1.com/35626
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/2yjk3gPD/Broadcastify.png" tvg-name="Scanner | GA Coweta County Public Safety | (Ƭ⫯ⲍƬ⋎)"  group-title="Scanner",Scanner | GA Coweta County Public Safety | (Ƭ⫯ⲍƬ⋎)
 https://broadcastify.cdnstream1.com/42181
 
@@ -4805,4 +4802,37 @@ http://live.redtraffic.net/woman.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ӿӾ*NSFW*Ӿӿ MyCamTV.com (IPTVMate) (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ MyCamTV.com (IPTVMate) (Ƭ⫯ⲍƬ⋎)
 https://ch.iptvmate.net/45d999f59d4a64e0db2f1d3ba21cc689.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Boomerang (TVTap) | (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Boomerang (TVTap) | (Ƭ⫯ⲍƬ⋎)
+https://v13.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8?token=OVlweGlXdHU3MUd1aDQ3WHVVVHp5YTJHVFE3TXJkWHFZQzV2QlJzcA%3D%3D
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Cartoon Network (TVTap) | (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Cartoon Network (TVTap) | (Ƭ⫯ⲍƬ⋎)
+https://v13.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8?token=cUNLNlBNNk00WHZmRDZoejlpcHoySVNXT0FlTjB2QjBkS2x3cnY3aQ%3D%3D
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="24/7 King of the Hill (Stream4Free.tv) | (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 King of the Hill (Stream4Free.tv) | (Ƭ⫯ⲍƬ⋎)
+https://sv0.data-stream.top/6ef3ad829be44b08a267b26dc0f2d45447e454527b54189da67e1b943ddd7b1d/hls/kinghillhxd.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="24/7 Bobs Burgers (Stream4Free.tv) | (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Bobs Burgers (Stream4Free.tv) | (Ƭ⫯ⲍƬ⋎)
+https://sv0.data-stream.top/6ef3ad829be44b08a267b26dc0f2d45447e454527b54189da67e1b943ddd7b1d/hls/bobsburgers.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="24/7 South Park (Stream4Free.tv) | (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 South Park (Stream4Free.tv) | (Ƭ⫯ⲍƬ⋎)
+https://sv0.data-stream.top/6ef3ad829be44b08a267b26dc0f2d45447e454527b54189da67e1b943ddd7b1d/hls/southpark.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="24/7 American Dad (Stream4Free.tv) | (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 American Dad (Stream4Free.tv) | (Ƭ⫯ⲍƬ⋎)
+https://sv0.data-stream.top/6ef3ad829be44b08a267b26dc0f2d45447e454527b54189da67e1b943ddd7b1d/hls/americanxxx.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="24/7 Simpsons (Stream4Free.tv) | (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Simpsons (Stream4Free.tv) | (Ƭ⫯ⲍƬ⋎)
+https://sv0.data-stream.top/6ef3ad829be44b08a267b26dc0f2d45447e454527b54189da67e1b943ddd7b1d/hls/simpsons.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="24/7 Futurama (Stream4Free.tv) | (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Futurama (Stream4Free.tv) | (Ƭ⫯ⲍƬ⋎)
+https://sv0.data-stream.top/6ef3ad829be44b08a267b26dc0f2d45447e454527b54189da67e1b943ddd7b1d/hls/xfuturama.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CNN (LiveTVde.net) | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",CNN (LiveTVde.net) | (Ƭ⫯ⲍƬ⋎)
+https://livetvde.net/cusa2/index.m3u8?token=5451e8647ca73c6e0a7abbdff5514ec7bc21fdc1-82e08214e60870145c36cfded857658d-1733676508-1733665708
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Pink Floyd The Wall (1982) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Pink Floyd The Wall (1982) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+https://a.datadiff.us.kg/movies/Pink%20Floyd%20The%20Wall%20%281982%29/Pink.Floyd.The.Wall.1982.BDRemux.1080p%20Sub%20Ita%20x264-NAHOM.mkv
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Sweeney Todd (2007) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Sweeney Todd (2007) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+https://a.datadiff.us.kg/movies/Sweeney%20Todd%20The%20Demon%20Barber%20of%20Fleet%20Street%20%282007%29/Sweeney.Todd.The.Demon.Barber.of.Fleet.Street.2007.1080p.BluRay.x264-nikt0.mkv
 
