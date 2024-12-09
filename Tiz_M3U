@@ -585,25 +585,25 @@ http://51.161.115.200:8078/stream
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AdFree | Bachata | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",AdFree | Bachata | (Ƭ⫯ⲍƬ⋎)
 https://radiobachatanet.radioca.st/;
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="New Logo" tvg-name="AdFree | Beatles (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",AdFree | Beatles (You.Radio) | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AdFree | Beatles (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",AdFree | Beatles (You.Radio) | (Ƭ⫯ⲍƬ⋎)
 https://nl4.mystreaming.net/er-app/thebeatleshits/icecast.audio
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="New Logo" tvg-name="AdFree | Christmas Carols (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",AdFree | Christmas Carols (You.Radio) | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AdFree | Christmas Carols (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",AdFree | Christmas Carols (You.Radio) | (Ƭ⫯ⲍƬ⋎)
 https://nl4.mystreaming.net/er-app/christmascarols/icecast.audio
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="New Logo" tvg-name="AdFree | Christmas Pop (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",AdFree | Christmas Pop (You.Radio) | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AdFree | Christmas Pop (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",AdFree | Christmas Pop (You.Radio) | (Ƭ⫯ⲍƬ⋎)
 https://nl4.mystreaming.net/er-app/christmaspop/icecast.audio
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="New Logo" tvg-name="AdFree | George Jones (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",AdFree | George Jones (You.Radio) | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AdFree | George Jones (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",AdFree | George Jones (You.Radio) | (Ƭ⫯ⲍƬ⋎)
 https://2.mystreaming.net/er-app/georgejones/icecast.audio
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="New Logo" tvg-name="AdFree | Phil Collins (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",AdFree | Phil Collins (You.Radio) | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AdFree | Phil Collins (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",AdFree | Phil Collins (You.Radio) | (Ƭ⫯ⲍƬ⋎)
 https://2.mystreaming.net/er-app/philcollins/icecast.audio
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="New Logo" tvg-name="AdFree | Pink Floyd (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",AdFree | Pink Floyd (You.Radio) | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AdFree | Pink Floyd (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",AdFree | Pink Floyd (You.Radio) | (Ƭ⫯ⲍƬ⋎)
 https://nl4.mystreaming.net/er-app/pinkfloyd/icecast.audio
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="New Logo" tvg-name="AdFree | Tchaikovsky (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",AdFree | Tchaikovsky (You.Radio) | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AdFree | Tchaikovsky (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",AdFree | Tchaikovsky (You.Radio) | (Ƭ⫯ⲍƬ⋎)
 https://2.mystreaming.net/uber-app/crtchaikovsky/icecast.audio
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/BnCX81Zp/96-9-Oasis-Logo.jpg" tvg-name="AdFree | The Oasis 96.9 Smooth Jazz (969theoasis.com) | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",AdFree | The Oasis 96.9 Smooth Jazz (969theoasis.com) | (Ƭ⫯ⲍƬ⋎)
@@ -1611,7 +1611,7 @@ https://bonappetit-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/T10jLvyr/Bon-App-tit.jpg" tvg-name="Bon Appétit | (Vizio) (Ƭ⫯ⲍƬ⋎)"  group-title="Special Interest",Bon Appétit | (Vizio) (Ƭ⫯ⲍƬ⋎)
 https://condenast-bonappetit-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Boomerang (TVTap) | (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Boomerang (TVTap) | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="Boomerang (TVTap) | (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Boomerang (TVTap) | (Ƭ⫯ⲍƬ⋎)
 https://v13.thetvapp.to/hls/Boomerang/tracks-v1a1/mono.m3u8?token=OVlweGlXdHU3MUd1aDQ3WHVVVHp5YTJHVFE3TXJkWHFZQzV2QlJzcA%3D%3D
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Boomerang | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Boomerang | (MOJ) (Ƭ⫯ⲍƬ⋎)
@@ -1692,7 +1692,7 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c12ba66ea
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/d0hk8RC3/Cartoon-Network-Logo.jpg" tvg-name="Cartoon Network (India) (Luck) (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Cartoon Network (India) (Luck) (Ƭ⫯ⲍƬ⋎)
 http://luckonline.eu:8080/home/faizul/458
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Cartoon Network (TVTap) | (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Cartoon Network (TVTap) | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="Cartoon Network (TVTap) | (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Cartoon Network (TVTap) | (Ƭ⫯ⲍƬ⋎)
 https://v13.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8?token=cUNLNlBNNk00WHZmRDZoejlpcHoySVNXT0FlTjB2QjBkS2x3cnY3aQ%3D%3D
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/j5D2bYr9/Cartoon-Network-Logo.jpg" tvg-name="Cartoon Network (UK) (Luck) (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Cartoon Network (UK) (Luck) (Ƭ⫯ⲍƬ⋎)
@@ -1914,7 +1914,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="CNN (ITVG) | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",CNN (ITVG) | (Ƭ⫯ⲍƬ⋎)
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/cnn.us.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CNN (LiveTVde.net) | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",CNN (LiveTVde.net) | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="CNN (LiveTVde.net) | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",CNN (LiveTVde.net) | (Ƭ⫯ⲍƬ⋎)
 https://livetvde.net/cusa2/index.m3u8?token=5451e8647ca73c6e0a7abbdff5514ec7bc21fdc1-82e08214e60870145c36cfded857658d-1733676508-1733665708
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="CNN | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",CNN | (MOJ) (Ƭ⫯ⲍƬ⋎)
@@ -4614,127 +4614,127 @@ http://luckonline.eu:8080/home/faizul/493
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/qvVz8Rqv/ZooMoo.png" tvg-name="Zoo Moo | (AU) (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Zoo Moo | (AU) (Ƭ⫯ⲍƬ⋎)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | A Bugs Life (1998) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | A Bugs Life (1998) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | A Bugs Life (1998) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | A Bugs Life (1998) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/A%20Bug%27s%20Life%20%281998%29/A%20Bug%27s%20Life%20%281998%20%20%281080p%20BDRip%20x265%2010bit%20AC3%205.1%20-%20JBENT%20%5BTAoE%5D.mkv-xpost.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Alice in Wonderland (1951) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Alice in Wonderland (1951) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Alice in Wonderland (1951) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Alice in Wonderland (1951) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Alice%20in%20Wonderland%20%281951%29/Alice.in.Wonderland.1951.PROPER.1080p.BluRay.x265.DTS-LiNUX.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Bad Santa (2003) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Bad Santa (2003) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Bad Santa (2003) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Bad Santa (2003) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Bad%20Santa%20%282003%29/Bad%20Santa%20%282003%29%20BDRemux%201080p.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Bean (1997) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Bean (1997) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Bean (1997) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Bean (1997) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Bean%20%281997%29/Bean.1997.iNTERNAL.1080p.BluRay.x264-LUBRiCATE.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Die Hard (1988) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Die Hard (1988) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Die Hard (1988) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Die Hard (1988) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Die%20Hard%20%281988%29/Die.Hard.1988.BluRay.10Bit.1080p.DD5.1.H265-xpost.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Evil Dead Army of Darkness (1992) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Evil Dead Army of Darkness (1992) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Evil Dead Army of Darkness (1992) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Evil Dead Army of Darkness (1992) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Army%20of%20Darkness%20%281992%29/Army%20of%20Darkness%201992%201080p%20BluRay%20REMUX%20AVC%20DTS%20HD%20MA%205%201%20Asmo.mkv
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/NMy65rm2/Freddy-vs-Ghostbusters.jpg" tvg-name="πVODπ | Freddy vs Ghostbusters (2004) | (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Freddy vs Ghostbusters (2004) | (Ƭ⫯ⲍƬ⋎)
 https://content-videovard-delivery-s23.videovard.to/hls2/01/00240/sypxngfyow9e_,l,n,.urlset/master.m3u8?t=Qn4x78vvNlkBq-xikOQso6ENYNkBLMEG5K4EA2waYQQ&s=1639440190&e=18000&f=1200643&srv=127.0.0.1&asn=7018
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Freddy vs Jason (2003) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Freddy vs Jason (2003) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Freddy vs Jason (2003) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Freddy vs Jason (2003) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Freddy%20vs.%20Jason%20%282003%29/Freddy%20vs%20Jason%202003%201080p%20BluRay%20Remux%20TrueHD%205%201.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Ghostbusters (1984) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Ghostbusters (1984) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Ghostbusters (1984) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Ghostbusters (1984) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Ghostbusters%20%281984%29/Ghostbusters.1984.MASTERED.IN.4K.1080p.10bit.BluRay.6CH.x265.HEVC-PSA-xpost.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Gremlins (1984) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Gremlins (1984) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Gremlins (1984) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Gremlins (1984) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Gremlins%20%281984%29/Gremlins.1984.1080p.BluRay.x265.mp4
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Harold & the Purple Crayon (2024) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Harold & the Purple Crayon (2024) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Harold & the Purple Crayon (2024) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Harold & the Purple Crayon (2024) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Harold%20and%20the%20Purple%20Crayon%20%282024%29/Harold.and.the.Purple.Crayon.2024.1080p.AMZN.WEBRip.DDP5.1.x265.10bit-GP-M-Eng.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Hitchhikers Guide to the Galaxy (2005) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Hitchhikers Guide to the Galaxy (2005) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Hitchhikers Guide to the Galaxy (2005) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Hitchhikers Guide to the Galaxy (2005) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/The%20Hitchhiker%27s%20Guide%20to%20the%20Galaxy%20%282005%29/The.Hitchhiker%27s.Guide.to.the.Galaxy.%282005%29.1080p.BluRay.DTS.X265.HEVC.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Hocus Pocus (1993) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Hocus Pocus (1993) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Hocus Pocus (1993) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Hocus Pocus (1993) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Hocus%20Pocus%20%281993%29/Hocus.Pocus.1993.1080p.BDRip.DTS.x265.10bit-MarkII-xpost.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Home Alone (1990) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Home Alone (1990) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Home Alone (1990) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Home Alone (1990) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Home%20Alone%20%281990%29/Home.Alone.1990.1080p.BDRip.DTS.x265.10bit-MarkII-xpost.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Honey I Shrunk the Kids (1989) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Honey I Shrunk the Kids (1989) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Honey I Shrunk the Kids (1989) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Honey I Shrunk the Kids (1989) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Honey,%20I%20Shrunk%20the%20Kids%20%281989%29/Honey%20I%20Shrunk%20the%20Kids%201989%201080p%20BluRay%20Remux%20DTS%20HD%205%201.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Hook (1991) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Hook (1991) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Hook (1991) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Hook (1991) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Hook%20%281991%29/Hook.1991.1080p.BluRay.H264.AAC-RARBG.mp4
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | How the Grinch Stole Christmas (1966) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | How the Grinch Stole Christmas (1966) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | How the Grinch Stole Christmas (1966) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | How the Grinch Stole Christmas (1966) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/How%20the%20Grinch%20Stole%20Christmas%21%20%281966%29/How%20the%20Grinch%20Stole%20Christmas%211966.BDRemux%201080p.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Howls Moving Castle (2004) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Howls Moving Castle (2004) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Howls Moving Castle (2004) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Howls Moving Castle (2004) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Howl%27s%20Moving%20Castle%20%282004%29/Howls.Moving.Castle.2004.BDRemux.1080p%20%20Ita%20Eng%20Jap%20x264-NAHOM.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Idiocracy (2006) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Idiocracy (2006) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Idiocracy (2006) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Idiocracy (2006) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Idiocracy%20%282006%29/Idiocracy.2006.1080p.WEB-DL.x265.FreetheFish.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Jumanji | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Jumanji | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Jumanji | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Jumanji | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Jumanji%20%281995%29/Jumanji.1995.Remastered.1080p.BluRay.x264-nikt0-xpost.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Jurassic Park (1993) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Jurassic Park (1993) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Jurassic Park (1993) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Jurassic Park (1993) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Jurassic%20Park%20%281993%29/Jurassic.Park.1993.Remastered.1080p.BluRay.H264.AC3.DD5.1-xpost.mp4
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Kick Ass (2010) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Kick Ass (2010) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Kick Ass (2010) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Kick Ass (2010) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Kick-Ass%20%282010%29/Kick-Ass.2010.1080p.BluRay.DDP.7.1.x265-EDGE2020.mkv-%5BN-Z-B%5D-xpost.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | KiKi's Delivery Service (1989) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | KiKi's Delivery Service (1989) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | KiKi's Delivery Service (1989) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | KiKi's Delivery Service (1989) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Kiki%27s%20Delivery%20Service%20%281989%29/Kiki%27s%20Delivery%20Service%20%281989%29%20%281080p%20BluRay%20x265%20HEVC%2010bit%20EAC3%202.0%20Japanese%20Garshasp%29.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Life of Brian (1979) | (188.165.227.112/portail) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Life of Brian (1979) | (188.165.227.112/portail) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Life of Brian (1979) | (188.165.227.112/portail) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Life of Brian (1979) | (188.165.227.112/portail) (Ƭ⫯ⲍƬ⋎)
 http://188.165.227.112/portail/films/life%20of%20brian/1979%20stfr%20life%20of%20brian.avi
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Lilo & Stitch (2002) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Lilo & Stitch (2002) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Lilo & Stitch (2002) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Lilo & Stitch (2002) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Lilo%20&%20Stitch%20%282002%29/Lilo.&.Stitch.%5B2002%5D.%5B1080p.BDRip.x265.10bit.AC3.5.1.-.JBENT%5D%5BTAoE%5D.mkv-xpost.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Lion King (1994) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Lion King (1994) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Lion King (1994) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Lion King (1994) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/The%20Lion%20King%20%281994%29/The%20Lion%20King%20%281994%29%20Diamond%20Edition%20%281080p%20BDRip%20x265%2010bit%20EAC3%205.1%20-%20Goki%29-xpost.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Little Mermaid (1989) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Little Mermaid (1989) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Little Mermaid (1989) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Little Mermaid (1989) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/The%20Little%20Mermaid%20%281989%29/The.Little.Mermaid.%201989%20.%5BREPACK%5D.%5B1080p%5D.%5BBluRay%5D.%5B5.1%5D.%5BYTS.MX%5D-xpost.mp4
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Mary Poppins (1964) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Mary Poppins (1964) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Mary Poppins (1964) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Mary Poppins (1964) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Mary%20Poppins%20%281964%29/Mary.Poppins.50th.Anniversary.Edition.1964.1080p.BluRay.DTS.HD.x264-deadorbit.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Matilda (1996) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Matilda (1996) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Matilda (1996) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Matilda (1996) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Matilda%20%281996%29/Matilda.1996.1080p.BDRip.DTS.x265.10bit-MarkII-xpost.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Men in Black (1997) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Men in Black (1997) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Men in Black (1997) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Men in Black (1997) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Men%20in%20Black%20%281997%29/Men.in.Black.1997.1080p.BluRay.H264-RARBG.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Metallica Through the Never (2013) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Metallica Through the Never (2013) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Metallica Through the Never (2013) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Metallica Through the Never (2013) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Metallica%20Through%20the%20Never%20%282013%29/Metallica%20Through%20the%20Never%202013%201080p%20Blu-ray%20REMUX%20AVC%20DTS-HD.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Monsters Inc (2001) (43.251.84.25:8080) | (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Monsters Inc (2001) (43.251.84.25:8080) | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Monsters Inc (2001) (43.251.84.25:8080) | (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Monsters Inc (2001) (43.251.84.25:8080) | (Ƭ⫯ⲍƬ⋎)
 https://43.251.84.25:8080/Movies/Animation/2001-2010/Monsters.Inc.2001.1080p.BrRip.x264.YIFY.mp4
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Mrs Doubtfire (1993) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Mrs Doubtfire (1993) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Mrs Doubtfire (1993) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Mrs Doubtfire (1993) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Mrs.%20Doubtfire%20%281993%29/Mrs.Doubtfire.1993.1080p.BDRip.DTS.x265.10bit-MarkII-xpost.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Nightmare Before Christmas (1993) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Nightmare Before Christmas (1993) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Nightmare Before Christmas (1993) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Nightmare Before Christmas (1993) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/The%20Nightmare%20Before%20Christmas%20%281993%29/The.Nightmare.Before.Christmas.1993.1080p.BluRay.Plus.Comentary.AC3.x265.10bit.HEVC.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Nightmare on Elm Street (1984) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Nightmare on Elm Street (1984) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Nightmare on Elm Street (1984) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Nightmare on Elm Street (1984) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/A%20Nightmare%20on%20Elm%20Street%20%281984%29/A.Nightmare.on.Elm.Street%28A.Hora.do.Pesadelo%29.1984.1080p.REMUX%20BR-ENG.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Office Space (1999) (38.175.194.94) | (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Office Space (1999) (38.175.194.94) | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Office Space (1999) (38.175.194.94) | (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Office Space (1999) (38.175.194.94) | (Ƭ⫯ⲍƬ⋎)
 http://38.175.194.94/Films/Office%20Space.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Pink Floyd The Wall (1982) (38.175.194.94) | (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Pink Floyd The Wall (1982) (38.175.194.94) | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Pink Floyd The Wall (1982) (38.175.194.94) | (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Pink Floyd The Wall (1982) (38.175.194.94) | (Ƭ⫯ⲍƬ⋎)
 http://38.175.194.94/Films/Pink%20Floyd%20The%20Wall.avi
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Pink Floyd The Wall (1982) (a.datadiff.us.kg) | (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Pink Floyd The Wall (1982) (a.datadiff.us.kg) | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Pink Floyd The Wall (1982) (a.datadiff.us.kg) | (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Pink Floyd The Wall (1982) (a.datadiff.us.kg) | (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Pink%20Floyd%20The%20Wall%20%281982%29/Pink.Floyd.The.Wall.1982.BDRemux.1080p%20Sub%20Ita%20x264-NAHOM.mkv
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/HkLQtTHD/Pink-Floyd-The-Wall-Logo.jpg" tvg-name="πVODπ | Pink Floyd The Wall (1982) (Archive.org) | (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Pink Floyd The Wall (1982) (Archive.org) | (Ƭ⫯ⲍƬ⋎)
 https://archive.org/download/PinkFloyd-TheWall1982/Pink%20Floyd%20%E2%80%93The%20Wall%20%281982%29.mp4
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Princess Bride (1987) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Princess Bride (1987) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Princess Bride (1987) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Princess Bride (1987) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/The%20Princess%20Bride%20%281987%29/The.Princess.Bride.1987.REMASTERED.1080p.BluRay.H264.AAC.mp4
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Ready Player One (2018) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Ready Player One (2018) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Ready Player One (2018) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Ready Player One (2018) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Ready%20Player%20One%20%282018%29/Ready.Player.One.2018.1080p.BluRay.DDP5.1.x265.10bit-GalaxyRG265%5BTGx%5D-xpost.mkv
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/sX5S2XPS/Reefer-Madness.jpg" tvg-name="πVODπ | Reefer Madness (1938) (Black & White Original) | (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Reefer Madness (1938) (Black & White Original) | (Ƭ⫯ⲍƬ⋎)
@@ -4743,22 +4743,22 @@ https://archive.org/download/reefer_madness1938_201508/reefer_madness1938.mp4
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/Px5NVG2W/Return-of-the-Ghostbusters.jpg" tvg-name="πVODπ | Return of the Ghostbusters (2007) | (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Return of the Ghostbusters (2007) | (Ƭ⫯ⲍƬ⋎)
 https://content-videovard-delivery-s67.videovard.to/hls2/01/00240/4yxhopo1dpos_n/index-v1-a1.m3u8?t=PRLL6y4-ZewqPZxpxBFG8ONqBWCTTnlknEPbaiGVwEE&s=1639468162&e=18000&f=1200822&srv=127.0.0.1&asn=7018
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Rocky Horror Picture Show (1975) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Rocky Horror Picture Show (1975) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Rocky Horror Picture Show (1975) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Rocky Horror Picture Show (1975) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/The%20Rocky%20Horror%20Picture%20Show%20%281975%29/The%20Rocky%20Horror%20Picture%20Show%201975%201080p%20BluRay%20x265%2088.mp4
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/tJ3W0QdK/Santa-and-the-Three-Bears.jpg" tvg-name="πVODπ | Santa and the Three Bears (1970) | (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Santa and the Three Bears (1970) | (Ƭ⫯ⲍƬ⋎)
 https://cloudfront.tubi.video/21df8036-fa23-49ff-9877-8af983546d2b/elw3phlf/stream.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Scooby Doo (2002) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Scooby Doo (2002) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Scooby Doo (2002) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Scooby Doo (2002) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Scooby-Doo%20%282002%29/Scooby%20Doo%202002%201080p%20BluRay%20Remux%20DD%205%201.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Sweeney Todd (2007) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Sweeney Todd (2007) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Sweeney Todd (2007) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Sweeney Todd (2007) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Sweeney%20Todd%20The%20Demon%20Barber%20of%20Fleet%20Street%20%282007%29/Sweeney.Todd.The.Demon.Barber.of.Fleet.Street.2007.1080p.BluRay.x264-nikt0.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Tenacious D Pick of Destiny (2006) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Tenacious D Pick of Destiny (2006) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Tenacious D Pick of Destiny (2006) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Tenacious D Pick of Destiny (2006) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Tenacious%20D%20in%20The%20Pick%20of%20Destiny%20%282006%29/Tenacious%20D%20in%20The%20Pick%20of%20Destiny%202006%20BluRay%201080p%20DTS%20HD%20MA%205%201%20AVC%20REMUX%20FraMeSToR.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | The Big Lebowski (1998) | (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | The Big Lebowski (1998) | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | The Big Lebowski (1998) | (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | The Big Lebowski (1998) | (Ƭ⫯ⲍƬ⋎)
 https://43.251.84.25:8080/Movies/Hollywood/1998/The.Big.Lebowski.1998.1080p.BrRip.x264.YIFY%2BHI.mp4
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/sX7jzTpY/The-Culling2015.jpg" tvg-name="πVODπ | The Culling (2015) | (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | The Culling (2015) | (Ƭ⫯ⲍƬ⋎)
@@ -4767,28 +4767,28 @@ http://2.bp.blogspot.com/P7yzLED6hz3pZP3duQWSLlHojzbVHA23UVg_HNjC8hE=m18
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/Bny1cDMH/The-Good-The-Bad-and-The-Ugly.jpg" tvg-name="πVODπ | The Good The Bad and The Ugly - Extended (1966) | (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | The Good The Bad and The Ugly - Extended (1966) | (Ƭ⫯ⲍƬ⋎)
 https://archive.org/download/TheGoodTheBadAndTheUgly1966/The%20Good%2C%20the%20Bad%20and%20the%20Ugly%20%5B1966%5D.mp4
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | The Incredibles (2004) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | The Incredibles (2004) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | The Incredibles (2004) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | The Incredibles (2004) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/The%20Incredibles%20%282004%29/The.Incredibles.2004.1080p.Bluray.EAC3.2.0.x265-iVy.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | The Mask (1994) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | The Mask (1994) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | The Mask (1994) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | The Mask (1994) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/The%20Mask%20%281994%29/The.Mask.1994.1080p.BluRay.DDP.5.1.10bit.H.265-iVy.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | WallE (2008) (43.251.84.25:8080) | (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | WallE (2008) (43.251.84.25:8080) | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | WallE (2008) (43.251.84.25:8080) | (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | WallE (2008) (43.251.84.25:8080) | (Ƭ⫯ⲍƬ⋎)
 https://43.251.84.25:8080/Movies/Animation/2001-2010/WALL-E.2008.1080p.BrRip.x264.YIFY.mp4
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/jjk2rJDv/West-Side-Story.gif" tvg-name="πVODπ | West Side Story (1961) | (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | West Side Story (1961) | (Ƭ⫯ⲍƬ⋎)
 https://archive.org/download/West.Side.Story1961.Dvdrip.Xvid.AC35.1RoCK/West.Side.Story%5B1961%5D.Dvdrip.Xvid.AC3%5B5.1%5D-RoCK.mp4
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Willy Wonka & the Chocolate Factory (1971) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Willy Wonka & the Chocolate Factory (1971) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Willy Wonka & the Chocolate Factory (1971) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Willy Wonka & the Chocolate Factory (1971) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Willy%20Wonka%20&%20the%20Chocolate%20Factory%20%281971%29/Willy.Wonka.and.the.Chocolate.Factory.1971.1080p.UHD.BluRay.x264.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Willys Wonderland (2021) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Willys Wonderland (2021) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Willys Wonderland (2021) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Willys Wonderland (2021) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Willy%27s%20Wonderland%20%282021%29/Willys%20Wonderland%202021%201080p%20BluRay%20REMUX%20AVC%20DTS%20HD%20MA%205%201%20FGT%20ORARBG.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Winnie the Pooh Seasons of Giving (1999) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Winnie the Pooh Seasons of Giving (1999) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Winnie the Pooh Seasons of Giving (1999) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Winnie the Pooh Seasons of Giving (1999) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Winnie%20the%20Pooh%20Seasons%20of%20Giving%20%281999%29/Winnie%20The%20Pooh%20Seasons%20Of%20Giving%201999%20iNTERNAL%20DVDRip%20X264%20MULTiPLY%20ORARBG.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Wonka (2023) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Wonka (2023) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Wonka (2023) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Wonka (2023) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Wonka%20%282023%29/Wonka.2023.1080p.BluRay.DDP5.1.x265.10bit-GalaxyRG265%5BTGx%5D-xpost.mkv
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/pLZ62gYn/X2.jpg" tvg-name="πVODπ | X2: X-Men United (2003) | (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | X2: X-Men United (2003) | (Ƭ⫯ⲍƬ⋎)
@@ -4964,4 +4964,10 @@ http://live.redtraffic.net/woman.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ӿӾ*NSFW*Ӿӿ MyCamTV.com (IPTVMate) (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ MyCamTV.com (IPTVMate) (Ƭ⫯ⲍƬ⋎)
 https://ch.iptvmate.net/45d999f59d4a64e0db2f1d3ba21cc689.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NickToons | (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",NickToons | (Ƭ⫯ⲍƬ⋎)
+http://143.244.60.30/NICKTOONS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Nickelodeon | (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Nickelodeon | (Ƭ⫯ⲍƬ⋎)
+http://143.244.60.30/NICKELODEON/tracks-v1a1/mono.m3u8
 
