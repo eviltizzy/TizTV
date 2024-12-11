@@ -5181,3 +5181,19 @@ http://live.redtraffic.net/woman.m3u8
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ӿӾ*NSFW*Ӿӿ MyCamTV.com (IPTVMate) (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ MyCamTV.com (IPTVMate) (Ƭ⫯ⲍƬ⋎)
 https://ch.iptvmate.net/45d999f59d4a64e0db2f1d3ba21cc689.m3u8
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Cartoon Network East"  group-title="Test",Cartoon Network East
+http://voidharbinger.xyz:80/4072887660/9415763082/815098
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Cartoon Network West"  group-title="Test",Cartoon Network West
+http://voidharbinger.xyz:80/4072887660/9415763082/815099
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Boomerang"  group-title="Test",Boomerang
+http://voidharbinger.xyz:80/4072887660/9415763082/815097
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/7ZgByX8M/Animal-Planet.png" tvg-name="Animal Planet (TH/ID) | (Ƭ⫯ⲍƬ⋎)"  group-title="Infotainment",Animal Planet (TH/ID) | (Ƭ⫯ⲍƬ⋎)
+https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DW News | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",DW News | (Ƭ⫯ⲍƬ⋎)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+
+
