@@ -5010,3 +5010,12 @@ http://live.redtraffic.net/woman.m3u8
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ӿӾ*NSFW*Ӿӿ MyCamTV.com (IPTVMate) (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ MyCamTV.com (IPTVMate) (Ƭ⫯ⲍƬ⋎)
 https://ch.iptvmate.net/45d999f59d4a64e0db2f1d3ba21cc689.m3u8
 
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="France 24 English | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",France 24 English | (Ƭ⫯ⲍƬ⋎)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Discovery Science (Asia) | (Ƭ⫯ⲍƬ⋎)"  group-title="Test",Discovery Science (Asia) | (Ƭ⫯ⲍƬ⋎)
+https://denver1769.pages.dev/Discovery/discovery_science_english.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Discovery Turbo (Asia) | (Ƭ⫯ⲍƬ⋎)"  group-title="Test",Discovery Turbo (Asia) | (Ƭ⫯ⲍƬ⋎)
+https://denver1769.pages.dev/Discovery/discovery_turbo.m3u8
+
