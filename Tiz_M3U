@@ -309,11 +309,11 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Ed Sullivan Show (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Ed Sullivan Show (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e91da1f07afa0007ffccfc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5075-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b64e7f1-151a-45ae-b9ec-c80bbbacf798
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Eric Andre Show Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Eric Andre Show Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
-https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Eric Andre Show Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Eric Andre Show Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_de.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Eric Andre Show Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Eric Andre Show Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
+https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Family Feud Classic (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Family Feud Classic (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c2222fb0cf5c0008288c4f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a2d93-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5513d020-7e3c-4428-8383-36d51d71d616
@@ -577,10 +577,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f7791b8372da90007fd45e6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b11caad2-6afe-44b5-8ca3-9e98672f6a0f
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Primal Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Primal Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
-https://adultswim-vodlive.cdn.turner.com/live/primal/stream.m3u8
+https://adultswim-vodlive.cdn.turner.com/live/primal/stream_de.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Primal Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Primal Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
-https://adultswim-vodlive.cdn.turner.com/live/primal/stream_de.m3u8
+https://adultswim-vodlive.cdn.turner.com/live/primal/stream.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Rawhide (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Rawhide (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634f307c7a068e00072c9982/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6278-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d9433765-7aeb-4cd3-9244-281a4bcdc393
@@ -1327,16 +1327,16 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63e36b374e83e70008987c58/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c791c20-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a330bc3-1def-4752-9f03-564abe79388b
 
 #EXTINF:-1, tvg-id="AFV.us" tvg-logo="Logo N/A" tvg-name="AFV (720p)"  group-title="Unsorted",AFV (720p)
-https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
-
-#EXTINF:-1, tvg-id="AFV.us" tvg-logo="Logo N/A" tvg-name="AFV (720p)"  group-title="Unsorted",AFV (720p)
 https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 
-#EXTINF:-1, tvg-id="AFVEspanol.us" tvg-logo="Logo N/A" tvg-name="AFV en Español (720p) [Not 24/7]"  group-title="Unsorted",AFV en Español (720p) [Not 24/7]
-https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
+#EXTINF:-1, tvg-id="AFV.us" tvg-logo="Logo N/A" tvg-name="AFV (720p)"  group-title="Unsorted",AFV (720p)
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 
 #EXTINF:-1, tvg-id="AFVEspanol.us" tvg-logo="Logo N/A" tvg-name="AFV en Español (720p) [Not 24/7]"  group-title="Unsorted",AFV en Español (720p) [Not 24/7]
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
+
+#EXTINF:-1, tvg-id="AFVEspanol.us" tvg-logo="Logo N/A" tvg-name="AFV en Español (720p) [Not 24/7]"  group-title="Unsorted",AFV en Español (720p) [Not 24/7]
+https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AFV Family | (Ƭ⫯ⲍƬ⋎)"  group-title="Comedy",AFV Family | (Ƭ⫯ⲍƬ⋎)
 https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
@@ -1375,10 +1375,10 @@ http://luckonline.eu:8080/home/faizul/488
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/NM0bmcyp/Al-Jazeera-Logo.png" tvg-name="Al Jazeera English | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Al Jazeera English | (Ƭ⫯ⲍƬ⋎)
-https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+http://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/NM0bmcyp/Al-Jazeera-Logo.png" tvg-name="Al Jazeera English | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Al Jazeera English | (Ƭ⫯ⲍƬ⋎)
-http://live-hls-web-aje.getaj.net/AJE/index.m3u8
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ALBUK TV (1080p) [Not 24/7] | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",ALBUK TV (1080p) [Not 24/7] | (Ƭ⫯ⲍƬ⋎)
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
@@ -1489,10 +1489,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Test",Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eac6b8efb7a6500070b5c9b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a783-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=25d82ce6-20be-4a97-8019-19ce21826e94
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eac6c5d2240d80007327f5a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a785-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=636f5ff0-e489-4bc8-99f3-08d6f12c2f45
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Test",Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eac6c5d2240d80007327f5a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a785-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=636f5ff0-e489-4bc8-99f3-08d6f12c2f45
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eac6b8efb7a6500070b5c9b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a783-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=25d82ce6-20be-4a97-8019-19ce21826e94
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Test",Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eac6bf103a57700073efcc5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a784-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d4bc9c0c-00a9-469c-9c25-f6f698a11e0e
@@ -1534,28 +1534,28 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 http://66.242.170.53/hls/live/temp/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-name="AST TV 1"  group-title="XXX",AST TV 1
-https://www.ast.tv/stream/1/high.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-name="AST TV 1"  group-title="XXX",AST TV 1
-https://www.ast.tv/stream/1/ultra.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-name="AST TV 1"  group-title="XXX",AST TV 1
 http://www.ast.tv/stream/1/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-name="AST TV 1"  group-title="XXX",AST TV 1
+https://www.ast.tv/stream/1/high.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-name="AST TV 1"  group-title="XXX",AST TV 1
 http://www.ast.tv/stream/1/cellular.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-name="AST TV 2"  group-title="XXX",AST TV 2
-https://www.ast.tv/stream/2/high.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-name="AST TV 1"  group-title="XXX",AST TV 1
+https://www.ast.tv/stream/1/ultra.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-name="AST TV 2"  group-title="XXX",AST TV 2
 http://www.ast.tv/stream/2/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-name="AST TV 2"  group-title="XXX",AST TV 2
-https://www.ast.tv/stream/2/normal.m3u8
+https://www.ast.tv/stream/2/high.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-name="AST TV 2"  group-title="XXX",AST TV 2
 https://www.ast.tv/stream/2/ultra.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-name="AST TV 2"  group-title="XXX",AST TV 2
+https://www.ast.tv/stream/2/normal.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Astro Cricket | (Luck) (Ƭ⫯ⲍƬ⋎)"  group-title="Sports",Astro Cricket | (Luck) (Ƭ⫯ⲍƬ⋎)
 http://luckonline.eu:8080/home/faizul/516
@@ -2122,10 +2122,10 @@ https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 https://aweencore-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AXS TV Now | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",AXS TV Now | (Ƭ⫯ⲍƬ⋎)
-https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AXS TV Now | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",AXS TV Now | (Ƭ⫯ⲍƬ⋎)
-https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1, tvg-id="BabySharkTV.us" tvg-logo="InsertLogoHere" tvg-name="Baby Shark TV (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Baby Shark TV (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce93-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1f776e00-4160-4945-86c6-3cb0fa0bd795
@@ -2536,10 +2536,10 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-buzzr-samsungtv-us/playlist.
 http://fl3.moveonjoy.com/Buzzr/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/fLPsjVpq/Buzzr-TV-Network-Logo.png" tvg-name="Buzzr | (Ƭ⫯ⲍƬ⋎)"  group-title="General",Buzzr | (Ƭ⫯ⲍƬ⋎)
-https://buzzrota-web.amagi.tv/playlist.m3u8
+https://cdn.igocast.com/channel1_hls/channel1_master.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/fLPsjVpq/Buzzr-TV-Network-Logo.png" tvg-name="Buzzr | (Ƭ⫯ⲍƬ⋎)"  group-title="General",Buzzr | (Ƭ⫯ⲍƬ⋎)
-https://cdn.igocast.com/channel1_hls/channel1_master.m3u8
+https://buzzrota-web.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BX1 | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",BX1 | (Ƭ⫯ⲍƬ⋎)
 https://59959724487e3.streamlock.net/stream/live/master.m3u8
@@ -2740,10 +2740,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb1b0bf2240d8000732a09c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4664f76e-5d97-4d34-816d-f8d81755622a
 
 #EXTINF:-1, tvg-id="CBSNewsNewYork.us" tvg-logo="InsertLogoHere" tvg-name="CBS News New York (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS News New York (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc9b8223687ff000936ed79/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c8f1fbb0-e9de-4ec2-b727-78b57832f3ae
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc48170e280c80009a861ab/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fb8dad98-4322-41fe-bb83-595fb6bb9006
 
 #EXTINF:-1, tvg-id="CBSNewsNewYork.us" tvg-logo="InsertLogoHere" tvg-name="CBS News New York (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS News New York (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc48170e280c80009a861ab/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fb8dad98-4322-41fe-bb83-595fb6bb9006
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc9b8223687ff000936ed79/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c8f1fbb0-e9de-4ec2-b727-78b57832f3ae
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="CBS News Philadelphia (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS News Philadelphia (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb1b05ea168cc000767ba67/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a12d4db0-b63f-41f2-8f0d-d4faab762d0a
@@ -2839,10 +2839,10 @@ http://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.
 https://bcf66772c67a40ec839611926b59b041.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Cheddar/playlist.m3u8?ads.wurl_channel=575&ads.wurl_name=Cheddar&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
 #EXTINF:-1, tvg-id="CheddarNews.us" tvg-logo="Logo N/A" tvg-name="Cheddar News (1080p)"  group-title="Unsorted",Cheddar News (1080p)
-https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8
 
 #EXTINF:-1, tvg-id="CheddarNews.us" tvg-logo="Logo N/A" tvg-name="Cheddar News (1080p)"  group-title="Unsorted",Cheddar News (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8
+https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1, tvg-id="CheddarNews.us" tvg-logo="Logo N/A" tvg-name="Cheddar News (720p)"  group-title="Unsorted",Cheddar News (720p)
 https://cheddar.roku.wurl.com/manifest/playlist.m3u8
@@ -2896,6 +2896,9 @@ https://20995731713c495289784ab260b3c830.mediatailor.us-east-1.amazonaws.com/v1/
 https://apollo.production-public.tubi.io/live/ac-cinevault-westerns.m3u8
 
 #EXTINF:-1, tvg-id="Circle.us" tvg-logo="Logo N/A" tvg-name="Circle (1080p)"  group-title="Unsorted",Circle (1080p)
+https://circle-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Circle.us" tvg-logo="Logo N/A" tvg-name="Circle (1080p)"  group-title="Unsorted",Circle (1080p)
 https://circle-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Circle.us" tvg-logo="Logo N/A" tvg-name="Circle (1080p)"  group-title="Unsorted",Circle (1080p)
@@ -2903,9 +2906,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcircletv/CDN/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Circle.us" tvg-logo="Logo N/A" tvg-name="Circle (1080p)"  group-title="Unsorted",Circle (1080p)
 https://circle-vizio.amagi.tv/playlist.m3u8
-
-#EXTINF:-1, tvg-id="Circle.us" tvg-logo="Logo N/A" tvg-name="Circle (1080p)"  group-title="Unsorted",Circle (1080p)
-https://circle-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Circle.us" tvg-logo="Logo N/A" tvg-name="Circle (US) | (Samsung) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Circle (US) | (Samsung) (Ƭ⫯ⲍƬ⋎)
 https://circle-samsung.amagi.tv/playlist.m3u8
@@ -2970,11 +2970,11 @@ http://luckonline.eu:8080/home/faizul/2482
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/VvN5MRwZ/CNN-Logo.png" tvg-name="CNN (Cable News Network) | (Luck) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",CNN (Cable News Network) | (Luck) (Ƭ⫯ⲍƬ⋎)
 http://luckonline.eu:8080/home/faizul/976
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/FFfGh36N/CNN-Transparent-Logo.png" tvg-name="CNN (Cable News Network) | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",CNN (Cable News Network) | (Ƭ⫯ⲍƬ⋎)
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_5_864000.m3u8
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="CNN (Cable News Network) | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",CNN (Cable News Network) | (Ƭ⫯ⲍƬ⋎)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/FFfGh36N/CNN-Transparent-Logo.png" tvg-name="CNN (Cable News Network) | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",CNN (Cable News Network) | (Ƭ⫯ⲍƬ⋎)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_5_864000.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="CNN (ITVG) | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",CNN (ITVG) | (Ƭ⫯ⲍƬ⋎)
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/cnn.us.m3u8
@@ -2989,10 +2989,10 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_14
 https://fl2.moveonjoy.com/CNN/index.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CNN | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",CNN | (Ƭ⫯ⲍƬ⋎)
-https://stream.livenewsplay.com/hls/cnnewson/news.m3u8
+https://stream1.cinerama.uz/1259/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CNN | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",CNN | (Ƭ⫯ⲍƬ⋎)
-https://stream1.cinerama.uz/1259/tracks-v1a1/mono.m3u8
+https://stream.livenewsplay.com/hls/cnnewson/news.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CNN Fast (official) | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",CNN Fast (official) | (Ƭ⫯ⲍƬ⋎)
 https://live-media-fly.warnermediacdn.com/cmaf/live/2028716/cnnfast-international/master_de.m3u8
@@ -3040,10 +3040,10 @@ http://luckonline.eu:8080/home/faizul/1460
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a9ccd661bb00081bd93a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79b863-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7fed5fcc-0dbc-42e9-8b2f-d5eb610c5074
 
 #EXTINF:-1, tvg-id="ComedyDynamics.us" tvg-logo="Logo N/A" tvg-name="Comedy Dynamics (1080p)"  group-title="Unsorted",Comedy Dynamics (1080p)
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-comedydynamics/CDN/master.m3u8
+https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8
 
 #EXTINF:-1, tvg-id="ComedyDynamics.us" tvg-logo="Logo N/A" tvg-name="Comedy Dynamics (1080p)"  group-title="Unsorted",Comedy Dynamics (1080p)
-https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-comedydynamics/CDN/master.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Comedy Dynamics | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Comedy Dynamics | (Ƭ⫯ⲍƬ⋎)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-cineverse/playlist.m3u8
@@ -3061,40 +3061,97 @@ http://fl3.moveonjoy.com/COMET/index.m3u8
 https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Comet | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Comet | (Ƭ⫯ⲍƬ⋎)
-https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Comet | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Comet | (Ƭ⫯ⲍƬ⋎)
 https://cvtv.cvalley.net/hls/KTVOComet/KTVOComet.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/C5jSNCT7/CometTV.jpg" tvg-name="CometTV | (Ƭ⫯ⲍƬ⋎)"  group-title="General",CometTV | (Ƭ⫯ⲍƬ⋎)
-http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Comet | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Comet | (Ƭ⫯ⲍƬ⋎)
+https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/28Fwcwss/4fzint-1.jpg" tvg-name="CometTV | (Ƭ⫯ⲍƬ⋎)"  group-title="General",CometTV | (Ƭ⫯ⲍƬ⋎)
 http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/C5jSNCT7/CometTV.jpg" tvg-name="CometTV | (Ƭ⫯ⲍƬ⋎)"  group-title="General",CometTV | (Ƭ⫯ⲍƬ⋎)
+http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+
 #EXTINF:-1, tvg-id="Complex.us" tvg-logo="Logo N/A" tvg-name="Complex (720p)"  group-title="Unsorted",Complex (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomplex/CDN/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/HLCw7bPL/live-concert.jpg" tvg-name="Concert | Britney Spears London (2000)"  group-title="Concerts",Concert | Britney Spears London (2000)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/HLCw7bPL/live-concert.jpg" tvg-name="Concert | Alice Cooper and Friends (Anaheim 1977) | (Ƭ⫯ⲍƬ⋎)"  group-title="Concerts",Concert | Alice Cooper and Friends (Anaheim 1977) | (Ƭ⫯ⲍƬ⋎)
+https://ia601702.us.archive.org/17/items/alice-cooper-and-friends-1977/Alice%20Cooper%20And%20Friends%20%281977%29.ia.mp4?cnt=0
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/HLCw7bPL/live-concert.jpg" tvg-name="Concert | Black Sabbath - Rock of the 70s (Paris 1970) | (Ƭ⫯ⲍƬ⋎)"  group-title="Concerts",Concert | Black Sabbath - Rock of the 70s (Paris 1970) | (Ƭ⫯ⲍƬ⋎)
+https://ia800205.us.archive.org/0/items/rock-of-the-seventies-black-sabbath-1970/Rock%20of%20the%20Seventies%20-%20Black%20Sabbath%201970.mp4?cnt=0
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/HLCw7bPL/live-concert.jpg" tvg-name="Concert | Blink-182 (New Jersey 2004) | (Ƭ⫯ⲍƬ⋎)"  group-title="Concerts",Concert | Blink-182 (New Jersey 2004) | (Ƭ⫯ⲍƬ⋎)
+https://ia804504.us.archive.org/12/items/blink-182-camden-nj-06-06-2004-master/Blink-182%20Camden%20NJ%2006-06-2004%20MASTER.mp4?cnt=0
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/HLCw7bPL/live-concert.jpg" tvg-name="Concert | Britney Spears - Oops I did it Again (London 2000) | (Ƭ⫯ⲍƬ⋎)"  group-title="Concerts",Concert | Britney Spears - Oops I did it Again (London 2000) | (Ƭ⫯ⲍƬ⋎)
 https://ia802207.us.archive.org/2/items/britney-spears-oops-i-did-it-again-tour-london-digital-hd-1080p/Britney%20Spears%20Oops%20I%20Did%20It%20Again%20Tour%20----London-----%20%28Digital%29%20HD1080p.ia.mp4?cnt=0
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/HLCw7bPL/live-concert.jpg" tvg-name="Concert | Daft Punk LA Mayan Theatre (1997)"  group-title="Concerts",Concert | Daft Punk LA Mayan Theatre (1997)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/HLCw7bPL/live-concert.jpg" tvg-name="Concert | Daft Punk - Daftendirektour (Los Angeles 1997) | (Ƭ⫯ⲍƬ⋎)"  group-title="Concerts",Concert | Daft Punk - Daftendirektour (Los Angeles 1997) | (Ƭ⫯ⲍƬ⋎)
 https://ia800306.us.archive.org/23/items/list-of-archived-concerts/Daft%20Punk%20-%20Alive%201997%20-%20Live%20at%20The%20Mayan%20Theatre%20in%20Los%20Angeles%2C%20CA%20%28December%2017th%2C%201997%29.mp4?cnt=0
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/HLCw7bPL/live-concert.jpg" tvg-name="Concert | Foo Fighters Lollapalooza (2022)"  group-title="Concerts",Concert | Foo Fighters Lollapalooza (2022)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/HLCw7bPL/live-concert.jpg" tvg-name="Concert | Dave Mathews Band - The Gorge (George 1999) | (Ƭ⫯ⲍƬ⋎)"  group-title="Concerts",Concert | Dave Mathews Band - The Gorge (George 1999) | (Ƭ⫯ⲍƬ⋎)
+https://ia600305.us.archive.org/32/items/youtube-L1UshIzodgk/Dave_Matthews_Band_-_7_16_99_-_Complete_-_The_Gorge_N1_-_Rare_VHS_-_Rough_Tweaked-L1UshIzodgk.mp4?cnt=0
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Concert | Def Leppard - Rockpalast Metal Festival (Dortmund 1983) | (Ƭ⫯ⲍƬ⋎)"  group-title="Concerts",Concert | Def Leppard - Rockpalast Metal Festival (Dortmund 1983) | (Ƭ⫯ⲍƬ⋎)
+https://ia803202.us.archive.org/13/items/DefLeppard-1983-12-17-DortmundGermany-Westfalenhalle-RockpalastMetalFestival/Def%20Leppard%20-%201983-12-17%20-%20ZDF%20%28only%20Def%20Leppard%29%20Better%20Quality.mp4?cnt=0
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Concert | Dolly Parton - HBO Special (London 1983) | (Ƭ⫯ⲍƬ⋎)"  group-title="Concerts",Concert | Dolly Parton - HBO Special (London 1983) | (Ƭ⫯ⲍƬ⋎)
+https://ia802809.us.archive.org/26/items/DollyInLondon1983BetaRelease/Dolly%20in%20London%20%281983%29%20-%20Beta%20Release.mp4?cnt=0
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/HLCw7bPL/live-concert.jpg" tvg-name="Concert | Elvis Presley - CBS Special (1977) | (Ƭ⫯ⲍƬ⋎)"  group-title="Concerts",Concert | Elvis Presley - CBS Special (1977) | (Ƭ⫯ⲍƬ⋎)
+https://ia600303.us.archive.org/18/items/1977-elvis-presley-cbs-televison-special-combination-of-multiple-concerts-june-1977/1977%20-%20Elvis%20Presley%20-%20CBS%20Televison%20Special%20-%20%28Combination%20of%20Multiple%20Concerts%29%20%20-%20%28June%2C%201977%29.ia.mp4?cnt=0
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/HLCw7bPL/live-concert.jpg" tvg-name="Concert | Fleetwood Mac - The Dance (1997) | (Ƭ⫯ⲍƬ⋎)"  group-title="Concerts",Concert | Fleetwood Mac - The Dance (1997) | (Ƭ⫯ⲍƬ⋎)
+https://ia801306.us.archive.org/0/items/FleetwoodMacTheDance1997/The%20Dance.ia.mp4?cnt=0
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/HLCw7bPL/live-concert.jpg" tvg-name="Concert | Foo Fighters - Lollapalooza (San Isidro 2022) | (Ƭ⫯ⲍƬ⋎)"  group-title="Concerts",Concert | Foo Fighters - Lollapalooza (San Isidro 2022) | (Ƭ⫯ⲍƬ⋎)
 https://ia601405.us.archive.org/22/items/foo-fighters-2022-03-20-lollapalooza-argentina-2022-buenos-aires-argentina-webcast-720p/Foo%20Fighters%20-%202022-03-20%20%28Lollapalooza%20Argentina%202022%29%20Buenos%20Aires%2C%20Argentina%20%28Webcast%29%20%5B720p%5D.mp4?cnt=0
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/HLCw7bPL/live-concert.jpg" tvg-name="Concert | Garth Brooks Coast to Coast to Coast (2001)"  group-title="Concerts",Concert | Garth Brooks Coast to Coast to Coast (2001)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/HLCw7bPL/live-concert.jpg" tvg-name="Concert | Garth Brooks - Coast to Coast to Coast (Inglewood 2001) | (Ƭ⫯ⲍƬ⋎)"  group-title="Concerts",Concert | Garth Brooks - Coast to Coast to Coast (Inglewood 2001) | (Ƭ⫯ⲍƬ⋎)
 https://ia803407.us.archive.org/26/items/garth-brooks-coast-to-coast-to-coast-live-first-show-on-the-pacific-coast/C2C%20LA.mp4?cnt=0
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/HLCw7bPL/live-concert.jpg" tvg-name="Concert | Rolling Stones Chorzów (1998)"  group-title="Concerts",Concert | Rolling Stones Chorzów (1998)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/HLCw7bPL/live-concert.jpg" tvg-name="Concert | Green Day - Acoustic Live In The Bridge School (Mountain View 2000) | (Ƭ⫯ⲍƬ⋎)"  group-title="Concerts",Concert | Green Day - Acoustic Live In The Bridge School (Mountain View 2000) | (Ƭ⫯ⲍƬ⋎)
+https://ia904705.us.archive.org/30/items/youtube-BJyySD2fzgw/Green_Day_-_Acoustic_Live_In_The_Bridge_School_2000_.mpg-BJyySD2fzgw.mp4?cnt=0
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/HLCw7bPL/live-concert.jpg" tvg-name="Concert | Guns N' Roses - Live at The Ritz (New York 1987) | (Ƭ⫯ⲍƬ⋎)"  group-title="Concerts",Concert | Guns N' Roses - Live at The Ritz (New York 1987) | (Ƭ⫯ⲍƬ⋎)
+https://ia800802.us.archive.org/21/items/guns-n-roses-live-at-the-ritz-23-october-1987_202410/Guns%20N%27%20Roses%20-%20Live%20at%20the%20Ritz%2023%20October%2C%201987.mp4?cnt=0
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/HLCw7bPL/live-concert.jpg" tvg-name="Concert | KISS - Crazy Nights (Budokan 1988) | (Ƭ⫯ⲍƬ⋎)"  group-title="Concerts",Concert | KISS - Crazy Nights (Budokan 1988) | (Ƭ⫯ⲍƬ⋎)
+https://ia802705.us.archive.org/3/items/kiss-crazy-nights-1988-live-at-budokan-japanese-tv/KISS%20Crazy%20Nights%201988%20-%20Live%20at%20the%20Budokan%20Hall%201988-04-22%20%28Japanese%20TV%29.mp4?cnt=0
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/HLCw7bPL/live-concert.jpg" tvg-name="Concert | Mariah Carey - NBC Thanksgiving Special (New York 1993) | (Ƭ⫯ⲍƬ⋎)"  group-title="Concerts",Concert | Mariah Carey - NBC Thanksgiving Special (New York 1993) | (Ƭ⫯ⲍƬ⋎)
+https://ia601705.us.archive.org/0/items/here-is-mariah-carey-mariahs-thanksgiving-nbc-special/here-is-mariah-carey-mariahs-thanksgiving-nbc-special.ia.mp4
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/HLCw7bPL/live-concert.jpg" tvg-name="Concert | Phil Collins - Serious Hits (Berlin 1990) | (Ƭ⫯ⲍƬ⋎)"  group-title="Concerts",Concert | Phil Collins - Serious Hits (Berlin 1990) | (Ƭ⫯ⲍƬ⋎)
+https://dn720308.ca.archive.org/0/items/phil-collins-linkin-park-concerts/Serious%20Hits...Phil%20Collins%20Live%20%281990%29.mp4
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/HLCw7bPL/live-concert.jpg" tvg-name="Concert | Prince and the Revolution (Syracuse 1985) | (Ƭ⫯ⲍƬ⋎)"  group-title="Concerts",Concert | Prince and the Revolution (Syracuse 1985) | (Ƭ⫯ⲍƬ⋎)
+https://ia802900.us.archive.org/7/items/prince-and-the-revolution-live-1985/Prince%20And%20The%20Revolution%20-%20Live%20%201985.mp4?cnt=0
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/HLCw7bPL/live-concert.jpg" tvg-name="Concert | Red Hot Chili Peppers (Paris 2002) | (Ƭ⫯ⲍƬ⋎)"  group-title="Concerts",Concert | Red Hot Chili Peppers (Paris 2002) | (Ƭ⫯ⲍƬ⋎)
+https://ia904605.us.archive.org/35/items/red-hot-chili-peppers-olympia-paris-june-4-2002/Red%20Hot%20Chili%20Peppers%20-%20Olympia%2C%20Paris%20%5BJune%204%2C%202002%5D/MTV%20UK/Red%20Hot%20Chili%20Peppers%20-%20Olympia%2C%20Paris%20%5BJune%204%2C%202002%5D%20-%20xx%20-%20Complete%20Broadcast%20%5BMTV%20UK%5D.mp4
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/HLCw7bPL/live-concert.jpg" tvg-name="Concert | Rolling Stones - Bridges To Babylon Tour (Chorzów 1998) | (Ƭ⫯ⲍƬ⋎)"  group-title="Concerts",Concert | Rolling Stones - Bridges To Babylon Tour (Chorzów 1998) | (Ƭ⫯ⲍƬ⋎)
 https://ia801402.us.archive.org/26/items/the-rolling-stone-live-chorzow-1998/The%20Rolling%20Stone%20Live%20Chorz%C3%B3w%201998%2FA1%20T00-1.mp4?cnt=0
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/HLCw7bPL/live-concert.jpg" tvg-name="Concert | Tenacious D Concert"  group-title="Concerts",Concert | Tenacious D Concert
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/HLCw7bPL/live-concert.jpg" tvg-name="Concert | Selena - The Last Concert (Houston 1995) | (Ƭ⫯ⲍƬ⋎)"  group-title="Concerts",Concert | Selena - The Last Concert (Houston 1995) | (Ƭ⫯ⲍƬ⋎)
+https://ia904708.us.archive.org/5/items/selena-1995-houston-astrodome-the-last-concert/Selena%20-%201995%20-%20Houston%20-%20Astrodome%20-%20The%20Last%20Concert.mp4?cnt=0
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/HLCw7bPL/live-concert.jpg" tvg-name="Concert | Tenacious D - Complete Masterworks 2 (Seattle 2007) | (Ƭ⫯ⲍƬ⋎)"  group-title="Concerts",Concert | Tenacious D - Complete Masterworks 2 (Seattle 2007) | (Ƭ⫯ⲍƬ⋎)
 https://ia800802.us.archive.org/12/items/y-2mate.com-tenacious-d-the-complete-masterworks-2-2008-ai-upscaled-360-p/y2mate.com%20-%20Tenacious%20D%20The%20Complete%20Masterworks%202%202008%20AI%20Upscaled_360P.ia.mp4?cnt=0
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/HLCw7bPL/live-concert.jpg" tvg-name="Concert | The Beatles Shea Stadium (1965)"  group-title="Concerts",Concert | The Beatles Shea Stadium (1965)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/HLCw7bPL/live-concert.jpg" tvg-name="Concert | Tesla - Five Man Acoustical Jam (Philadelphia 1990)"  group-title="Concerts",Concert | Tesla - Five Man Acoustical Jam (Philadelphia 1990)
+https://ia601300.us.archive.org/16/items/tesla-five-man-acoustical-jam-1990/Tesla%20Five%20Man%20Acoustical%20Jam%201990.mp4?cnt=0
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/HLCw7bPL/live-concert.jpg" tvg-name="Concert | The Beatles - Shea Stadium (New York 1965) | (Ƭ⫯ⲍƬ⋎)"  group-title="Concerts",Concert | The Beatles - Shea Stadium (New York 1965) | (Ƭ⫯ⲍƬ⋎)
 https://ia801701.us.archive.org/15/items/the-beatles-live-in-shea-stadium-1965/THE%20BEATLES%20live%20in%20Shea%20Stadium%20%281965%29.mp4?cnt=0
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/HLCw7bPL/live-concert.jpg" tvg-name="Concert | Tina Turner - ARTE Concert (Holland 2009) | (Ƭ⫯ⲍƬ⋎)"  group-title="Concerts",Concert | Tina Turner - ARTE Concert (Holland 2009) | (Ƭ⫯ⲍƬ⋎)
+https://ia802903.us.archive.org/24/items/Tina-Turner_Live-in-Holland_ARTE-Concert_2009/Tina-Turner_Live-in-Holland_ARTE-Concert_2009.mp4
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/HLCw7bPL/live-concert.jpg" tvg-name="Concert | Whitney Houston - My Love is Your Love Tour (Poland 1999) | (Ƭ⫯ⲍƬ⋎)"  group-title="Concerts",Concert | Whitney Houston - My Love is Your Love Tour (Poland 1999) | (Ƭ⫯ⲍƬ⋎)
+https://ia801708.us.archive.org/21/items/hd-whitney-houston-live-from-the-36th-sopot-international-song-festival-1999-full-concert/hd-whitney-houston-live-from-the-36th-sopot-international-song-festival-1999-full-concert.ia.mp4?cnt=0
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Confess by Nosey (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Confess by Nosey (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/638e0f4832494900074481e7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79b864-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e6f8b32d-be20-4c07-bbb3-1bcf10d89a57
@@ -3835,10 +3892,10 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
 http://fl2.moveonjoy.com/GRIT_TV/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Grit | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Grit | (Ƭ⫯ⲍƬ⋎)
-https://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8
+https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Grit | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Grit | (Ƭ⫯ⲍƬ⋎)
-https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
+https://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Grit Xtra | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Grit Xtra | (Ƭ⫯ⲍƬ⋎)
 https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
@@ -3886,10 +3943,10 @@ http://luckonline.eu:8080/home/faizul/947
 http://fl2.moveonjoy.com/HBO/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="HBO | (Ƭ⫯ⲍƬ⋎)"  group-title="Movies",HBO | (Ƭ⫯ⲍƬ⋎)
-http://212.102.60.231/HBO/index.m3u8
+http://143.244.60.30/HBO/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="HBO | (Ƭ⫯ⲍƬ⋎)"  group-title="Movies",HBO | (Ƭ⫯ⲍƬ⋎)
-http://143.244.60.30/HBO/index.m3u8
+http://212.102.60.231/HBO/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="HBO 2 | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",HBO 2 | (MOJ) (Ƭ⫯ⲍƬ⋎)
 https://fl5.moveonjoy.com/HBO_2/index.m3u8
@@ -7569,6 +7626,9 @@ https://a.datadiff.us.kg/movies/The%20Lion%20King%20%281994%29/The%20Lion%20King
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Little Mermaid (1989) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Little Mermaid (1989) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/The%20Little%20Mermaid%20%281989%29/The.Little.Mermaid.%201989%20.%5BREPACK%5D.%5B1080p%5D.%5BBluRay%5D.%5B5.1%5D.%5BYTS.MX%5D-xpost.mp4
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Mama Cass Elliot - TV Program (1969)"  group-title="Video-On-Demand",πVODπ | Mama Cass Elliot - TV Program (1969)
+https://ia800408.us.archive.org/19/items/the-mama-cass-television-program/The%20Mama%20Cass%20Television%20Program.mp4?cnt=0
+
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Mary Poppins (1964) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Mary Poppins (1964) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Mary%20Poppins%20%281964%29/Mary.Poppins.50th.Anniversary.Edition.1964.1080p.BluRay.DTS.HD.x264-deadorbit.mkv
 
@@ -7629,11 +7689,11 @@ https://a.datadiff.us.kg/movies/Scooby-Doo%20%282002%29/Scooby%20Doo%202002%2010
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Sweeney Todd (2007) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Sweeney Todd (2007) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Sweeney%20Todd%20The%20Demon%20Barber%20of%20Fleet%20Street%20%282007%29/Sweeney.Todd.The.Demon.Barber.of.Fleet.Street.2007.1080p.BluRay.x264-nikt0.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tos-poster.png/800px-Tos-poster.png" tvg-name="πVODπ | Tears of Steel (2012) || (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Tears of Steel (2012) || (Ƭ⫯ⲍƬ⋎)
-http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Tears of Steel (2012) || (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Tears of Steel (2012) || (Ƭ⫯ⲍƬ⋎)
 https://download.blender.org/demo/movies/ToS/tears_of_steel_1080p.webm
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tos-poster.png/800px-Tos-poster.png" tvg-name="πVODπ | Tears of Steel (2012) || (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Tears of Steel (2012) || (Ƭ⫯ⲍƬ⋎)
+http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Tenacious D - Pick of Destiny (2006)| (Archive.org) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Tenacious D - Pick of Destiny (2006)| (Archive.org) (Ƭ⫯ⲍƬ⋎)
 https://ia601408.us.archive.org/13/items/tenacious-d-in-the-pick-of-destiny/Tenacious_D_in_The_Pick_of_Destiny.ia.mp4?cnt=0
