@@ -213,11 +213,11 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 CSI: NY (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 CSI: NY (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f54c6439183b000769fb8f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285535-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e57915ed-fd29-4d46-adb2-72d5623daaa5
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/tR10MvbN/Dallas-Cowboys-Cheerleaders.png" tvg-name="24/7 Dallas Cowboy Cheerleaders | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Dallas Cowboy Cheerleaders | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
-http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus?247.m3u8
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/8PVkGgtb/PlutoTV.png" tvg-name="24/7 Dallas Cowboy Cheerleaders | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Dallas Cowboy Cheerleaders | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/tR10MvbN/Dallas-Cowboys-Cheerleaders.png" tvg-name="24/7 Dallas Cowboy Cheerleaders | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Dallas Cowboy Cheerleaders | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus?247.m3u8
 
 #EXTINF:-1, tvg-id="DallasCowboysCheerleaders.us" tvg-logo="InsertLogoHere" tvg-name="24/7 Dallas Cowboys Cheerleaders (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Dallas Cowboys Cheerleaders (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c40-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=92a113fc-f35c-4160-9c63-27cd8537a39f
@@ -303,11 +303,11 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Ed Sullivan Show (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Ed Sullivan Show (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e91da1f07afa0007ffccfc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5075-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b64e7f1-151a-45ae-b9ec-c80bbbacf798
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Eric Andre Show Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Eric Andre Show Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
-https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_de.m3u8
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Eric Andre Show Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Eric Andre Show Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Eric Andre Show Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Eric Andre Show Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
+https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_de.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Family Feud Classic (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Family Feud Classic (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c2222fb0cf5c0008288c4f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a2d93-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5513d020-7e3c-4428-8383-36d51d71d616
@@ -1399,10 +1399,10 @@ https://stitcher-yidio.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/mast
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eac6bf103a57700073efcc5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a784-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d4bc9c0c-00a9-469c-9c25-f6f698a11e0e
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Test",Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eac6c5d2240d80007327f5a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a785-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=636f5ff0-e489-4bc8-99f3-08d6f12c2f45
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eac6b8efb7a6500070b5c9b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a783-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=25d82ce6-20be-4a97-8019-19ce21826e94
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Test",Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eac6b8efb7a6500070b5c9b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a783-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=25d82ce6-20be-4a97-8019-19ce21826e94
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eac6c5d2240d80007327f5a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a785-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=636f5ff0-e489-4bc8-99f3-08d6f12c2f45
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Antenna TV | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Antenna TV | (MOJ) (Ƭ⫯ⲍƬ⋎)
 http://fl3.moveonjoy.com/Antenna/index.m3u8
@@ -1459,10 +1459,10 @@ https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 https://aweencore-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AXS TV Now | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",AXS TV Now | (Ƭ⫯ⲍƬ⋎)
-https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AXS TV Now | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",AXS TV Now | (Ƭ⫯ⲍƬ⋎)
-https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 
 #EXTINF:-1, tvg-id="BabySharkTV.us" tvg-logo="InsertLogoHere" tvg-name="Baby Shark TV (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Baby Shark TV (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce93-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1f776e00-4160-4945-86c6-3cb0fa0bd795
@@ -1515,7 +1515,7 @@ https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 1 (Top40) | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 (Top40) | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 1 (Top40) | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio 1 (Top40) | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 1 (Top40) | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 (Top40) | (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_one&bitrate=96000
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 1 Dance | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 Dance | (hls) (Ƭ⫯ⲍƬ⋎)
@@ -1527,7 +1527,7 @@ http://lstn.lv/bbc.m3u8?station=bbc_radio_one_dance&bitrate=96000
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 1 Xtra | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 Xtra | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 1 Xtra | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio 1 Xtra | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 1 Xtra | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 Xtra | (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_1xtra&bitrate=96000
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 2 (Oldies/Pop) | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 2 (Oldies/Pop) | (hls) (Ƭ⫯ⲍƬ⋎)
@@ -1539,7 +1539,7 @@ http://lstn.lv/bbc.m3u8?station=bbc_radio_two&bitrate=96000
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 3 (Classical) | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 3 (Classical) | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 3 (Classical) | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio 3 (Classical) | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 3 (Classical) | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 3 (Classical) | (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_three&bitrate=96000
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 4 (Talk Radio) | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 4 (Talk Radio) | (hls) (Ƭ⫯ⲍƬ⋎)
@@ -1551,7 +1551,7 @@ http://lstn.lv/bbc.m3u8?station=bbc_radio_fourfm&bitrate=96000
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 4 Extra | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 4 Extra | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 4 Extra | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio 4 Extra | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 4 Extra | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 4 Extra | (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_four_extra&bitrate=96000
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 5 live (News/Talk) | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 5 live (News/Talk) | (hls) (Ƭ⫯ⲍƬ⋎)
@@ -1563,7 +1563,7 @@ http://lstn.lv/bbc.m3u8?station=bbc_radio_five_live&bitrate=96000
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 6 Music | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 6 Music | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 6 Music | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio 6 Music | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 6 Music | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 6 Music | (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_6music&bitrate=96000
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Asian Network | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Asian Network | (hls) (Ƭ⫯ⲍƬ⋎)
@@ -1755,7 +1755,7 @@ http://lstn.lv/bbc.m3u8?station=bbc_radio_wiltshire&bitrate=96000
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio WM | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio WM | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_wm/bbc_wm.isml/bbc_wm-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio World Service | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio World Service | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio World Service | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio World Service | (Ƭ⫯ⲍƬ⋎)
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio World Service || (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio World Service || (Ƭ⫯ⲍƬ⋎)
@@ -2070,11 +2070,11 @@ https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="CBS (KTVO) | (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS (KTVO) | (Ƭ⫯ⲍƬ⋎)
 https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/6Q5qpPJX/KMTV.png" tvg-name="CBS 03 KMTV Omaha NE | (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS 03 KMTV Omaha NE | (Ƭ⫯ⲍƬ⋎)
-http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/3x88F5kk/KMTV.png" tvg-name="CBS 03 KMTV Omaha NE | (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS 03 KMTV Omaha NE | (Ƭ⫯ⲍƬ⋎)
 https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/6Q5qpPJX/KMTV.png" tvg-name="CBS 03 KMTV Omaha NE | (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS 03 KMTV Omaha NE | (Ƭ⫯ⲍƬ⋎)
+http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/nrGwHzBc/KFSM-Channel-5-Primary.png" tvg-name="CBS 05 KFSM Fort Smith AR | (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS 05 KFSM Fort Smith AR | (Ƭ⫯ⲍƬ⋎)
 https://livevideo01.5newsonline.com/hls/live/2011653/newscasts/live.m3u8
@@ -3409,10 +3409,10 @@ https://tbn-jw.cdn.vustreams.com/live/merit-dev/live.isml/playlist.m3u8
 http://fl2.moveonjoy.com/ME_TV/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="MeTV | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",MeTV | (Ƭ⫯ⲍƬ⋎)
-https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
+https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="MeTV | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",MeTV | (Ƭ⫯ⲍƬ⋎)
-https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
+https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Mezzo Live | (Ƭ⫯ⲍƬ⋎)"  group-title="Music",Mezzo Live | (Ƭ⫯ⲍƬ⋎)
 https://cdn.troya.one/ch130/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOEK2Z906g5TWU2JHvmcDS0Pt_YjSiVi_LMVvrYztJoI
@@ -3738,11 +3738,11 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="NickToons | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",NickToons | (MOJ) (Ƭ⫯ⲍƬ⋎)
 http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/QxXjcK6m/Nick-Toons-Logo.png" tvg-name="NickToons | (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",NickToons | (Ƭ⫯ⲍƬ⋎)
-http://143.244.60.30/NICKTOONS/index.m3u8
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="NickToons | (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",NickToons | (Ƭ⫯ⲍƬ⋎)
 https://stream01.vnet.am/Boomerang/mono.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/QxXjcK6m/Nick-Toons-Logo.png" tvg-name="NickToons | (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",NickToons | (Ƭ⫯ⲍƬ⋎)
+http://143.244.60.30/NICKTOONS/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Nicktoons | (VoidHarbinger.xyz) (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Nicktoons | (VoidHarbinger.xyz) (Ƭ⫯ⲍƬ⋎)
 http://voidharbinger.xyz:80/8037040094/7103596248/815109
@@ -4855,10 +4855,10 @@ https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245
 http://fl2.moveonjoy.com/REELZ/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/jq4d2k72/Ambient-Sleeping-Pill-com.png" tvg-name="Relax | AmbientSleepingPill.com Opt-1 | (Ƭ⫯ⲍƬ⋎)"  group-title="Relax",Relax | AmbientSleepingPill.com Opt-1 | (Ƭ⫯ⲍƬ⋎)
-http://163.172.169.217:80/asp-s
+http://163.172.169.217:80/asp-h
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/jq4d2k72/Ambient-Sleeping-Pill-com.png" tvg-name="Relax | AmbientSleepingPill.com Opt-1 | (Ƭ⫯ⲍƬ⋎)"  group-title="Relax",Relax | AmbientSleepingPill.com Opt-1 | (Ƭ⫯ⲍƬ⋎)
-http://163.172.169.217:80/asp-h
+http://163.172.169.217:80/asp-s
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Relax | RainForest-BrazilianBirds | (Ƭ⫯ⲍƬ⋎)"  group-title="Relax",Relax | RainForest-BrazilianBirds | (Ƭ⫯ⲍƬ⋎)
 https://strm112.1.fm/brazilianbirds_mobile_mp3
@@ -5046,11 +5046,11 @@ https://f4e3f8fe72d345e8b2de999d3f5cb5c3.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/XqPQGb1s/revry-3.png" tvg-name="Revry 3 | (Ƭ⫯ⲍƬ⋎)"  group-title="General",Revry 3 | (Ƭ⫯ⲍƬ⋎)
 https://785e3b6ff91d4c6db1d8a5b67a894571.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-5-REVRY-BRIGHTCOVE/mt/brightcove/5/hls/master/playlist.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Revry Her | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Revry Her | (Ƭ⫯ⲍƬ⋎)
-https://linear-73.frequency.stream/dist/localnow/73/hls/master/playlist.m3u8
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/xTksrXqh/revry-OML.png" tvg-name="Revry Her | (Ƭ⫯ⲍƬ⋎)"  group-title="Special Interest",Revry Her | (Ƭ⫯ⲍƬ⋎)
 https://6bda80f950a748f2870036a8a4825727.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-73-OML-BRIGHTCOVE/mt/brightcove/73/hls/master/playlist.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Revry Her | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Revry Her | (Ƭ⫯ⲍƬ⋎)
+https://linear-73.frequency.stream/dist/localnow/73/hls/master/playlist.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/T2NkHV2n/revry-News.png" tvg-name="Revry News (LGBTQ+) | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Revry News (LGBTQ+) | (Ƭ⫯ⲍƬ⋎)
 https://735d81460ce14f66bb1b9ebdaebd61ea.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-44-REVRYNOW-BRIGHTCOVE/mt/brightcove/44/hls/master/playlist.m3u8
@@ -5448,14 +5448,14 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/54
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/N0LMm2jS/newsy.jpg" tvg-name="Scripps News | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Scripps News | (Ƭ⫯ⲍƬ⋎)
 https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/N0LMm2jS/newsy.jpg" tvg-name="Scripps News | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Scripps News | (Ƭ⫯ⲍƬ⋎)
-https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/dtRWb4KR/NBC-Logo.jpg" tvg-name="Scripps News | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Scripps News | (Ƭ⫯ⲍƬ⋎)
 https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/N0LMm2jS/newsy.jpg" tvg-name="Scripps News | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Scripps News | (Ƭ⫯ⲍƬ⋎)
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/N0LMm2jS/newsy.jpg" tvg-name="Scripps News | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Scripps News | (Ƭ⫯ⲍƬ⋎)
+https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="SD | 24/7 Antiques Roadshow UK (UK) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="SD Channels",SD | 24/7 Antiques Roadshow UK (UK) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce44810b421747ae467b7cd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ce44810b421747ae467b7cd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=621&terminate=false&userId=
@@ -6277,10 +6277,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663d36fa41af640008c083f6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1020-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ba4f413c-9ae3-416b-b96f-d617f19cfbd8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="VH1 | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Entertainment",VH1 | (MOJ) (Ƭ⫯ⲍƬ⋎)
-http://fl2.moveonjoy.com/VH1/index.m3u8
+https://fl2.moveonjoy.com/VH1/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="VH1 | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Entertainment",VH1 | (MOJ) (Ƭ⫯ⲍƬ⋎)
-https://fl2.moveonjoy.com/VH1/index.m3u8
+http://fl2.moveonjoy.com/VH1/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="VH1 Hip Hop Family (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",VH1 Hip Hop Family (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d71561df6f2e6d0b6493bf5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1021-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e1d0f143-568e-4ded-ab2f-4285d4a8ae11
@@ -6334,10 +6334,10 @@ http://fl2.moveonjoy.com/WE_TV/index.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bdce04659ee03633e758130/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/Gm4Nwb7G/Weather-Nation-logo.png" tvg-name="Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appVersion=9.6.0-a4885044134e9550f33624d94056de15020c6adb&app_name=web&clientDeviceType=0&clientID=375f0c1b-ef75-4c3c-a1ce-ea3b95242005&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=375f0c1b-ef75-4c3c-a1ce-ea3b95242005&deviceLat=35.5100&deviceLon=-97.4700&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=US&serverSideAds=false&sessionID=fb4f12df-b2d7-11ef-b289-667f6b555507&sid=fb4f12df-b2d7-11ef-b289-667f6b555507&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImEwYzliMzc3LTg4M2EtNGI0Mi1hODc0LTI3OTJhMjNkMmFiZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJmYjRmMTJkZi1iMmQ3LTExZWYtYjI4OS02NjdmNmI1NTU1MDciLCJjbGllbnRJUCI6IjI2MDA6MTcwMjozNjkwOjIyMTA6OTg2ZDplNjY0OmRlZDI6ODczNyIsImNpdHkiOiJPa2xhaG9tYSBDaXR5IiwicG9zdGFsQ29kZSI6IjczMTExIiwiY291bnRyeSI6IlVTIiwiZG1hIjo2NTAsImFjdGl2ZVJlZ2lvbiI6IlVTIiwiZGV2aWNlTGF0IjozNS41MDk5OTgzMjE1MzMyLCJkZXZpY2VMb24iOi05Ny40NzAwMDEyMjA3MDMxMiwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTMzLjAuMCIsImRldmljZU1ha2UiOiJmaXJlZm94IiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjkuNi4wLWE0ODg1MDQ0MTM0ZTk1NTBmMzM2MjRkOTQwNTZkZTE1MDIwYzZhZGIiLCJjbGllbnRJRCI6IjM3NWYwYzFiLWVmNzUtNGMzYy1hMWNlLWVhM2I5NTI0MjAwNSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0NoaWNhZ28iLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7ImFkTG9hZCI6eyJjb2hvcnQiOiIifSwibXVsdGlBdWRpbyI6eyJlbmFibGVkIjp0cnVlfSwibXVsdGlQb2RBZHMiOnsiZW5hYmxlZCI6dHJ1ZX0sInNlYXJjaEFQSSI6eyJtYXRjaEV4YWN0SW5QaHJhc2VFbmFibGVkIjp0cnVlLCJtYXRjaEluQWN0b3JzQm9vc3QiOjI1LCJtYXRjaEluQWN0b3JzRWRpdERpc3RhbmNlIjoiQVVUTzo1LDExIiwibWF0Y2hJbkFjdG9yc0VuYWJsZWQiOnRydWUsIm1hdGNoSW5EaXJlY3RvcnNCb29zdCI6MjUsIm1hdGNoSW5EaXJlY3RvcnNFZGl0RGlzdGFuY2UiOiJBVVRPOjUsMTEiLCJtYXRjaEluRGlyZWN0b3JzRW5hYmxlZCI6dHJ1ZSwibmV4dXNUaW1lb3V0TXMiOjUwMCwicXVlcnlTeW5vbnltc0VuYWJsZWQiOnRydWUsInF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCIsInNlYXJjaFByb3h5RW5oYW5jZW1lbnQiOmZhbHNlfX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiMzc1ZjBjMWItZWY3NS00YzNjLWExY2UtZWEzYjk1MjQyMDA1IiwiZndWY0lEMkNvcHBhIjoiMzc1ZjBjMWItZWY3NS00YzNjLWExY2UtZWEzYjk1MjQyMDA1IiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiIzNzVmMGMxYi1lZjc1LTRjM2MtYTFjZS1lYTNiOTUyNDIwMDUiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5In19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6TXpjMVpqQmpNV0l0WldZM05TMDBZek5qTFdFeFkyVXRaV0V6WWprMU1qUXlNREExIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTczMzQ2OTAxNywiaWF0IjoxNzMzMzgyNjE3LCJqdGkiOiIxNzNhMzJkZC0zYjBiLTQyMjgtYTI0Mi00MGFjMmUzOGIzZTUifQ.H9Q62pt0HO8iURQC0DD9YR4ivaLEJWy48yNLQ5klMUE&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQEUiUHXWSa3vaLEk4oUAy4R2osGJ47fgU-unZQUvkFXW_MhgIIRL5GvIKdNIibf1LClXs5G756ntQk_XRG28Lit_f5ikZezMOvHs6sdDs-FYtdZCLanqx2Y4JkU75TPkHXhY4V-b7457NY5G8EArRknHskitywv6XhXQjp86CR6DSFALLWDkt11GKh3Y8Y_0GZMgkVnjWRRLW_7gSG9KMG7YeNVmOfDTmcPGqbACyjGGR_iuqe5H8SBVW0Ba0JDoZnHkFj1UbtODkHvn7YcrADkFlPdVjoqd2SKZmoV8zHZsnph1yjz80_xDAV0AhJnvBfSD5W1UZUnf32k-wcbxLV7GDsID9uHx9w1O8F2dnxJ9SKOxTMIk7uESkkOhziFm9uEbsWNWzK3FDklzDBoWT3Velhmq7RZ68CbOW5ZlwO0CHdtPq-FebFdzZYLuteT0dkFGjH21IeDaUX5iYDy37HpPsKm2r2wEmXFbVhJYifh1qqYvo2V72k5jxhcYQRFJMNCZUBCkrJrseeRNIksfGvypGevDmpnghZYEiLvX0J96P4a_OF2PdwxMiFHVn23vH8iiJHxZqYykJamoFLK623-OaQL62fgwq1IbjFIwE3sAkI7Aunv3u0ThqlD-tCVsjJiDzh4pc3pIEULIERcdOqkSbNiNnderXCeDPcVc5c2cizhhbld9gcfMGBhKfJFPGW4AkgxB6GhJzwOyOSZkZleuqlwQXriMOCLxvmlxdQgCyZtDN7yxDVnS68uzEf2nGtylUHbjexPlJiWk_FheRjGd6UnTeL6Ep1s3QfzbTzohPLmPo-Q7H1hynoLsN271throkp2wyUtKH3xUVz-tUczTa4C2o8pPZp32-Y7rLcGeTXo-WHarN2fb0x-hliKqpibwk7qptKqls955tJuVSAsDqXNQ8XC60huCvyVWzF26GxzQNMcL5duEsanQQREtS8A0d6cOnkYx44PGLPW32Ww8Qdg80voMqIJ6bf-NaUs95xh7fuzZwbkWc0ARL-zFcizbs91lQmIgxHan2GB4xkYX6KPzCsOl_B5nzwIJ_lTa2SvCRAqZs2fMGWbwg2JqJ891zD-xNFjRG_wgLdWG4vI4AMK9eOI-awyQM.&gpp=DBABLA~BVQqAAAAAgA.QA&gpp_sid=7&us_privacy=1YNN&eventVOD=false&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22d7c7fa3e-d8e6-4514-972f-6f19714b7353%22%2Csu
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=217&deviceId=5bdce04659ee03633e758130&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/Gm4Nwb7G/Weather-Nation-logo.png" tvg-name="Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=217&deviceId=5bdce04659ee03633e758130&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appVersion=9.6.0-a4885044134e9550f33624d94056de15020c6adb&app_name=web&clientDeviceType=0&clientID=375f0c1b-ef75-4c3c-a1ce-ea3b95242005&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=375f0c1b-ef75-4c3c-a1ce-ea3b95242005&deviceLat=35.5100&deviceLon=-97.4700&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=US&serverSideAds=false&sessionID=fb4f12df-b2d7-11ef-b289-667f6b555507&sid=fb4f12df-b2d7-11ef-b289-667f6b555507&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImEwYzliMzc3LTg4M2EtNGI0Mi1hODc0LTI3OTJhMjNkMmFiZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJmYjRmMTJkZi1iMmQ3LTExZWYtYjI4OS02NjdmNmI1NTU1MDciLCJjbGllbnRJUCI6IjI2MDA6MTcwMjozNjkwOjIyMTA6OTg2ZDplNjY0OmRlZDI6ODczNyIsImNpdHkiOiJPa2xhaG9tYSBDaXR5IiwicG9zdGFsQ29kZSI6IjczMTExIiwiY291bnRyeSI6IlVTIiwiZG1hIjo2NTAsImFjdGl2ZVJlZ2lvbiI6IlVTIiwiZGV2aWNlTGF0IjozNS41MDk5OTgzMjE1MzMyLCJkZXZpY2VMb24iOi05Ny40NzAwMDEyMjA3MDMxMiwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTMzLjAuMCIsImRldmljZU1ha2UiOiJmaXJlZm94IiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjkuNi4wLWE0ODg1MDQ0MTM0ZTk1NTBmMzM2MjRkOTQwNTZkZTE1MDIwYzZhZGIiLCJjbGllbnRJRCI6IjM3NWYwYzFiLWVmNzUtNGMzYy1hMWNlLWVhM2I5NTI0MjAwNSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0NoaWNhZ28iLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7ImFkTG9hZCI6eyJjb2hvcnQiOiIifSwibXVsdGlBdWRpbyI6eyJlbmFibGVkIjp0cnVlfSwibXVsdGlQb2RBZHMiOnsiZW5hYmxlZCI6dHJ1ZX0sInNlYXJjaEFQSSI6eyJtYXRjaEV4YWN0SW5QaHJhc2VFbmFibGVkIjp0cnVlLCJtYXRjaEluQWN0b3JzQm9vc3QiOjI1LCJtYXRjaEluQWN0b3JzRWRpdERpc3RhbmNlIjoiQVVUTzo1LDExIiwibWF0Y2hJbkFjdG9yc0VuYWJsZWQiOnRydWUsIm1hdGNoSW5EaXJlY3RvcnNCb29zdCI6MjUsIm1hdGNoSW5EaXJlY3RvcnNFZGl0RGlzdGFuY2UiOiJBVVRPOjUsMTEiLCJtYXRjaEluRGlyZWN0b3JzRW5hYmxlZCI6dHJ1ZSwibmV4dXNUaW1lb3V0TXMiOjUwMCwicXVlcnlTeW5vbnltc0VuYWJsZWQiOnRydWUsInF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCIsInNlYXJjaFByb3h5RW5oYW5jZW1lbnQiOmZhbHNlfX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiMzc1ZjBjMWItZWY3NS00YzNjLWExY2UtZWEzYjk1MjQyMDA1IiwiZndWY0lEMkNvcHBhIjoiMzc1ZjBjMWItZWY3NS00YzNjLWExY2UtZWEzYjk1MjQyMDA1IiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiIzNzVmMGMxYi1lZjc1LTRjM2MtYTFjZS1lYTNiOTUyNDIwMDUiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5In19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6TXpjMVpqQmpNV0l0WldZM05TMDBZek5qTFdFeFkyVXRaV0V6WWprMU1qUXlNREExIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTczMzQ2OTAxNywiaWF0IjoxNzMzMzgyNjE3LCJqdGkiOiIxNzNhMzJkZC0zYjBiLTQyMjgtYTI0Mi00MGFjMmUzOGIzZTUifQ.H9Q62pt0HO8iURQC0DD9YR4ivaLEJWy48yNLQ5klMUE&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQEUiUHXWSa3vaLEk4oUAy4R2osGJ47fgU-unZQUvkFXW_MhgIIRL5GvIKdNIibf1LClXs5G756ntQk_XRG28Lit_f5ikZezMOvHs6sdDs-FYtdZCLanqx2Y4JkU75TPkHXhY4V-b7457NY5G8EArRknHskitywv6XhXQjp86CR6DSFALLWDkt11GKh3Y8Y_0GZMgkVnjWRRLW_7gSG9KMG7YeNVmOfDTmcPGqbACyjGGR_iuqe5H8SBVW0Ba0JDoZnHkFj1UbtODkHvn7YcrADkFlPdVjoqd2SKZmoV8zHZsnph1yjz80_xDAV0AhJnvBfSD5W1UZUnf32k-wcbxLV7GDsID9uHx9w1O8F2dnxJ9SKOxTMIk7uESkkOhziFm9uEbsWNWzK3FDklzDBoWT3Velhmq7RZ68CbOW5ZlwO0CHdtPq-FebFdzZYLuteT0dkFGjH21IeDaUX5iYDy37HpPsKm2r2wEmXFbVhJYifh1qqYvo2V72k5jxhcYQRFJMNCZUBCkrJrseeRNIksfGvypGevDmpnghZYEiLvX0J96P4a_OF2PdwxMiFHVn23vH8iiJHxZqYykJamoFLK623-OaQL62fgwq1IbjFIwE3sAkI7Aunv3u0ThqlD-tCVsjJiDzh4pc3pIEULIERcdOqkSbNiNnderXCeDPcVc5c2cizhhbld9gcfMGBhKfJFPGW4AkgxB6GhJzwOyOSZkZleuqlwQXriMOCLxvmlxdQgCyZtDN7yxDVnS68uzEf2nGtylUHbjexPlJiWk_FheRjGd6UnTeL6Ep1s3QfzbTzohPLmPo-Q7H1hynoLsN271throkp2wyUtKH3xUVz-tUczTa4C2o8pPZp32-Y7rLcGeTXo-WHarN2fb0x-hliKqpibwk7qptKqls955tJuVSAsDqXNQ8XC60huCvyVWzF26GxzQNMcL5duEsanQQREtS8A0d6cOnkYx44PGLPW32Ww8Qdg80voMqIJ6bf-NaUs95xh7fuzZwbkWc0ARL-zFcizbs91lQmIgxHan2GB4xkYX6KPzCsOl_B5nzwIJ_lTa2SvCRAqZs2fMGWbwg2JqJ891zD-xNFjRG_wgLdWG4vI4AMK9eOI-awyQM.&gpp=DBABLA~BVQqAAAAAgA.QA&gpp_sid=7&us_privacy=1YNN&eventVOD=false&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22d7c7fa3e-d8e6-4514-972f-6f19714b7353%22%2Csu
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/Gm4Nwb7G/Weather-Nation-logo.png" tvg-name="Weather Nation | (Roku) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Weather Nation | (Roku) (Ƭ⫯ⲍƬ⋎)
 https://osm-use1.sr.roku.com/osm/v1/hls/use1/variant/eeef5f64e81844998b5fb3018163e7f2/live_720.m3u8
@@ -6465,11 +6465,11 @@ https://yahoo-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1, tvg-id="YahooFinance.us" tvg-logo="Logo N/A" tvg-name="Yahoo! Finance | (Roku) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Yahoo! Finance | (Roku) (Ƭ⫯ⲍƬ⋎)
 https://yahoo-roku-us.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Yahoo! Finance | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Yahoo! Finance | (Ƭ⫯ⲍƬ⋎)
-https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/k4w8SG0s/Yahoo-Finance-Logo.png" tvg-name="Yahoo! Finance | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Yahoo! Finance | (Ƭ⫯ⲍƬ⋎)
 https://d1ewctnvcwvvvu.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/yahooLive/playlist.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Yahoo! Finance | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Yahoo! Finance | (Ƭ⫯ⲍƬ⋎)
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1, tvg-id="YahooFinance.us" tvg-logo="Logo N/A" tvg-name="Yahoo! Finance | (Vizio) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Yahoo! Finance | (Vizio) (Ƭ⫯ⲍƬ⋎)
 https://yahoo-vizio.amagi.tv/playlist.m3u8
@@ -6690,11 +6690,11 @@ http://www.deadlyblogger.com/NewRelease/xmen2.mp4
 #EXTINF:-1, tvg-id="CNBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/CNBC_2023.svg" tvg-name="ӿzTest CNBC | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Test",ӿzTest CNBC | (MOJ) (Ƭ⫯ⲍƬ⋎)
 http://fl3.moveonjoy.com/CNBC/index.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ӿzTest CNN | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Test",ӿzTest CNN | (MOJ) (Ƭ⫯ⲍƬ⋎)
-https://fl2.moveonjoy.com/CNN/index.m3u8
-
 #EXTINF:-1, tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" tvg-name="ӿzTest CNN | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Test",ӿzTest CNN | (MOJ) (Ƭ⫯ⲍƬ⋎)
 http://fl2.moveonjoy.com/CNN/index.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ӿzTest CNN | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Test",ӿzTest CNN | (MOJ) (Ƭ⫯ⲍƬ⋎)
+https://fl2.moveonjoy.com/CNN/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ӿzTest Comedy TV | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Test",ӿzTest Comedy TV | (MOJ) (Ƭ⫯ⲍƬ⋎)
 http://fl3.moveonjoy.com/Comedy_TV/index.m3u8
