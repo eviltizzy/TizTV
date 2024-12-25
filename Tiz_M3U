@@ -180,11 +180,11 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 COPS (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 COPS (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e1f7e089f23700009d66303/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e22-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=61a222b5-87a2-410f-a84b-7319bf133c3a
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/8PVkGgtb/PlutoTV.png" tvg-name="24/7 COPS | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 COPS | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1f7e089f23700009d66303/master.m3u8?appName=web&appVersion=5.0.3-5a69f0421bfaa21acf57c7f54f9914128359c64e&deviceDNT=0&deviceId=bffaf7a4-dbd6-4fd1-932f-6df9229b9646&deviceMake=p&deviceModel=p&deviceType=web&deviceVersion=73.0&sid=2132596c-cc5b-4ade-9176-ff22db50c538
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/MGw1fL60/COPS-Logo.jpg" tvg-name="24/7 COPS | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 COPS | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1f7e089f23700009d66303/master.m3u8?appName=web&appVersion=5.0.3-5a69f0421bfaa21acf57c7f54f9914128359c64e&deviceDNT=0&deviceId=bffaf7a4-dbd6-4fd1-932f-6df9229b9646&deviceMake=p&deviceModel=p&deviceType=web&deviceVersion=73.0&sid=2132596c-cc5b-4ade-9176-ff22db50c538?247.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/8PVkGgtb/PlutoTV.png" tvg-name="24/7 COPS | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 COPS | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1f7e089f23700009d66303/master.m3u8?appName=web&appVersion=5.0.3-5a69f0421bfaa21acf57c7f54f9914128359c64e&deviceDNT=0&deviceId=bffaf7a4-dbd6-4fd1-932f-6df9229b9646&deviceMake=p&deviceModel=p&deviceType=web&deviceVersion=73.0&sid=2132596c-cc5b-4ade-9176-ff22db50c538
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Crime Hunters | (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Crime Hunters | (Ƭ⫯ⲍƬ⋎)
 https://amg01201-cinedigmenterta-crimehunters-cineverse-cnqvb.amagi.tv/playlist/amg01201-cinedigmenterta-crimehunters-cineverse/playlist.m3u8
@@ -303,11 +303,11 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Ed Sullivan Show (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Ed Sullivan Show (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e91da1f07afa0007ffccfc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5075-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b64e7f1-151a-45ae-b9ec-c80bbbacf798
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Eric Andre Show Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Eric Andre Show Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
-https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Eric Andre Show Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Eric Andre Show Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_de.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Eric Andre Show Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Eric Andre Show Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
+https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Family Feud Classic (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Family Feud Classic (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c2222fb0cf5c0008288c4f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a2d93-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5513d020-7e3c-4428-8383-36d51d71d616
@@ -583,10 +583,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f7791b8372da90007fd45e6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b11caad2-6afe-44b5-8ca3-9e98672f6a0f
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Primal Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Primal Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
-https://adultswim-vodlive.cdn.turner.com/live/primal/stream_de.m3u8
+https://adultswim-vodlive.cdn.turner.com/live/primal/stream.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Primal Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Primal Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
-https://adultswim-vodlive.cdn.turner.com/live/primal/stream.m3u8
+https://adultswim-vodlive.cdn.turner.com/live/primal/stream_de.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Rawhide (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Rawhide (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634f307c7a068e00072c9982/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6278-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d9433765-7aeb-4cd3-9244-281a4bcdc393
@@ -1161,11 +1161,11 @@ https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/pl
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ACCN (Atlantic Coast Conference Network) | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Sports",ACCN (Atlantic Coast Conference Network) | (MOJ) (Ƭ⫯ⲍƬ⋎)
 http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
 
+#EXTINF:-1, tvg-id="AccuWeatherNOW.us" tvg-logo="Logo N/A" tvg-name="AccuWeather Now | (Plex) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",AccuWeather Now | (Plex) (Ƭ⫯ⲍƬ⋎)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+
 #EXTINF:-1, tvg-id="AccuWeatherNOW.us" tvg-logo="Logo N/A" tvg-name="AccuWeather Now | (Roku) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",AccuWeather Now | (Roku) (Ƭ⫯ⲍƬ⋎)
 https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AccuWeather Now | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",AccuWeather Now | (Ƭ⫯ⲍƬ⋎)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Ace TV (KCKS-LD3) | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Ace TV (KCKS-LD3) | (Ƭ⫯ⲍƬ⋎)
 https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
@@ -1284,11 +1284,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Aftershock (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Aftershock (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63e36b374e83e70008987c58/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c791c20-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a330bc3-1def-4752-9f03-564abe79388b
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AFV (Americas Funniest Videos) | (Samsung) (Ƭ⫯ⲍƬ⋎)"  group-title="Comedy",AFV (Americas Funniest Videos) | (Samsung) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AFV! (AmericasFunniestVideos) | (Samsung) (Ƭ⫯ⲍƬ⋎)"  group-title="Comedy",AFV! (AmericasFunniestVideos) | (Samsung) (Ƭ⫯ⲍƬ⋎)
 https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1, tvg-id="AFV.us" tvg-logo="Logo N/A" tvg-name="AFV | (Plex) (Ƭ⫯ⲍƬ⋎)"  group-title="Comedy",AFV | (Plex) (Ƭ⫯ⲍƬ⋎)
-https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AIT National | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",AIT National | (Ƭ⫯ⲍƬ⋎)
 https://webstreaming.viewmedia.tv/web_036/Stream/playlist.m3u8
@@ -1318,10 +1315,10 @@ https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/NM0bmcyp/Al-Jazeera-Logo.png" tvg-name="Al Jazeera English | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Al Jazeera English | (Ƭ⫯ⲍƬ⋎)
-https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+http://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/NM0bmcyp/Al-Jazeera-Logo.png" tvg-name="Al Jazeera English | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Al Jazeera English | (Ƭ⫯ⲍƬ⋎)
-http://live-hls-web-aje.getaj.net/AJE/index.m3u8
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
 #EXTINF:-1, tvg-id="AllRealitybyWEtv.us" tvg-logo="InsertLogoHere" tvg-name="All Reality by WE tv (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",All Reality by WE tv (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e82530945600e0007ca076c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268071-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=aa6a05a1-3247-4bc5-bd09-5c548c69aecb
@@ -1329,8 +1326,11 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/8PVkGgtb/PlutoTV.png" tvg-name="All Reality by WE tv | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="PlutoTV",All Reality by WE tv | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82530945600e0007ca076c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=310&deviceId=5e82530945600e0007ca076c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Always Funny | (KlowdTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Always Funny | (KlowdTV) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Always Funny | (KlowdTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Comedy",Always Funny | (KlowdTV) (Ƭ⫯ⲍƬ⋎)
 https://a-cdn.klowdtv.com/live3/alwaysfunny_720p/playlist.m3u8
+
+#EXTINF:-1, tvg-id="AFV.us" tvg-logo="Logo N/A" tvg-name="Always Funny | (Plex) (Ƭ⫯ⲍƬ⋎)"  group-title="Comedy",Always Funny | (Plex) (Ƭ⫯ⲍƬ⋎)
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Always Funny Pranks & Fails | (STIRЯ) (Ƭ⫯ⲍƬ⋎)"  group-title="Comedy",Always Funny Pranks & Fails | (STIRЯ) (Ƭ⫯ⲍƬ⋎)
 https://linear-863.frequency.stream/dist/stirr/863/hls/master/playlist.m3u8
@@ -1368,6 +1368,9 @@ https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
 #EXTINF:-1, tvg-id="AmericasVoiceNews.us" tvg-logo="InsertLogoHere" tvg-name="America's Voice News (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",America's Voice News (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e1f7da4bc7d740009831259/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268075-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c9b5079-e879-44e3-aa61-766a233fb604
 
+#EXTINF:-1, tvg-id="Ameritrade.us" tvg-logo="Logo N/A" tvg-name="Ameritrade | (Vizio) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Ameritrade | (Vizio) (Ƭ⫯ⲍƬ⋎)
+https://tdameritrade-vizio.amagi.tv/playlist.m3u8
+
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AMG TV (Access Media Group) | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",AMG TV (Access Media Group) | (Ƭ⫯ⲍƬ⋎)
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 
@@ -1393,13 +1396,13 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58
 https://stitcher-yidio.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=web&deviceMake=Firefox&deviceVersion=133.0&deviceId=7729E570-C01B-1F24-9382-142B6A850D6E&appVersion=1&deviceDNT=0&deviceModel=web&embedPartner=yidio.com&sid=36e7f30751b4eecd6baa8051b5bdfce7
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Test",Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eac6b8efb7a6500070b5c9b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a783-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=25d82ce6-20be-4a97-8019-19ce21826e94
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Test",Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eac6bf103a57700073efcc5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a784-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d4bc9c0c-00a9-469c-9c25-f6f698a11e0e
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Test",Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eac6c5d2240d80007327f5a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a785-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=636f5ff0-e489-4bc8-99f3-08d6f12c2f45
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Test",Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eac6b8efb7a6500070b5c9b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a783-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=25d82ce6-20be-4a97-8019-19ce21826e94
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Antenna TV | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Antenna TV | (MOJ) (Ƭ⫯ⲍƬ⋎)
 http://fl3.moveonjoy.com/Antenna/index.m3u8
@@ -1509,259 +1512,259 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC News Asia Pacific | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",BBC News Asia Pacific | (Ƭ⫯ⲍƬ⋎)
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 1 (Top40) | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio 1 (Top40) | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 1 (Top40) | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 (Top40) | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 1 (Top40) | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio 1 (Top40) | (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_one&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 1 Dance | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio 1 Dance | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 1 Dance | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 Dance | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 1 Dance | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio 1 Dance | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 1 Dance | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 Dance | (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_one_dance&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 1 Xtra | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio 1 Xtra | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 1 Xtra | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 Xtra | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 1 Xtra | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio 1 Xtra | (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_1xtra&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 2 (Oldies/Pop) | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio 2 (Oldies/Pop) | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 2 (Oldies/Pop) | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 2 (Oldies/Pop) | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 2 (Oldies/Pop) | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio 2 (Oldies/Pop) | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 2 (Oldies/Pop) | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 2 (Oldies/Pop) | (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_two&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 3 (Classical) | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio 3 (Classical) | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 3 (Classical) | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 3 (Classical) | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 3 (Classical) | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio 3 (Classical) | (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_three&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 4 (Talk Radio) | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio 4 (Talk Radio) | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 4 (Talk Radio) | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 4 (Talk Radio) | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 4 (Talk Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio 4 (Talk Radio) | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 4 (Talk Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 4 (Talk Radio) | (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_fourfm&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 4 Extra | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio 4 Extra | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 4 Extra | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 4 Extra | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d96000.norewind.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 4 Extra | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio 4 Extra | (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_four_extra&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 5 live (News/Talk) | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio 5 live (News/Talk) | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 5 live (News/Talk) | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 5 live (News/Talk) | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 5 live (News/Talk) | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio 5 live (News/Talk) | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 5 live (News/Talk) | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 5 live (News/Talk) | (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_five_live&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 6 Music | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio 6 Music | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 6 Music | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 6 Music | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 6 Music | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio 6 Music | (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_6music&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Asian Network | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Asian Network | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Asian Network | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Asian Network | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Berkshire | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Berkshire | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Berkshire | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Berkshire | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_berkshire/bbc_radio_berkshire.isml/bbc_radio_berkshire-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Bristol | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Bristol | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Bristol | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Bristol | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_bristol/bbc_radio_bristol.isml/bbc_radio_bristol-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Cambridge | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Cambridge | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Cambridge | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cambridge | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_cambridge/bbc_radio_cambridge.isml/bbc_radio_cambridge-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Cornwall | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Cornwall | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Cornwall | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cornwall | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_cornwall/bbc_radio_cornwall.isml/bbc_radio_cornwall-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Cumbria | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Cumbria | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Cumbria | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cumbria | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_cumbria/bbc_radio_cumbria.isml/bbc_radio_cumbria-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio CWR | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio CWR | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio CWR | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio CWR | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_coventry_warwickshire/bbc_radio_coventry_warwickshire.isml/bbc_radio_coventry_warwickshire-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Cymru | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Cymru | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Cymru | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cymru | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_cymru/bbc_radio_cymru.isml/bbc_radio_cymru-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Cymru | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Cymru | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Cymru | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cymru | (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_cymru&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Cymru 2 | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Cymru 2 | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Cymru 2 | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cymru 2 | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_cymru_2/bbc_radio_cymru_2.isml/bbc_radio_cymru_2-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Cymru 2 | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Cymru 2 | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Cymru 2 | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cymru 2 | (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_cymru_2&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Derby | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Derby | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Derby | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Derby | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_derby/bbc_radio_derby.isml/bbc_radio_derby-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Devon | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Devon | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Devon | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Devon | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_devon/bbc_radio_devon.isml/bbc_radio_devon-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Essex | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Essex | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Essex | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Essex | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_essex/bbc_radio_essex.isml/bbc_radio_essex-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Foyle | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Foyle | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Foyle | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Foyle | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_foyle/bbc_radio_foyle.isml/bbc_radio_foyle-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Foyle | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Foyle | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Foyle | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Foyle | (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_foyle&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Gloucestershire | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Gloucestershire | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Gloucestershire | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Gloucestershire | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_gloucestershire/bbc_radio_gloucestershire.isml/bbc_radio_gloucestershire-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Guernsey | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Guernsey | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Guernsey | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Guernsey | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_guernsey/bbc_radio_guernsey.isml/bbc_radio_guernsey-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Hereford Worcester | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Hereford Worcester | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Hereford Worcester | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Hereford Worcester | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_hereford_worcester/bbc_radio_hereford_worcester.isml/bbc_radio_hereford_worcester-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Humberside | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Humberside | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Humberside | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Humberside | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_humberside/bbc_radio_humberside.isml/bbc_radio_humberside-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Jersey | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Jersey | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Jersey | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Jersey | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_jersey/bbc_radio_jersey.isml/bbc_radio_jersey-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Kent | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Kent | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Kent | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Kent | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_kent/bbc_radio_kent.isml/bbc_radio_kent-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Lancashire | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Lancashire | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Lancashire | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Lancashire | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_lancashire/bbc_radio_lancashire.isml/bbc_radio_lancashire-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Leeds | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Leeds | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Leeds | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Leeds | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_leeds/bbc_radio_leeds.isml/bbc_radio_leeds-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Leicester | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Leicester | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Leicester | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Leicester | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_leicester/bbc_radio_leicester.isml/bbc_radio_leicester-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Lincolnshire | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Lincolnshire | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Lincolnshire | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Lincolnshire | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_lincolnshire/bbc_radio_lincolnshire.isml/bbc_radio_lincolnshire-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio London | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio London | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio London | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio London | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_london/bbc_london.isml/bbc_london-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Manchester | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Manchester | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Manchester | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Manchester | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_manchester/bbc_radio_manchester.isml/bbc_radio_manchester-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Merseyside | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Merseyside | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Merseyside | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Merseyside | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_merseyside/bbc_radio_merseyside.isml/bbc_radio_merseyside-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Merseyside | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Merseyside | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Merseyside | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Merseyside | (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_merseyside&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio nan Gaidheal | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio nan Gaidheal | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio nan Gaidheal | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio nan Gaidheal | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_nan_gaidheal/bbc_radio_nan_gaidheal.isml/bbc_radio_nan_gaidheal-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio nan Gaidheal | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio nan Gaidheal | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio nan Gaidheal | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio nan Gaidheal | (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_nan_gaidheal&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Newcastle | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Newcastle | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Newcastle | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Newcastle | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_newcastle/bbc_radio_newcastle.isml/bbc_radio_newcastle-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Norfolk | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Norfolk | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Norfolk | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Norfolk | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_norfolk/bbc_radio_norfolk.isml/bbc_radio_norfolk-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Northampton | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Northampton | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Northampton | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Northampton | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_northampton/bbc_radio_northampton.isml/bbc_radio_northampton-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Nottingham | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Nottingham | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Nottingham | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Nottingham | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_nottingham/bbc_radio_nottingham.isml/bbc_radio_nottingham-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Orkney | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Orkney | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Orkney | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Orkney | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_orkney/bbc_radio_orkney.isml/bbc_radio_orkney-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Oxford | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Oxford | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Oxford | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Oxford | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_oxford/bbc_radio_oxford.isml/bbc_radio_oxford-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Scotland FM | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Scotland FM | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Scotland FM | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Scotland FM | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_scotland_fm/bbc_radio_scotland_fm.isml/bbc_radio_scotland_fm-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Scotland FM | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Scotland FM | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Scotland FM | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Scotland FM | (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_scotland_fm&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Scotland MW | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Scotland MW | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Scotland MW | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Scotland MW | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_scotland_mw/bbc_radio_scotland_mw.isml/bbc_radio_scotland_mw-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Sheffield | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Sheffield | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Sheffield | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Sheffield | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_sheffield/bbc_radio_sheffield.isml/bbc_radio_sheffield-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Shropshire | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Shropshire | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Shropshire | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Shropshire | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_shropshire/bbc_radio_shropshire.isml/bbc_radio_shropshire-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Solent | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Solent | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Solent | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Solent | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_solent/bbc_radio_solent.isml/bbc_radio_solent-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Solent West Dorset | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Solent West Dorset | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Solent West Dorset | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Solent West Dorset | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_solent_west_dorset/bbc_radio_solent_west_dorset.isml/bbc_radio_solent_west_dorset-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Solent West Dorset | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Solent West Dorset | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Solent West Dorset | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Solent West Dorset | (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_solent_west_dorset&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Somerset Sound | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Somerset Sound | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Somerset Sound | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Somerset Sound | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_somerset_sound/bbc_radio_somerset_sound.isml/bbc_radio_somerset_sound-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Stoke | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Stoke | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Stoke | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Stoke | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_stoke/bbc_radio_stoke.isml/bbc_radio_stoke-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Suffolk | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Suffolk | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Suffolk | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Suffolk | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_suffolk/bbc_radio_suffolk.isml/bbc_radio_suffolk-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Suffolk | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Suffolk | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Suffolk | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Suffolk | (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_suffolk&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Surrey | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Surrey | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Surrey | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Surrey | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_surrey/bbc_radio_surrey.isml/bbc_radio_surrey-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Surrey | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Surrey | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Surrey | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Surrey | (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_surrey&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Sussex | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Sussex | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Sussex | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Sussex | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_sussex/bbc_radio_sussex.isml/bbc_radio_sussex-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Tees | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Tees | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Tees | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Tees | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_tees/bbc_tees.isml/bbc_tees-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Tees | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Tees | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Tees | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Tees | (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_tees&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Three Counties | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Three Counties | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Three Counties | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Three Counties | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_three_counties_radio/bbc_three_counties_radio.isml/bbc_three_counties_radio-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Ulster | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Ulster | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Ulster | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Ulster | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_ulster/bbc_radio_ulster.isml/bbc_radio_ulster-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Ulster | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Ulster | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Ulster | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Ulster | (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_ulster&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Wales | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Wales | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Wales | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Wales | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_wales_fm/bbc_radio_wales_fm.isml/bbc_radio_wales_fm-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Wales | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Wales | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Wales | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Wales | (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_wales_fm&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Wiltshire | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Wiltshire | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Wiltshire | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Wiltshire | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_wiltshire/bbc_radio_wiltshire.isml/bbc_radio_wiltshire-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Wiltshire | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio Wiltshire | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Wiltshire | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Wiltshire | (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_wiltshire&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio WM | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio WM | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio WM | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio WM | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_wm/bbc_wm.isml/bbc_wm-audio%3d96000.norewind.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio World Service | (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio World Service | (Ƭ⫯ⲍƬ⋎)
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio World Service || (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio World Service || (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio World Service || (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio World Service || (Ƭ⫯ⲍƬ⋎)
 http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio World Service ||| (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio World Service ||| (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio World Service ||| (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio World Service ||| (Ƭ⫯ⲍƬ⋎)
 http://wsdownload.bbc.co.uk/worldservice/meta/live/shoutcast/mp3/eieuk.pls
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio York | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Audio",BBC Radio York | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio York | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio York | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_york/bbc_radio_york.isml/bbc_radio_york-audio%3d96000.norewind.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC Two UK | (Ƭ⫯ⲍƬ⋎)"  group-title="Entertainment",BBC Two UK | (Ƭ⫯ⲍƬ⋎)
@@ -1857,10 +1860,13 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 #EXTINF:-1, tvg-id="BlackInkCrew.us" tvg-logo="InsertLogoHere" tvg-name="Black Ink Crew (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Black Ink Crew (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d51e2bceca5b4b2c0e06c50/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7e1b1a9a-b2d0-478b-bbba-1d01b5d4cf5c
 
-#EXTINF:-1, tvg-id="BlackNewsChannel.us" tvg-logo="Logo N/A" tvg-name="Black News Channel | (Xumo) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Black News Channel | (Xumo) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="BlackNewsChannel.us" tvg-logo="Logo N/A" tvg-name="Black News Channel | (Vizio) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Black News Channel | (Vizio) (Ƭ⫯ⲍƬ⋎)
+https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="BlackNewsChannel.us" tvg-logo="Logo N/A" tvg-name="Black News Channel | (Xumo) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Black News Channel | (Xumo) (Ƭ⫯ⲍƬ⋎)
 https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="BlackNewsChannel.us" tvg-logo="Logo N/A" tvg-name="Black News Channel || (Xumo) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Black News Channel || (Xumo) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="BlackNewsChannel.us" tvg-logo="Logo N/A" tvg-name="Black News Channel | (Xumo) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Black News Channel | (Xumo) (Ƭ⫯ⲍƬ⋎)
 https://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="BlackNewsChannel.us" tvg-logo="Logo N/A" tvg-name="Black News Channel ||| (Xumo) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Black News Channel ||| (Xumo) (Ƭ⫯ⲍƬ⋎)
@@ -1943,9 +1949,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/54
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/15LxpGN5/Black-News-Channel.png" tvg-name="BNC (Black News Channel) | (Redbox) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",BNC (Black News Channel) | (Redbox) (Ƭ⫯ⲍƬ⋎)
 http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/FzbrKNPG/Black-News-Channel-BNC.jpg" tvg-name="BNC (Black News Channel) | (Vizio) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",BNC (Black News Channel) | (Vizio) (Ƭ⫯ⲍƬ⋎)
-https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="bonappetit.us" tvg-logo="Logo N/A" tvg-name="bon appétit (US) | (Samsung) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",bon appétit (US) | (Samsung) (Ƭ⫯ⲍƬ⋎)
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
@@ -2097,18 +2100,6 @@ https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/8db878c
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/9fgJ0sS5/CBS-News.png" tvg-name="CBS News | (Xumo) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",CBS News | (Xumo) (Ƭ⫯ⲍƬ⋎)
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/9fgJ0sS5/CBS-News.png" tvg-name="CBS News | Dallas-FortWorth TX (US) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS News | Dallas-FortWorth TX (US) (Ƭ⫯ⲍƬ⋎)
-https://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/9fgJ0sS5/CBS-News.png" tvg-name="CBS News | Minnesota (US) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS News | Minnesota (US) (Ƭ⫯ⲍƬ⋎)
-https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/9fgJ0sS5/CBS-News.png" tvg-name="CBS News | Philadelphia PA (US) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS News | Philadelphia PA (US) (Ƭ⫯ⲍƬ⋎)
-https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/9fgJ0sS5/CBS-News.png" tvg-name="CBS News | San Francisco Bay Area CA (US) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS News | San Francisco Bay Area CA (US) (Ƭ⫯ⲍƬ⋎)
-https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8
-
 #EXTINF:-1, tvg-id="CBSNews247.us" tvg-logo="InsertLogoHere" tvg-name="CBS News 24/7 (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",CBS News 24/7 (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6350fdd266e9ea0007bedec5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c799153-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=15376bcb-2b34-4530-a2f7-c528a8eb2aa3
 
@@ -2124,14 +2115,20 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 #EXTINF:-1, tvg-id="CBSNewsBayArea.us" tvg-logo="InsertLogoHere" tvg-name="CBS News Bay Area (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS News Bay Area (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb1afb21486df0007abc57c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5bd2f615-6b6e-4064-999c-18f8e5fef312
 
+#EXTINF:-1, tvg-id="CBSNewsBayArea.us" tvg-logo="Logo N/A" tvg-name="CBS News Bay Area CA | (STIRЯ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",CBS News Bay Area CA | (STIRЯ) (Ƭ⫯ⲍƬ⋎)
+https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8
+
 #EXTINF:-1, tvg-id="CBSNewsBoston.us" tvg-logo="InsertLogoHere" tvg-name="CBS News Boston (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS News Boston (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb1af2ad345340008fccd1e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d91870f6-66d3-4ab8-bee7-503a15f2ffaa
 
-#EXTINF:-1, tvg-id="CBSNewsChicago.us" tvg-logo="InsertLogoHere" tvg-name="CBS News Chicago (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS News Chicago (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cdc75b1a1cbd0007ed45dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6fee3fa1-e914-4744-aead-7461eaec70c2
+#EXTINF:-1, tvg-id="CBSNewsBoston.us" tvg-logo="Logo N/A" tvg-name="CBS News Boston MA | (STIRЯ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",CBS News Boston MA | (STIRЯ) (Ƭ⫯ⲍƬ⋎)
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
 
 #EXTINF:-1, tvg-id="CBSNewsChicago.us" tvg-logo="InsertLogoHere" tvg-name="CBS News Chicago (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS News Chicago (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb1aeb2fd4b8a00076c2047/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d5b75a06-e54e-4df0-b26d-9cc72a81b497
+
+#EXTINF:-1, tvg-id="CBSNewsChicago.us" tvg-logo="InsertLogoHere" tvg-name="CBS News Chicago (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS News Chicago (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cdc75b1a1cbd0007ed45dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6fee3fa1-e914-4744-aead-7461eaec70c2
 
 #EXTINF:-1, tvg-id="CBSNewsChicago.us" tvg-logo="Logo N/A" tvg-name="CBS News Chicago IL | (STIRЯ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",CBS News Chicago IL | (STIRЯ) (Ƭ⫯ⲍƬ⋎)
 https://dai.google.com/linear/hls/event/DWt8iR1YQ-OJQsxczu8KfQ/master.m3u8
@@ -2141,6 +2138,9 @@ https://dai.google.com/linear/hls/event/DWt8iR1YQ-OJQsxczu8KfQ/master.m3u8?iu=/4
 
 #EXTINF:-1, tvg-id="CBSNewsColorado.us" tvg-logo="InsertLogoHere" tvg-name="CBS News Colorado (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS News Colorado (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb1b12146cba40007aa7e5d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fa549f2c-49d6-4bce-bacd-70b6925e7bf8
+
+#EXTINF:-1, tvg-id="CBSNewsDFW.us" tvg-logo="Logo N/A" tvg-name="CBS News Dallas Ft Worth TX | (STIRЯ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",CBS News Dallas Ft Worth TX | (STIRЯ) (Ƭ⫯ⲍƬ⋎)
+https://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8
 
 #EXTINF:-1, tvg-id="CBSNewsColorado.us" tvg-logo="Logo N/A" tvg-name="CBS News Denver CO | (STIRЯ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",CBS News Denver CO | (STIRЯ) (Ƭ⫯ⲍƬ⋎)
 https://dai.google.com/linear/hls/event/EUo67MWSRh6toPi0heJKnQ/master.m3u8
@@ -2152,10 +2152,10 @@ https://dai.google.com/linear/hls/event/EUo67MWSRh6toPi0heJKnQ/master.m3u8?iu=/4
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634f2610d5023700078f7dee/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8334f86e-7583-40d6-b2f2-2e8328f8b6ef
 
 #EXTINF:-1, tvg-id="CBSNewsLosAngeles.us" tvg-logo="InsertLogoHere" tvg-name="CBS News Los Angeles (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS News Los Angeles (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc9b875e280c80009a8a44a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a612bd7b-6a41-4c05-aebf-59ac30d6018b
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc481cda1d430000948a1b4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=eae9bdc0-6180-4f5d-8ffa-b05719d60f76
 
 #EXTINF:-1, tvg-id="CBSNewsLosAngeles.us" tvg-logo="InsertLogoHere" tvg-name="CBS News Los Angeles (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS News Los Angeles (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc481cda1d430000948a1b4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=eae9bdc0-6180-4f5d-8ffa-b05719d60f76
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc9b875e280c80009a8a44a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a612bd7b-6a41-4c05-aebf-59ac30d6018b
 
 #EXTINF:-1, tvg-id="CBSNewsLosAngeles.us" tvg-logo="Logo N/A" tvg-name="CBS News Los Angeles CA | (STIRЯ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",CBS News Los Angeles CA | (STIRЯ) (Ƭ⫯ⲍƬ⋎)
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
@@ -2166,14 +2166,14 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 #EXTINF:-1, tvg-id="CBSNewsMinnesota.us" tvg-logo="InsertLogoHere" tvg-name="CBS News Minnesota (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS News Minnesota (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb1b0bf2240d8000732a09c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4664f76e-5d97-4d34-816d-f8d81755622a
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/9fgJ0sS5/CBS-News.png" tvg-name="CBS News Minnesota | (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS News Minnesota | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="CBSNewsMinnesota.us" tvg-logo="Logo N/A" tvg-name="CBS News Minnesota MN | (STIRЯ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",CBS News Minnesota MN | (STIRЯ) (Ƭ⫯ⲍƬ⋎)
 https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8
 
 #EXTINF:-1, tvg-id="CBSNewsNewYork.us" tvg-logo="InsertLogoHere" tvg-name="CBS News New York (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS News New York (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc9b8223687ff000936ed79/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c8f1fbb0-e9de-4ec2-b727-78b57832f3ae
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc48170e280c80009a861ab/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fb8dad98-4322-41fe-bb83-595fb6bb9006
 
 #EXTINF:-1, tvg-id="CBSNewsNewYork.us" tvg-logo="InsertLogoHere" tvg-name="CBS News New York (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS News New York (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc48170e280c80009a861ab/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fb8dad98-4322-41fe-bb83-595fb6bb9006
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc9b8223687ff000936ed79/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c8f1fbb0-e9de-4ec2-b727-78b57832f3ae
 
 #EXTINF:-1, tvg-id="CBSNewsNewYork.us" tvg-logo="Logo N/A" tvg-name="CBS News New York NY | (STIRЯ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",CBS News New York NY | (STIRЯ) (Ƭ⫯ⲍƬ⋎)
 http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
@@ -2183,6 +2183,9 @@ https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="CBS News Philadelphia (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS News Philadelphia (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb1b05ea168cc000767ba67/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a12d4db0-b63f-41f2-8f0d-d4faab762d0a
+
+#EXTINF:-1, tvg-id="CBSNewsPhilly.us" tvg-logo="Logo N/A" tvg-name="CBS News Philly PA | (STIRЯ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",CBS News Philly PA | (STIRЯ) (Ƭ⫯ⲍƬ⋎)
+https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8
 
 #EXTINF:-1, tvg-id="CBSNewsPittsburgh.us" tvg-logo="InsertLogoHere" tvg-name="CBS News Pittsburgh (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS News Pittsburgh (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eb1b17aa5277e00083f6521/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b0e061b0-8217-4bae-9a09-61f828338bbc
@@ -2195,9 +2198,6 @@ https://dai.google.com/linear/hls/event/i5SXVKI4QIuV-eF2XAH4FQ/master.m3u8?iu=/4
 
 #EXTINF:-1, tvg-id="CBSNewsSacramento.us" tvg-logo="InsertLogoHere" tvg-name="CBS News Sacramento (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS News Sacramento (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60cb6df2b2ad610008cd5bea/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d09dee4f-4202-48bd-b577-6544af5864e1
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/9fgJ0sS5/CBS-News.png" tvg-name="CBS News San Francisco Bay Area CA | (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS News San Francisco Bay Area CA | (Ƭ⫯ⲍƬ⋎)
-https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="CBS News Texas (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS News Texas (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eceb0d4065c240007688ec6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=870d3aac-da79-4239-a021-82bea2a622d2
@@ -2283,11 +2283,11 @@ https://apollo.production-public.tubi.io/live/ac-cinevault-80s.m3u8
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Cinevault Westerns | (Tubi) (Ƭ⫯ⲍƬ⋎)"  group-title="General",Cinevault Westerns | (Tubi) (Ƭ⫯ⲍƬ⋎)
 https://apollo.production-public.tubi.io/live/ac-cinevault-westerns.m3u8
 
-#EXTINF:-1, tvg-id="Circle.us" tvg-logo="Logo N/A" tvg-name="Circle (US) | (Samsung) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Circle (US) | (Samsung) (Ƭ⫯ⲍƬ⋎)
-https://circle-samsung.amagi.tv/playlist.m3u8
-
 #EXTINF:-1, tvg-id="Circle.us" tvg-logo="Logo N/A" tvg-name="Circle | (Roku) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Circle | (Roku) (Ƭ⫯ⲍƬ⋎)
 https://circle-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/yNmZgT9B/Circle.png" tvg-name="Circle | (Samsung) (Ƭ⫯ⲍƬ⋎)"  group-title="Music",Circle | (Samsung) (Ƭ⫯ⲍƬ⋎)
+https://circle-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="Circle.us" tvg-logo="Logo N/A" tvg-name="Circle | (Vizio) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Circle | (Vizio) (Ƭ⫯ⲍƬ⋎)
 https://circle-vizio.amagi.tv/playlist.m3u8
@@ -2421,11 +2421,11 @@ http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.
 #EXTINF:-1, tvg-id="Comet.us" tvg-logo="Logo N/A" tvg-name="Comet | (STIRЯ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Comet | (STIRЯ) (Ƭ⫯ⲍƬ⋎)
 https://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Comet | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Comet | (Ƭ⫯ⲍƬ⋎)
-https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/C5jSNCT7/CometTV.jpg" tvg-name="Comet | (Ƭ⫯ⲍƬ⋎)"  group-title="General",Comet | (Ƭ⫯ⲍƬ⋎)
 http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Comet | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Comet | (Ƭ⫯ⲍƬ⋎)
+https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/HLCw7bPL/live-concert.jpg" tvg-name="Concert | Alanis Morissette - CBS Special w/ads (1997)"  group-title="Concerts",Concert | Alanis Morissette - CBS Special w/ads (1997)
 https://archive.org/download/alanis-morissette-live-in-concert-1997-cbc-special-presentaion-with-commercials/Alanis%20Morissette%20-%20Live%20in%20Concert%20%281997%29%20-%20CBC%20Special%20Presentaion%20-%20with%20commercials%20%28VHS%20Rip%29.mp4
@@ -2893,16 +2893,16 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a
 https://apollo.production-public.tubi.io/live/fox-sports.m3u8
 
 #EXTINF:-1, tvg-id="FoxWeather.us" tvg-logo="Logo N/A" tvg-name="Fox Weather | (Xumo) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Fox Weather | (Xumo) (Ƭ⫯ⲍƬ⋎)
-https://foxweather-xumo.amagi.tv/playlist.m3u8
-
-#EXTINF:-1, tvg-id="FoxWeather.us" tvg-logo="Logo N/A" tvg-name="Fox Weather || (Xumo) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Fox Weather || (Xumo) (Ƭ⫯ⲍƬ⋎)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="France 24 English | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",France 24 English | (Ƭ⫯ⲍƬ⋎)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+#EXTINF:-1, tvg-id="FoxWeather.us" tvg-logo="Logo N/A" tvg-name="Fox Weather || (Xumo) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Fox Weather || (Xumo) (Ƭ⫯ⲍƬ⋎)
+https://foxweather-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="France 24 English | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",France 24 English | (Ƭ⫯ⲍƬ⋎)
 https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="France 24 English | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",France 24 English | (Ƭ⫯ⲍƬ⋎)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/CKk7FXHv/Free-Speech-TV.png" tvg-name="Free Speech TV | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Free Speech TV | (Ƭ⫯ⲍƬ⋎)
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
@@ -3298,10 +3298,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=33174d1f-99cb-4190-85d6-69259af9a54b
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Live Music (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Live Music (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=24f8b91f-0237-469f-a450-a4f94a1f5b92
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663d24a7cb3ea10008f567d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1ac91f63-7406-4e95-8951-84561f9bf332
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Live Music (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Live Music (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663d24a7cb3ea10008f567d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1ac91f63-7406-4e95-8951-84561f9bf332
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c298db4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=24f8b91f-0237-469f-a450-a4f94a1f5b92
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/8PVkGgtb/PlutoTV.png" tvg-name="Live Music Replay | (Ƭ⫯ⲍƬ⋎)"  group-title="PlutoTV",Live Music Replay | (Ƭ⫯ⲍƬ⋎)
 http://stitcher.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
@@ -3738,11 +3738,11 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="NickToons | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",NickToons | (MOJ) (Ƭ⫯ⲍƬ⋎)
 http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="NickToons | (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",NickToons | (Ƭ⫯ⲍƬ⋎)
-https://stream01.vnet.am/Boomerang/mono.m3u8
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/QxXjcK6m/Nick-Toons-Logo.png" tvg-name="NickToons | (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",NickToons | (Ƭ⫯ⲍƬ⋎)
 http://143.244.60.30/NICKTOONS/index.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="NickToons | (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",NickToons | (Ƭ⫯ⲍƬ⋎)
+https://stream01.vnet.am/Boomerang/mono.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Nicktoons | (VoidHarbinger.xyz) (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Nicktoons | (VoidHarbinger.xyz) (Ƭ⫯ⲍƬ⋎)
 http://voidharbinger.xyz:80/8037040094/7103596248/815109
@@ -3783,6 +3783,9 @@ Unsorted
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="NTV (CJON-DT) | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",NTV (CJON-DT) | (Ƭ⫯ⲍƬ⋎)
 https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/chunklist.m3u8
 
+#EXTINF:-1, tvg-id="OneAmericaNewsNetwork.us" tvg-logo="Logo N/A" tvg-name="OAN (One America News) | (Roku) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",OAN (One America News) | (Roku) (Ƭ⫯ⲍƬ⋎)
+https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+
 #EXTINF:-1, tvg-id="OneAmericaNewsNetwork.us" tvg-logo="Logo N/A" tvg-name="OAN (One America News) | (Vizio) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",OAN (One America News) | (Vizio) (Ƭ⫯ⲍƬ⋎)
 https://oneamericanews-vizio.amagi.tv/playlist.m3u8
 
@@ -3791,9 +3794,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Omstars | (STIRЯ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Omstars | (STIRЯ) (Ƭ⫯ⲍƬ⋎)
 https://d1too6m5v9oyet.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/NuestraTV-MuxIP-Omstars/281.m3u8
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/fRvKwLqD/OANE.jpg" tvg-name="One America News | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",One America News | (Ƭ⫯ⲍƬ⋎)
-https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="OANPlus.us" tvg-logo="InsertLogoHere" tvg-name="One America News Plus (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",One America News Plus (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e7cf6c7b156d500078c5f44/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7815-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=90d7ae21-b8ff-4bf0-a4e4-79081c9d1445
@@ -5046,20 +5046,20 @@ https://f4e3f8fe72d345e8b2de999d3f5cb5c3.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/XqPQGb1s/revry-3.png" tvg-name="Revry 3 | (Ƭ⫯ⲍƬ⋎)"  group-title="General",Revry 3 | (Ƭ⫯ⲍƬ⋎)
 https://785e3b6ff91d4c6db1d8a5b67a894571.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-5-REVRY-BRIGHTCOVE/mt/brightcove/5/hls/master/playlist.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/xTksrXqh/revry-OML.png" tvg-name="Revry Her | (Ƭ⫯ⲍƬ⋎)"  group-title="Special Interest",Revry Her | (Ƭ⫯ⲍƬ⋎)
-https://6bda80f950a748f2870036a8a4825727.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-73-OML-BRIGHTCOVE/mt/brightcove/73/hls/master/playlist.m3u8
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Revry Her | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Revry Her | (Ƭ⫯ⲍƬ⋎)
 https://linear-73.frequency.stream/dist/localnow/73/hls/master/playlist.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/xTksrXqh/revry-OML.png" tvg-name="Revry Her | (Ƭ⫯ⲍƬ⋎)"  group-title="Special Interest",Revry Her | (Ƭ⫯ⲍƬ⋎)
+https://6bda80f950a748f2870036a8a4825727.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-73-OML-BRIGHTCOVE/mt/brightcove/73/hls/master/playlist.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/T2NkHV2n/revry-News.png" tvg-name="Revry News (LGBTQ+) | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Revry News (LGBTQ+) | (Ƭ⫯ⲍƬ⋎)
 https://735d81460ce14f66bb1b9ebdaebd61ea.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-44-REVRYNOW-BRIGHTCOVE/mt/brightcove/44/hls/master/playlist.m3u8
 
+#EXTINF:-1, tvg-id="RevryNews.us" tvg-logo="Logo N/A" tvg-name="Revry News | (Plex) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Revry News | (Plex) (Ƭ⫯ⲍƬ⋎)
+https://linear-44.frequency.stream/dist/plex/44/hls/master/playlist.m3u8
+
 #EXTINF:-1, tvg-id="RevryNews.us" tvg-logo="Logo N/A" tvg-name="Revry News | (Rakuten) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Revry News | (Rakuten) (Ƭ⫯ⲍƬ⋎)
 https://revry-revrynews-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Revry News | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Revry News | (Ƭ⫯ⲍƬ⋎)
-https://linear-44.frequency.stream/dist/plex/44/hls/master/playlist.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/52hTKw3s/revry.jpg" tvg-name="Revry.tv Queer TV 24/7 | (Ƭ⫯ⲍƬ⋎)"  group-title="Special Interest",Revry.tv Queer TV 24/7 | (Ƭ⫯ⲍƬ⋎)
 https://4aafa23ec0a6477ca31466bd83a115a4.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-43-REVRY2-GALXY/mt/galxy/43/hls/master/playlist.m3u8
@@ -5439,26 +5439,23 @@ https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Schwab Network (Ameritrade) | (DistroTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Schwab Network (Ameritrade) | (DistroTV) (Ƭ⫯ⲍƬ⋎)
 https://tdameritrade-distro.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Schwab Network (Ameritrade) | (Vizio) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Schwab Network (Ameritrade) | (Vizio) (Ƭ⫯ⲍƬ⋎)
-https://tdameritrade-vizio.amagi.tv/playlist.m3u8
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/NFNK1sQk/KERO.png" tvg-name="Scripps News (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Scripps News (Ƭ⫯ⲍƬ⋎)
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 
 #EXTINF:-1, tvg-id="ScrippsNews.us" tvg-logo="InsertLogoHere" tvg-name="Scripps News (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Scripps News (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8986-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=20db7334-405e-4c4e-abea-fa620b2d19fb
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/dtRWb4KR/NBC-Logo.jpg" tvg-name="Scripps News | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Scripps News | (Ƭ⫯ⲍƬ⋎)
-https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/N0LMm2jS/newsy.jpg" tvg-name="Scripps News | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Scripps News | (Ƭ⫯ⲍƬ⋎)
+https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/N0LMm2jS/newsy.jpg" tvg-name="Scripps News | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Scripps News | (Ƭ⫯ⲍƬ⋎)
 https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/N0LMm2jS/newsy.jpg" tvg-name="Scripps News | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Scripps News | (Ƭ⫯ⲍƬ⋎)
-https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/dtRWb4KR/NBC-Logo.jpg" tvg-name="Scripps News | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Scripps News | (Ƭ⫯ⲍƬ⋎)
+https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/N0LMm2jS/newsy.jpg" tvg-name="Scripps News | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Scripps News | (Ƭ⫯ⲍƬ⋎)
-https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="SD | 24/7 Antiques Roadshow UK (UK) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="SD Channels",SD | 24/7 Antiques Roadshow UK (UK) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce44810b421747ae467b7cd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ce44810b421747ae467b7cd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=621&terminate=false&userId=
@@ -5997,7 +5994,7 @@ https://livenewsplayer.com:1936/weathersd/weathersd//playlist.m3u8?secendtime=17
 #EXTINF:-1, tvg-id="TheWeatherNetwork.ca" tvg-logo="InsertLogoHere" tvg-name="The Weather Network (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",The Weather Network (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63da370e2e477400081cf8b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7782-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b5c5f52-01b7-44d8-a06c-1f05f3169a75
 
-#EXTINF:-1, tvg-id="TheYoungTurks.us" tvg-logo="Logo N/A" tvg-name="The Young Turks (TYT) [Not 24/7] | (Xumo) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",The Young Turks (TYT) [Not 24/7] | (Xumo) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="TheYoungTurks.us" tvg-logo="Logo N/A" tvg-name="The Young Turks (TYT) | (Xumo) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",The Young Turks (TYT) | (Xumo) (Ƭ⫯ⲍƬ⋎)
 https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
 
 #EXTINF:-1, tvg-id="TheYoungTurks.us" tvg-logo="Logo N/A" tvg-name="The Young Turks (US) | (Samsung) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",The Young Turks (US) | (Samsung) (Ƭ⫯ⲍƬ⋎)
@@ -6280,10 +6277,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663d36fa41af640008c083f6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1020-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ba4f413c-9ae3-416b-b96f-d617f19cfbd8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="VH1 | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Entertainment",VH1 | (MOJ) (Ƭ⫯ⲍƬ⋎)
-https://fl2.moveonjoy.com/VH1/index.m3u8
+http://fl2.moveonjoy.com/VH1/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="VH1 | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Entertainment",VH1 | (MOJ) (Ƭ⫯ⲍƬ⋎)
-http://fl2.moveonjoy.com/VH1/index.m3u8
+https://fl2.moveonjoy.com/VH1/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="VH1 Hip Hop Family (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",VH1 Hip Hop Family (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d71561df6f2e6d0b6493bf5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1021-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e1d0f143-568e-4ded-ab2f-4285d4a8ae11
@@ -6333,14 +6330,14 @@ http://worcester.vod.castus.tv/live/ch1.m3u8
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="We TV || (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",We TV || (MOJ) (Ƭ⫯ⲍƬ⋎)
 http://fl2.moveonjoy.com/WE_TV/index.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/Gm4Nwb7G/Weather-Nation-logo.png" tvg-name="Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=217&deviceId=5bdce04659ee03633e758130&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/Gm4Nwb7G/Weather-Nation-logo.png" tvg-name="Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="PlutoTV",Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bdce04659ee03633e758130/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/Gm4Nwb7G/Weather-Nation-logo.png" tvg-name="Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appVersion=9.6.0-a4885044134e9550f33624d94056de15020c6adb&app_name=web&clientDeviceType=0&clientID=375f0c1b-ef75-4c3c-a1ce-ea3b95242005&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=375f0c1b-ef75-4c3c-a1ce-ea3b95242005&deviceLat=35.5100&deviceLon=-97.4700&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=US&serverSideAds=false&sessionID=fb4f12df-b2d7-11ef-b289-667f6b555507&sid=fb4f12df-b2d7-11ef-b289-667f6b555507&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImEwYzliMzc3LTg4M2EtNGI0Mi1hODc0LTI3OTJhMjNkMmFiZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJmYjRmMTJkZi1iMmQ3LTExZWYtYjI4OS02NjdmNmI1NTU1MDciLCJjbGllbnRJUCI6IjI2MDA6MTcwMjozNjkwOjIyMTA6OTg2ZDplNjY0OmRlZDI6ODczNyIsImNpdHkiOiJPa2xhaG9tYSBDaXR5IiwicG9zdGFsQ29kZSI6IjczMTExIiwiY291bnRyeSI6IlVTIiwiZG1hIjo2NTAsImFjdGl2ZVJlZ2lvbiI6IlVTIiwiZGV2aWNlTGF0IjozNS41MDk5OTgzMjE1MzMyLCJkZXZpY2VMb24iOi05Ny40NzAwMDEyMjA3MDMxMiwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTMzLjAuMCIsImRldmljZU1ha2UiOiJmaXJlZm94IiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjkuNi4wLWE0ODg1MDQ0MTM0ZTk1NTBmMzM2MjRkOTQwNTZkZTE1MDIwYzZhZGIiLCJjbGllbnRJRCI6IjM3NWYwYzFiLWVmNzUtNGMzYy1hMWNlLWVhM2I5NTI0MjAwNSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0NoaWNhZ28iLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7ImFkTG9hZCI6eyJjb2hvcnQiOiIifSwibXVsdGlBdWRpbyI6eyJlbmFibGVkIjp0cnVlfSwibXVsdGlQb2RBZHMiOnsiZW5hYmxlZCI6dHJ1ZX0sInNlYXJjaEFQSSI6eyJtYXRjaEV4YWN0SW5QaHJhc2VFbmFibGVkIjp0cnVlLCJtYXRjaEluQWN0b3JzQm9vc3QiOjI1LCJtYXRjaEluQWN0b3JzRWRpdERpc3RhbmNlIjoiQVVUTzo1LDExIiwibWF0Y2hJbkFjdG9yc0VuYWJsZWQiOnRydWUsIm1hdGNoSW5EaXJlY3RvcnNCb29zdCI6MjUsIm1hdGNoSW5EaXJlY3RvcnNFZGl0RGlzdGFuY2UiOiJBVVRPOjUsMTEiLCJtYXRjaEluRGlyZWN0b3JzRW5hYmxlZCI6dHJ1ZSwibmV4dXNUaW1lb3V0TXMiOjUwMCwicXVlcnlTeW5vbnltc0VuYWJsZWQiOnRydWUsInF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCIsInNlYXJjaFByb3h5RW5oYW5jZW1lbnQiOmZhbHNlfX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiMzc1ZjBjMWItZWY3NS00YzNjLWExY2UtZWEzYjk1MjQyMDA1IiwiZndWY0lEMkNvcHBhIjoiMzc1ZjBjMWItZWY3NS00YzNjLWExY2UtZWEzYjk1MjQyMDA1IiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiIzNzVmMGMxYi1lZjc1LTRjM2MtYTFjZS1lYTNiOTUyNDIwMDUiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5In19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6TXpjMVpqQmpNV0l0WldZM05TMDBZek5qTFdFeFkyVXRaV0V6WWprMU1qUXlNREExIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTczMzQ2OTAxNywiaWF0IjoxNzMzMzgyNjE3LCJqdGkiOiIxNzNhMzJkZC0zYjBiLTQyMjgtYTI0Mi00MGFjMmUzOGIzZTUifQ.H9Q62pt0HO8iURQC0DD9YR4ivaLEJWy48yNLQ5klMUE&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQEUiUHXWSa3vaLEk4oUAy4R2osGJ47fgU-unZQUvkFXW_MhgIIRL5GvIKdNIibf1LClXs5G756ntQk_XRG28Lit_f5ikZezMOvHs6sdDs-FYtdZCLanqx2Y4JkU75TPkHXhY4V-b7457NY5G8EArRknHskitywv6XhXQjp86CR6DSFALLWDkt11GKh3Y8Y_0GZMgkVnjWRRLW_7gSG9KMG7YeNVmOfDTmcPGqbACyjGGR_iuqe5H8SBVW0Ba0JDoZnHkFj1UbtODkHvn7YcrADkFlPdVjoqd2SKZmoV8zHZsnph1yjz80_xDAV0AhJnvBfSD5W1UZUnf32k-wcbxLV7GDsID9uHx9w1O8F2dnxJ9SKOxTMIk7uESkkOhziFm9uEbsWNWzK3FDklzDBoWT3Velhmq7RZ68CbOW5ZlwO0CHdtPq-FebFdzZYLuteT0dkFGjH21IeDaUX5iYDy37HpPsKm2r2wEmXFbVhJYifh1qqYvo2V72k5jxhcYQRFJMNCZUBCkrJrseeRNIksfGvypGevDmpnghZYEiLvX0J96P4a_OF2PdwxMiFHVn23vH8iiJHxZqYykJamoFLK623-OaQL62fgwq1IbjFIwE3sAkI7Aunv3u0ThqlD-tCVsjJiDzh4pc3pIEULIERcdOqkSbNiNnderXCeDPcVc5c2cizhhbld9gcfMGBhKfJFPGW4AkgxB6GhJzwOyOSZkZleuqlwQXriMOCLxvmlxdQgCyZtDN7yxDVnS68uzEf2nGtylUHbjexPlJiWk_FheRjGd6UnTeL6Ep1s3QfzbTzohPLmPo-Q7H1hynoLsN271throkp2wyUtKH3xUVz-tUczTa4C2o8pPZp32-Y7rLcGeTXo-WHarN2fb0x-hliKqpibwk7qptKqls955tJuVSAsDqXNQ8XC60huCvyVWzF26GxzQNMcL5duEsanQQREtS8A0d6cOnkYx44PGLPW32Ww8Qdg80voMqIJ6bf-NaUs95xh7fuzZwbkWc0ARL-zFcizbs91lQmIgxHan2GB4xkYX6KPzCsOl_B5nzwIJ_lTa2SvCRAqZs2fMGWbwg2JqJ891zD-xNFjRG_wgLdWG4vI4AMK9eOI-awyQM.&gpp=DBABLA~BVQqAAAAAgA.QA&gpp_sid=7&us_privacy=1YNN&eventVOD=false&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22d7c7fa3e-d8e6-4514-972f-6f19714b7353%22%2Csu
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/Gm4Nwb7G/Weather-Nation-logo.png" tvg-name="Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="PlutoTV",Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bdce04659ee03633e758130/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/Gm4Nwb7G/Weather-Nation-logo.png" tvg-name="Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=217&deviceId=5bdce04659ee03633e758130&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/Gm4Nwb7G/Weather-Nation-logo.png" tvg-name="Weather Nation | (Roku) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Weather Nation | (Roku) (Ƭ⫯ⲍƬ⋎)
 https://osm-use1.sr.roku.com/osm/v1/hls/use1/variant/eeef5f64e81844998b5fb3018163e7f2/live_720.m3u8
@@ -6462,7 +6459,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 #EXTINF:-1, tvg-id="YahooFinance.us" tvg-logo="Logo N/A" tvg-name="Yahoo! Finance (US) | (Samsung) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Yahoo! Finance (US) | (Samsung) (Ƭ⫯ⲍƬ⋎)
 https://yahoo-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/k4w8SG0s/Yahoo-Finance-Logo.png" tvg-name="Yahoo! Finance | (Plex) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Yahoo! Finance | (Plex) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="YahooFinance.us" tvg-logo="Logo N/A" tvg-name="Yahoo! Finance | (Plex) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Yahoo! Finance | (Plex) (Ƭ⫯ⲍƬ⋎)
 https://yahoo-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="YahooFinance.us" tvg-logo="Logo N/A" tvg-name="Yahoo! Finance | (Roku) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Yahoo! Finance | (Roku) (Ƭ⫯ⲍƬ⋎)
@@ -6474,7 +6471,7 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/k4w8SG0s/Yahoo-Finance-Logo.png" tvg-name="Yahoo! Finance | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Yahoo! Finance | (Ƭ⫯ⲍƬ⋎)
 https://d1ewctnvcwvvvu.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/yahooLive/playlist.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/k4w8SG0s/Yahoo-Finance-Logo.png" tvg-name="Yahoo! Finance | (Vizio) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Yahoo! Finance | (Vizio) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="YahooFinance.us" tvg-logo="Logo N/A" tvg-name="Yahoo! Finance | (Vizio) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Yahoo! Finance | (Vizio) (Ƭ⫯ⲍƬ⋎)
 https://yahoo-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="YES Network | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",YES Network | (MOJ) (Ƭ⫯ⲍƬ⋎)
@@ -6642,11 +6639,11 @@ https://a.datadiff.us.kg/movies/Scooby-Doo%20%282002%29/Scooby%20Doo%202002%2010
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Sweeney Todd (2007) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Sweeney Todd (2007) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Sweeney%20Todd%20The%20Demon%20Barber%20of%20Fleet%20Street%20%282007%29/Sweeney.Todd.The.Demon.Barber.of.Fleet.Street.2007.1080p.BluRay.x264-nikt0.mkv
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Tears of Steel (2012) || (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Tears of Steel (2012) || (Ƭ⫯ⲍƬ⋎)
-https://download.blender.org/demo/movies/ToS/tears_of_steel_1080p.webm
-
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tos-poster.png/800px-Tos-poster.png" tvg-name="πVODπ | Tears of Steel (2012) || (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Tears of Steel (2012) || (Ƭ⫯ⲍƬ⋎)
 http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Tears of Steel (2012) || (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Tears of Steel (2012) || (Ƭ⫯ⲍƬ⋎)
+https://download.blender.org/demo/movies/ToS/tears_of_steel_1080p.webm
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Tenacious D - Pick of Destiny (2006)| (Archive.org) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Tenacious D - Pick of Destiny (2006)| (Archive.org) (Ƭ⫯ⲍƬ⋎)
 https://ia601408.us.archive.org/13/items/tenacious-d-in-the-pick-of-destiny/Tenacious_D_in_The_Pick_of_Destiny.ia.mp4?cnt=0
@@ -6934,10 +6931,10 @@ http://cdn.adultiptv.net/threesome.m3u8
 http://live.redtraffic.xyz/threesome.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/J4b1vY1M/Visit-X-TV.jpg" tvg-name="ӿӾ*NSFW*Ӿӿ | Visit-X TV | (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ | Visit-X TV | (Ƭ⫯ⲍƬ⋎)
-http://194.116.150.47:1935/vxtv/live/playlist.m3u8
+http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/J4b1vY1M/Visit-X-TV.jpg" tvg-name="ӿӾ*NSFW*Ӿӿ | Visit-X TV | (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ | Visit-X TV | (Ƭ⫯ⲍƬ⋎)
-http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
+http://194.116.150.47:1935/vxtv/live/playlist.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/ZqNCvdsb/Adult-IPTV-net.jpg" tvg-name="ӿӾ*NSFW*Ӿӿ | Woman | AdultIPTV.net | (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ | Woman | AdultIPTV.net | (Ƭ⫯ⲍƬ⋎)
 http://cdn.adultiptv.net/woman.m3u8
