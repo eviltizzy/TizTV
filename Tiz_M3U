@@ -42,6 +42,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 #EXTINF:-1, tvg-id="48Hours.us" tvg-logo="InsertLogoHere" tvg-name="24/7 48 Hours (US) || (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 48 Hours (US) || (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6176f39e709f160007ec61c3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
+#EXTINF:-1, tvg-id="mjh-event-clt27ftj2001p0glt8zvyd8rb-FAST" tvg-logo="https://imageresizer.static9.net.au/qprwuwB74GG7n3KMY-MTsAUyK5g=/768x0/vms-live-event-assets-prod.s3-ap-southeast-2.amazonaws.com%2Ftv%2Fimages%2F2024%2F11%2F645645%2F60mins_channelcard.png" tvg-name="24/7 60 Minutes Australia | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 60 Minutes Australia | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/event-clt27ftj2001p0glt8zvyd8rb-FAST.m3u8
+
 #EXTINF:-1, tvg-id="90210.us" tvg-logo="InsertLogoHere" tvg-name="24/7 90210 (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 90210 (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d83e0a382c00007bc02e7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265960-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3b3051db-b19e-4913-a7e9-fddc37302264
 
@@ -228,6 +231,9 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3f
 #EXTINF:-1, tvg-id="DallasCowboysCheerleaders.us" tvg-logo="InsertLogoHere" tvg-name="24/7 Dallas Cowboys Cheerleaders (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Dallas Cowboys Cheerleaders (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c40-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=92a113fc-f35c-4160-9c63-27cd8537a39f
 
+#EXTINF:-1, tvg-id="mjh-event-clso16reh001a0iqfl2app9rv-FAST" tvg-logo="https://imageresizer.static9.net.au/if9Y8LTj578Bu6TF_It6AjFahY0=/768x0/vms-live-event-assets-prod.s3-ap-southeast-2.amazonaws.com%2Ftv%2Fimages%2F2024%2F09%2F629454%2Ffast-channel-standard.png" tvg-name="24/7 Dance Moms (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Dance Moms (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/event-clso16reh001a0iqfl2app9rv-FAST.m3u8
+
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Dance Moms (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Dance Moms (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6540fec1770cf1000866b65b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df73-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=64043e4b-3a3a-42a9-bce9-67430c31c9f5
 
@@ -239,6 +245,9 @@ https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Dating Disasters (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Dating Disasters (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/651f239d9c7aeb0008286823/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c42-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e4fa373b-d26b-4a30-85f4-ef286a12ac31
+
+#EXTINF:-1, tvg-id="mjh-discovery-fast2" tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1701634318032/20231204T091616_deadliestcatchlogo.png" tvg-name="24/7 Deadliest Catch (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Deadliest Catch (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/discovery-fast2.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Deal or no Deal (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Deal or no Deal (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92951c2db99000787c00d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df75-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=99d1f141-b1af-4c62-9b90-538de8ee3cc4
@@ -402,6 +411,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Hot Ones | (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Hot Ones | (Ƭ⫯ⲍƬ⋎)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883082
 
+#EXTINF:-1, tvg-id="mjh-discovery-fast6" tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1700521489922/20231121T120747_househunterslogo.png" tvg-name="24/7 House Hunters (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 House Hunters (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/discovery-fast6.m3u8
+
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 I Love Lucy (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 I Love Lucy (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63a2f1dda0d69700078b7cba/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7aa2c9-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=64cc0043-fd97-4489-ba4d-03d1eab764c2
 
@@ -434,6 +446,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Johnny Carson TV (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Johnny Carson TV (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64ddcf8e9c1e390008349fc8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7ac9d4-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ff0b5333-a2df-4153-b8dd-a021884c8085
+
+#EXTINF:-1, tvg-id="mjh-10-judgejoebrown" tvg-logo="https://10play.com.au/ip/s3/2024/07/31/ba78f9c529691dc9b5ac913f314be131-1330694.png" tvg-name="24/7 Judge Joe Brown (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Judge Joe Brown (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/10-judgejoebrown.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Judge Judy (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Judge Judy (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92e536f28870007fa9b3a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5077-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d7542660-a0a4-415c-a70a-fae3199e0e29
@@ -480,6 +495,9 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d51ddf036
 #EXTINF:-1, tvg-id="Lupinthe3rd.us" tvg-logo="InsertLogoHere" tvg-name="24/7 Lupin the 3rd (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Lupin the 3rd (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f74ba51c82ac000776c669/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29b4c3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=929f711f-6565-41d9-84a9-9f2c83d020e5
 
+#EXTINF:-1, tvg-id="mjh-event-clt2744p0001f0ipni1y6lkro-FAST" tvg-logo="https://imageresizer.static9.net.au/FLw3LMq_yES19Sz6LBQuG2AJJz0=/768x0/vms-live-event-assets-prod.s3-ap-southeast-2.amazonaws.com%2Ftv%2Fimages%2F2024%2F03%2F577405%2Fmafs_channelcard2.png" tvg-name="24/7 Married At First Sight USA Second Chances (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Married At First Sight USA Second Chances (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/event-clt2744p0001f0ipni1y6lkro-FAST.m3u8
+
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Matlock (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Matlock (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63da365f60bc8f0008a50f44/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7af0e8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4f26df9e-4f5e-4183-a843-1996b0eaf551
 
@@ -525,8 +543,14 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Monster Jam (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Monster Jam (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69b683ba51e00084534a3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=414e0846-04a7-4d68-9f4e-a8c0750c4959
 
+#EXTINF:-1, tvg-id="mjh-discovery-fast1" tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1701633988394/20231204T090843_motorheadslogo.png" tvg-name="24/7 Motorheads (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Motorheads (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/discovery-fast1.m3u8
+
 #EXTINF:-1, tvg-id="MST3K.us" tvg-logo="InsertLogoHere" tvg-name="24/7 MST3K (MysteryScienceTheater3000) (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 MST3K (MysteryScienceTheater3000) (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/545943f1c9f133a519bbac92/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=08f3602c-a3d5-4a4d-91f2-ec37a24d31a5
+
+#EXTINF:-1, tvg-id="mjh-10-mtv-jersey-shore" tvg-logo="https://10play.com.au/ip/s3/2024/07/22/c0f6c4c235b6c6c3cfbce14921c9296a-1328660.png" tvg-name="24/7 MTV Jersey Shore (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 MTV Jersey Shore (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/10-mtv-jersey-shore.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 MTV Ridiculousness (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 MTV Ridiculousness (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f9cccf110545000837912e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f01-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b283a70f-16b8-4034-abe0-9c8171462c83
@@ -564,6 +588,9 @@ https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_de.m3u8
 #EXTINF:-1, tvg-id="OnePiece.us" tvg-logo="InsertLogoHere" tvg-name="24/7 One Piece (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 One Piece (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7816-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4b38ba42-6f97-4a17-b657-1277978d366c
 
+#EXTINF:-1, tvg-id="mjh-discovery-fast5" tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1700521701602/20231121T120842_paranormallogo.png" tvg-name="24/7 Paranormal (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Paranormal (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/discovery-fast5.m3u8
+
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Paw Patrol (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Paw Patrol (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea3ec626dc1900078e9f26/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6615-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=036f3618-f9a5-4a4b-ba27-2cb712a7f255
 
@@ -593,6 +620,9 @@ https://adultswim-vodlive.cdn.turner.com/live/primal/stream_de.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Primal Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Primal Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/primal/stream.m3u8
+
+#EXTINF:-1, tvg-id="mjh-10-prisoner" tvg-logo="https://10play.com.au/ip/s3/2022/09/26/b6430b0f79d6b4c9fc5c6ea295bbae03-1182444.png" tvg-name="24/7 Prisoner (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Prisoner (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/10-prisoner.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Rawhide (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Rawhide (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634f307c7a068e00072c9982/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6278-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d9433765-7aeb-4cd3-9244-281a4bcdc393
@@ -651,11 +681,17 @@ https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Say Yes to the Dress (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Say Yes to the Dress (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e8342cf13100083b404c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1026-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f2a7d6f8-3ba5-4ec9-acb3-0ba652bd6b1a
 
+#EXTINF:-1, tvg-id="mjh-event-cloq8wdbu000x0qqslcqipwhk-FAST" tvg-logo="https://imageresizer.static9.net.au/TRTlxB73HsXiIhoR6W2HSmXodzM=/768x0/vms-live-event-assets-prod.s3-ap-southeast-2.amazonaws.com%2Ftv%2Fimages%2F2024%2F12%2F657646%2Fseinfeld247_channelcard.png" tvg-name="24/7 Seinfeld (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Seinfeld (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/event-cloq8wdbu000x0qqslcqipwhk-FAST.m3u8
+
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Shades of Black (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Shades of Black (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63920159db0dea0007dd9932/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0251-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=93b44734-079b-4fec-a58c-6406103089cd
 
 #EXTINF:-1, tvg-id="PlutoTVSherlock.uk" tvg-logo="InsertLogoHere" tvg-name="24/7 Sherlock (UK) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Sherlock (UK) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2c00abfed110009d97243/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1, tvg-id="mjh-event-cljz0ychm00000jo17k66q6f5-FAST" tvg-logo="https://imageresizer.static9.net.au/WKZLD-nfjEQqnfQd8KdZtkL80lE=/768x0/vms-live-event-assets-prod.s3-ap-southeast-2.amazonaws.com%2Ftv%2Fimages%2F2024%2F11%2F643854%2Fpedestrian_channelcard_new.png" tvg-name="24/7 Snoop Dogg Presents The Joker's Wild (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Snoop Dogg Presents The Joker's Wild (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/event-cljz0ychm00000jo17k66q6f5-FAST.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 South Park (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 South Park (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb1c5e25122000798ac79/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0253-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=67f014c4-f66e-4860-a7d5-9e9de1cab501
@@ -671,6 +707,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 South Park Stan Collection (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 South Park Stan Collection (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df48ba28730900089f8480/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0258-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a92d95d6-dc1d-4fe9-9b4e-e63efabae635
+
+#EXTINF:-1, tvg-id="mjh-10-spongebobsquarepants" tvg-logo="https://10play.com.au/ip/s3/2024/05/27/ee4d9694aa3f7a2fe97b6f18aa773b88-1316803.png" tvg-name="24/7 SpongeBob SquarePants (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 SpongeBob SquarePants (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/10-spongebobsquarepants.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Squidbillies Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Squidbillies Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
 https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream.m3u8
@@ -726,6 +765,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 The Andy Griffith Show (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 The Andy Griffith Show (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e9145ec07f2a00070e68dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c2967-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fbed224a-3b63-4abd-b7a5-8676931b8711
 
+#EXTINF:-1, tvg-id="mjh-event-clydot09500020ht6tnwdpbth-FAST" tvg-logo="https://imageresizer.static9.net.au/X9Ut4M38AKr-rfrfvR81LHVsKQk=/768x0/vms-live-event-assets-prod.s3-ap-southeast-2.amazonaws.com%2Ftv%2Fimages%2F2024%2F08%2F626156%2Ftheblock247_channelcard.png" tvg-name="24/7 The Block (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 The Block (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/event-clydot09500020ht6tnwdpbth-FAST.m3u8
+
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 The Bob Ross Channel"  group-title="24/7",24/7 The Bob Ross Channel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobross-cineverse/playlist.m3u8
 
@@ -740,6 +782,15 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 The Drew Barrymore Show (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 The Drew Barrymore Show (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6310cbee5a8ad300070fdb7c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c796a40-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=223866bd-0f1f-4f33-9986-65de6978421c
+
+#EXTINF:-1, tvg-id="mjh-10-grahamnorton" tvg-logo="https://10play.com.au/ip/s3/2023/07/12/bcb38e1591564d24894210f4abd02423-1248623.png" tvg-name="24/7 The Graham Norton Show (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 The Graham Norton Show (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/10-grahamnorton.m3u8
+
+#EXTINF:-1, tvg-id="mjh-discovery-ptgn" tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1715808217223/20240516T092707_graham_norton_logo_small_750x500.png" tvg-name="24/7 The Graham Norton Show (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 The Graham Norton Show (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/discovery-ptgn.m3u8
+
+#EXTINF:-1, tvg-id="mjh-event-clt26y7j1001d0go61g4sxw6u-FAST" tvg-logo="https://imageresizer.static9.net.au/0GJpgzidg83T0rpMtag5Ke7037o=/768x0/vms-live-event-assets-prod.s3-ap-southeast-2.amazonaws.com%2Ftv%2Fimages%2F2024%2F12%2F655147%2Ffast-channel-standard-crimev1.png" tvg-name="24/7 The Lake Erie Murders (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 The Lake Erie Murders (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/event-clt26y7j1001d0go61g4sxw6u-FAST.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 The Love Boat (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 The Love Boat (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e91563ce7ce300076f917e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5078-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2db14410-4921-497d-a226-bc4d2e0c53bc
@@ -798,6 +849,12 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Transformers (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Transformers (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb053712f22a0007ff14d2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=56e9a7e3-e01a-48b2-be16-e37776c8d5ef
 
+#EXTINF:-1, tvg-id="mjh-discovery-fast4" tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1700521491288/20231121T121011_truecrimelogo.png" tvg-name="24/7 True Crime (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 True Crime (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/discovery-fast4.m3u8
+
+#EXTINF:-1, tvg-id="mjh-10-true-stories" tvg-logo="https://10play.com.au/ip/s3/2022/09/22/bf31efb3f5efe008cc774909b0cef282-1181809.png" tvg-name="24/7 True Stories (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 True Stories (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/10-true-stories.m3u8
+
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Unsolved Mysteries (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Unsolved Mysteries (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e924f2be69bc0007b7d53d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e93-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6362993f-fcc4-4e58-9056-bca26f635dcb
 
@@ -821,6 +878,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 
 #EXTINF:-1, tvg-id="WantedDeadorAlive.us" tvg-logo="InsertLogoHere" tvg-name="24/7 Wanted Dead or Alive (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Wanted Dead or Alive (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6089788de5c8410007808e26/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1025-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=66e6d8ef-5958-4806-9fdc-ff058061dd07
+
+#EXTINF:-1, tvg-id="mjh-discovery-fast7" tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1701634634905/20231204T091943_westfamilylogo.png" tvg-name="24/7 West Family Sagas (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 West Family Sagas (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/discovery-fast7.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Westerns Lone Star | (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Westerns Lone Star | (Ƭ⫯ⲍƬ⋎)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-lonestar-cineverse/playlist.m3u8
@@ -1056,11 +1116,32 @@ https://content.uplynk.com/channel/ext/96195dc445894d079a91958abba8d3af/kfsn_24x
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ABC 40/29 KHBS Fort Smith AR | (Tubi) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",ABC 40/29 KHBS Fort Smith AR | (Tubi) (Ƭ⫯ⲍƬ⋎)
 https://apollo.production-public.tubi.io/live/ac-khbs.m3u8
 
+#EXTINF:-1, tvg-id="mjh-abc-90-seconds-business" tvg-logo="https://live-production.wcms.abc-cdn.net.au/ae76d32898cca0be596b7f23c1bd41f2?impolicy=wcms_crop_resize&cropH=630&cropW=1119&xPos=10&yPos=0&width=862&height=485" tvg-name="ABC 90 Seconds Business (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",ABC 90 Seconds Business (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://c.mjh.nz/business_in_90_seconds
+
+#EXTINF:-1, tvg-id="mjh-abc-90-seconds-news" tvg-logo="https://live-production.wcms.abc-cdn.net.au/144a0dacebeb9f616c1fcd637e3b2cf2?impolicy=wcms_crop_resize&cropH=630&cropW=1119&xPos=10&yPos=0&width=862&height=485" tvg-name="ABC 90 Seconds News (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",ABC 90 Seconds News (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://c.mjh.nz/news_in_90_seconds
+
+#EXTINF:-1, tvg-id="mjh-abc-90-seconds-sport" tvg-logo="https://live-production.wcms.abc-cdn.net.au/646cb8a032c847ec21c3de0de881e4cb?impolicy=wcms_crop_resize&cropH=630&cropW=1119&xPos=10&yPos=0&width=862&height=485" tvg-name="ABC 90 Seconds Sports (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",ABC 90 Seconds Sports (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://c.mjh.nz/sport_in_90_seconds
+
+#EXTINF:-1, tvg-id="mjh-abc-90-seconds-weather" tvg-logo="https://live-production.wcms.abc-cdn.net.au/d376e49724862f104d044ff6467f85d8?impolicy=wcms_crop_resize&cropH=630&cropW=1119&xPos=10&yPos=0&width=862&height=485" tvg-name="ABC 90 Seconds Weather (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",ABC 90 Seconds Weather (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://c.mjh.nz/weather_in_90_seconds
+
 #EXTINF:-1, tvg-id="ABC.(WOLO).Columbia,.SC.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" tvg-name="ABC East | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",ABC East | (MOJ) (Ƭ⫯ⲍƬ⋎)
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ABC Me | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",ABC Me | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="mjh-abc-me" tvg-logo="https://cdn.iview.abc.net.au/thumbs/256/6_Entertains_C-1054_iview_LivestreamOn_2000x2000_new.png" tvg-name="ABC Entertains (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",ABC Entertains (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
 https://c.mjh.nz/abc-me.m3u8
+
+#EXTINF:-1, tvg-id="mjh-abc-tv-plus" tvg-logo="https://cdn.iview.abc.net.au/thumbs/256/7_Family_C-1053_iview_LivestreamOff_2000x2000_new.png" tvg-name="ABC Family (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",ABC Family (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://c.mjh.nz/abc-tv-plus.m3u8
+
+#EXTINF:-1, tvg-id="mjh-abc-kids" tvg-logo="https://i.mjh.nz/.images/abc-kids.png" tvg-name="ABC Kids (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",ABC Kids (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://c.mjh.nz/abc-kids.m3u8
+
+#EXTINF:-1, tvg-id="mjh-abc-news" tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-name="ABC News (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",ABC News (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://c.mjh.nz/abc-news.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ABC News | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",ABC News | (Ƭ⫯ⲍƬ⋎)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -1098,31 +1179,28 @@ https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/KjPCYGQX/abc-news-live.webp" tvg-name="ABC News Live 10 | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",ABC News Live 10 | (Ƭ⫯ⲍƬ⋎)
 https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ABC TV Adelaide | (Ƭ⫯ⲍƬ⋎)"  group-title="Local",ABC TV Adelaide | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="mjh-abc-sa" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-name="ABC TV Adelaide | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",ABC TV Adelaide | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
 https://c.mjh.nz/abc-sa.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ABC TV Brisbane | (Ƭ⫯ⲍƬ⋎)"  group-title="Local",ABC TV Brisbane | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="mjh-abc-qld" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-name="ABC TV Brisbane | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",ABC TV Brisbane | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
 https://c.mjh.nz/abc-qld.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ABC TV Canberra | (Ƭ⫯ⲍƬ⋎)"  group-title="Local",ABC TV Canberra | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="mjh-abc-act" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-name="ABC TV Canberra | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",ABC TV Canberra | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
 https://c.mjh.nz/abc-act.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ABC TV Darwin | (Ƭ⫯ⲍƬ⋎)"  group-title="Local",ABC TV Darwin | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="mjh-abc-nt" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-name="ABC TV Darwin | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",ABC TV Darwin | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
 https://c.mjh.nz/abc-nt.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ABC TV Hobart | (Ƭ⫯ⲍƬ⋎)"  group-title="Local",ABC TV Hobart | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="mjh-abc-tas" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-name="ABC TV Hobart | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",ABC TV Hobart | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
 https://c.mjh.nz/abc-tas.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ABC TV Melbourne | (Ƭ⫯ⲍƬ⋎)"  group-title="Local",ABC TV Melbourne | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="mjh-abc-vic" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-name="ABC TV Melbourne | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",ABC TV Melbourne | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
 https://c.mjh.nz/abc-vic.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ABC TV Perth | (Ƭ⫯ⲍƬ⋎)"  group-title="Local",ABC TV Perth | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="mjh-abc-wa" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-name="ABC TV Perth | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Perth",ABC TV Perth | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
 https://c.mjh.nz/abc-wa.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ABC TV Plus | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",ABC TV Plus | (Ƭ⫯ⲍƬ⋎)
-https://c.mjh.nz/abc-tv-plus.m3u8
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ABC TV Sydney | (Ƭ⫯ⲍƬ⋎)"  group-title="Local",ABC TV Sydney | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="mjh-abc-nsw" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" tvg-name="ABC TV Sydney | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Sydney",ABC TV Sydney | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
 https://c.mjh.nz/abc-nsw.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ACCDN (Atlantic Coast Conference Digital Network) | (Ƭ⫯ⲍƬ⋎)"  group-title="Sports",ACCDN (Atlantic Coast Conference Digital Network) | (Ƭ⫯ⲍƬ⋎)
@@ -1320,6 +1398,9 @@ https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AKC TV Puppies 24/7 | (Ƭ⫯ⲍƬ⋎)"  group-title="Special Interest",AKC TV Puppies 24/7 | (Ƭ⫯ⲍƬ⋎)
 https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
 
+#EXTINF:-1, tvg-id="mjh-al-jazeera" tvg-logo="https://i.mjh.nz/.images/al-jazeera.png" tvg-name="Al Jazeera (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Al Jazeera (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/al-jazeera.m3u8
+
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/NM0bmcyp/Al-Jazeera-Logo.png" tvg-name="Al Jazeera | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Al Jazeera | (Ƭ⫯ⲍƬ⋎)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
@@ -1405,13 +1486,13 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58
 https://stitcher-yidio.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=web&deviceMake=Firefox&deviceVersion=133.0&deviceId=7729E570-C01B-1F24-9382-142B6A850D6E&appVersion=1&deviceDNT=0&deviceModel=web&embedPartner=yidio.com&sid=36e7f30751b4eecd6baa8051b5bdfce7
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Test",Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eac6b8efb7a6500070b5c9b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a783-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=25d82ce6-20be-4a97-8019-19ce21826e94
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Test",Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eac6bf103a57700073efcc5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a784-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d4bc9c0c-00a9-469c-9c25-f6f698a11e0e
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Test",Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eac6c5d2240d80007327f5a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a785-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=636f5ff0-e489-4bc8-99f3-08d6f12c2f45
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Test",Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eac6b8efb7a6500070b5c9b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a783-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=25d82ce6-20be-4a97-8019-19ce21826e94
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Antenna TV | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Antenna TV | (MOJ) (Ƭ⫯ⲍƬ⋎)
 http://fl3.moveonjoy.com/Antenna/index.m3u8
@@ -1455,6 +1536,9 @@ https://5b0f5374bdf0c.streamlock.net:444/LiveTV/ATLHD/playlist.m3u8
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AuroraTV (CO) | (Ƭ⫯ⲍƬ⋎)"  group-title="Public Access",AuroraTV (CO) | (Ƭ⫯ⲍƬ⋎)
 https://reflect-aurora.cablecast.tv/live-8/live/live.m3u8
 
+#EXTINF:-1, tvg-id="mjh-ausbiz-FAST" tvg-logo="https://i.mjh.nz/.images/ausbiz-FAST.png" tvg-name="AusBiz (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",AusBiz (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/ausbiz-FAST.m3u8
+
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/TwYmc8jQ/AusBiz.png" tvg-name="Ausbiz TV | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Ausbiz TV | (Ƭ⫯ⲍƬ⋎)
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 
@@ -1468,10 +1552,10 @@ https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 https://aweencore-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AXS TV Now | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",AXS TV Now | (Ƭ⫯ⲍƬ⋎)
-https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AXS TV Now | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",AXS TV Now | (Ƭ⫯ⲍƬ⋎)
-https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 
 #EXTINF:-1, tvg-id="BabySharkTV.us" tvg-logo="InsertLogoHere" tvg-name="Baby Shark TV (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Baby Shark TV (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce93-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1f776e00-4160-4945-86c6-3cb0fa0bd795
@@ -1873,10 +1957,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="BlackNewsChannel.us" tvg-logo="Logo N/A" tvg-name="Black News Channel | (Xumo) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Black News Channel | (Xumo) (Ƭ⫯ⲍƬ⋎)
-https://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
+https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="BlackNewsChannel.us" tvg-logo="Logo N/A" tvg-name="Black News Channel | (Xumo) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Black News Channel | (Xumo) (Ƭ⫯ⲍƬ⋎)
-https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8
+https://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="BlackNewsChannel.us" tvg-logo="Logo N/A" tvg-name="Black News Channel ||| (Xumo) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Black News Channel ||| (Xumo) (Ƭ⫯ⲍƬ⋎)
 https://blacknewschannel-xumo-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewschannel-xumo/CDN/master.m3u8
@@ -1928,6 +2012,9 @@ https://www.bloomberg.com/media-manifest/streams/qt.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Bloomberg Television (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Bloomberg Television (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62b976b93279cb000772c6f9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c796a44-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cd2f458e-d0fb-480d-8f4f-3d15b67ed17c
+
+#EXTINF:-1, tvg-id="mjh-bloomberg-tv" tvg-logo="https://i.mjh.nz/.images/bloomberg-tv.png" tvg-name="Bloomberg TV (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Bloomberg TV (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/bloomberg-tv.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/BZwbM620/bloomberg-default-a4f15fa7ee.jpg" tvg-name="Bloomberg TV (EU) | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Bloomberg TV (EU) | (Ƭ⫯ⲍƬ⋎)
 https://bloomberg.com/media-manifest/streams/eu.m3u8
@@ -2220,9 +2307,6 @@ https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="CBS Sports Network | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Sports",CBS Sports Network | (MOJ) (Ƭ⫯ⲍƬ⋎)
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/xdsGhT1B/CBSN-Boston.jpg" tvg-name="CBSN Boston | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",CBSN Boston | (Ƭ⫯ⲍƬ⋎)
-https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="CGTN Documentary English (China Global Television Network) | (Ƭ⫯ⲍƬ⋎)"  group-title="Infotainment",CGTN Documentary English (China Global Television Network) | (Ƭ⫯ⲍƬ⋎)
 https://0472.org/hls/cgtnd.m3u8
 
@@ -2232,14 +2316,26 @@ https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/cJXSXJWk/CGTN.jpg" tvg-name="CGTN English (China Global Television Network) || (Ƭ⫯ⲍƬ⋎)"  group-title="Information",CGTN English (China Global Television Network) || (Ƭ⫯ⲍƬ⋎)
 https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
 
+#EXTINF:-1, tvg-id="mjh-ch200" tvg-logo="https://i.mjh.nz/.images/ch200.png" tvg-name="CH200 (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",CH200 (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/ch200.m3u8
+
+#EXTINF:-1, tvg-id="mjh-c31" tvg-logo="https://i.mjh.nz/.images/c31.png" tvg-name="Channel 31 Melbourne | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",Channel 31 Melbourne | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/c31.m3u8
+
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Channel 44 (Adelaide) | (Ƭ⫯ⲍƬ⋎)"  group-title="Local",Channel 44 (Adelaide) | (Ƭ⫯ⲍƬ⋎)
 https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
+
+#EXTINF:-1, tvg-id="mjh-c44" tvg-logo="https://i.mjh.nz/.images/c44.png" tvg-name="Channel 44 Adelaide | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",Channel 44 Adelaide | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/c44.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/XYfgPgTM/wilg7q-1.png" tvg-name="Channel 7 | (US) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Channel 7 | (US) (Ƭ⫯ⲍƬ⋎)
 http://radio.7chan.org:8000/CH7
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Channel Fight | (STIRЯ) (Ƭ⫯ⲍƬ⋎)"  group-title="Sports",Channel Fight | (STIRЯ) (Ƭ⫯ⲍƬ⋎)
 https://d15wqvt0xm15k4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ChannelFight-Nuestra/266.m3u8
+
+#EXTINF:-1, tvg-id="mjh-channel-news-asia" tvg-logo="https://i.mjh.nz/.images/channel-news-asia.png" tvg-name="Channel News Asia (CNA) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Channel News Asia (CNA) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/channel-news-asia.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/0jZBdFzk/cna-logo.gif" tvg-name="Channel News Asia (CNA) | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Channel News Asia (CNA) | (Ƭ⫯ⲍƬ⋎)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
@@ -2376,6 +2472,9 @@ https://livetvde.net/cusa2/index.m3u8?token=5451e8647ca73c6e0a7abbdff5514ec7bc21
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CNN | (Ƭ⫯ⲍƬ⋎)"  group-title="Test",CNN | (Ƭ⫯ⲍƬ⋎)
 https://stream.livenewsplay.com/hls/cnnewson/news.m3u8
 
+#EXTINF:-1, tvg-id="mjh-discovery-ptcn" tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1715808491150/20240516T093155_cnnfast_logo_750x500.png" tvg-name="CNN Fast (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",CNN Fast (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/discovery-ptcn.m3u8
+
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="CNN International | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",CNN International | (MOJ) (Ƭ⫯ⲍƬ⋎)
 http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 
@@ -2409,6 +2508,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Comedy Central Stand-Up (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Comedy",Comedy Central Stand-Up (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f8a9ccd661bb00081bd93a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79b863-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7fed5fcc-0dbc-42e9-8b2f-d5eb610c5074
 
+#EXTINF:-1, tvg-id="mjh-10-comedy_dynamics" tvg-logo="https://10play.com.au/ip/s3/2024/03/06/53be2a0f763150b5d2e7bd72e93bc370-1301814.png" tvg-name="Comedy Dynamics (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Comedy",Comedy Dynamics (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/10-comedy_dynamics.m3u8
+
 #EXTINF:-1, tvg-id="ComedyDynamics.us" tvg-logo="Logo N/A" tvg-name="Comedy Dynamics | (Plex) (Ƭ⫯ⲍƬ⋎)"  group-title="Comedy",Comedy Dynamics | (Plex) (Ƭ⫯ⲍƬ⋎)
 https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8
 
@@ -2430,11 +2532,11 @@ http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.
 #EXTINF:-1, tvg-id="Comet.us" tvg-logo="Logo N/A" tvg-name="Comet | (STIRЯ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Comet | (STIRЯ) (Ƭ⫯ⲍƬ⋎)
 https://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/C5jSNCT7/CometTV.jpg" tvg-name="Comet | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Comet | (Ƭ⫯ⲍƬ⋎)
-http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Comet | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Comet | (Ƭ⫯ⲍƬ⋎)
 https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/C5jSNCT7/CometTV.jpg" tvg-name="Comet | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Comet | (Ƭ⫯ⲍƬ⋎)
+http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/HLCw7bPL/live-concert.jpg" tvg-name="Concert | Alanis Morissette - CBS Special w/ads (1997)"  group-title="Concerts",Concert | Alanis Morissette - CBS Special w/ads (1997)
 https://archive.org/download/alanis-morissette-live-in-concert-1997-cbc-special-presentaion-with-commercials/Alanis%20Morissette%20-%20Live%20in%20Concert%20%281997%29%20-%20CBC%20Special%20Presentaion%20-%20with%20commercials%20%28VHS%20Rip%29.mp4
@@ -2911,10 +3013,10 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
 https://foxweather-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="France 24 English | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",France 24 English | (Ƭ⫯ⲍƬ⋎)
-https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="France 24 English | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",France 24 English | (Ƭ⫯ⲍƬ⋎)
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/CKk7FXHv/Free-Speech-TV.png" tvg-name="Free Speech TV | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Free Speech TV | (Ƭ⫯ⲍƬ⋎)
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
@@ -3123,6 +3225,9 @@ http://fl2.moveonjoy.com/HGTV/index.m3u8
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="HGTV (Home & Garden Television) | (Ƭ⫯ⲍƬ⋎)"  group-title="Special Interest",HGTV (Home & Garden Television) | (Ƭ⫯ⲍƬ⋎)
 https://varun-iptv.netlify.app/m3u/HGTV.m3u8
 
+#EXTINF:-1, tvg-id="mjh-discovery-hgtv" tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1710370016016/20240314T115242_hgtvlogo.png" tvg-name="HGTV (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",HGTV (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/discovery-hgtv.m3u8
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Hipstr | (STIRЯ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Hipstr | (STIRЯ) (Ƭ⫯ⲍƬ⋎)
 https://amg09501-questar-amg09501c2-stirr-us-3095.playouts.now.amagi.tv/amg09501/AMG09501C2/segmented_playlist/0/35-89-3095.m3u8
 
@@ -3239,6 +3344,12 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 
 #EXTINF:-1, tvg-id="JudgeNosey.us" tvg-logo="InsertLogoHere" tvg-name="Judge Nosey (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Judge Nosey (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9decb953e157000752321c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5cf40b17-1cb7-40a3-b1fa-934cfd8b1ad5
+
+#EXTINF:-1, tvg-id="mjh-juice-tv" tvg-logo="https://i.mjh.nz/.images/juice-tv.png" tvg-name="JuiceTV (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Music",JuiceTV (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/juice-tv.m3u8
+
+#EXTINF:-1, tvg-id="mjh-juice-x" tvg-logo="https://i.mjh.nz/.images/juice-x.png" tvg-name="JuiceX (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Music",JuiceX (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/juice-x.m3u8
 
 #EXTINF:-1, tvg-id="JuliaChild.us" tvg-logo="InsertLogoHere" tvg-name="Julia Child Food (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Special interest",Julia Child Food (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/606b5ee42b54a100079dd593/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=88ac2596-0c05-4abb-a965-5fc31339f864
@@ -3424,10 +3535,10 @@ https://tbn-jw.cdn.vustreams.com/live/merit-dev/live.isml/playlist.m3u8
 http://fl2.moveonjoy.com/ME_TV/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="MeTV | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",MeTV | (Ƭ⫯ⲍƬ⋎)
-https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
+https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="MeTV | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",MeTV | (Ƭ⫯ⲍƬ⋎)
-https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
+https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Mezzo Live | (Ƭ⫯ⲍƬ⋎)"  group-title="Music",Mezzo Live | (Ƭ⫯ⲍƬ⋎)
 https://cdn.troya.one/ch130/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iOEK2Z906g5TWU2JHvmcDS0Pt_YjSiVi_LMVvrYztJoI
@@ -3500,6 +3611,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d3a31b95267e225
 
 #EXTINF:-1, tvg-id="MoviesforGamers.us" tvg-logo="InsertLogoHere" tvg-name="Movies for Gamers (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Movies",Movies for Gamers (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6008ddf24ef92b00079d61cf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2f37e9d8-bdac-4d46-949d-ccfbf76dd6e0
+
+#EXTINF:-1, tvg-id="mjh-discovery-ptms" tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1711490737342/20240327T110809_moviespherelogo.png" tvg-name="MovieSphere (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",MovieSphere (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/discovery-ptms.m3u8
 
 #EXTINF:-1, tvg-id="MovieSphere.us" tvg-logo="Logo N/A" tvg-name="MovieSphere (UK) | (Samsung) (Ƭ⫯ⲍƬ⋎)"  group-title="Movies",MovieSphere (UK) | (Samsung) (Ƭ⫯ⲍƬ⋎)
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
@@ -3702,11 +3816,11 @@ http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Nick (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Nick (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdb6a83c6e37000726823b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f08-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c15d1002-05a1-4c9d-82b6-2c554bbbf97f
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/8PVkGgtb/PlutoTV.png" tvg-name="Nick | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Nick | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
-http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&coppa=1
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/G25QDjSc/Nick-Pluto-TV.jpg" tvg-name="Nick | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Nick | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&coppa=1&Animation.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/8PVkGgtb/PlutoTV.png" tvg-name="Nick | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Nick | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&coppa=1
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Nick | PlutoTV (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Nick | PlutoTV (Ƭ⫯ⲍƬ⋎)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -3887,6 +4001,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/8PVkGgtb/PlutoTV.png" tvg-name="Paranormal | (UK) (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Paranormal | (UK) (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4af2ffa9506ab29cf38c38/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=216&deviceId=5d4af2ffa9506ab29cf38c38&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1, tvg-id="mjh-parliament-tv" tvg-logo="https://i.mjh.nz/.images/parliament-tv.png" tvg-name="Parliament TV (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",Parliament TV (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/parliament-tv.m3u8
 
 #EXTINF:-1, tvg-id="PBRRidePass.us" tvg-logo="InsertLogoHere" tvg-name="PBR RidePass (Professional Bull Riders) (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Sports",PBR RidePass (Professional Bull Riders) (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60d39387706fe50007fda8e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f21-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f7275d4e-aa8e-4e8d-9d5e-6a5665bf8190
@@ -4854,8 +4971,14 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Realmadrid TV (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Realmadrid TV (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65f9ba32f7f0af0008fbcb3d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bdb43-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ad58b114-23ee-4023-be37-d11303c83d67
 
+#EXTINF:-1, tvg-id="mjh-10-realmadridtv" tvg-logo="https://10play.com.au/ip/s3/2024/05/27/b7cb1303fcd9b41f702b1a5da323aeb5-1316772.png" tvg-name="RealMadrid.TV (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",RealMadrid.TV (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/10-realmadridtv.m3u8
+
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/VLSQrGvV/Red-Bull-TV.png" tvg-name="Red Bull TV | HD (Ƭ⫯ⲍƬ⋎)"  group-title="Sports",Red Bull TV | HD (Ƭ⫯ⲍƬ⋎)
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1, tvg-id="mjh-redbull-tv" tvg-logo="https://i.mjh.nz/.images/redbull-tv.png" tvg-name="Redbull TV | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Sports",Redbull TV | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/redbull-tv.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Redbull TV | (Ƭ⫯ⲍƬ⋎)"  group-title="Sports",Redbull TV | (Ƭ⫯ⲍƬ⋎)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
@@ -4870,10 +4993,10 @@ https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245
 http://fl2.moveonjoy.com/REELZ/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/jq4d2k72/Ambient-Sleeping-Pill-com.png" tvg-name="Relax | AmbientSleepingPill.com Opt-1 | (Ƭ⫯ⲍƬ⋎)"  group-title="Relax",Relax | AmbientSleepingPill.com Opt-1 | (Ƭ⫯ⲍƬ⋎)
-http://163.172.169.217:80/asp-h
+http://163.172.169.217:80/asp-s
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/jq4d2k72/Ambient-Sleeping-Pill-com.png" tvg-name="Relax | AmbientSleepingPill.com Opt-1 | (Ƭ⫯ⲍƬ⋎)"  group-title="Relax",Relax | AmbientSleepingPill.com Opt-1 | (Ƭ⫯ⲍƬ⋎)
-http://163.172.169.217:80/asp-s
+http://163.172.169.217:80/asp-h
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Relax | RainForest-BrazilianBirds | (Ƭ⫯ⲍƬ⋎)"  group-title="Relax",Relax | RainForest-BrazilianBirds | (Ƭ⫯ⲍƬ⋎)
 https://strm112.1.fm/brazilianbirds_mobile_mp3
@@ -4941,6 +5064,12 @@ https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/L6KtnDsb/Eternal-Word-Television-Network.png" tvg-name="Religion (Christianity) | EWTN Europe (Eternal Word Television Network) | (Ƭ⫯ⲍƬ⋎)"  group-title="Religion",Religion (Christianity) | EWTN Europe (Eternal Word Television Network) | (Ƭ⫯ⲍƬ⋎)
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 
+#EXTINF:-1, tvg-id="mjh-firstlight" tvg-logo="https://i.mjh.nz/.images/firstlight.png" tvg-name="Religion (Christianity) | Firstlight (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Religion",Religion (Christianity) | Firstlight (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/firstlight.m3u8
+
+#EXTINF:-1, tvg-id="mjh-good-dot" tvg-logo="https://i.mjh.nz/.images/good-dot.png" tvg-name="Religion (Christianity) | GOOD (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Religion",Religion (Christianity) | GOOD (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/good-dot.m3u8
+
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/cHBBz6RM/harvest-usa.png" tvg-name="Religion (Christianity) | HarvestUSA.TV | Pearland TX (US) and Malayalam (India) (Ƭ⫯ⲍƬ⋎)"  group-title="Religion",Religion (Christianity) | HarvestUSA.TV | Pearland TX (US) and Malayalam (India) (Ƭ⫯ⲍƬ⋎)
 http://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
 
@@ -4952,6 +5081,9 @@ http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/kgBySv11/NRB-TV.jpg" tvg-name="Religion (Christianity) | National Religious Broadcasters (NRBTV) | (Ƭ⫯ⲍƬ⋎)"  group-title="Religion",Religion (Christianity) | National Religious Broadcasters (NRBTV) | (Ƭ⫯ⲍƬ⋎)
 http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1, tvg-id="mjh-shine-tv" tvg-logo="https://i.mjh.nz/.images/shine-tv.png" tvg-name="Religion (Christianity) | Shine TV (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Religion",Religion (Christianity) | Shine TV (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/shine-tv.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/GmMTJxcr/Spirit-TV.jpg" tvg-name="Religion (Christianity) | Spirit TV | (Ƭ⫯ⲍƬ⋎)"  group-title="Religion",Religion (Christianity) | Spirit TV | (Ƭ⫯ⲍƬ⋎)
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
@@ -5061,11 +5193,11 @@ https://f4e3f8fe72d345e8b2de999d3f5cb5c3.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/XqPQGb1s/revry-3.png" tvg-name="Revry 3 | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Revry 3 | (Ƭ⫯ⲍƬ⋎)
 https://785e3b6ff91d4c6db1d8a5b67a894571.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-5-REVRY-BRIGHTCOVE/mt/brightcove/5/hls/master/playlist.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/xTksrXqh/revry-OML.png" tvg-name="Revry Her | (Ƭ⫯ⲍƬ⋎)"  group-title="Special Interest",Revry Her | (Ƭ⫯ⲍƬ⋎)
-https://6bda80f950a748f2870036a8a4825727.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-73-OML-BRIGHTCOVE/mt/brightcove/73/hls/master/playlist.m3u8
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Revry Her | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Revry Her | (Ƭ⫯ⲍƬ⋎)
 https://linear-73.frequency.stream/dist/localnow/73/hls/master/playlist.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/xTksrXqh/revry-OML.png" tvg-name="Revry Her | (Ƭ⫯ⲍƬ⋎)"  group-title="Special Interest",Revry Her | (Ƭ⫯ⲍƬ⋎)
+https://6bda80f950a748f2870036a8a4825727.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-73-OML-BRIGHTCOVE/mt/brightcove/73/hls/master/playlist.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/T2NkHV2n/revry-News.png" tvg-name="Revry News (LGBTQ+) | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Revry News (LGBTQ+) | (Ƭ⫯ⲍƬ⋎)
 https://735d81460ce14f66bb1b9ebdaebd61ea.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-44-REVRYNOW-BRIGHTCOVE/mt/brightcove/44/hls/master/playlist.m3u8
@@ -5460,17 +5592,17 @@ https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 #EXTINF:-1, tvg-id="ScrippsNews.us" tvg-logo="InsertLogoHere" tvg-name="Scripps News (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Scripps News (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8986-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=20db7334-405e-4c4e-abea-fa620b2d19fb
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/N0LMm2jS/newsy.jpg" tvg-name="Scripps News | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Scripps News | (Ƭ⫯ⲍƬ⋎)
-https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/N0LMm2jS/newsy.jpg" tvg-name="Scripps News | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Scripps News | (Ƭ⫯ⲍƬ⋎)
-https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/dtRWb4KR/NBC-Logo.jpg" tvg-name="Scripps News | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Scripps News | (Ƭ⫯ⲍƬ⋎)
 https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/N0LMm2jS/newsy.jpg" tvg-name="Scripps News | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Scripps News | (Ƭ⫯ⲍƬ⋎)
 https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/N0LMm2jS/newsy.jpg" tvg-name="Scripps News | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Scripps News | (Ƭ⫯ⲍƬ⋎)
+https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/N0LMm2jS/newsy.jpg" tvg-name="Scripps News | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Scripps News | (Ƭ⫯ⲍƬ⋎)
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="SD | 24/7 Antiques Roadshow UK (UK) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="SD Channels",SD | 24/7 Antiques Roadshow UK (UK) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce44810b421747ae467b7cd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ce44810b421747ae467b7cd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=621&terminate=false&userId=
@@ -5580,6 +5712,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Sky News | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Sky News | (Ƭ⫯ⲍƬ⋎)
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 
+#EXTINF:-1, tvg-id="mjh-sky-news-now" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png" tvg-name="Sky News Now (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Sky News Now (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/sky-news-now.m3u8
+
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Smithsonian Channel | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Infotainment",Smithsonian Channel | (MOJ) (Ƭ⫯ⲍƬ⋎)
 http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 
@@ -5588,6 +5723,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Snackable Adventures (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Special Interest",Snackable Adventures (CA) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fb65373297460007ec5aa7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0252-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0fc5a1ae-359c-4d5f-94c7-764e2885f877
+
+#EXTINF:-1, tvg-id="mjh-snowy-mountains" tvg-logo="https://i.mjh.nz/.images/smtv.png" tvg-name="Snowy Mountains Television (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Sports",Snowy Mountains Television (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/snowy-mountains.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/c4Bg6G4d/SonusFM.png" tvg-name="Sonus FM (Electronic Music) | (Ƭ⫯ⲍƬ⋎)"  group-title="Music",Sonus FM (Electronic Music) | (Ƭ⫯ⲍƬ⋎)
 http://streaming.sonus.fm/public/stream_720p/playlist.m3u8
@@ -6219,11 +6357,17 @@ http://fl2.moveonjoy.com/TV_Land/index.m3u8
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="TVOne | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",TVOne | (MOJ) (Ƭ⫯ⲍƬ⋎)
 http://fl2.moveonjoy.com/TV_ONE/index.m3u8
 
+#EXTINF:-1, tvg-id="mjh-tvsn-shopping-au" tvg-logo="https://i.mjh.nz/.images/tvsn-shopping.png" tvg-name="TVSN Shopping (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Shopping",TVSN Shopping (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/tvsn-shopping-au.m3u8
+
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Ultimate Builds (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Ultimate Builds (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656542ae4261ca00082154a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1a08a4dc-ccfb-49ce-83dc-ee4040567b55
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="UN Web TV | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",UN Web TV | (Ƭ⫯ⲍƬ⋎)
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1, tvg-id="mjh-event-cm3gjvlw100070gp6breudidp-FAST" tvg-logo="https://imageresizer.static9.net.au/7j5qyRLnFbym6hieGJOL-LD8RxE=/768x0/vms-live-event-assets-prod.s3-ap-southeast-2.amazonaws.com%2Ftv%2Fimages%2F2024%2F11%2F650648%2Flmnnetwork_channelcard_new.png" tvg-name="Unforgettable Christmas (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Unforgettable Christmas (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
+https://i.mjh.nz/.r/event-cm3gjvlw100070gp6breudidp-FAST.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Universal Action (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Universal Action (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654933e253fc970008390114/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f4af3fb3-c7bd-419b-a2e3-da5c4363586a
@@ -6346,13 +6490,13 @@ http://worcester.vod.castus.tv/live/ch1.m3u8
 http://fl2.moveonjoy.com/WE_TV/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/Gm4Nwb7G/Weather-Nation-logo.png" tvg-name="Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bdce04659ee03633e758130/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/Gm4Nwb7G/Weather-Nation-logo.png" tvg-name="Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=217&deviceId=5bdce04659ee03633e758130&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/Gm4Nwb7G/Weather-Nation-logo.png" tvg-name="Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appVersion=9.6.0-a4885044134e9550f33624d94056de15020c6adb&app_name=web&clientDeviceType=0&clientID=375f0c1b-ef75-4c3c-a1ce-ea3b95242005&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=375f0c1b-ef75-4c3c-a1ce-ea3b95242005&deviceLat=35.5100&deviceLon=-97.4700&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=US&serverSideAds=false&sessionID=fb4f12df-b2d7-11ef-b289-667f6b555507&sid=fb4f12df-b2d7-11ef-b289-667f6b555507&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImEwYzliMzc3LTg4M2EtNGI0Mi1hODc0LTI3OTJhMjNkMmFiZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJmYjRmMTJkZi1iMmQ3LTExZWYtYjI4OS02NjdmNmI1NTU1MDciLCJjbGllbnRJUCI6IjI2MDA6MTcwMjozNjkwOjIyMTA6OTg2ZDplNjY0OmRlZDI6ODczNyIsImNpdHkiOiJPa2xhaG9tYSBDaXR5IiwicG9zdGFsQ29kZSI6IjczMTExIiwiY291bnRyeSI6IlVTIiwiZG1hIjo2NTAsImFjdGl2ZVJlZ2lvbiI6IlVTIiwiZGV2aWNlTGF0IjozNS41MDk5OTgzMjE1MzMyLCJkZXZpY2VMb24iOi05Ny40NzAwMDEyMjA3MDMxMiwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTMzLjAuMCIsImRldmljZU1ha2UiOiJmaXJlZm94IiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjkuNi4wLWE0ODg1MDQ0MTM0ZTk1NTBmMzM2MjRkOTQwNTZkZTE1MDIwYzZhZGIiLCJjbGllbnRJRCI6IjM3NWYwYzFiLWVmNzUtNGMzYy1hMWNlLWVhM2I5NTI0MjAwNSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0NoaWNhZ28iLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7ImFkTG9hZCI6eyJjb2hvcnQiOiIifSwibXVsdGlBdWRpbyI6eyJlbmFibGVkIjp0cnVlfSwibXVsdGlQb2RBZHMiOnsiZW5hYmxlZCI6dHJ1ZX0sInNlYXJjaEFQSSI6eyJtYXRjaEV4YWN0SW5QaHJhc2VFbmFibGVkIjp0cnVlLCJtYXRjaEluQWN0b3JzQm9vc3QiOjI1LCJtYXRjaEluQWN0b3JzRWRpdERpc3RhbmNlIjoiQVVUTzo1LDExIiwibWF0Y2hJbkFjdG9yc0VuYWJsZWQiOnRydWUsIm1hdGNoSW5EaXJlY3RvcnNCb29zdCI6MjUsIm1hdGNoSW5EaXJlY3RvcnNFZGl0RGlzdGFuY2UiOiJBVVRPOjUsMTEiLCJtYXRjaEluRGlyZWN0b3JzRW5hYmxlZCI6dHJ1ZSwibmV4dXNUaW1lb3V0TXMiOjUwMCwicXVlcnlTeW5vbnltc0VuYWJsZWQiOnRydWUsInF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCIsInNlYXJjaFByb3h5RW5oYW5jZW1lbnQiOmZhbHNlfX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiMzc1ZjBjMWItZWY3NS00YzNjLWExY2UtZWEzYjk1MjQyMDA1IiwiZndWY0lEMkNvcHBhIjoiMzc1ZjBjMWItZWY3NS00YzNjLWExY2UtZWEzYjk1MjQyMDA1IiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiIzNzVmMGMxYi1lZjc1LTRjM2MtYTFjZS1lYTNiOTUyNDIwMDUiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5In19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6TXpjMVpqQmpNV0l0WldZM05TMDBZek5qTFdFeFkyVXRaV0V6WWprMU1qUXlNREExIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTczMzQ2OTAxNywiaWF0IjoxNzMzMzgyNjE3LCJqdGkiOiIxNzNhMzJkZC0zYjBiLTQyMjgtYTI0Mi00MGFjMmUzOGIzZTUifQ.H9Q62pt0HO8iURQC0DD9YR4ivaLEJWy48yNLQ5klMUE&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQEUiUHXWSa3vaLEk4oUAy4R2osGJ47fgU-unZQUvkFXW_MhgIIRL5GvIKdNIibf1LClXs5G756ntQk_XRG28Lit_f5ikZezMOvHs6sdDs-FYtdZCLanqx2Y4JkU75TPkHXhY4V-b7457NY5G8EArRknHskitywv6XhXQjp86CR6DSFALLWDkt11GKh3Y8Y_0GZMgkVnjWRRLW_7gSG9KMG7YeNVmOfDTmcPGqbACyjGGR_iuqe5H8SBVW0Ba0JDoZnHkFj1UbtODkHvn7YcrADkFlPdVjoqd2SKZmoV8zHZsnph1yjz80_xDAV0AhJnvBfSD5W1UZUnf32k-wcbxLV7GDsID9uHx9w1O8F2dnxJ9SKOxTMIk7uESkkOhziFm9uEbsWNWzK3FDklzDBoWT3Velhmq7RZ68CbOW5ZlwO0CHdtPq-FebFdzZYLuteT0dkFGjH21IeDaUX5iYDy37HpPsKm2r2wEmXFbVhJYifh1qqYvo2V72k5jxhcYQRFJMNCZUBCkrJrseeRNIksfGvypGevDmpnghZYEiLvX0J96P4a_OF2PdwxMiFHVn23vH8iiJHxZqYykJamoFLK623-OaQL62fgwq1IbjFIwE3sAkI7Aunv3u0ThqlD-tCVsjJiDzh4pc3pIEULIERcdOqkSbNiNnderXCeDPcVc5c2cizhhbld9gcfMGBhKfJFPGW4AkgxB6GhJzwOyOSZkZleuqlwQXriMOCLxvmlxdQgCyZtDN7yxDVnS68uzEf2nGtylUHbjexPlJiWk_FheRjGd6UnTeL6Ep1s3QfzbTzohPLmPo-Q7H1hynoLsN271throkp2wyUtKH3xUVz-tUczTa4C2o8pPZp32-Y7rLcGeTXo-WHarN2fb0x-hliKqpibwk7qptKqls955tJuVSAsDqXNQ8XC60huCvyVWzF26GxzQNMcL5duEsanQQREtS8A0d6cOnkYx44PGLPW32Ww8Qdg80voMqIJ6bf-NaUs95xh7fuzZwbkWc0ARL-zFcizbs91lQmIgxHan2GB4xkYX6KPzCsOl_B5nzwIJ_lTa2SvCRAqZs2fMGWbwg2JqJ891zD-xNFjRG_wgLdWG4vI4AMK9eOI-awyQM.&gpp=DBABLA~BVQqAAAAAgA.QA&gpp_sid=7&us_privacy=1YNN&eventVOD=false&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22d7c7fa3e-d8e6-4514-972f-6f19714b7353%22%2Csu
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/Gm4Nwb7G/Weather-Nation-logo.png" tvg-name="Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bdce04659ee03633e758130/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/Gm4Nwb7G/Weather-Nation-logo.png" tvg-name="Weather Nation | (Roku) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Weather Nation | (Roku) (Ƭ⫯ⲍƬ⋎)
 https://osm-use1.sr.roku.com/osm/v1/hls/use1/variant/eeef5f64e81844998b5fb3018163e7f2/live_720.m3u8
@@ -6459,11 +6603,11 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 #EXTINF:-1, tvg-id="XploreTV.us" tvg-logo="Logo N/A" tvg-name="Xplore (US) | (Samsung) (Ƭ⫯ⲍƬ⋎)"  group-title="Infotainment",Xplore (US) | (Samsung) (Ƭ⫯ⲍƬ⋎)
 https://xlpore-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/NFc620QG/Xplore.jpg" tvg-name="Xplore | (Ƭ⫯ⲍƬ⋎)"  group-title="Infotainment",Xplore | (Ƭ⫯ⲍƬ⋎)
-http://xlpore-samsungus.amagi.tv/playlist.m3u8
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Xplore | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Xplore | (Ƭ⫯ⲍƬ⋎)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/NFc620QG/Xplore.jpg" tvg-name="Xplore | (Ƭ⫯ⲍƬ⋎)"  group-title="Infotainment",Xplore | (Ƭ⫯ⲍƬ⋎)
+http://xlpore-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="XploreTV.us" tvg-logo="Logo N/A" tvg-name="Xplore | (Vizio) (Ƭ⫯ⲍƬ⋎)"  group-title="Infotainment",Xplore | (Vizio) (Ƭ⫯ⲍƬ⋎)
 https://xplore-vizio.amagi.tv/playlist.m3u8
@@ -6654,11 +6798,11 @@ https://a.datadiff.us.kg/movies/Scooby-Doo%20%282002%29/Scooby%20Doo%202002%2010
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Sweeney Todd (2007) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Sweeney Todd (2007) | (a.datadiff.us.kg) (Ƭ⫯ⲍƬ⋎)
 https://a.datadiff.us.kg/movies/Sweeney%20Todd%20The%20Demon%20Barber%20of%20Fleet%20Street%20%282007%29/Sweeney.Todd.The.Demon.Barber.of.Fleet.Street.2007.1080p.BluRay.x264-nikt0.mkv
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tos-poster.png/800px-Tos-poster.png" tvg-name="πVODπ | Tears of Steel (2012) || (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Tears of Steel (2012) || (Ƭ⫯ⲍƬ⋎)
-http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="πVODπ | Tears of Steel (2012) || (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Tears of Steel (2012) || (Ƭ⫯ⲍƬ⋎)
 https://download.blender.org/demo/movies/ToS/tears_of_steel_1080p.webm
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tos-poster.png/800px-Tos-poster.png" tvg-name="πVODπ | Tears of Steel (2012) || (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Tears of Steel (2012) || (Ƭ⫯ⲍƬ⋎)
+http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="πVODπ | Tenacious D - Pick of Destiny (2006)| (Archive.org) (Ƭ⫯ⲍƬ⋎)"  group-title="Video-On-Demand",πVODπ | Tenacious D - Pick of Destiny (2006)| (Archive.org) (Ƭ⫯ⲍƬ⋎)
 https://ia601408.us.archive.org/13/items/tenacious-d-in-the-pick-of-destiny/Tenacious_D_in_The_Pick_of_Destiny.ia.mp4?cnt=0
@@ -6705,11 +6849,11 @@ http://www.deadlyblogger.com/NewRelease/xmen2.mp4
 #EXTINF:-1, tvg-id="CNBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/CNBC_2023.svg" tvg-name="ӿzTest CNBC | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Test",ӿzTest CNBC | (MOJ) (Ƭ⫯ⲍƬ⋎)
 http://fl3.moveonjoy.com/CNBC/index.m3u8
 
-#EXTINF:-1, tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" tvg-name="ӿzTest CNN | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Test",ӿzTest CNN | (MOJ) (Ƭ⫯ⲍƬ⋎)
-http://fl2.moveonjoy.com/CNN/index.m3u8
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ӿzTest CNN | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Test",ӿzTest CNN | (MOJ) (Ƭ⫯ⲍƬ⋎)
 https://fl2.moveonjoy.com/CNN/index.m3u8
+
+#EXTINF:-1, tvg-id="CNN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" tvg-name="ӿzTest CNN | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Test",ӿzTest CNN | (MOJ) (Ƭ⫯ⲍƬ⋎)
+http://fl2.moveonjoy.com/CNN/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="ӿzTest Comedy TV | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Test",ӿzTest Comedy TV | (MOJ) (Ƭ⫯ⲍƬ⋎)
 http://fl3.moveonjoy.com/Comedy_TV/index.m3u8
