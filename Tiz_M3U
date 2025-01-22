@@ -231,11 +231,11 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 CSI: NY (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 CSI: NY (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f54c6439183b000769fb8f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285535-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e57915ed-fd29-4d46-adb2-72d5623daaa5
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/tR10MvbN/Dallas-Cowboys-Cheerleaders.png" tvg-name="24/7 Dallas Cowboy Cheerleaders | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Dallas Cowboy Cheerleaders | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
-http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus?247.m3u8
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/8PVkGgtb/PlutoTV.png" tvg-name="24/7 Dallas Cowboy Cheerleaders | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Dallas Cowboy Cheerleaders | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/tR10MvbN/Dallas-Cowboys-Cheerleaders.png" tvg-name="24/7 Dallas Cowboy Cheerleaders | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Dallas Cowboy Cheerleaders | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceUA=samsung%2FSM-T720%2F10&advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&us_privacy=1YNY&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile%20TV%20Plus&profileLimit=&profileFloor=&embedPartner=samsung-tvplus?247.m3u8
 
 #EXTINF:-1, tvg-id="DallasCowboysCheerleaders.us" tvg-logo="InsertLogoHere" tvg-name="24/7 Dallas Cowboys Cheerleaders (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Dallas Cowboys Cheerleaders (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d40855b3fb0855028c99b6f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c40-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=92a113fc-f35c-4160-9c63-27cd8537a39f
@@ -1641,436 +1641,439 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC News Asia Pacific | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",BBC News Asia Pacific | (Ƭ⫯ⲍƬ⋎)
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 1 (Top40) | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 (Top40) | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/QN10d87g/BBC-Radio-1.png" tvg-name="BBC Radio 1 (Top40) | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 (Top40) | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_one&bitrate=320000
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 1 (Top40) | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 (Top40) | (96000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/QN10d87g/BBC-Radio-1.png" tvg-name="BBC Radio 1 (Top40) | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 (Top40) | (96000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_one&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 1 (Top40) | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 (Top40) | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/QN10d87g/BBC-Radio-1.png" tvg-name="BBC Radio 1 (Top40) | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 (Top40) | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 1 Dance | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 Dance | (96000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/v8xnh4Bf/BBC1-Dance.jpg" tvg-name="BBC Radio 1 Dance | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 Dance | (320000) (Ƭ⫯ⲍƬ⋎)
+http://lstn.lv/bbc.m3u8?station=bbc_radio_one_dance&bitrate=320000&uk=1
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/v8xnh4Bf/BBC1-Dance.jpg" tvg-name="BBC Radio 1 Dance | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 Dance | (96000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_one_dance&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 1 Dance | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 Dance | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/v8xnh4Bf/BBC1-Dance.jpg" tvg-name="BBC Radio 1 Dance | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 Dance | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 1 Xtra | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 Xtra | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/527mR6cJ/BBC-Radio-1-Xtra.png" tvg-name="BBC Radio 1 Xtra | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 Xtra | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_1xtra&bitrate=320000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 1 Xtra | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 Xtra | (96000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/527mR6cJ/BBC-Radio-1-Xtra.png" tvg-name="BBC Radio 1 Xtra | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 Xtra | (96000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_1xtra&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 1 Xtra | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 Xtra | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/527mR6cJ/BBC-Radio-1-Xtra.png" tvg-name="BBC Radio 1 Xtra | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 Xtra | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 2 (Oldies/Pop) | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 2 (Oldies/Pop) | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/WbVSDBmB/BBC-Radio-2.png" tvg-name="BBC Radio 2 (Oldies/Pop) | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 2 (Oldies/Pop) | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_two&bitrate=320000
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 2 (Oldies/Pop) | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 2 (Oldies/Pop) | (96000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/WbVSDBmB/BBC-Radio-2.png" tvg-name="BBC Radio 2 (Oldies/Pop) | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 2 (Oldies/Pop) | (96000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_two&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 2 (Oldies/Pop) | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 2 (Oldies/Pop) | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/WbVSDBmB/BBC-Radio-2.png" tvg-name="BBC Radio 2 (Oldies/Pop) | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 2 (Oldies/Pop) | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 3 (Classical) | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 3 (Classical) | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/CxLN7bQJ/BBC-Radio-3.png" tvg-name="BBC Radio 3 (Classical) | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 3 (Classical) | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_three&bitrate=320000
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 3 (Classical) | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 3 (Classical) | (96000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/CxLN7bQJ/BBC-Radio-3.png" tvg-name="BBC Radio 3 (Classical) | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 3 (Classical) | (96000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_three&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 3 (Classical) | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 3 (Classical) | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/CxLN7bQJ/BBC-Radio-3.png" tvg-name="BBC Radio 3 (Classical) | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 3 (Classical) | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 4 (Talk Radio) | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 4 (Talk Radio) | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/wvsFJHGp/BBC-Radio-4.png" tvg-name="BBC Radio 4 (Talk Radio) | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 4 (Talk Radio) | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_fourfm&bitrate=320000
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 4 (Talk Radio) | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 4 (Talk Radio) | (96000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/wvsFJHGp/BBC-Radio-4.png" tvg-name="BBC Radio 4 (Talk Radio) | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 4 (Talk Radio) | (96000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_fourfm&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 4 (Talk Radio) | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 4 (Talk Radio) | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/wvsFJHGp/BBC-Radio-4.png" tvg-name="BBC Radio 4 (Talk Radio) | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 4 (Talk Radio) | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 4 Extra | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 4 Extra | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/wTk2Dw07/BBC-Radio-4-Xtra.png" tvg-name="BBC Radio 4 Extra | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 4 Extra | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_four_extra&bitrate=320000
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 4 Extra | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 4 Extra | (96000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/wTk2Dw07/BBC-Radio-4-Xtra.png" tvg-name="BBC Radio 4 Extra | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 4 Extra | (96000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_four_extra&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 4 Extra | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 4 Extra | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/wTk2Dw07/BBC-Radio-4-Xtra.png" tvg-name="BBC Radio 4 Extra | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 4 Extra | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 5 Extra (Sports/Talk) | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 5 Extra (Sports/Talk) | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/7h3Vs94t/BBC-Radio-5-Sports.png" tvg-name="BBC Radio 5 Extra (Sports/Talk) | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 5 Extra (Sports/Talk) | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_five_live_sports_extra&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 5 live (News/Talk) | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 5 live (News/Talk) | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/FK6D71Gp/BBC-Radio-5.png" tvg-name="BBC Radio 5 live (News/Talk) | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 5 live (News/Talk) | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_five_live&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 5 live (News/Talk) | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 5 live (News/Talk) | (96000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/FK6D71Gp/BBC-Radio-5.png" tvg-name="BBC Radio 5 live (News/Talk) | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 5 live (News/Talk) | (96000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_five_live&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 5 live (News/Talk) | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 5 live (News/Talk) | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/FK6D71Gp/BBC-Radio-5.png" tvg-name="BBC Radio 5 live (News/Talk) | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 5 live (News/Talk) | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 6 Music | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 6 Music | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/7L5N8wD2/BBC-Radio-6.png" tvg-name="BBC Radio 6 Music | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 6 Music | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_6music&bitrate=320000
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 6 Music | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 6 Music | (96000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/7L5N8wD2/BBC-Radio-6.png" tvg-name="BBC Radio 6 Music | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 6 Music | (96000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_6music&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio 6 Music | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 6 Music | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/7L5N8wD2/BBC-Radio-6.png" tvg-name="BBC Radio 6 Music | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 6 Music | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Asian Network | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Asian Network | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/T1M0JSzW/BBC-Radio-Asia.png" tvg-name="BBC Radio Asian Network | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Asian Network | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_asian_network&bitrate=320000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Asian Network | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Asian Network | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/T1M0JSzW/BBC-Radio-Asia.png" tvg-name="BBC Radio Asian Network | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Asian Network | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Berkshire | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Berkshire | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Berkshire | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Berkshire | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_berkshire&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Berkshire | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Berkshire | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Berkshire | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Berkshire | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_berkshire/bbc_radio_berkshire.isml/bbc_radio_berkshire-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Bristol | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Bristol | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Bristol | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Bristol | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_bristol&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Bristol | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Bristol | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Bristol | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Bristol | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_bristol/bbc_radio_bristol.isml/bbc_radio_bristol-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Cambridge | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cambridge | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Cambridge | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cambridge | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_cambridge&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Cambridge | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cambridge | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Cambridge | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cambridge | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_cambridge/bbc_radio_cambridge.isml/bbc_radio_cambridge-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Cornwall | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cornwall | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Cornwall | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cornwall | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_cornwall&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Cornwall | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cornwall | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Cornwall | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cornwall | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_cornwall/bbc_radio_cornwall.isml/bbc_radio_cornwall-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Cumbria | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cumbria | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Cumbria | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cumbria | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_cumbria&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Cumbria | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cumbria | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Cumbria | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cumbria | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_cumbria/bbc_radio_cumbria.isml/bbc_radio_cumbria-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio CWR | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio CWR | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio CWR | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio CWR | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_coventry_warwickshire&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio CWR | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio CWR | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio CWR | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio CWR | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_coventry_warwickshire/bbc_radio_coventry_warwickshire.isml/bbc_radio_coventry_warwickshire-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Cymru | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cymru | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Cymru | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cymru | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_cymru&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Cymru | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cymru | (96000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Cymru | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cymru | (96000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_cymru&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Cymru | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cymru | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Cymru | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cymru | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_cymru/bbc_radio_cymru.isml/bbc_radio_cymru-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Cymru 2 | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cymru 2 | (96000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Cymru 2 | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cymru 2 | (96000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_cymru_2&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Cymru 2 | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cymru 2 | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Cymru 2 | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cymru 2 | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_cymru_2/bbc_radio_cymru_2.isml/bbc_radio_cymru_2-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Derby | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Derby | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Derby | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Derby | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_derby&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Derby | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Derby | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Derby | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Derby | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_derby/bbc_radio_derby.isml/bbc_radio_derby-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Devon | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Devon | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Devon | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Devon | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_devon&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Devon | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Devon | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Devon | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Devon | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_devon/bbc_radio_devon.isml/bbc_radio_devon-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Essex | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Essex | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Essex | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Essex | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_essex&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Essex | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Essex | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Essex | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Essex | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_essex/bbc_radio_essex.isml/bbc_radio_essex-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Foyle | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Foyle | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Foyle | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Foyle | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_foyle&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Foyle | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Foyle | (96000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Foyle | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Foyle | (96000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_foyle&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Foyle | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Foyle | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Foyle | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Foyle | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_foyle/bbc_radio_foyle.isml/bbc_radio_foyle-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Gloucestershire | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Gloucestershire | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Gloucestershire | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Gloucestershire | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_gloucestershire&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Gloucestershire | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Gloucestershire | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Gloucestershire | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Gloucestershire | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_gloucestershire/bbc_radio_gloucestershire.isml/bbc_radio_gloucestershire-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Guernsey | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Guernsey | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Guernsey | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Guernsey | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_guernsey/bbc_radio_guernsey.isml/bbc_radio_guernsey-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Hereford Worcester | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Hereford Worcester | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Hereford Worcester | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Hereford Worcester | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_hereford_worcester&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Hereford Worcester | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Hereford Worcester | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Hereford Worcester | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Hereford Worcester | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_hereford_worcester/bbc_radio_hereford_worcester.isml/bbc_radio_hereford_worcester-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Humberside | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Humberside | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Humberside | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Humberside | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_humberside&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Humberside | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Humberside | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Humberside | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Humberside | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_humberside/bbc_radio_humberside.isml/bbc_radio_humberside-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Jersey | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Jersey | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Jersey | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Jersey | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_jersey&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Jersey | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Jersey | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Jersey | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Jersey | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_jersey/bbc_radio_jersey.isml/bbc_radio_jersey-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Kent | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Kent | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Kent | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Kent | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_kent&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Kent | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Kent | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Kent | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Kent | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_kent/bbc_radio_kent.isml/bbc_radio_kent-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Lancashire | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Lancashire | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Lancashire | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Lancashire | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_lancashire&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Lancashire | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Lancashire | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Lancashire | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Lancashire | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_lancashire/bbc_radio_lancashire.isml/bbc_radio_lancashire-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Leeds | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Leeds | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Leeds | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Leeds | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_leeds&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Leeds | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Leeds | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Leeds | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Leeds | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_leeds/bbc_radio_leeds.isml/bbc_radio_leeds-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Leicester | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Leicester | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Leicester | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Leicester | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_leicester&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Leicester | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Leicester | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Leicester | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Leicester | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_leicester/bbc_radio_leicester.isml/bbc_radio_leicester-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Lincolnshire | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Lincolnshire | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Lincolnshire | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Lincolnshire | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_lincolnshire&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Lincolnshire | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Lincolnshire | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Lincolnshire | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Lincolnshire | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_lincolnshire/bbc_radio_lincolnshire.isml/bbc_radio_lincolnshire-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio London | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio London | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio London | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio London | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_london&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio London | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio London | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio London | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio London | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_london/bbc_london.isml/bbc_london-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Manchester | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Manchester | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Manchester | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Manchester | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_manchester&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Manchester | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Manchester | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Manchester | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Manchester | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_manchester/bbc_radio_manchester.isml/bbc_radio_manchester-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Merseyside | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Merseyside | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Merseyside | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Merseyside | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_merseyside&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Merseyside | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Merseyside | (96000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Merseyside | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Merseyside | (96000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_merseyside&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Merseyside | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Merseyside | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Merseyside | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Merseyside | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_merseyside/bbc_radio_merseyside.isml/bbc_radio_merseyside-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio nan Gàidheal | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio nan Gàidheal | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio nan Gàidheal | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio nan Gàidheal | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_nan_gaidheal&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio nan Gaidheal | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio nan Gaidheal | (96000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio nan Gaidheal | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio nan Gaidheal | (96000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_nan_gaidheal&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio nan Gaidheal | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio nan Gaidheal | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio nan Gaidheal | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio nan Gaidheal | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_nan_gaidheal/bbc_radio_nan_gaidheal.isml/bbc_radio_nan_gaidheal-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Newcastle | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Newcastle | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Newcastle | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Newcastle | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_newcastle&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Newcastle | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Newcastle | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Newcastle | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Newcastle | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_newcastle/bbc_radio_newcastle.isml/bbc_radio_newcastle-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Norfolk | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Norfolk | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Norfolk | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Norfolk | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_norfolk&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Norfolk | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Norfolk | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Norfolk | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Norfolk | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_norfolk/bbc_radio_norfolk.isml/bbc_radio_norfolk-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Northampton | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Northampton | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Northampton | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Northampton | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_northampton&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Northampton | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Northampton | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Northampton | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Northampton | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_northampton/bbc_radio_northampton.isml/bbc_radio_northampton-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Nottingham | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Nottingham | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Nottingham | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Nottingham | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_nottingham&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Nottingham | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Nottingham | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Nottingham | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Nottingham | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_nottingham/bbc_radio_nottingham.isml/bbc_radio_nottingham-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Orkney | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Orkney | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Orkney | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Orkney | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_orkney&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Orkney | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Orkney | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Orkney | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Orkney | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_orkney/bbc_radio_orkney.isml/bbc_radio_orkney-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Oxford | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Oxford | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Oxford | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Oxford | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_oxford&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Oxford | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Oxford | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Oxford | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Oxford | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_oxford/bbc_radio_oxford.isml/bbc_radio_oxford-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Scotland FM | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Scotland FM | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Scotland FM | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Scotland FM | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_scotland_fm&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Scotland FM | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Scotland FM | (96000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Scotland FM | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Scotland FM | (96000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_scotland_fm&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Scotland FM | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Scotland FM | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Scotland FM | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Scotland FM | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_scotland_fm/bbc_radio_scotland_fm.isml/bbc_radio_scotland_fm-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Scotland MW | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Scotland MW | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Scotland MW | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Scotland MW | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_scotland_mw&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Scotland MW | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Scotland MW | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Scotland MW | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Scotland MW | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_scotland_mw/bbc_radio_scotland_mw.isml/bbc_radio_scotland_mw-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Sheffield | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Sheffield | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Sheffield | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Sheffield | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_sheffield&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Sheffield | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Sheffield | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Sheffield | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Sheffield | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_sheffield/bbc_radio_sheffield.isml/bbc_radio_sheffield-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Shetland | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Shetland | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Shetland | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Shetland | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_shetland&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Shropshire | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Shropshire | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Shropshire | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Shropshire | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_shropshire&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Shropshire | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Shropshire | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Shropshire | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Shropshire | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_shropshire/bbc_radio_shropshire.isml/bbc_radio_shropshire-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Solent | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Solent | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Solent | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Solent | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_solent&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Solent | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Solent | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Solent | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Solent | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_solent/bbc_radio_solent.isml/bbc_radio_solent-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Solent West Dorset | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Solent West Dorset | (96000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Solent West Dorset | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Solent West Dorset | (96000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_solent_west_dorset&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Solent West Dorset | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Solent West Dorset | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Solent West Dorset | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Solent West Dorset | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_solent_west_dorset/bbc_radio_solent_west_dorset.isml/bbc_radio_solent_west_dorset-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Somerset Sound | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Somerset Sound | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Somerset Sound | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Somerset Sound | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_somerset_sound&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Somerset Sound | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Somerset Sound | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Somerset Sound | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Somerset Sound | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_somerset_sound/bbc_radio_somerset_sound.isml/bbc_radio_somerset_sound-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Stoke | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Stoke | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Stoke | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Stoke | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_stoke&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Stoke | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Stoke | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Stoke | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Stoke | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_stoke/bbc_radio_stoke.isml/bbc_radio_stoke-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Suffolk | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Suffolk | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Suffolk | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Suffolk | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_suffolk&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Suffolk | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Suffolk | (96000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Suffolk | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Suffolk | (96000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_suffolk&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Suffolk | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Suffolk | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Suffolk | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Suffolk | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_suffolk/bbc_radio_suffolk.isml/bbc_radio_suffolk-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Surrey | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Surrey | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Surrey | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Surrey | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_surrey&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Surrey | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Surrey | (96000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Surrey | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Surrey | (96000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_surrey&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Surrey | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Surrey | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Surrey | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Surrey | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_surrey/bbc_radio_surrey.isml/bbc_radio_surrey-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Sussex | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Sussex | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Sussex | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Sussex | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_sussex&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Sussex | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Sussex | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Sussex | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Sussex | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_sussex/bbc_radio_sussex.isml/bbc_radio_sussex-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Tees | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Tees | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Tees | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Tees | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_tees&bitrate=320000&uk=1&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Tees | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Tees | (96000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Tees | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Tees | (96000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_tees&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Tees | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Tees | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Tees | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Tees | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_tees/bbc_tees.isml/bbc_tees-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Three Counties | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Three Counties | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Three Counties | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Three Counties | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_three_counties_radio&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Three Counties | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Three Counties | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Three Counties | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Three Counties | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_three_counties_radio/bbc_three_counties_radio.isml/bbc_three_counties_radio-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Ulster | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Ulster | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Ulster | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Ulster | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_ulster&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Ulster | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Ulster | (96000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Ulster | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Ulster | (96000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_ulster&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Ulster | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Ulster | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Ulster | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Ulster | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_ulster/bbc_radio_ulster.isml/bbc_radio_ulster-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Wales | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Wales | (96000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Wales | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Wales | (96000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_wales_fm&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Wales | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Wales | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Wales | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Wales | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_wales_fm/bbc_radio_wales_fm.isml/bbc_radio_wales_fm-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Wales FM | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Wales FM | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Wales FM | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Wales FM | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_wales_fm&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Wales MW | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Wales MW | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Wales MW | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Wales MW | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_wales_am&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Wiltshire | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Wiltshire | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Wiltshire | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Wiltshire | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_wiltshire&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Wiltshire | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Wiltshire | (96000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Wiltshire | (96000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Wiltshire | (96000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbc.m3u8?station=bbc_radio_wiltshire&bitrate=96000
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio Wiltshire | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Wiltshire | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Wiltshire | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Wiltshire | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_wiltshire/bbc_radio_wiltshire.isml/bbc_radio_wiltshire-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio WM | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio WM | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio WM | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio WM | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_wm&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio WM | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio WM | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio WM | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio WM | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_wm/bbc_wm.isml/bbc_wm-audio%3d96000.norewind.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio World Service | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio World Service | (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/7hBX0sg6/BBC-World-Service.png" tvg-name="BBC Radio World Service | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio World Service | (Ƭ⫯ⲍƬ⋎)
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio World Service || (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio World Service || (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/7hBX0sg6/BBC-World-Service.png" tvg-name="BBC Radio World Service || (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio World Service || (Ƭ⫯ⲍƬ⋎)
 http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio World Service ||| (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio World Service ||| (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/7hBX0sg6/BBC-World-Service.png" tvg-name="BBC Radio World Service ||| (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio World Service ||| (Ƭ⫯ⲍƬ⋎)
 http://wsdownload.bbc.co.uk/worldservice/meta/live/shoutcast/mp3/eieuk.pls
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="InsertLogoHere" tvg-name="BBC Radio York | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio York | (320000) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio York | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio York | (320000) (Ƭ⫯ⲍƬ⋎)
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_york&bitrate=320000&uk=1
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="InsertLogoHere" tvg-name="BBC Radio York | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio York | (hls) (Ƭ⫯ⲍƬ⋎)
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio York | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio York | (hls) (Ƭ⫯ⲍƬ⋎)
 http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_york/bbc_radio_york.isml/bbc_radio_york-audio%3d96000.norewind.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC Two UK | (Ƭ⫯ⲍƬ⋎)"  group-title="Entertainment",BBC Two UK | (Ƭ⫯ⲍƬ⋎)
