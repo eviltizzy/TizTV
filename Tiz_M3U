@@ -1,131 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/QN10d87g/BBC-Radio-1.png" tvg-name="BBC Radio 1 (Top40) | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 (Top40) | (320000) (Ƭ⫯ⲍƬ⋎)
-http://lstn.lv/bbcradio.m3u8?station=bbc_radio_one&bitrate=320000
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/QN10d87g/BBC-Radio-1.png" tvg-name="BBC Radio 1 (Top40) | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 (Top40) | (hls) (Ƭ⫯ⲍƬ⋎)
-http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/v8xnh4Bf/BBC1-Dance.jpg" tvg-name="BBC Radio 1 Dance | (MPD) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 Dance | (MPD) (Ƭ⫯ⲍƬ⋎)
-http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_one_dance.mpd
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/527mR6cJ/BBC-Radio-1-Xtra.png" tvg-name="BBC Radio 1 Xtra | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 Xtra | (320000) (Ƭ⫯ⲍƬ⋎)
-http://lstn.lv/bbcradio.m3u8?station=bbc_1xtra&bitrate=320000
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/527mR6cJ/BBC-Radio-1-Xtra.png" tvg-name="BBC Radio 1 Xtra | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 Xtra | (hls) (Ƭ⫯ⲍƬ⋎)
-http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/527mR6cJ/BBC-Radio-1-Xtra.png" tvg-name="BBC Radio 1 Xtra || (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 Xtra || (hls) (Ƭ⫯ⲍƬ⋎)
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/WbVSDBmB/BBC-Radio-2.png" tvg-name="BBC Radio 2 (Oldies/Pop) | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 2 (Oldies/Pop) | (320000) (Ƭ⫯ⲍƬ⋎)
-http://lstn.lv/bbcradio.m3u8?station=bbc_radio_two&bitrate=320000
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/WbVSDBmB/BBC-Radio-2.png" tvg-name="BBC Radio 2 (Oldies/Pop) | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 2 (Oldies/Pop) | (hls) (Ƭ⫯ⲍƬ⋎)
-http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/WbVSDBmB/BBC-Radio-2.png" tvg-name="BBC Radio 2 (Oldies/Pop) || (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 2 (Oldies/Pop) || (hls) (Ƭ⫯ⲍƬ⋎)
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/CxLN7bQJ/BBC-Radio-3.png" tvg-name="BBC Radio 3 (Classical) | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 3 (Classical) | (320000) (Ƭ⫯ⲍƬ⋎)
-http://lstn.lv/bbcradio.m3u8?station=bbc_radio_three&bitrate=320000
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/CxLN7bQJ/BBC-Radio-3.png" tvg-name="BBC Radio 3 (Classical) | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 3 (Classical) | (hls) (Ƭ⫯ⲍƬ⋎)
-http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/CxLN7bQJ/BBC-Radio-3.png" tvg-name="BBC Radio 3 (Classical) || (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 3 (Classical) || (hls) (Ƭ⫯ⲍƬ⋎)
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/wvsFJHGp/BBC-Radio-4.png" tvg-name="BBC Radio 4 (Talk Radio) | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 4 (Talk Radio) | (320000) (Ƭ⫯ⲍƬ⋎)
-http://lstn.lv/bbcradio.m3u8?station=bbc_radio_fourfm&bitrate=320000
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/wvsFJHGp/BBC-Radio-4.png" tvg-name="BBC Radio 4 (Talk Radio) | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 4 (Talk Radio) | (hls) (Ƭ⫯ⲍƬ⋎)
-http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/wTk2Dw07/BBC-Radio-4-Xtra.png" tvg-name="BBC Radio 4 Extra | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 4 Extra | (320000) (Ƭ⫯ⲍƬ⋎)
-http://lstn.lv/bbcradio.m3u8?station=bbc_radio_four_extra&bitrate=320000
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/FK6D71Gp/BBC-Radio-5.png" tvg-name="BBC Radio 5 live (News/Talk) | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 5 live (News/Talk) | (hls) (Ƭ⫯ⲍƬ⋎)
-http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/7L5N8wD2/BBC-Radio-6.png" tvg-name="BBC Radio 6 Music | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 6 Music | (320000) (Ƭ⫯ⲍƬ⋎)
-http://lstn.lv/bbcradio.m3u8?station=bbc_6music&bitrate=320000
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/7L5N8wD2/BBC-Radio-6.png" tvg-name="BBC Radio 6 Music | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 6 Music | (hls) (Ƭ⫯ⲍƬ⋎)
-http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/T1M0JSzW/BBC-Radio-Asia.png" tvg-name="BBC Radio Asian Network | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Asian Network | (320000) (Ƭ⫯ⲍƬ⋎)
-http://lstn.lv/bbcradio.m3u8?station=bbc_asian_network&bitrate=320000
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Cymru | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cymru | (hls) (Ƭ⫯ⲍƬ⋎)
-http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_cymru/bbc_radio_cymru.isml/bbc_radio_cymru-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Cymru || (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cymru || (hls) (Ƭ⫯ⲍƬ⋎)
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_cymru/bbc_radio_cymru.isml/bbc_radio_cymru-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Foyle | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Foyle | (hls) (Ƭ⫯ⲍƬ⋎)
-http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_foyle/bbc_radio_foyle.isml/bbc_radio_foyle-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Foyle || (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Foyle || (hls) (Ƭ⫯ⲍƬ⋎)
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_foyle/bbc_radio_foyle.isml/bbc_radio_foyle-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio London | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio London | (hls) (Ƭ⫯ⲍƬ⋎)
-http://as-hls-ww-live.akamaized.net/pool_98137350/live/ww/bbc_london/bbc_london.isml/bbc_london-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Merseyside | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Merseyside | (hls) (Ƭ⫯ⲍƬ⋎)
-http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_merseyside/bbc_radio_merseyside.isml/bbc_radio_merseyside-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Merseyside || (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Merseyside || (hls) (Ƭ⫯ⲍƬ⋎)
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_merseyside/bbc_radio_merseyside.isml/bbc_radio_merseyside-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio nan Gàidheal | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio nan Gàidheal | (hls) (Ƭ⫯ⲍƬ⋎)
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_nan_gaidheal/bbc_radio_nan_gaidheal.isml/bbc_radio_nan_gaidheal-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio nan Gàidheal || (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio nan Gàidheal || (hls) (Ƭ⫯ⲍƬ⋎)
-http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_nan_gaidheal/bbc_radio_nan_gaidheal.isml/bbc_radio_nan_gaidheal-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Scotland FM | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Scotland FM | (hls) (Ƭ⫯ⲍƬ⋎)
-http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_scotland_fm/bbc_radio_scotland_fm.isml/bbc_radio_scotland_fm-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Scotland FM || (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Scotland FM || (hls) (Ƭ⫯ⲍƬ⋎)
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_scotland_fm/bbc_radio_scotland_fm.isml/bbc_radio_scotland_fm-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Suffolk | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Suffolk | (hls) (Ƭ⫯ⲍƬ⋎)
-http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_suffolk/bbc_radio_suffolk.isml/bbc_radio_suffolk-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Suffolk || (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Suffolk || (hls) (Ƭ⫯ⲍƬ⋎)
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_suffolk/bbc_radio_suffolk.isml/bbc_radio_suffolk-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Surrey | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Surrey | (hls) (Ƭ⫯ⲍƬ⋎)
-http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_surrey/bbc_radio_surrey.isml/bbc_radio_surrey-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Surrey || (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Surrey || (hls) (Ƭ⫯ⲍƬ⋎)
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_surrey/bbc_radio_surrey.isml/bbc_radio_surrey-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Tees | (320000) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Tees | (320000) (Ƭ⫯ⲍƬ⋎)
-http://lstn.lv/bbcradio.m3u8?station=bbc_tees&bitrate=320000&uk=1&uk=1
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Tees | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Tees | (hls) (Ƭ⫯ⲍƬ⋎)
-http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_tees/bbc_tees.isml/bbc_tees-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Tees || (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Tees || (hls) (Ƭ⫯ⲍƬ⋎)
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_tees/bbc_tees.isml/bbc_tees-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Wiltshire | (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Wiltshire | (hls) (Ƭ⫯ⲍƬ⋎)
-http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_wiltshire/bbc_radio_wiltshire.isml/bbc_radio_wiltshire-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Wiltshire || (hls) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Wiltshire || (hls) (Ƭ⫯ⲍƬ⋎)
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_wiltshire/bbc_radio_wiltshire.isml/bbc_radio_wiltshire-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/7hBX0sg6/BBC-World-Service.png" tvg-name="BBC Radio World Service | (MPD) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio World Service | (MPD) (Ƭ⫯ⲍƬ⋎)
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/7hBX0sg6/BBC-World-Service.png" tvg-name="BBC Radio World Service | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio World Service | (Ƭ⫯ⲍƬ⋎)
-http://wsdownload.bbc.co.uk/worldservice/meta/live/shoutcast/mp3/eieuk.pls
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.postimg.cc/7hBX0sg6/BBC-World-Service.png" tvg-name="BBC Radio World Service || (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio World Service || (Ƭ⫯ⲍƬ⋎)
-http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/DfJ33dS8/coollogo-com-29521054.png" tvg-name=".꧁☠ Ƭ⫯ⲍƬ⋎ ☠꧂."  group-title=".꧁☠ Ƭ⫯ⲍƬ⋎ ☠꧂.",.꧁☠ Ƭ⫯ⲍƬ⋎ ☠꧂.
 https://rebrand.ly/Ц-Я-Д-ƤЇƦдƬƎ
 
@@ -1766,6 +1640,273 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC News Asia Pacific | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",BBC News Asia Pacific | (Ƭ⫯ⲍƬ⋎)
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/QN10d87g/BBC-Radio-1.png" tvg-name="BBC Radio 1 (Top40) | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 (Top40) | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/QN10d87g/BBC-Radio-1.png" tvg-name="BBC Radio 1 (Top40) | (LstnLv 320kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 (Top40) | (LstnLv 320kbps) (Ƭ⫯ⲍƬ⋎)
+http://lstn.lv/bbcradio.m3u8?station=bbc_radio_one&bitrate=320000
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/QN10d87g/BBC-Radio-1.png" tvg-name="BBC Radio 1 (Top40) | (MPD Akamai) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 (Top40) | (MPD Akamai) (Ƭ⫯ⲍƬ⋎)
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/ak/bbc_radio_one.mpd
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/QN10d87g/BBC-Radio-1.png" tvg-name="BBC Radio 1 (Top40) | (MPD CloudFront) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 (Top40) | (MPD CloudFront) (Ƭ⫯ⲍƬ⋎)
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.mpd
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/v8xnh4Bf/BBC1-Dance.jpg" tvg-name="BBC Radio 1 Dance (Electronica/Dance) | (MPD Akamai) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 Dance (Electronica/Dance) | (MPD Akamai) (Ƭ⫯ⲍƬ⋎)
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/ak/bbc_radio_one_dance.mpd
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/v8xnh4Bf/BBC1-Dance.jpg" tvg-name="BBC Radio 1 Dance (Electronica/Dance) | (MPD CloudFront) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 Dance (Electronica/Dance) | (MPD CloudFront) (Ƭ⫯ⲍƬ⋎)
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cf/bbc_radio_one_dance.mpd
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/v8xnh4Bf/BBC1-Dance.jpg" tvg-name="BBC Radio 1 Dance (Electronica/Dance) || (MPD Akamai) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 Dance (Electronica/Dance) || (MPD Akamai) (Ƭ⫯ⲍƬ⋎)
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_one_dance.mpd
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/527mR6cJ/BBC-Radio-1-Xtra.png" tvg-name="BBC Radio 1 Xtra (Urban/Soul) | (AKHLS 320kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 Xtra (Urban/Soul) | (AKHLS 320kbps) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio=320000.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/527mR6cJ/BBC-Radio-1-Xtra.png" tvg-name="BBC Radio 1 Xtra (Urban/Soul) | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 Xtra (Urban/Soul) | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/527mR6cJ/BBC-Radio-1-Xtra.png" tvg-name="BBC Radio 1 Xtra (Urban/Soul) | (LstnLv 320kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 Xtra (Urban/Soul) | (LstnLv 320kbps) (Ƭ⫯ⲍƬ⋎)
+http://lstn.lv/bbcradio.m3u8?station=bbc_1xtra&bitrate=320000
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/527mR6cJ/BBC-Radio-1-Xtra.png" tvg-name="BBC Radio 1 Xtra (Urban/Soul) || (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 1 Xtra (Urban/Soul) || (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/WbVSDBmB/BBC-Radio-2.png" tvg-name="BBC Radio 2 (Oldies/Pop) | (AKHLS 320kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 2 (Oldies/Pop) | (AKHLS 320kbps) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=320000.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/WbVSDBmB/BBC-Radio-2.png" tvg-name="BBC Radio 2 (Oldies/Pop) | (AKHLS 48kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 2 (Oldies/Pop) | (AKHLS 48kbps) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d48000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/WbVSDBmB/BBC-Radio-2.png" tvg-name="BBC Radio 2 (Oldies/Pop) | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 2 (Oldies/Pop) | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/WbVSDBmB/BBC-Radio-2.png" tvg-name="BBC Radio 2 (Oldies/Pop) | (AKHLS 96kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 2 (Oldies/Pop) | (AKHLS 96kbps) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/WbVSDBmB/BBC-Radio-2.png" tvg-name="BBC Radio 2 (Oldies/Pop) | (CFHLS 48kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 2 (Oldies/Pop) | (CFHLS 48kbps) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d48000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/WbVSDBmB/BBC-Radio-2.png" tvg-name="BBC Radio 2 (Oldies/Pop) | (CFHLS 96kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 2 (Oldies/Pop) | (CFHLS 96kbps) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/WbVSDBmB/BBC-Radio-2.png" tvg-name="BBC Radio 2 (Oldies/Pop) | (LstnLv 320kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 2 (Oldies/Pop) | (LstnLv 320kbps) (Ƭ⫯ⲍƬ⋎)
+http://lstn.lv/bbcradio.m3u8?station=bbc_radio_two&bitrate=320000
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/WbVSDBmB/BBC-Radio-2.png" tvg-name="BBC Radio 2 (Oldies/Pop) | (MPD Akamai) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 2 (Oldies/Pop) | (MPD Akamai) (Ƭ⫯ⲍƬ⋎)
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/ak/bbc_radio_two.mpd
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/WbVSDBmB/BBC-Radio-2.png" tvg-name="BBC Radio 2 (Oldies/Pop) | (MPD CloudFront) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 2 (Oldies/Pop) | (MPD CloudFront) (Ƭ⫯ⲍƬ⋎)
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cf/bbc_radio_two.mpd
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/CxLN7bQJ/BBC-Radio-3.png" tvg-name="BBC Radio 3 (Classical) | (AKHLS 320kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 3 (Classical) | (AKHLS 320kbps) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/CxLN7bQJ/BBC-Radio-3.png" tvg-name="BBC Radio 3 (Classical) | (AKHLS 48kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 3 (Classical) | (AKHLS 48kbps) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d48000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/CxLN7bQJ/BBC-Radio-3.png" tvg-name="BBC Radio 3 (Classical) | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 3 (Classical) | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/CxLN7bQJ/BBC-Radio-3.png" tvg-name="BBC Radio 3 (Classical) | (AKHLS 96kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 3 (Classical) | (AKHLS 96kbps) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/CxLN7bQJ/BBC-Radio-3.png" tvg-name="BBC Radio 3 (Classical) | (CFHLS 48kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 3 (Classical) | (CFHLS 48kbps) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d48000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/CxLN7bQJ/BBC-Radio-3.png" tvg-name="BBC Radio 3 (Classical) | (CFHLS 96kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 3 (Classical) | (CFHLS 96kbps) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/CxLN7bQJ/BBC-Radio-3.png" tvg-name="BBC Radio 3 (Classical) | (LstnLv 320kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 3 (Classical) | (LstnLv 320kbps) (Ƭ⫯ⲍƬ⋎)
+http://lstn.lv/bbcradio.m3u8?station=bbc_radio_three&bitrate=320000
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/CxLN7bQJ/BBC-Radio-3.png" tvg-name="BBC Radio 3 (Classical) | (MPD Akamai) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 3 (Classical) | (MPD Akamai) (Ƭ⫯ⲍƬ⋎)
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/ak/bbc_radio_three.mpd
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/CxLN7bQJ/BBC-Radio-3.png" tvg-name="BBC Radio 3 (Classical) | (MPD CloudFront) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 3 (Classical) | (MPD CloudFront) (Ƭ⫯ⲍƬ⋎)
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cf/bbc_radio_three.mpd
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/wvsFJHGp/BBC-Radio-4.png" tvg-name="BBC Radio 4 (Talk Radio) | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 4 (Talk Radio) | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/wvsFJHGp/BBC-Radio-4.png" tvg-name="BBC Radio 4 (Talk Radio) | (LstnLv 320kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 4 (Talk Radio) | (LstnLv 320kbps) (Ƭ⫯ⲍƬ⋎)
+http://lstn.lv/bbcradio.m3u8?station=bbc_radio_fourfm&bitrate=320000
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/wTk2Dw07/BBC-Radio-4-Xtra.png" tvg-name="BBC Radio 4 Extra (Comedy/Drama) | (LstnLv 320kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 4 Extra (Comedy/Drama) | (LstnLv 320kbps) (Ƭ⫯ⲍƬ⋎)
+http://lstn.lv/bbcradio.m3u8?station=bbc_radio_four_extra&bitrate=320000
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/wTk2Dw07/BBC-Radio-4-Xtra.png" tvg-name="BBC Radio 4 Extra (Comedy/Drama) | (MPD Akamai) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 4 Extra (Comedy/Drama) | (MPD Akamai) (Ƭ⫯ⲍƬ⋎)
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/ak/bbc_radio_four_extra.mpd
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/wTk2Dw07/BBC-Radio-4-Xtra.png" tvg-name="BBC Radio 4 Extra (Comedy/Drama) | (MPD CloudFront) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 4 Extra (Comedy/Drama) | (MPD CloudFront) (Ƭ⫯ⲍƬ⋎)
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cf/bbc_radio_four_extra.mpd
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/wvsFJHGp/BBC-Radio-4.png" tvg-name="BBC Radio 4 FM (Talk Radio) | (MPD Akamai) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 4 FM (Talk Radio) | (MPD Akamai) (Ƭ⫯ⲍƬ⋎)
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/ak/bbc_radio_fourfm.mpd
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/wvsFJHGp/BBC-Radio-4.png" tvg-name="BBC Radio 4 FM (Talk Radio) | (MPD CloudFront) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 4 FM (Talk Radio) | (MPD CloudFront) (Ƭ⫯ⲍƬ⋎)
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cf/bbc_radio_fourfm.mpd
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/FK6D71Gp/BBC-Radio-5.png" tvg-name="BBC Radio 5 live (News/Talk) | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 5 live (News/Talk) | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/FK6D71Gp/BBC-Radio-5.png" tvg-name="BBC Radio 5 live (News/Talk) | (MPD Akamai) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 5 live (News/Talk) | (MPD Akamai) (Ƭ⫯ⲍƬ⋎)
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/ak/bbc_radio_five_live.mpd
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/FK6D71Gp/BBC-Radio-5.png" tvg-name="BBC Radio 5 live (News/Talk) | (MPD CloudFront) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 5 live (News/Talk) | (MPD CloudFront) (Ƭ⫯ⲍƬ⋎)
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cf/bbc_radio_five_live.mpd
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/7L5N8wD2/BBC-Radio-6.png" tvg-name="BBC Radio 6 Music (Alternative/Indie) | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 6 Music (Alternative/Indie) | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/7L5N8wD2/BBC-Radio-6.png" tvg-name="BBC Radio 6 Music (Alternative/Indie) | (LstnLv 320kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 6 Music (Alternative/Indie) | (LstnLv 320kbps) (Ƭ⫯ⲍƬ⋎)
+http://lstn.lv/bbcradio.m3u8?station=bbc_6music&bitrate=320000
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/7L5N8wD2/BBC-Radio-6.png" tvg-name="BBC Radio 6 Music (Alternative/Indie) | (MPD Akamai) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 6 Music (Alternative/Indie) | (MPD Akamai) (Ƭ⫯ⲍƬ⋎)
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/ak/bbc_6music.mpd
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/7L5N8wD2/BBC-Radio-6.png" tvg-name="BBC Radio 6 Music (Alternative/Indie) | (MPD CloudFront) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio 6 Music (Alternative/Indie) | (MPD CloudFront) (Ƭ⫯ⲍƬ⋎)
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cf/bbc_6music.mpd
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/T1M0JSzW/BBC-Radio-Asia.png" tvg-name="BBC Radio Asian Network (News/Indian) | (LstnLv 320kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Asian Network (News/Indian) | (LstnLv 320kbps) (Ƭ⫯ⲍƬ⋎)
+http://lstn.lv/bbcradio.m3u8?station=bbc_asian_network&bitrate=320000
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/T1M0JSzW/BBC-Radio-Asia.png" tvg-name="BBC Radio Asian Network (News/Indian) | (MPD Akamai) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Asian Network (News/Indian) | (MPD Akamai) (Ƭ⫯ⲍƬ⋎)
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/ak/bbc_asian_network.mpd
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/T1M0JSzW/BBC-Radio-Asia.png" tvg-name="BBC Radio Asian Network (News/Indian) | (MPD CloudFront) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Asian Network (News/Indian) | (MPD CloudFront) (Ƭ⫯ⲍƬ⋎)
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cf/bbc_asian_network.mpd
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Cymru | (AKHLS 320kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cymru | (AKHLS 320kbps) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_cymru/bbc_radio_cymru.isml/bbc_radio_cymru-audio=320000.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Cymru | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cymru | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_cymru/bbc_radio_cymru.isml/bbc_radio_cymru-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Cymru || (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Cymru || (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_cymru/bbc_radio_cymru.isml/bbc_radio_cymru-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Foyle | (AKHLS 320kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Foyle | (AKHLS 320kbps) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_foyle/bbc_radio_foyle.isml/bbc_radio_foyle-audio=320000.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Foyle | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Foyle | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_foyle/bbc_radio_foyle.isml/bbc_radio_foyle-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Foyle || (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Foyle || (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_foyle/bbc_radio_foyle.isml/bbc_radio_foyle-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio London | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio London | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_98137350/live/ww/bbc_london/bbc_london.isml/bbc_london-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Merseyside | (AKHLS 320kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Merseyside | (AKHLS 320kbps) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_merseyside/bbc_radio_merseyside.isml/bbc_radio_merseyside-audio=320000.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Merseyside | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Merseyside | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_merseyside/bbc_radio_merseyside.isml/bbc_radio_merseyside-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Merseyside || (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Merseyside || (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_merseyside/bbc_radio_merseyside.isml/bbc_radio_merseyside-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio nan Gàidheal | (AKHLS 320kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio nan Gàidheal | (AKHLS 320kbps) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_nan_gaidheal/bbc_radio_nan_gaidheal.isml/bbc_radio_nan_gaidheal-audio=320000.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio nan Gàidheal | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio nan Gàidheal | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_nan_gaidheal/bbc_radio_nan_gaidheal.isml/bbc_radio_nan_gaidheal-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio nan Gàidheal || (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio nan Gàidheal || (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_nan_gaidheal/bbc_radio_nan_gaidheal.isml/bbc_radio_nan_gaidheal-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Scotland FM | (AKHLS 320kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Scotland FM | (AKHLS 320kbps) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_scotland_fm/bbc_radio_scotland_fm.isml/bbc_radio_scotland_fm-audio=320000.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Scotland FM | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Scotland FM | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_scotland_fm/bbc_radio_scotland_fm.isml/bbc_radio_scotland_fm-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Scotland FM || (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Scotland FM || (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_scotland_fm/bbc_radio_scotland_fm.isml/bbc_radio_scotland_fm-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Suffolk | (AKHLS 320kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Suffolk | (AKHLS 320kbps) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_suffolk/bbc_radio_suffolk.isml/bbc_radio_suffolk-audio=320000.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Suffolk | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Suffolk | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_suffolk/bbc_radio_suffolk.isml/bbc_radio_suffolk-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Suffolk || (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Suffolk || (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_suffolk/bbc_radio_suffolk.isml/bbc_radio_suffolk-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Surrey | (AKHLS 320kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Surrey | (AKHLS 320kbps) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_surrey/bbc_radio_surrey.isml/bbc_radio_surrey-audio=320000.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Surrey | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Surrey | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_surrey/bbc_radio_surrey.isml/bbc_radio_surrey-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Surrey || (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Surrey || (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_surrey/bbc_radio_surrey.isml/bbc_radio_surrey-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Tees | (AKHLS 320kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Tees | (AKHLS 320kbps) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_tees/bbc_tees.isml/bbc_tees-audio=320000.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Tees | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Tees | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_tees/bbc_tees.isml/bbc_tees-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Tees | (LstnLv 320kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Tees | (LstnLv 320kbps) (Ƭ⫯ⲍƬ⋎)
+http://lstn.lv/bbcradio.m3u8?station=bbc_tees&bitrate=320000&uk=1&uk=1
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Tees || (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Tees || (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_tees/bbc_tees.isml/bbc_tees-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Wiltshire | (AKHLS 320kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Wiltshire | (AKHLS 320kbps) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_wiltshire/bbc_radio_wiltshire.isml/bbc_radio_wiltshire-audio=320000.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Wiltshire | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Wiltshire | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_900/live/ww/bbc_radio_wiltshire/bbc_radio_wiltshire.isml/bbc_radio_wiltshire-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/ZKJdx40S/BBC-Radio-Logo.jpg" tvg-name="BBC Radio Wiltshire || (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio Wiltshire || (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_wiltshire/bbc_radio_wiltshire.isml/bbc_radio_wiltshire-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/7hBX0sg6/BBC-World-Service.png" tvg-name="BBC Radio World Service (News/Talk) | (2015 48kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio World Service (News/Talk) | (2015 48kbps) (Ƭ⫯ⲍƬ⋎)
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_world_service.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/7hBX0sg6/BBC-World-Service.png" tvg-name="BBC Radio World Service (News/Talk) | (2015 96kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio World Service (News/Talk) | (2015 96kbps) (Ƭ⫯ⲍƬ⋎)
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/7hBX0sg6/BBC-World-Service.png" tvg-name="BBC Radio World Service (News/Talk) | (2015 MPD) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio World Service (News/Talk) | (2015 MPD) (Ƭ⫯ⲍƬ⋎)
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/ak/bbc_world_service.mpd
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/7hBX0sg6/BBC-World-Service.png" tvg-name="BBC Radio World Service (News/Talk) | (AKHLS 48kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio World Service (News/Talk) | (AKHLS 48kbps) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d48000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/7hBX0sg6/BBC-World-Service.png" tvg-name="BBC Radio World Service (News/Talk) | (AKHLS 96kbps)(Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio World Service (News/Talk) | (AKHLS 96kbps)(Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/7hBX0sg6/BBC-World-Service.png" tvg-name="BBC Radio World Service (News/Talk) | (AKHLS Adaptive) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio World Service (News/Talk) | (AKHLS Adaptive) (Ƭ⫯ⲍƬ⋎)
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_world_service.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/7hBX0sg6/BBC-World-Service.png" tvg-name="BBC Radio World Service (News/Talk) | (CFHLS 48kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio World Service (News/Talk) | (CFHLS 48kbps) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d48000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/7hBX0sg6/BBC-World-Service.png" tvg-name="BBC Radio World Service (News/Talk) | (CFHLS 96kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio World Service (News/Talk) | (CFHLS 96kbps) (Ƭ⫯ⲍƬ⋎)
+http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/7hBX0sg6/BBC-World-Service.png" tvg-name="BBC Radio World Service (News/Talk) | (CFHLS Adaptive) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio World Service (News/Talk) | (CFHLS Adaptive) (Ƭ⫯ⲍƬ⋎)
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_world_service.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/7hBX0sg6/BBC-World-Service.png" tvg-name="BBC Radio World Service (News/Talk) | (MP3) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio World Service (News/Talk) | (MP3) (Ƭ⫯ⲍƬ⋎)
+http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_world_service/format/pls.pls
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/7hBX0sg6/BBC-World-Service.png" tvg-name="BBC Radio World Service (News/Talk) | (MPD Akamai) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio World Service (News/Talk) | (MPD Akamai) (Ƭ⫯ⲍƬ⋎)
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/ak/bbc_world_service.mpd
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/7hBX0sg6/BBC-World-Service.png" tvg-name="BBC Radio World Service (News/Talk) | (MPD CloudFront) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio World Service (News/Talk) | (MPD CloudFront) (Ƭ⫯ⲍƬ⋎)
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cf/bbc_world_service.mpd
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/7hBX0sg6/BBC-World-Service.png" tvg-name="BBC Radio World Service (News/Talk) | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio World Service (News/Talk) | (Ƭ⫯ⲍƬ⋎)
+http://wsdownload.bbc.co.uk/worldservice/meta/live/shoutcast/mp3/eieuk.pls
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/7hBX0sg6/BBC-World-Service.png" tvg-name="BBC Radio World Service (News/Talk) || (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",BBC Radio World Service (News/Talk) || (Ƭ⫯ⲍƬ⋎)
+http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC Two UK | (Ƭ⫯ⲍƬ⋎)"  group-title="Entertainment",BBC Two UK | (Ƭ⫯ⲍƬ⋎)
 https://d20opqftbkv2z0.cloudfront.net/live13/bbctwo/bitrate1-clear.isml/live.m3u8
