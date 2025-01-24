@@ -637,10 +637,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f7791b8372da90007fd45e6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b11caad2-6afe-44b5-8ca3-9e98672f6a0f
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Primal Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Primal Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
-https://adultswim-vodlive.cdn.turner.com/live/primal/stream_de.m3u8
+https://adultswim-vodlive.cdn.turner.com/live/primal/stream.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Primal Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Primal Opt-1 | [adult swim] (Ƭ⫯ⲍƬ⋎)
-https://adultswim-vodlive.cdn.turner.com/live/primal/stream.m3u8
+https://adultswim-vodlive.cdn.turner.com/live/primal/stream_de.m3u8
 
 #EXTINF:-1, tvg-id="mjh-10-prisoner" tvg-logo="https://10play.com.au/ip/s3/2022/09/26/b6430b0f79d6b4c9fc5c6ea295bbae03-1182444.png" tvg-name="24/7 Prisoner (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="24/7",24/7 Prisoner (AU) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
 https://i.mjh.nz/.r/10-prisoner.m3u8
@@ -1453,13 +1453,13 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58
 https://stitcher-yidio.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=web&deviceMake=Firefox&deviceVersion=133.0&deviceId=7729E570-C01B-1F24-9382-142B6A850D6E&appVersion=1&deviceDNT=0&deviceModel=web&embedPartner=yidio.com&sid=36e7f30751b4eecd6baa8051b5bdfce7
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Test",Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eac6bf103a57700073efcc5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a784-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d4bc9c0c-00a9-469c-9c25-f6f698a11e0e
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Test",Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eac6c5d2240d80007327f5a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a785-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=636f5ff0-e489-4bc8-99f3-08d6f12c2f45
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Test",Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eac6b8efb7a6500070b5c9b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a783-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=25d82ce6-20be-4a97-8019-19ce21826e94
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Test",Announcement (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5eac6bf103a57700073efcc5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a784-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d4bc9c0c-00a9-469c-9c25-f6f698a11e0e
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Antenna TV | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Antenna TV | (MOJ) (Ƭ⫯ⲍƬ⋎)
 http://fl3.moveonjoy.com/Antenna/index.m3u8
@@ -1519,10 +1519,10 @@ https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 https://aweencore-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AXS TV Now | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",AXS TV Now | (Ƭ⫯ⲍƬ⋎)
-https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="AXS TV Now | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",AXS TV Now | (Ƭ⫯ⲍƬ⋎)
-https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 
 #EXTINF:-1, tvg-id="BabySharkTV.us" tvg-logo="InsertLogoHere" tvg-name="Baby Shark TV (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Baby Shark TV (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce93-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1f776e00-4160-4945-86c6-3cb0fa0bd795
@@ -1908,11 +1908,11 @@ https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="CBS (KTVO) | (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS (KTVO) | (Ƭ⫯ⲍƬ⋎)
 https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/6Q5qpPJX/KMTV.png" tvg-name="CBS 03 KMTV Omaha NE | (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS 03 KMTV Omaha NE | (Ƭ⫯ⲍƬ⋎)
-http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/3x88F5kk/KMTV.png" tvg-name="CBS 03 KMTV Omaha NE | (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS 03 KMTV Omaha NE | (Ƭ⫯ⲍƬ⋎)
 https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/6Q5qpPJX/KMTV.png" tvg-name="CBS 03 KMTV Omaha NE | (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS 03 KMTV Omaha NE | (Ƭ⫯ⲍƬ⋎)
+http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/nrGwHzBc/KFSM-Channel-5-Primary.png" tvg-name="CBS 05 KFSM Fort Smith AR | (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS 05 KFSM Fort Smith AR | (Ƭ⫯ⲍƬ⋎)
 https://livevideo01.5newsonline.com/hls/live/2011653/newscasts/live.m3u8
@@ -2005,10 +2005,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8
 
 #EXTINF:-1, tvg-id="CBSNewsNewYork.us" tvg-logo="InsertLogoHere" tvg-name="CBS News New York (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS News New York (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc48170e280c80009a861ab/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fb8dad98-4322-41fe-bb83-595fb6bb9006
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc9b8223687ff000936ed79/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c8f1fbb0-e9de-4ec2-b727-78b57832f3ae
 
 #EXTINF:-1, tvg-id="CBSNewsNewYork.us" tvg-logo="InsertLogoHere" tvg-name="CBS News New York (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS News New York (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc9b8223687ff000936ed79/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c8f1fbb0-e9de-4ec2-b727-78b57832f3ae
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc48170e280c80009a861ab/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fb8dad98-4322-41fe-bb83-595fb6bb9006
 
 #EXTINF:-1, tvg-id="CBSNewsNewYork.us" tvg-logo="Logo N/A" tvg-name="CBS News New York NY | (STIRЯ) (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",CBS News New York NY | (STIRЯ) (Ƭ⫯ⲍƬ⋎)
 http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
@@ -2199,11 +2199,11 @@ http://fl5.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/RhmNFBpm/CNBC-Africa-Logo2.png" tvg-name="CNBC Africa | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",CNBC Africa | (Ƭ⫯ⲍƬ⋎)
 https://5be2f59e715dd.streamlock.net/CNBC/CNBCSandton.smil/.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/FFfGh36N/CNN-Transparent-Logo.png" tvg-name="CNN (Cable News Network) | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",CNN (Cable News Network) | (Ƭ⫯ⲍƬ⋎)
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_5_864000.m3u8
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="CNN (Cable News Network) | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",CNN (Cable News Network) | (Ƭ⫯ⲍƬ⋎)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/FFfGh36N/CNN-Transparent-Logo.png" tvg-name="CNN (Cable News Network) | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",CNN (Cable News Network) | (Ƭ⫯ⲍƬ⋎)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_5_864000.m3u8
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CNN (interntv.ru) | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",CNN (interntv.ru) | (Ƭ⫯ⲍƬ⋎)
 https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/b4d773de-197f-48a9-979b-27c7611780fc:GRQ/master.m3u8
@@ -2220,11 +2220,11 @@ https://live.tv247us.com/hls/cnn.m3u8
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CNN | (streamfare.net) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",CNN | (streamfare.net) (Ƭ⫯ⲍƬ⋎)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CNN | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",CNN | (Ƭ⫯ⲍƬ⋎)
-https://stream1.cinerama.uz/1259/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CNN | (Ƭ⫯ⲍƬ⋎)"  group-title="Test",CNN | (Ƭ⫯ⲍƬ⋎)
 https://stream.livenewsplay.com/hls/cnnewson/news.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CNN | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",CNN | (Ƭ⫯ⲍƬ⋎)
+https://stream1.cinerama.uz/1259/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, tvg-id="mjh-discovery-ptcn" tvg-logo="https://cdn.fullscreen.nz/threenow/prod/channels/livestream/1715808491150/20240516T093155_cnnfast_logo_750x500.png" tvg-name="CNN Fast (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",CNN Fast (NZ) | (mjh.nz) (Ƭ⫯ⲍƬ⋎)
 https://i.mjh.nz/.r/discovery-ptcn.m3u8
@@ -4059,9 +4059,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Press TV | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Press TV | (Ƭ⫯ⲍƬ⋎)
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="PublicRadio.org Focus | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",PublicRadio.org Focus | (Ƭ⫯ⲍƬ⋎)
-https://focus.stream.publicradio.org/focus.aac
-
 #EXTINF:-1, tvg-id="Pursuit.Channel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pursuit-us.png?raw=true" tvg-name="Pursuit Channel | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Sports",Pursuit Channel | (MOJ) (Ƭ⫯ⲍƬ⋎)
 http://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8
 
@@ -4764,6 +4761,9 @@ http://sc2.radiocaroline.net:10558/listen.pls
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Radio | Celtic Music Radio | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Celtic Music Radio | (Ƭ⫯ⲍƬ⋎)
 http://stream.celticmusicradio.net:8000/celticmusic.mp3
 
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/nzwqvJmV/Your-Classical.png" tvg-name="Radio | Chamber Music PublicRadio.org | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Chamber Music PublicRadio.org | (Ƭ⫯ⲍƬ⋎)
+https://chambermusic.stream.publicradio.org/chambermusic.aac
+
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Radio | ChanteFrance - Emotion | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | ChanteFrance - Emotion | (Ƭ⫯ⲍƬ⋎)
 http://stream.chantefrance.com/cf-emotion
 
@@ -4779,11 +4779,29 @@ https://lfhh.radioca.st/stream
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Radio | Chinese Music World Online Radio | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Chinese Music World Online Radio | (Ƭ⫯ⲍƬ⋎)
 http://radio.chinesemusicworld.com/chinesemusic.ogg
 
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/nzwqvJmV/Your-Classical.png" tvg-name="Radio | Choral PublicRadio.org | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Choral PublicRadio.org | (Ƭ⫯ⲍƬ⋎)
+https://choral.stream.publicradio.org/choral.aac
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/4N1rw5n7/i-Heart-Radio.png" tvg-name="Radio | Christmas 365 iHR | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Christmas 365 iHR | (Ƭ⫯ⲍƬ⋎)
+http://stream.revma.ihrhls.com/zc4596/hls.m3u8
+
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Radio | Christmas Carols (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Christmas Carols (You.Radio) | (Ƭ⫯ⲍƬ⋎)
 http://nl4.mystreaming.net/er-app/christmascarols/icecast.audio
 
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/4N1rw5n7/i-Heart-Radio.png" tvg-name="Radio | Christmas Classics 365 iHR | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Christmas Classics 365 iHR | (Ƭ⫯ⲍƬ⋎)
+http://stream.revma.ihrhls.com/zc6137/hls.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/4N1rw5n7/i-Heart-Radio.png" tvg-name="Radio | Christmas Country 365 iHR | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Christmas Country 365 iHR | (Ƭ⫯ⲍƬ⋎)
+http://stream.revma.ihrhls.com/zc4601/hls.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/4N1rw5n7/i-Heart-Radio.png" tvg-name="Radio | Christmas North Pole Radio 365 iHR | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Christmas North Pole Radio 365 iHR | (Ƭ⫯ⲍƬ⋎)
+http://stream.revma.ihrhls.com/zc6734/hls.m3u8
+
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Radio | Christmas Pop (You.Radio) | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Christmas Pop (You.Radio) | (Ƭ⫯ⲍƬ⋎)
 http://nl4.mystreaming.net/er-app/christmaspop/icecast.audio
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/4N1rw5n7/i-Heart-Radio.png" tvg-name="Radio | Christmas Rock 365 iHR | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Christmas Rock 365 iHR | (Ƭ⫯ⲍƬ⋎)
+http://stream.revma.ihrhls.com/zc6410/hls.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Radio | CiBiGiBi | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | CiBiGiBi | (Ƭ⫯ⲍƬ⋎)
 http://s9.webradio-hosting.com:8087/stream
@@ -4833,6 +4851,9 @@ https://lead-server.de:1551/stream/2/
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/4N1rw5n7/i-Heart-Radio.png" tvg-name="Radio | Classical Highlights iHR | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Classical Highlights iHR | (Ƭ⫯ⲍƬ⋎)
 http://stream.revma.ihrhls.com/zc6377/hls.m3u8
 
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/nzwqvJmV/Your-Classical.png" tvg-name="Radio | Classical Kids PublicRadio.org | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Classical Kids PublicRadio.org | (Ƭ⫯ⲍƬ⋎)
+https://classicalkids.stream.publicradio.org/classicalkids.aac
+
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/pXTsRvHn/Vermont-Public-Radio.jpg" tvg-name="Radio | Classical Public Radio | Colchester VT (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Classical Public Radio | Colchester VT (Ƭ⫯ⲍƬ⋎)
 http://vprclassical.streamguys.net/vprclassical128.mp3
 
@@ -4844,6 +4865,9 @@ https://satcom.rfchosting.ca:8100/stream
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/Ghn9dD9D/CMC-Logo.png" tvg-name="Radio | CMC (California Music Channel)"  group-title="Radio",Radio | CMC (California Music Channel)
 http://streamingv2.shoutcast.com/CMC
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/nzwqvJmV/Your-Classical.png" tvg-name="Radio | Concert Bands PublicRadio.org | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Concert Bands PublicRadio.org | (Ƭ⫯ⲍƬ⋎)
+https://concertband.stream.publicradio.org/concertband.aac
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/4N1rw5n7/i-Heart-Radio.png" tvg-name="Radio | Countdown iHR | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Countdown iHR | (Ƭ⫯ⲍƬ⋎)
 http://stream.revma.ihrhls.com/zc6455/hls.m3u8
@@ -4913,6 +4937,9 @@ http://ais-sa1.streamon.fm/7050_24k.aac?starttime=1460708780
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/4N1rw5n7/i-Heart-Radio.png" tvg-name="Radio | Family Top 40 Countdown iHR | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Family Top 40 Countdown iHR | (Ƭ⫯ⲍƬ⋎)
 http://stream.revma.ihrhls.com/zc7013/hls.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/nzwqvJmV/Your-Classical.png" tvg-name="Radio | Favorites PublicRadio.org | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Favorites PublicRadio.org | (Ƭ⫯ⲍƬ⋎)
+https://favorites.stream.publicradio.org/favorites.aac
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Radio | Fluid SomaFM | (PLS AAC 128kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Fluid SomaFM | (PLS AAC 128kbps) (Ƭ⫯ⲍƬ⋎)
 http://somafm.com/fluid130.pls
@@ -4997,6 +5024,9 @@ http://stream.revma.ihrhls.com/zc6395/hls.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/4N1rw5n7/i-Heart-Radio.png" tvg-name="Radio | Hit Nation Top 20 iHR | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Hit Nation Top 20 iHR | (Ƭ⫯ⲍƬ⋎)
 http://stream.revma.ihrhls.com/zc4878/hls.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/nzwqvJmV/Your-Classical.png" tvg-name="Radio | Holiday PublicRadio.org | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Holiday PublicRadio.org | (Ƭ⫯ⲍƬ⋎)
+https://holiday.stream.publicradio.org/holiday.aac
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/mrC15g1g/Home-Improvements-USA.png" tvg-name="Radio | Home Improvement USA | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Home Improvement USA | (Ƭ⫯ⲍƬ⋎)
 http://158.69.227.214:8076/stream
@@ -5118,6 +5148,9 @@ http://shoutcast.littlefieldgrid.com:9930
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/4N1rw5n7/i-Heart-Radio.png" tvg-name="Radio | Lullabies iHR | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Lullabies iHR | (Ƭ⫯ⲍƬ⋎)
 http://stream.revma.ihrhls.com/zc7249/hls.m3u8
 
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/nzwqvJmV/Your-Classical.png" tvg-name="Radio | Lullabies PublicRadio.org | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Lullabies PublicRadio.org | (Ƭ⫯ⲍƬ⋎)
+https://lullabies.stream.publicradio.org/lullabies.aac
+
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/TP3HqmFV/Megaton-Cafe-Logo3.jpg" tvg-name="Radio | Megaton Cafe Radio | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Megaton Cafe Radio | (Ƭ⫯ⲍƬ⋎)
 http://us2.internet-radio.com:8443/
 
@@ -5126,6 +5159,12 @@ https://rfcm.streamguys1.com/mixlite-mp3
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/Hs2QH2z1/Mondo-Bongo-Radio-com.png" tvg-name="Radio | Mondo Bongo | (UK) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Mondo Bongo | (UK) (Ƭ⫯ⲍƬ⋎)
 http://5.63.151.52:7082/stream
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/nzwqvJmV/Your-Classical.png" tvg-name="Radio | MPR KSJN MN PublicRadio.org | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | MPR KSJN MN PublicRadio.org | (Ƭ⫯ⲍƬ⋎)
+https://cms.stream.publicradio.org/cms.aac
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/nzwqvJmV/Your-Classical.png" tvg-name="Radio | MPR KSJN-HD2 MN PublicRadio.org | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | MPR KSJN-HD2 MN PublicRadio.org | (Ƭ⫯ⲍƬ⋎)
+https://ycradio.stream.publicradio.org/ycradio.aac
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Radio | Naim Classical | (AAC) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Naim Classical | (AAC) (Ƭ⫯ⲍƬ⋎)
 http://mscp3.live-streams.nl:8250/class-high.aac
@@ -5214,6 +5253,9 @@ http://stream-uk1.radioparadise.com/aac-320
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/rpM4JnG2/HDRadio-Party-Mix.png" tvg-name="Radio | Party Mix (hd-radio.net) | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Party Mix (hd-radio.net) | (Ƭ⫯ⲍƬ⋎)
 https://hdradiopartymix-rfritschka.radioca.st/;
 
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/nzwqvJmV/Your-Classical.png" tvg-name="Radio | Peaceful Piano PublicRadio.org | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Peaceful Piano PublicRadio.org | (Ƭ⫯ⲍƬ⋎)
+https://peacefulpiano.stream.publicradio.org/peacefulpiano.aac
+
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Radio | Pécs Radio (Hungarian) | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Pécs Radio (Hungarian) | (Ƭ⫯ⲍƬ⋎)
 http://radio.ilovepecs.hu:8200/ilp.mp3
 
@@ -5222,39 +5264,6 @@ http://pointblankradio.co.uk:9002/stream
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/4N1rw5n7/i-Heart-Radio.png" tvg-name="Radio | Popcorn iHR | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Popcorn iHR | (Ƭ⫯ⲍƬ⋎)
 http://stream.revma.ihrhls.com/zc7445/hls.m3u8
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/nzwqvJmV/Your-Classical.png" tvg-name="Radio | PublicRadio.org Chamber Music | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | PublicRadio.org Chamber Music | (Ƭ⫯ⲍƬ⋎)
-https://chambermusic.stream.publicradio.org/chambermusic.aac
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/nzwqvJmV/Your-Classical.png" tvg-name="Radio | PublicRadio.org Choral | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | PublicRadio.org Choral | (Ƭ⫯ⲍƬ⋎)
-https://choral.stream.publicradio.org/choral.aac
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/nzwqvJmV/Your-Classical.png" tvg-name="Radio | PublicRadio.org Classical Kids | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | PublicRadio.org Classical Kids | (Ƭ⫯ⲍƬ⋎)
-https://classicalkids.stream.publicradio.org/classicalkids.aac
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/nzwqvJmV/Your-Classical.png" tvg-name="Radio | PublicRadio.org Concert Bands | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | PublicRadio.org Concert Bands | (Ƭ⫯ⲍƬ⋎)
-https://concertband.stream.publicradio.org/concertband.aac
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/nzwqvJmV/Your-Classical.png" tvg-name="Radio | PublicRadio.org Favorites | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | PublicRadio.org Favorites | (Ƭ⫯ⲍƬ⋎)
-https://favorites.stream.publicradio.org/favorites.aac
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/nzwqvJmV/Your-Classical.png" tvg-name="Radio | PublicRadio.org Holiday | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | PublicRadio.org Holiday | (Ƭ⫯ⲍƬ⋎)
-https://holiday.stream.publicradio.org/holiday.aac
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/nzwqvJmV/Your-Classical.png" tvg-name="Radio | PublicRadio.org Lullabies | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | PublicRadio.org Lullabies | (Ƭ⫯ⲍƬ⋎)
-https://lullabies.stream.publicradio.org/lullabies.aac
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/nzwqvJmV/Your-Classical.png" tvg-name="Radio | PublicRadio.org MPR KSJN MN | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | PublicRadio.org MPR KSJN MN | (Ƭ⫯ⲍƬ⋎)
-https://cms.stream.publicradio.org/cms.aac
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/nzwqvJmV/Your-Classical.png" tvg-name="Radio | PublicRadio.org MPR KSJN-HD2 MN | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | PublicRadio.org MPR KSJN-HD2 MN | (Ƭ⫯ⲍƬ⋎)
-https://ycradio.stream.publicradio.org/ycradio.aac
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/nzwqvJmV/Your-Classical.png" tvg-name="Radio | PublicRadio.org Peaceful Piano | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | PublicRadio.org Peaceful Piano | (Ƭ⫯ⲍƬ⋎)
-https://peacefulpiano.stream.publicradio.org/peacefulpiano.aac
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/nzwqvJmV/Your-Classical.png" tvg-name="Radio | PublicRadio.org Relax | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | PublicRadio.org Relax | (Ƭ⫯ⲍƬ⋎)
-https://relax.stream.publicradio.org/relax.aac
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/g0Y7yFHL/RadioX.jpg" tvg-name="Radio | Radio X | (UK) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Radio X | (UK) (Ƭ⫯ⲍƬ⋎)
 http://media-ice.musicradio.com:80/RadioXUKMP3
@@ -5267,6 +5276,9 @@ http://ais.rastamusic.com/rastamusic.mp3.m3u
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/4N1rw5n7/i-Heart-Radio.png" tvg-name="Radio | Real Fun Beach iHR | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Real Fun Beach iHR | (Ƭ⫯ⲍƬ⋎)
 http://stream.revma.ihrhls.com/zc6221/hls.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/nzwqvJmV/Your-Classical.png" tvg-name="Radio | Relax PublicRadio.org | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Relax PublicRadio.org | (Ƭ⫯ⲍƬ⋎)
+https://relax.stream.publicradio.org/relax.aac
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Radio | Relaxation Island | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Relaxation Island | (Ƭ⫯ⲍƬ⋎)
 http://198.178.123.5:7932/
@@ -5400,21 +5412,6 @@ http://vprclassical.streamguys.net/vprclassical64-nopreroll
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/7hBX0sg6/BBC-World-Service.png" tvg-name="Radio | WVPS-HD3 BBC World Service VT Public Radio | Burlington VT (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | WVPS-HD3 BBC World Service VT Public Radio | Burlington VT (Ƭ⫯ⲍƬ⋎)
 http://vprbbc.streamguys.net/vprbbc24.mp3
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/4N1rw5n7/i-Heart-Radio.png" tvg-name="Radio | Xmas 365 iHR | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Xmas 365 iHR | (Ƭ⫯ⲍƬ⋎)
-http://stream.revma.ihrhls.com/zc4596/hls.m3u8
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/4N1rw5n7/i-Heart-Radio.png" tvg-name="Radio | Xmas Classics 365 iHR | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Xmas Classics 365 iHR | (Ƭ⫯ⲍƬ⋎)
-http://stream.revma.ihrhls.com/zc6137/hls.m3u8
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/4N1rw5n7/i-Heart-Radio.png" tvg-name="Radio | Xmas Country 365 iHR | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Xmas Country 365 iHR | (Ƭ⫯ⲍƬ⋎)
-http://stream.revma.ihrhls.com/zc4601/hls.m3u8
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/4N1rw5n7/i-Heart-Radio.png" tvg-name="Radio | Xmas North Pole Radio 365 iHR | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Xmas North Pole Radio 365 iHR | (Ƭ⫯ⲍƬ⋎)
-http://stream.revma.ihrhls.com/zc6734/hls.m3u8
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/4N1rw5n7/i-Heart-Radio.png" tvg-name="Radio | Xmas Rock 365 iHR | (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | Xmas Rock 365 iHR | (Ƭ⫯ⲍƬ⋎)
-http://stream.revma.ihrhls.com/zc6410/hls.m3u8
-
 #EXTINF:-1, tvg-id="RainbowSquad.us" tvg-logo="InsertLogoHere" tvg-name="Rainbow Squad (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Animation/KidsTV",Rainbow Squad (US) | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb028c2e6a0c00075275a5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6277-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=76f1eaf6-33c5-447a-87c9-414df640b519
 
@@ -5467,10 +5464,10 @@ https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245
 http://fl2.moveonjoy.com/REELZ/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/jq4d2k72/Ambient-Sleeping-Pill-com.png" tvg-name="Relax | AmbientSleepingPill.com Opt-1 | (Ƭ⫯ⲍƬ⋎)"  group-title="Relax",Relax | AmbientSleepingPill.com Opt-1 | (Ƭ⫯ⲍƬ⋎)
-http://163.172.169.217:80/asp-h
+http://163.172.169.217:80/asp-s
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/jq4d2k72/Ambient-Sleeping-Pill-com.png" tvg-name="Relax | AmbientSleepingPill.com Opt-1 | (Ƭ⫯ⲍƬ⋎)"  group-title="Relax",Relax | AmbientSleepingPill.com Opt-1 | (Ƭ⫯ⲍƬ⋎)
-http://163.172.169.217:80/asp-s
+http://163.172.169.217:80/asp-h
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Relax | RainForest-BrazilianBirds | (Ƭ⫯ⲍƬ⋎)"  group-title="Relax",Relax | RainForest-BrazilianBirds | (Ƭ⫯ⲍƬ⋎)
 https://strm112.1.fm/brazilianbirds_mobile_mp3
@@ -7201,10 +7198,10 @@ https://content.uplynk.com/channel/42149479bf2d41bab8e429d198b97114.m3u8?allowts
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=217&deviceId=5bdce04659ee03633e758130&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/Gm4Nwb7G/Weather-Nation-logo.png" tvg-name="Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bdce04659ee03633e758130/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appVersion=9.6.0-a4885044134e9550f33624d94056de15020c6adb&app_name=web&clientDeviceType=0&clientID=375f0c1b-ef75-4c3c-a1ce-ea3b95242005&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=375f0c1b-ef75-4c3c-a1ce-ea3b95242005&deviceLat=35.5100&deviceLon=-97.4700&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=US&serverSideAds=false&sessionID=fb4f12df-b2d7-11ef-b289-667f6b555507&sid=fb4f12df-b2d7-11ef-b289-667f6b555507&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImEwYzliMzc3LTg4M2EtNGI0Mi1hODc0LTI3OTJhMjNkMmFiZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJmYjRmMTJkZi1iMmQ3LTExZWYtYjI4OS02NjdmNmI1NTU1MDciLCJjbGllbnRJUCI6IjI2MDA6MTcwMjozNjkwOjIyMTA6OTg2ZDplNjY0OmRlZDI6ODczNyIsImNpdHkiOiJPa2xhaG9tYSBDaXR5IiwicG9zdGFsQ29kZSI6IjczMTExIiwiY291bnRyeSI6IlVTIiwiZG1hIjo2NTAsImFjdGl2ZVJlZ2lvbiI6IlVTIiwiZGV2aWNlTGF0IjozNS41MDk5OTgzMjE1MzMyLCJkZXZpY2VMb24iOi05Ny40NzAwMDEyMjA3MDMxMiwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTMzLjAuMCIsImRldmljZU1ha2UiOiJmaXJlZm94IiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjkuNi4wLWE0ODg1MDQ0MTM0ZTk1NTBmMzM2MjRkOTQwNTZkZTE1MDIwYzZhZGIiLCJjbGllbnRJRCI6IjM3NWYwYzFiLWVmNzUtNGMzYy1hMWNlLWVhM2I5NTI0MjAwNSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0NoaWNhZ28iLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7ImFkTG9hZCI6eyJjb2hvcnQiOiIifSwibXVsdGlBdWRpbyI6eyJlbmFibGVkIjp0cnVlfSwibXVsdGlQb2RBZHMiOnsiZW5hYmxlZCI6dHJ1ZX0sInNlYXJjaEFQSSI6eyJtYXRjaEV4YWN0SW5QaHJhc2VFbmFibGVkIjp0cnVlLCJtYXRjaEluQWN0b3JzQm9vc3QiOjI1LCJtYXRjaEluQWN0b3JzRWRpdERpc3RhbmNlIjoiQVVUTzo1LDExIiwibWF0Y2hJbkFjdG9yc0VuYWJsZWQiOnRydWUsIm1hdGNoSW5EaXJlY3RvcnNCb29zdCI6MjUsIm1hdGNoSW5EaXJlY3RvcnNFZGl0RGlzdGFuY2UiOiJBVVRPOjUsMTEiLCJtYXRjaEluRGlyZWN0b3JzRW5hYmxlZCI6dHJ1ZSwibmV4dXNUaW1lb3V0TXMiOjUwMCwicXVlcnlTeW5vbnltc0VuYWJsZWQiOnRydWUsInF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCIsInNlYXJjaFByb3h5RW5oYW5jZW1lbnQiOmZhbHNlfX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiMzc1ZjBjMWItZWY3NS00YzNjLWExY2UtZWEzYjk1MjQyMDA1IiwiZndWY0lEMkNvcHBhIjoiMzc1ZjBjMWItZWY3NS00YzNjLWExY2UtZWEzYjk1MjQyMDA1IiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiIzNzVmMGMxYi1lZjc1LTRjM2MtYTFjZS1lYTNiOTUyNDIwMDUiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5In19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6TXpjMVpqQmpNV0l0WldZM05TMDBZek5qTFdFeFkyVXRaV0V6WWprMU1qUXlNREExIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTczMzQ2OTAxNywiaWF0IjoxNzMzMzgyNjE3LCJqdGkiOiIxNzNhMzJkZC0zYjBiLTQyMjgtYTI0Mi00MGFjMmUzOGIzZTUifQ.H9Q62pt0HO8iURQC0DD9YR4ivaLEJWy48yNLQ5klMUE&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQEUiUHXWSa3vaLEk4oUAy4R2osGJ47fgU-unZQUvkFXW_MhgIIRL5GvIKdNIibf1LClXs5G756ntQk_XRG28Lit_f5ikZezMOvHs6sdDs-FYtdZCLanqx2Y4JkU75TPkHXhY4V-b7457NY5G8EArRknHskitywv6XhXQjp86CR6DSFALLWDkt11GKh3Y8Y_0GZMgkVnjWRRLW_7gSG9KMG7YeNVmOfDTmcPGqbACyjGGR_iuqe5H8SBVW0Ba0JDoZnHkFj1UbtODkHvn7YcrADkFlPdVjoqd2SKZmoV8zHZsnph1yjz80_xDAV0AhJnvBfSD5W1UZUnf32k-wcbxLV7GDsID9uHx9w1O8F2dnxJ9SKOxTMIk7uESkkOhziFm9uEbsWNWzK3FDklzDBoWT3Velhmq7RZ68CbOW5ZlwO0CHdtPq-FebFdzZYLuteT0dkFGjH21IeDaUX5iYDy37HpPsKm2r2wEmXFbVhJYifh1qqYvo2V72k5jxhcYQRFJMNCZUBCkrJrseeRNIksfGvypGevDmpnghZYEiLvX0J96P4a_OF2PdwxMiFHVn23vH8iiJHxZqYykJamoFLK623-OaQL62fgwq1IbjFIwE3sAkI7Aunv3u0ThqlD-tCVsjJiDzh4pc3pIEULIERcdOqkSbNiNnderXCeDPcVc5c2cizhhbld9gcfMGBhKfJFPGW4AkgxB6GhJzwOyOSZkZleuqlwQXriMOCLxvmlxdQgCyZtDN7yxDVnS68uzEf2nGtylUHbjexPlJiWk_FheRjGd6UnTeL6Ep1s3QfzbTzohPLmPo-Q7H1hynoLsN271throkp2wyUtKH3xUVz-tUczTa4C2o8pPZp32-Y7rLcGeTXo-WHarN2fb0x-hliKqpibwk7qptKqls955tJuVSAsDqXNQ8XC60huCvyVWzF26GxzQNMcL5duEsanQQREtS8A0d6cOnkYx44PGLPW32Ww8Qdg80voMqIJ6bf-NaUs95xh7fuzZwbkWc0ARL-zFcizbs91lQmIgxHan2GB4xkYX6KPzCsOl_B5nzwIJ_lTa2SvCRAqZs2fMGWbwg2JqJ891zD-xNFjRG_wgLdWG4vI4AMK9eOI-awyQM.&gpp=DBABLA~BVQqAAAAAgA.QA&gpp_sid=7&us_privacy=1YNN&eventVOD=false&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22d7c7fa3e-d8e6-4514-972f-6f19714b7353%22%2Csu
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/Gm4Nwb7G/Weather-Nation-logo.png" tvg-name="Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Weather Nation | (PlutoTV) (Ƭ⫯ⲍƬ⋎)
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appVersion=9.6.0-a4885044134e9550f33624d94056de15020c6adb&app_name=web&clientDeviceType=0&clientID=375f0c1b-ef75-4c3c-a1ce-ea3b95242005&clientModelNumber=1.0.0&country=US&deviceDNT=false&deviceId=375f0c1b-ef75-4c3c-a1ce-ea3b95242005&deviceLat=35.5100&deviceLon=-97.4700&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=US&serverSideAds=false&sessionID=fb4f12df-b2d7-11ef-b289-667f6b555507&sid=fb4f12df-b2d7-11ef-b289-667f6b555507&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImEwYzliMzc3LTg4M2EtNGI0Mi1hODc0LTI3OTJhMjNkMmFiZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJmYjRmMTJkZi1iMmQ3LTExZWYtYjI4OS02NjdmNmI1NTU1MDciLCJjbGllbnRJUCI6IjI2MDA6MTcwMjozNjkwOjIyMTA6OTg2ZDplNjY0OmRlZDI6ODczNyIsImNpdHkiOiJPa2xhaG9tYSBDaXR5IiwicG9zdGFsQ29kZSI6IjczMTExIiwiY291bnRyeSI6IlVTIiwiZG1hIjo2NTAsImFjdGl2ZVJlZ2lvbiI6IlVTIiwiZGV2aWNlTGF0IjozNS41MDk5OTgzMjE1MzMyLCJkZXZpY2VMb24iOi05Ny40NzAwMDEyMjA3MDMxMiwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTMzLjAuMCIsImRldmljZU1ha2UiOiJmaXJlZm94IiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjkuNi4wLWE0ODg1MDQ0MTM0ZTk1NTBmMzM2MjRkOTQwNTZkZTE1MDIwYzZhZGIiLCJjbGllbnRJRCI6IjM3NWYwYzFiLWVmNzUtNGMzYy1hMWNlLWVhM2I5NTI0MjAwNSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0NoaWNhZ28iLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7ImFkTG9hZCI6eyJjb2hvcnQiOiIifSwibXVsdGlBdWRpbyI6eyJlbmFibGVkIjp0cnVlfSwibXVsdGlQb2RBZHMiOnsiZW5hYmxlZCI6dHJ1ZX0sInNlYXJjaEFQSSI6eyJtYXRjaEV4YWN0SW5QaHJhc2VFbmFibGVkIjp0cnVlLCJtYXRjaEluQWN0b3JzQm9vc3QiOjI1LCJtYXRjaEluQWN0b3JzRWRpdERpc3RhbmNlIjoiQVVUTzo1LDExIiwibWF0Y2hJbkFjdG9yc0VuYWJsZWQiOnRydWUsIm1hdGNoSW5EaXJlY3RvcnNCb29zdCI6MjUsIm1hdGNoSW5EaXJlY3RvcnNFZGl0RGlzdGFuY2UiOiJBVVRPOjUsMTEiLCJtYXRjaEluRGlyZWN0b3JzRW5hYmxlZCI6dHJ1ZSwibmV4dXNUaW1lb3V0TXMiOjUwMCwicXVlcnlTeW5vbnltc0VuYWJsZWQiOnRydWUsInF1ZXJ5VmVyc2lvbiI6Imh5YnJpZCIsInNlYXJjaFByb3h5RW5oYW5jZW1lbnQiOmZhbHNlfX0sImZtc1BhcmFtcyI6eyJmd1ZjSUQyIjoiMzc1ZjBjMWItZWY3NS00YzNjLWExY2UtZWEzYjk1MjQyMDA1IiwiZndWY0lEMkNvcHBhIjoiMzc1ZjBjMWItZWY3NS00YzNjLWExY2UtZWEzYjk1MjQyMDA1IiwiY3VzdG9tUGFyYW1zIjp7ImZtc19saXZlcmFtcF9pZGwiOiIiLCJmbXNfZW1haWxoYXNoIjoiIiwiZm1zX3N1YnNjcmliZXJpZCI6IiIsImZtc19pZmEiOiIiLCJmbXNfaWRmdiI6IiIsImZtc191c2VyaWQiOiIzNzVmMGMxYi1lZjc1LTRjM2MtYTFjZS1lYTNiOTUyNDIwMDUiLCJmbXNfdmNpZDJ0eXBlIjoidXNlcmlkIiwiZm1zX3JhbXBfaWQiOiIiLCJmbXNfaGhfcmFtcF9pZCI6IiIsImZtc19iaWRpZHR5cGUiOiIiLCJfZndfM1BfVUlEIjoiIiwiZm1zX3J1bGVpZCI6IjEwMDAwLDEwMDA5In19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VVM6TXpjMVpqQmpNV0l0WldZM05TMDBZek5qTFdFeFkyVXRaV0V6WWprMU1qUXlNREExIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTczMzQ2OTAxNywiaWF0IjoxNzMzMzgyNjE3LCJqdGkiOiIxNzNhMzJkZC0zYjBiLTQyMjgtYTI0Mi00MGFjMmUzOGIzZTUifQ.H9Q62pt0HO8iURQC0DD9YR4ivaLEJWy48yNLQ5klMUE&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQEUiUHXWSa3vaLEk4oUAy4R2osGJ47fgU-unZQUvkFXW_MhgIIRL5GvIKdNIibf1LClXs5G756ntQk_XRG28Lit_f5ikZezMOvHs6sdDs-FYtdZCLanqx2Y4JkU75TPkHXhY4V-b7457NY5G8EArRknHskitywv6XhXQjp86CR6DSFALLWDkt11GKh3Y8Y_0GZMgkVnjWRRLW_7gSG9KMG7YeNVmOfDTmcPGqbACyjGGR_iuqe5H8SBVW0Ba0JDoZnHkFj1UbtODkHvn7YcrADkFlPdVjoqd2SKZmoV8zHZsnph1yjz80_xDAV0AhJnvBfSD5W1UZUnf32k-wcbxLV7GDsID9uHx9w1O8F2dnxJ9SKOxTMIk7uESkkOhziFm9uEbsWNWzK3FDklzDBoWT3Velhmq7RZ68CbOW5ZlwO0CHdtPq-FebFdzZYLuteT0dkFGjH21IeDaUX5iYDy37HpPsKm2r2wEmXFbVhJYifh1qqYvo2V72k5jxhcYQRFJMNCZUBCkrJrseeRNIksfGvypGevDmpnghZYEiLvX0J96P4a_OF2PdwxMiFHVn23vH8iiJHxZqYykJamoFLK623-OaQL62fgwq1IbjFIwE3sAkI7Aunv3u0ThqlD-tCVsjJiDzh4pc3pIEULIERcdOqkSbNiNnderXCeDPcVc5c2cizhhbld9gcfMGBhKfJFPGW4AkgxB6GhJzwOyOSZkZleuqlwQXriMOCLxvmlxdQgCyZtDN7yxDVnS68uzEf2nGtylUHbjexPlJiWk_FheRjGd6UnTeL6Ep1s3QfzbTzohPLmPo-Q7H1hynoLsN271throkp2wyUtKH3xUVz-tUczTa4C2o8pPZp32-Y7rLcGeTXo-WHarN2fb0x-hliKqpibwk7qptKqls955tJuVSAsDqXNQ8XC60huCvyVWzF26GxzQNMcL5duEsanQQREtS8A0d6cOnkYx44PGLPW32Ww8Qdg80voMqIJ6bf-NaUs95xh7fuzZwbkWc0ARL-zFcizbs91lQmIgxHan2GB4xkYX6KPzCsOl_B5nzwIJ_lTa2SvCRAqZs2fMGWbwg2JqJ891zD-xNFjRG_wgLdWG4vI4AMK9eOI-awyQM.&gpp=DBABLA~BVQqAAAAAgA.QA&gpp_sid=7&us_privacy=1YNN&eventVOD=false&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22d7c7fa3e-d8e6-4514-972f-6f19714b7353%22%2Csu
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bdce04659ee03633e758130/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/Gm4Nwb7G/Weather-Nation-logo.png" tvg-name="Weather Nation | (Roku) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Weather Nation | (Roku) (Ƭ⫯ⲍƬ⋎)
 https://osm-use1.sr.roku.com/osm/v1/hls/use1/variant/eeef5f64e81844998b5fb3018163e7f2/live_720.m3u8
@@ -7311,11 +7308,11 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 #EXTINF:-1, tvg-id="XploreTV.us" tvg-logo="Logo N/A" tvg-name="Xplore (US) | (Samsung) (Ƭ⫯ⲍƬ⋎)"  group-title="Infotainment",Xplore (US) | (Samsung) (Ƭ⫯ⲍƬ⋎)
 https://xlpore-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Xplore | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Xplore | (Ƭ⫯ⲍƬ⋎)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/NFc620QG/Xplore.jpg" tvg-name="Xplore | (Ƭ⫯ⲍƬ⋎)"  group-title="Infotainment",Xplore | (Ƭ⫯ⲍƬ⋎)
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Xplore | (Ƭ⫯ⲍƬ⋎)"  group-title="Unsorted",Xplore | (Ƭ⫯ⲍƬ⋎)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
 
 #EXTINF:-1, tvg-id="XploreTV.us" tvg-logo="Logo N/A" tvg-name="Xplore | (Vizio) (Ƭ⫯ⲍƬ⋎)"  group-title="Infotainment",Xplore | (Vizio) (Ƭ⫯ⲍƬ⋎)
 https://xplore-vizio.amagi.tv/playlist.m3u8
@@ -7332,11 +7329,11 @@ https://yahoo-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1, tvg-id="YahooFinance.us" tvg-logo="Logo N/A" tvg-name="Yahoo! Finance | (Roku) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Yahoo! Finance | (Roku) (Ƭ⫯ⲍƬ⋎)
 https://yahoo-roku-us.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Yahoo! Finance | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Yahoo! Finance | (Ƭ⫯ⲍƬ⋎)
-https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/k4w8SG0s/Yahoo-Finance-Logo.png" tvg-name="Yahoo! Finance | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Yahoo! Finance | (Ƭ⫯ⲍƬ⋎)
 https://d1ewctnvcwvvvu.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/yahooLive/playlist.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Yahoo! Finance | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Yahoo! Finance | (Ƭ⫯ⲍƬ⋎)
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1, tvg-id="YahooFinance.us" tvg-logo="Logo N/A" tvg-name="Yahoo! Finance | (Vizio) (Ƭ⫯ⲍƬ⋎)"  group-title="Information",Yahoo! Finance | (Vizio) (Ƭ⫯ⲍƬ⋎)
 https://yahoo-vizio.amagi.tv/playlist.m3u8
@@ -7801,10 +7798,10 @@ http://cdn.adultiptv.net/threesome.m3u8
 http://live.redtraffic.xyz/threesome.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/J4b1vY1M/Visit-X-TV.jpg" tvg-name="ӿӾ*NSFW*Ӿӿ | Visit-X TV | (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ | Visit-X TV | (Ƭ⫯ⲍƬ⋎)
-http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
+http://194.116.150.47:1935/vxtv/live/playlist.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/J4b1vY1M/Visit-X-TV.jpg" tvg-name="ӿӾ*NSFW*Ӿӿ | Visit-X TV | (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ | Visit-X TV | (Ƭ⫯ⲍƬ⋎)
-http://194.116.150.47:1935/vxtv/live/playlist.m3u8
+http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/ZqNCvdsb/Adult-IPTV-net.jpg" tvg-name="ӿӾ*NSFW*Ӿӿ | Woman | AdultIPTV.net | (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ | Woman | AdultIPTV.net | (Ƭ⫯ⲍƬ⋎)
 http://cdn.adultiptv.net/woman.m3u8
