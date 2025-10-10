@@ -1,0 +1,17 @@
+#EXTM3U
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/DfJ33dS8/coollogo-com-29521054.png" tvg-name=".꧁☠ Ƭ⫯ⲍƬ⋎ ☠꧂."  group-title=".꧁☠ Ƭ⫯ⲍƬ⋎ ☠꧂.",.꧁☠ Ƭ⫯ⲍƬ⋎ ☠꧂.
+https://rebrand.ly/Ц-Я-Д-ƤЇƦдƬƎ
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/L5HPL6YW/zxpl6r.gif" tvg-name=".꧁☠Ƭ⫯ⲍƬest☠꧂."  group-title=".꧁☠ Ƭ⫯ⲍƬ⋎ ☠꧂.",.꧁☠Ƭ⫯ⲍƬest☠꧂.
+https://bit.ly/TizTestTV
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="[adult swim] Daily Animated | (TizTV)"  group-title="Animation/KidsTV",[adult swim] Daily Animated | (TizTV)
+https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="[adult swim] East | (TizTV)"  group-title="Animation/KidsTV",[adult swim] East | (TizTV)
+https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/aseast.us.m3u8
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="[adult swim] West | (TizTV)"  group-title="Animation/KidsTV",[adult swim] West | (TizTV)
+https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/aswest.us.m3u8
+
