@@ -9,15 +9,6 @@ https://bit.ly/TizTestTV
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="[adult swim] East | (TizTV)"  group-title="Animation/KidsTV",[adult swim] East | (TizTV)
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/aseast.us.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="[adult swim] West | (TizTV)"  group-title="Animation/KidsTV",[adult swim] West | (TizTV)
-https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/aswest.us.m3u8
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Off The Air | [adult swim] (TizTV)"  group-title="24/7",24/7 Off The Air | [adult swim] (TizTV)
-https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Robot Chicken | [adult swim] (TizTV)"  group-title="24/7",24/7 Robot Chicken | [adult swim] (TizTV)
-https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_de.m3u8
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Cartoon Network (US) | (TizTV)"  group-title="Animation/KidsTV",Cartoon Network (US) | (TizTV)
 http://voidharbinger.xyz:80/4072887660/9415763082/815098
 
