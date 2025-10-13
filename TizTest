@@ -6,25 +6,16 @@ https://rebrand.ly/Ц-Я-Д-ƤЇƦдƬƎ
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/L5HPL6YW/zxpl6r.gif" tvg-name=".꧁☠Ƭ⫯ⲍƬest☠꧂."  group-title=".꧁☠ Ƭ⫯ⲍƬ⋎ ☠꧂.",.꧁☠Ƭ⫯ⲍƬest☠꧂.
 https://bit.ly/TizTestTV
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="[adult swim] Daily Animated | (TizTV)"  group-title="Animation/KidsTV",[adult swim] Daily Animated | (TizTV)
-https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream.m3u8
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="[adult swim] East | (TizTV)"  group-title="Animation/KidsTV",[adult swim] East | (TizTV)
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/aseast.us.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="[adult swim] West | (TizTV)"  group-title="Animation/KidsTV",[adult swim] West | (TizTV)
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/aswest.us.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Off The Air Opt-1 | [adult swim] (TizTV)"  group-title="24/7",24/7 Off The Air Opt-1 | [adult swim] (TizTV)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Off The Air | [adult swim] (TizTV)"  group-title="24/7",24/7 Off The Air | [adult swim] (TizTV)
 https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Off The Air Opt-2 | [adult swim] (TizTV)"  group-title="24/7",24/7 Off The Air Opt-2 | [adult swim] (TizTV)
-https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_de.m3u8
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/RhT84v55/Adult-Swim-Logo.png" tvg-name="24/7 Robot Chicken Opt-1 | [adult swim] (TizTV)"  group-title="24/7",24/7 Robot Chicken Opt-1 | [adult swim] (TizTV)
-https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Robot Chicken Opt-2 | [adult swim] (TizTV)"  group-title="24/7",24/7 Robot Chicken Opt-2 | [adult swim] (TizTV)
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="24/7 Robot Chicken | [adult swim] (TizTV)"  group-title="24/7",24/7 Robot Chicken | [adult swim] (TizTV)
 https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_de.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Cartoon Network (US) | (TizTV)"  group-title="Animation/KidsTV",Cartoon Network (US) | (TizTV)
