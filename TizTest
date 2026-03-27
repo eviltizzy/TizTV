@@ -96,3 +96,14 @@ http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/si
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/v8xnh4Bf/BBC1-Dance.jpg" tvg-name="Radio | BBC Radio 1 Dance (Electronica/Dance) || (MPD Akamai) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | BBC Radio 1 Dance (Electronica/Dance) || (MPD Akamai) (Ƭ⫯ⲍƬ⋎)
 http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_one_dance.mpd
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.kswo.com/pf/resources/images/mastheads/logos/kswo.svg?d=554&mxId=00000000" tvg-name="OK Lawton 07 ABC KSWO News"  group-title="Local",OK Lawton 07 ABC KSWO News
+https://pubads.g.doubleclick.net/ssai/event/IZCRfTUxQ0iFz4j9L3EmoQ/master.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.kswo.com/pf/resources/images/mastheads/logos/kswo.svg?d=554&mxId=00000000" tvg-name="OK Lawton 07 ABC KSWO Weather"  group-title="Local",OK Lawton 07 ABC KSWO Weather
+https://pubads.g.doubleclick.net/ssai/event/XtCz8LsrQJyDL9IyU7okDg/master.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.kswo.com/pf/resources/images/mastheads/logos/kswo.svg?d=554&mxId=00000000" tvg-name="OK Lawton 07 ABC KSWO Investigate"  group-title="Local",OK Lawton 07 ABC KSWO Investigate
+https://live-streaming-mcdn.api.graylive.quickplay.com/wvue-xos1-input-4/wvue-xos1-input-4.isml/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.kswo.com/pf/resources/images/mastheads/logos/kswo.svg?d=554&mxId=00000000" tvg-name="OK Lawton 07 ABC KSWO Live"  group-title="Local",OK Lawton 07 ABC KSWO Live
+https://pubads.g.doubleclick.net/ssai/event/riyMe7GfTmK550Gi1N287Q/master.m3u8
