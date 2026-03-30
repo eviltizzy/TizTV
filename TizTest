@@ -24,14 +24,6 @@ https://pubads.g.doubleclick.net/ssai/event/IZCRfTUxQ0iFz4j9L3EmoQ/master.m3u8
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.kswo.com/pf/resources/images/mastheads/logos/kswo.svg?d=554&mxId=00000000" tvg-name="OK Lawton 07 ABC KSWO Weather"  group-title="Local",OK Lawton 07 ABC KSWO Weather
 https://pubads.g.doubleclick.net/ssai/event/XtCz8LsrQJyDL9IyU7okDg/master.m3u8
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.kswo.com/pf/resources/images/mastheads/logos/kswo.svg?d=554&mxId=00000000" tvg-name="OK Lawton 07 ABC KSWO Investigate"  group-title="Local",OK Lawton 07 ABC KSWO Investigate
-https://live-streaming-mcdn.api.graylive.quickplay.com/wvue-xos1-input-4/wvue-xos1-input-4.isml/index.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.kswo.com/pf/resources/images/mastheads/logos/kswo.svg?d=554&mxId=00000000" tvg-name="OK Lawton 07 ABC KSWO Live"  group-title="Local",OK Lawton 07 ABC KSWO Live
-https://pubads.g.doubleclick.net/ssai/event/riyMe7GfTmK550Gi1N287Q/master.m3u8
-
-
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/s2NfKHZJ/CBS-Sports-Stacked.png" tvg-name="CBS Sports HQ | (US) (Ƭ⫯ⲍƬ⋎)"  group-title="Sports",CBS Sports HQ | (US) (Ƭ⫯ⲍƬ⋎)
 https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 
@@ -47,32 +39,17 @@ http://stream.jewishmusicstream.com:8000/stream
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/K8x85z9D/CPP.jpg" tvg-name="Religious-Audio (Christianity) | ChristianPowerPraise.net | Springfield MO (Ƭ⫯ⲍƬ⋎)"  group-title="Religion",Religious-Audio (Christianity) | ChristianPowerPraise.net | Springfield MO (Ƭ⫯ⲍƬ⋎)
 http://listen.christianpowerpraise.net/stream/7/
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/fbGhyQ87/Atlanta-Channel.png" tvg-name="Atlanta Channel || (Ƭ⫯ⲍƬ⋎)"  group-title="Local",Atlanta Channel || (Ƭ⫯ⲍƬ⋎)
-https://5b0f5374bdf0c.streamlock.net:444/LiveTV/ATLHD/playlist.m3u8
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="CBS East | (MOJ) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",CBS East | (MOJ) (Ƭ⫯ⲍƬ⋎)
 http://fl2.moveonjoy.com/CBSEAST/index.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/nrGwHzBc/KFSM-Channel-5-Primary.png" tvg-name="Local | AR FortSmith | 05.1 CBS KFSM | (Ƭ⫯ⲍƬ⋎)"  group-title="Local",Local | AR FortSmith | 05.1 CBS KFSM | (Ƭ⫯ⲍƬ⋎)
 https://livevideo01.5newsonline.com/hls/live/2011653/newscasts/live.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="Local | AR FortSmith | 40.1 ABC KHBS | (Tubi) (Ƭ⫯ⲍƬ⋎)"  group-title="Local",Local | AR FortSmith | 40.1 ABC KHBS | (Tubi) (Ƭ⫯ⲍƬ⋎)
-https://apollo.production-public.tubi.io/live/ac-khbs.m3u8
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/15TYH9vn/o-la-la.png" tvg-name="ӿӾ*NSFW*Ӿӿ | O-la-la | (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ | O-la-la | (Ƭ⫯ⲍƬ⋎)
 http://31.148.48.15:80/O-la-la/index.m3u8?token=test
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/y8s32RQw/Playboy-Logo.jpg" tvg-name="ӿӾ*NSFW*Ӿӿ | Playboy Channel | (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ | Playboy Channel | (Ƭ⫯ⲍƬ⋎)
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/y8s32RQw/Playboy-Logo.jpg" tvg-name="ӿӾ*NSFW*Ӿӿ | Playboy Channel || (Ƭ⫯ⲍƬ⋎)"  group-title="ӿӾ*NSFW*Ӿӿ",ӿӾ*NSFW*Ӿӿ | Playboy Channel || (Ƭ⫯ⲍƬ⋎)
-http://izcdn.vood.top/live/897912638/v997057f/260419.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzQwNDc5OTksImlhdCI6MTczMzk2MTYwMCwibmJmIjoxNzMzOTYxNjAwLCJ1c2VyIjoiODk3OTEyNjM4IiwidXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTMzLjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTMzLjAiLCJ1c2VySXAiOiIxODUuMjM2LjE4My4xMDc6NTgxMDAifQ.4W3WD7YFvrVCJdFvCopXVoL6mEBoly4yrkdENefc9k0&id=260419&p=m3u8&aid=1733985451
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/FFfGh36N/CNN-Transparent-Logo.png" tvg-name="CNN (Cable News Network) | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",CNN (Cable News Network) | (Ƭ⫯ⲍƬ⋎)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_5_864000.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CNN (interntv.ru) | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",CNN (interntv.ru) | (Ƭ⫯ⲍƬ⋎)
-https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/b4d773de-197f-48a9-979b-27c7611780fc:GRQ/master.m3u8
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="CNN (ITVG) | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",CNN (ITVG) | (Ƭ⫯ⲍƬ⋎)
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/cnn.us.m3u8
@@ -83,29 +60,11 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1, tvg-id="BBCNews.uk" tvg-logo="InsertLogoHere" tvg-name="BBC News (UK) | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",BBC News (UK) | (Ƭ⫯ⲍƬ⋎)
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 
-#EXTINF:-1, tvg-id="BBCNews.uk" tvg-logo="InsertLogoHere" tvg-name="BBC News (UK) || (Ƭ⫯ⲍƬ⋎)"  group-title="Information",BBC News (UK) || (Ƭ⫯ⲍƬ⋎)
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="InsertLogoHere" tvg-name="BBC News Asia Pacific | (Ƭ⫯ⲍƬ⋎)"  group-title="Information",BBC News Asia Pacific | (Ƭ⫯ⲍƬ⋎)
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/QN10d87g/BBC-Radio-1.png" tvg-name="Radio | BBC Radio 1 (Top40) | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | BBC Radio 1 (Top40) | (AKHLS 96kbps NoRewind) (Ƭ⫯ⲍƬ⋎)
-http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/QN10d87g/BBC-Radio-1.png" tvg-name="Radio | BBC Radio 1 (Top40) | (LstnLv 320kbps) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | BBC Radio 1 (Top40) | (LstnLv 320kbps) (Ƭ⫯ⲍƬ⋎)
-http://lstn.lv/bbcradio.m3u8?station=bbc_radio_one&bitrate=320000
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/QN10d87g/BBC-Radio-1.png" tvg-name="Radio | BBC Radio 1 (Top40) | (MPD Akamai) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | BBC Radio 1 (Top40) | (MPD Akamai) (Ƭ⫯ⲍƬ⋎)
-http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/ak/bbc_radio_one.mpd
-
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/QN10d87g/BBC-Radio-1.png" tvg-name="Radio | BBC Radio 1 (Top40) | (MPD CloudFront) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | BBC Radio 1 (Top40) | (MPD CloudFront) (Ƭ⫯ⲍƬ⋎)
 http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.mpd
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/v8xnh4Bf/BBC1-Dance.jpg" tvg-name="Radio | BBC Radio 1 Dance (Electronica/Dance) | (MPD Akamai) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | BBC Radio 1 Dance (Electronica/Dance) | (MPD Akamai) (Ƭ⫯ⲍƬ⋎)
-http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/ak/bbc_radio_one_dance.mpd
-
-#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/v8xnh4Bf/BBC1-Dance.jpg" tvg-name="Radio | BBC Radio 1 Dance (Electronica/Dance) | (MPD CloudFront) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | BBC Radio 1 Dance (Electronica/Dance) | (MPD CloudFront) (Ƭ⫯ⲍƬ⋎)
-http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cf/bbc_radio_one_dance.mpd
 
 #EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/v8xnh4Bf/BBC1-Dance.jpg" tvg-name="Radio | BBC Radio 1 Dance (Electronica/Dance) || (MPD Akamai) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | BBC Radio 1 Dance (Electronica/Dance) || (MPD Akamai) (Ƭ⫯ⲍƬ⋎)
 http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_one_dance.mpd
