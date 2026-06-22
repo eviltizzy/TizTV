@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/QN10d87g/BBC-Radio-1.png" tvg-name="Radio | BBC Radio 1 (Top40) | (MPD CloudFront) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | BBC Radio 1 (Top40) | (MPD CloudFront) (Ƭ⫯ⲍƬ⋎)
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.mpd
+
+#EXTINF:-1, tvg-id="NoEPG" tvg-logo="https://i.postimg.cc/v8xnh4Bf/BBC1-Dance.jpg" tvg-name="Radio | BBC Radio 1 Dance (Electronica/Dance) || (MPD Akamai) (Ƭ⫯ⲍƬ⋎)"  group-title="Radio",Radio | BBC Radio 1 Dance (Electronica/Dance) || (MPD Akamai) (Ƭ⫯ⲍƬ⋎)
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_one_dance.mpd
